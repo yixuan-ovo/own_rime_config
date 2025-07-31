@@ -1,43 +1,41 @@
 ---
 name: rime_mint                  # 注意name和文件名一致
-version: "2025.07.06"
+version: "2025.07.31"
 sort: by_weight
 use_preset_vocabulary: false
 # 此处为 输入法所用到的词库，既补充拓展词库的地方
 # 雾凇拼音词库，由Github Robot自动更新
 import_tables:
   - dicts/custom_simple          # 自定义
-  - dicts/rime_ice.8105           # 字表
-  - dicts/rime_ice.41448         # 大字表（按需启用）
-  - dicts/rime_ice.base         # 基础词库
-  - dicts/rime_ice.ext          # 扩展词库
-  - dicts/tencent  # 腾讯词向量（大词库，部署时间较长）
+  - dicts/cn_dicts/8105           # 字表
+  - dicts/cn_dicts/41448         # 大字表（按需启用）
+  - dicts/cn_dicts/base         # 基础词库
+  - dicts/cn_dicts/ext          # 扩展词库
+  - dicts/cn_dicts/tencent  # 腾讯词向量（大词库，部署时间较长）
   - dicts/other_kaomoji          # 颜文字表情（按`VV`呼出)
-  - dicts/rime_ice.others        # 雾凇拼音 others词库（用于自动纠错）
-  # 20240608 Emoji完全交由OpenCC，不再使用字典作为补充
-  # - dicts/other_emoji            # Emoji(仅仅作为补充，实际使用一般是OpenCC生效)
+  - dicts/cn_dicts/others        # 雾凇拼音 others词库（用于自动纠错）
 
   # 细胞词库
-  - cn_dicts_cell/medication
-  - cn_dicts_cell/industry_product
-  - cn_dicts_cell/exthot
-  - cn_dicts_cell/chess
-  - cn_dicts_cell/chess2
-  - cn_dicts_cell/animal
-  - cn_dicts_cell/game
-  - cn_dicts_cell/idiom
-  - cn_dicts_cell/sport
-  - cn_dicts_cell/media
-  - cn_dicts_cell/shulihua
-  - cn_dicts_cell/food
-  - cn_dicts_cell/inputmethod
-  - cn_dicts_cell/history
-  - cn_dicts_cell/place
-  - cn_dicts_cell/geography
-  - cn_dicts_cell/name2
-  - cn_dicts_cell/literature
-  - cn_dicts_cell/music
-  - cn_dicts_cell/computer
-  - cn_dicts_cell/composite
-  - cn_dicts_cell/name
+  - dicts/cn_dicts_cell/medication
+  - dicts/cn_dicts_cell/industry_product
+  - dicts/cn_dicts_cell/exthot
+  - dicts/cn_dicts_cell/chess
+  - dicts/cn_dicts_cell/chess2
+  - dicts/cn_dicts_cell/animal
+  - dicts/cn_dicts_cell/game
+  - dicts/cn_dicts_cell/idiom
+  - dicts/cn_dicts_cell/sport
+  - dicts/cn_dicts_cell/media
+  - dicts/cn_dicts_cell/shulihua
+  - dicts/cn_dicts_cell/food
+  - dicts/cn_dicts_cell/inputmethod
+  - dicts/cn_dicts_cell/history
+  - dicts/cn_dicts_cell/place
+  - dicts/cn_dicts_cell/geography
+  - dicts/cn_dicts_cell/name2
+  - dicts/cn_dicts_cell/literature
+  - dicts/cn_dicts_cell/music
+  - dicts/cn_dicts_cell/computer
+  - dicts/cn_dicts_cell/composite
+  - dicts/cn_dicts_cell/name
 ...

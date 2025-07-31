@@ -9,26 +9,27 @@ schema:
     「漢語拼音」，以符號按鍵 - / < \ 輸入四聲
     拼音碼表根據 CC-CEDICT 改編
   dependencies:
-    - wubi98_mint
-    - stroke
     - radical_pinyin # 参考 https://github.com/mirtlecn/rime-radical-pinyin
     - melt_eng # 英文方案
 
 switches:
-  - name: ascii_mode
+  - name: ascii_punct
+    states: [ "。，", "．，" ]
     reset: 0
-    states: [ 中文, 英文 ]
   - name: emoji_suggestion
-    states: [ "😣️","😁️"]
+    states: [ "😒","🥰"]
     reset: 0
   - name: full_shape
     states: [ 半角, 全角 ]
     reset: 0
+  - name: tone_display                 #开启后在输入编码的位置实时转换为带声调全拼，不开启则采用系统配置，影响的是preedit_format,归属：super_preedit.lua
+    states: [ 调关, 调起 ]
+    reset: 0
+  - name: chaifen        # 拆字滤镜
+    states: [ 🔒, 🔓️ ]     # 快捷键 「Control+Shift+C」
+    reset: 1
   - name: transcription
     states: [ 简体 , 繁体 ]
-    reset: 0
-  - name: ascii_punct
-    states: [ "。，" , "．，" ]
     reset: 0
 
 
@@ -47,9 +48,6 @@ engine:
   segmentors:
     - ascii_segmentor
     - matcher
-    - affix_segmentor@wubi98_mint
-    - affix_segmentor@radical_reverse_lookup
-    - affix_segmentor@stroke
     - abc_segmentor
     - punct_segmentor
     - fallback_segmentor
@@ -61,12 +59,13 @@ engine:
     - punct_translator
     - table_translator@custom_phrase
     - table_translator@melt_eng           # 英文输入（作为子翻译器，优先级需要比原生的低）
-    - reverse_lookup_translator@wubi98_mint
+    - table_translator@cn_en                             # 中英混合词汇
     - reverse_lookup_translator@radical_reverse_lookup
-    - reverse_lookup_translator@stroke
     - script_translator
     - lua_translator@*force_gc                           # 暴力GC，尝试解决小狼毫长期使用的卡顿
   filters:
+    - lua_filter@*corrector_filter               # 错音错字提示
+    - lua_filter@*super_preedit                  # 输入码显示全拼并带上音调
     - lua_filter@*autocap_filter           # 英文自动大写
     - simplifier@emoji_suggestion         # Emoji OpenCC
     - simplifier@transcription_cc         # 繁体&简体 OpenCC
@@ -89,7 +88,7 @@ emoji_suggestion:
   inherit_comment: false
 
 # 最大输入长度
-codeLengthLimit_processor: 25
+codeLengthLimit_processor: 28
 
 # 中国农历配置
 chineseLunarCalendar_translator: lunar
@@ -274,85 +273,17 @@ melt_eng:
   enable_completion: false       # 关闭自动提示
   initial_quality: 0.8
 
-wubi98_mint:
-  tag: wubi98_mint
-  dictionary: wubi98_mint
-  enable_user_dict: false
-  enable_completion: true
-  prefix: "Uw"
-  suffix: "'"
-  tips: 〔五笔〕
-  comment_format:
-    - xform ([aeiou])(ng?|r)([1234]) $1$3$2
-    - xform ([aeo])([iuo])([1234]) $1$3$2
-    - xform a1 ā
-    - xform a2 á
-    - xform a3 ǎ
-    - xform a4 à
-    - xform e1 ē
-    - xform e2 é
-    - xform e3 ě
-    - xform e4 è
-    - xform o1 ō
-    - xform o2 ó
-    - xform o3 ǒ
-    - xform o4 ò
-    - xform i1 ī
-    - xform i2 í
-    - xform i3 ǐ
-    - xform i4 ì
-    - xform u1 ū
-    - xform u2 ú
-    - xform u3 ǔ
-    - xform u4 ù
-    - xform v1 ǖ
-    - xform v2 ǘ
-    - xform v3 ǚ
-    - xform v4 ǜ
-    - xform/([nljqxy])v/$1ü/
-    - xform/eh[0-5]?/ê/
-    - xform/([a-z]+)[0-5]/$1/
 
-stroke:
-  tag: stroke
-  dictionary: stroke
-  enable_user_dict: false
-  prefix: 'Ui'
-  suffix: "'"
-  tips: 〔笔画〕
-  preedit_format:
-    - xlit/hspnz/一丨丿丶乙/
+# 中英混合词汇
+cn_en:
+  dictionary: ""
+  user_dict: dicts/en_dicts/cn_en
+  db_class: stabledb
+  enable_completion: false
+  enable_sentence: false
+  initial_quality: 0.5
   comment_format:
-    - xform/([nl])v/$1ü/
-    - xform ([aeiou])(ng?|r)([1234]) $1$3$2
-    - xform ([aeo])([iuo])([1234]) $1$3$2
-    - xform a1 ā
-    - xform a2 á
-    - xform a3 ǎ
-    - xform a4 à
-    - xform e1 ē
-    - xform e2 é
-    - xform e3 ě
-    - xform e4 è
-    - xform o1 ō
-    - xform o2 ó
-    - xform o3 ǒ
-    - xform o4 ò
-    - xform i1 ī
-    - xform i2 í
-    - xform i3 ǐ
-    - xform i4 ì
-    - xform u1 ū
-    - xform u2 ú
-    - xform u3 ǔ
-    - xform u4 ù
-    - xform v1 ǖ
-    - xform v2 ǘ
-    - xform v3 ǚ
-    - xform v4 ǜ
-    - xform/([nljqxy])v/$1ü/
-    - xform/eh[0-5]?/ê/
-    - xform/([a-z]+)[0-5]/$1/
+    - xform/^.+$//
 
 radical_reverse_lookup:
   tag: radical_lookup
@@ -396,7 +327,7 @@ radical_reverse_lookup:
 
 
 reverse_lookup:
-  tags: [wubi98_mint,stroke,radical_lookup]
+  tags: [radical_lookup]
   overwrite_comment: false
 
 
@@ -426,8 +357,6 @@ recognizer:
   patterns:
     url: "^[a-z]+[.].+$"
     punct: "^/([0-9]0?|[a-zA-Z]+)$"
-    wubi98_mint: "Uw[a-z]*'?$"
-    stroke: "Ui[a-z]*'?$"
     radical_lookup: "Uu[a-z]*'?$"
     rmb: "^R[0-9]+[.]?[0-9]*"        # 响应 lua_translator@number_translator 脚本将自动获取第 2 个字符作为触发前缀
     expression: "^=.*$"              # 响应 lua_translator@expression_translator 脚本将自动获取第 2 个字符作为触发前缀
@@ -445,4 +374,4 @@ key_binder:
 
 menu:
   # 候选词个数
-  page_size: 6
+  page_size: 4

@@ -6,7 +6,7 @@
 	为了让这个 Lua 同时适配全拼与双拼，使用 `spelling_hints` 生成的 comment（全拼拼音）作为通用的判断条件。
 	感谢大佬@[Shewer Lu](https://github.com/shewer)提供的思路。
 	
-	容错词在 dicts/rime_ice.others.dict.yaml 中，定期同步 雾凇拼音 ，有新增建议可以在 雾凇拼音 地址提个 issue（嘿嘿）
+	容错词在 dicts/cn_dicts/others.dict.yaml 中，定期同步 雾凇拼音 ，有新增建议可以在 雾凇拼音 地址提个 issue（嘿嘿）
 --]]
 
 local M = {}

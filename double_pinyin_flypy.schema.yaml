@@ -24,6 +24,20 @@ schema:
     - radical_pinyin_flypy    # 参考 https://github.com/mirtlecn/rime-radical-pinyin
     - melt_eng          # 英文方案
 
+
+__include: octagram   #启用语法模型
+#语法模型
+octagram:
+  __patch:
+    grammar:
+      language: wanxiang-lts-zh-hans
+      collocation_max_length: 5
+      collocation_min_length: 2
+    translator/contextual_suggestions: true
+    translator/max_homophones: 7
+    translator/max_homographs: 7
+
+
 switches:
   - name: ascii_punct
     states: [ "。，", "．，" ]
@@ -48,23 +62,23 @@ engine:
   processors:
     - lua_processor@*select_character              # 以词定字
     - lua_processor@*codeLengthLimit_processor     # 使用Lua限制输入内容的最大长度(防止过长而卡顿)
-    - ascii_composer                               # ※ 處理西文模式及中西文切換
-    - recognizer                                   # ※ 與 matcher 搭配，處理符合特定規則的輸入碼，如網址、反查等
-    - key_binder                                   # ※ 在特定條件下將按鍵綁定到其他按鍵，如重定義逗號、句號爲候選翻頁鍵
+    - ascii_composer                               # ※ 处理英文模式及中西文切換
+    - recognizer                                   # ※ 与 matcher 搭配，处理符合特定规则的输入码，如网址、反查等
+    - key_binder                                   # ※ 在特定条件下將按键绑定到其他按键，如重定义逗号1、句号为候选项翻页
     - speller
     - punctuator
     - selector
     - navigator
     - express_editor
   segmentors:
-    - ascii_segmentor                                    # 標識西文段落
-    - matcher                                            # 標識符合特定規則的段落，如網址、反查等
+    - ascii_segmentor                                    # 标识英文段落
+    - matcher                                            # 标识符合特定规则的段落，如网址、反查等
     - affix_segmentor@radical_reverse_lookup
-    - abc_segmentor                                      # 標識常規的文字段落
-    - punct_segmentor                                    # 標識句讀段落
-    - fallback_segmentor                                 # 標識其他未標識段落
+    - abc_segmentor                                      # 标识常规的文字段落
+    - punct_segmentor                                    # 标识句读段落
+    - fallback_segmentor                                 # 标识其他为标识段落
   translators:
-    - punct_translator                                   # ※ 轉換標點符號
+    - punct_translator                                   # ※ 转换标点符号
     - script_translator
     - lua_translator@*mint_date_time_translator          # 时间、日期、星期、月份
     - lua_translator@*number_translator                  # 金额大小写
@@ -75,7 +89,6 @@ engine:
     - reverse_lookup_translator@radical_reverse_lookup
     - lua_translator@*force_gc                           # 暴力GC，尝试解决小狼毫长期使用的卡顿
   filters:
-
     - lua_filter@*corrector_filter            # 错音错字提示
     - lua_filter@*super_preedit               # 输入码显示全拼并带上音调
     - lua_filter@*autocap_filter              # 英文自动大写
@@ -104,9 +117,9 @@ emoji_suggestion:
 # 鹤形拆字辅助滤镜
 chaifen_cc:
   opencc_config: fly_Chaifen.json
-  inherit_comment: true     # ✅ 加这一行
   option_name: chaifen
   show_in_comment: true  # 是否仅将转换结果显示在备注中
+  inherit_comment: true     # ✅ 加这一行
   comment_format:
     - "xform/&nbsp;/ /"
   tags:                  # 设置其作用范围
@@ -220,7 +233,7 @@ melt_eng:
 # 中英混合词汇
 cn_en:
   dictionary: ""
-  user_dict: dicts/rime_ice.cn_en_flypy
+  user_dict: dicts/en_dicts/cn_en_flypy
   db_class: stabledb
   enable_completion: false
   enable_sentence: false

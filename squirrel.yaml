@@ -26,8 +26,8 @@ show_notifications_when: appropriate
 
 style:
   # 选择皮肤，亮色与暗色主题
-  color_scheme: mint_light_blue
-  color_scheme_dark: mint_dark_blue
+  color_scheme: yixuan3
+  color_scheme_dark: yixuan4
 
   # 预设选项。如果皮肤没写，则使用这些属性；如果皮肤写了，使用皮肤的。
   
@@ -157,6 +157,91 @@ preset_color_schemes:
     hilited_candidate_label_color: 0xEFEFEF # 选中序号颜色
     text_color: 0x83C81C                    # 拼音颜色 （inline_preedit: false）
     hilited_text_color: 0xed9564            # 选中拼音颜色 （inline_preedit: false）
+
+
+  yixuan1:
+    name: 月一／ytq
+    author: yixuan-gmail
+    color_format: rgba
+    hilited_mark_color: 0xBE646D
+    text_color: 0xAC4D4D
+    back_color: 0xFFFFFF
+    border_color: 0x99B2DE
+    label_color: 0x9BAC95
+    hilited_text_color: 0xDE9494
+    hilited_back_color: 0xFFFAE7
+    candidate_text_color: 0x9BB68A
+    comment_text_color: 0x758F72
+    hilited_candidate_text_color: 0xAE5858
+    hilited_comment_text_color: 0xC97070
+    hilited_candidate_back_color: 0xE4BEBE
+    hilited_label_color: 0xA31B1B
+    # inline_preedit: false 时翻页箭头颜色，不设置则不显示箭头
+    nextpage_color: 0x2b313d                  # inline_preedit: false 翻页箭头颜色：下一页；不设置则不显示箭头
+    prevpage_color: 0xc0666f                  # inline_preedit: false 翻页箭头颜色：上一页；不设置则不显示箭头
+
+  yixuan2:
+    name: 月二／ytq
+    author: yixuan-gmail
+    color_format: rgba
+    hilited_mark_color: 0xBE646D
+    text_color: 0xAC4D4D
+    back_color: 0xFFFFFF
+    border_color: 0x99B2DE
+    label_color: 0x7D94BB
+    hilited_text_color: 0xFFFFFF
+    hilited_back_color: 0xEAD4AD
+    candidate_text_color: 0x6392BE
+    comment_text_color: 0x677B80
+    hilited_candidate_text_color: 0x9F2727
+    hilited_comment_text_color: 0xFFFFFF
+    hilited_candidate_back_color: 0xE4BEBE
+    hilited_label_color: 0xA31B1B
+    # inline_preedit: false 时翻页箭头颜色，不设置则不显示箭头
+    nextpage_color: 0x2b313d                  # inline_preedit: false 翻页箭头颜色：下一页；不设置则不显示箭头
+    prevpage_color: 0xc0666f                  # inline_preedit: false 翻页箭头颜色：上一页；不设置则不显示箭头
+
+  yixuan3:
+    name: 月三／ytq
+    author: yixuan-gmail
+    color_format: rgba
+    hilited_mark_color: 0xBE646D
+    text_color: 0x4999B4
+    back_color: 0xFFFFFF
+    border_color: 0x8D6854
+    label_color: 0x916868
+    hilited_text_color: 0xFFFFFF
+    hilited_back_color: 0xB1BF9C
+    candidate_text_color: 0xC27048
+    comment_text_color: 0xB67D61
+    hilited_candidate_text_color: 0x335911
+    hilited_comment_text_color: 0xFFFFFF
+    hilited_candidate_back_color: 0xBFC99D
+    hilited_label_color: 0x5D6D4B
+    # inline_preedit: false 时翻页箭头颜色，不设置则不显示箭头
+    nextpage_color: 0x2b313d                  # inline_preedit: false 翻页箭头颜色：下一页；不设置则不显示箭头
+    prevpage_color: 0xc0666f                  # inline_preedit: false 翻页箭头颜色：上一页；不设置则不显示箭头
+
+  yixuan4:
+    name: 月四／ytq
+    author: yixuan-gmail
+    color_format: abgr
+    hilited_mark_color: 0xBE646D
+    text_color: 0xAC4D4D
+    back_color: 0xFFFFFF
+    border_color: 0x99B2DE
+    label_color: 0x7D94BB
+    hilited_text_color: 0xFFFFFF
+    hilited_back_color: 0xEAD4AD
+    candidate_text_color: 0x6392BE
+    comment_text_color: 0x677B80
+    hilited_candidate_text_color: 0x9F2727
+    hilited_comment_text_color: 0xFFFFFF
+    hilited_candidate_back_color: 0xE4BEBE
+    hilited_label_color: 0xA31B1B
+    # inline_preedit: false 时翻页箭头颜色，不设置则不显示箭头
+    nextpage_color: 0x2b313d                  # inline_preedit: false 翻页箭头颜色：下一页；不设置则不显示箭头
+    prevpage_color: 0xc0666f                  # inline_preedit: false 翻页箭头颜色：上一页；不设置则不显示箭头
 
 
     
