@@ -84,6 +84,8 @@ speller:
     - xform/in(?=^|$|')/<b>/
     - xform/'|<|>//
 
+
+# 反查，只依赖 radical_pinyin.dict.yaml 字典，不依赖 radical_pinyin.schema.yaml 本体。
 translator:
   dictionary: radical_pinyin
   enable_user_dict: false

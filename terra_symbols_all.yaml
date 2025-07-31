@@ -4,7 +4,7 @@
 # Usage: patch your Rime schema to enable /X symbols
 
 patch:
-  punctuator/import_preset: terra_symbols
+  punctuator/import_preset: terra_symbols_all
   recognizer/patterns/punct: '^/([0-9]0?|[A-Za-z]+)$'
 
 punctuator:

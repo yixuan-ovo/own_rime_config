@@ -1,5 +1,5 @@
 schema:
-  schema_id: terra_pinyin
+  schema_id: terra_pinyin_all
   name: "地球拼音-薄荷定制"
   version: "24.10.02"
   author:
@@ -87,7 +87,7 @@ emoji_suggestion:
   tips: all
   inherit_comment: false
 
-# 最大输入长度
+ # 最大输入长度
 codeLengthLimit_processor: 28
 
 # 中国农历配置
@@ -192,7 +192,7 @@ speller:
     - 'derive/^(.*)\\$/$1>/'
 
 translator:
-  dictionary: terra_pinyin
+  dictionary: terra_pinyin_all
   initial_quality: 1.2
   spelling_hints: 3  # ～字以內候選標註完整帶調拼音
   preedit_format:

@@ -1,5 +1,5 @@
 ---
-name: terra_pinyin               # 注意name和文件名一致
+name: terra_pinyin_all               # 注意name和文件名一致
 version: "2025.07.06"
 use_preset_vocabulary: false
 sort: by_weight
