@@ -11,8 +11,6 @@ schema:
   description: |
     用拼音按顺序拼出偏旁部件，以输入汉字。
     码表：開放詞典 / henrysting / Mirtle
-    注音、校对、方案：Mirtle
-    报错：<https://github.com/mirtlecn/rime_radical_pinyin>
 
 engine:
   processors:
@@ -39,9 +37,8 @@ speller:
   alphabet: "abcdefghijklmnopqrstuvwxyz;"
   delimiter: " '"
   algebra:
-    # 根据当前所用拼音方案选择 __include 的值
     __include: algebra_pinyin           # 全拼
-    __include: algebra_flypy          # 小鹤双拼
+    # __include: algebra_flypy          # 小鹤双拼
 
 
 translator:

@@ -11,17 +11,6 @@ schema:
   description: |
     用拼音按顺序拼出偏旁部件，以输入汉字。
     码表：開放詞典 / henrysting / Mirtle
-    注音、校对、方案：Mirtle
-    报错：<https://github.com/mirtlecn/rime_radical_pinyin>
-
-
-switches:
-  - name: tone_display                 #开启后在输入编码的位置实时转换为带声调全拼，不开启则采用系统配置，影响的是preedit_format,归属：super_preedit.lua
-    states: [ 调关, 调起 ]
-    reset: 1
-  - name: chaifen        # 拆字滤镜
-    states: [ 🔒, 🔓️ ]     # 快捷键 「Control+Shift+C」
-    reset: 1
 
 engine:
   processors:
