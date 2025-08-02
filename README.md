@@ -41,10 +41,10 @@
 
 ~~5. 地球拼音重复问题,需删除Rime\weasel-0.17.4\data下的terra同名文件,或者改名~~
 
-6. 字库重复太多,删除data下bin文件重新部署报错
+~~6. 字库重复太多,删除data下bin文件重新部署报错~~
 
 # 2. 已修改:
-1. rime_mint.dict修改字库,雾凇+白霜
+1. rime_mint.dict修改字库,~~雾凇+白霜~~万象
 
 2. 删除不需要的输入法,只留小鹤双拼和地球拼音-薄荷
 
@@ -60,6 +60,17 @@
 
 # 3. 已知问题
 ![](ihjmerr.png)
+
+```
+optional resource not loaded: terra_pinyin_all.custom
+
+optional resource not loaded: symbols.custom
+```
+提示找不到你未定义的可选 patch 文件
+
+不影响输入法功能，可以忽略，或者添加空的 *.custom.yaml 文件来去除提示
+
+例如：patch: {}
 
 ---
 
@@ -135,7 +146,7 @@ dicts
 
 ```
 
-后续更新词库；可以下载白霜仓库`dicts`内的文件，除了`custom_simple.dict.yaml`的文件，其他都进行覆盖替换即可。
+后续更新词库；可以下载万象仓库`dicts`内的文件，除了`custom_simple.dict.yaml`的文件，其他都进行覆盖替换即可。
 
 如果想自己扩展词库，可以在输入法的字典配置文件内进行导入，比如字典配置文件[rime_mint.dict.yaml](rime_mint.dict.yaml)内：
 
