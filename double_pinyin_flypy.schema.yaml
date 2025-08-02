@@ -331,6 +331,19 @@ key_binder:
     - {accept: "Control+Shift+1", toggle: transcription, when: has_menu}           # 当存在候选菜单时，可以切换简体和繁体
     - {accept: "Control+Shift+exclam", toggle: transcription, when: has_menu}      # 当存在候选菜单时，可以切换简体和繁体（小狼毫可能读取这个）
     - {accept: "Control+Shift+C", toggle: chaifen, when: has_menu}          # 拆字滤镜开关
+    # 映射小键盘数字键,丶,回车可以在计算器中使用
+    - { when: composing, accept: "KP_0", send: "0" }
+    - { when: composing, accept: "KP_1", send: "1" }
+    - { when: composing, accept: "KP_2", send: "2" }
+    - { when: composing, accept: "KP_3", send: "3" }
+    - { when: composing, accept: "KP_4", send: "4" }
+    - { when: composing, accept: "KP_5", send: "5" }
+    - { when: composing, accept: "KP_6", send: "6" }
+    - { when: composing, accept: "KP_7", send: "7" }
+    - { when: composing, accept: "KP_8", send: "8" }
+    - { when: composing, accept: "KP_9", send: "9" }
+    - { when: composing, accept: "KP_Decimal", send: "." }
+    - { when: composing, accept: "KP_Enter", send: Return }
     
 menu:
   # 候选词个数
