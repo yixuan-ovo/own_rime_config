@@ -107,6 +107,20 @@ dicts
 │   ├── others.dict.yaml            # 其他中文词条集合
 │   └── tencent.dict.yaml           # 腾讯高频词库（建议保留，用于优化联想）
 │
+├── dicts_LMDG                      # 中文词库目录(万象)
+│   ├── corrections.dict.yaml       # 错字纠音最优先
+│   ├── chars.dict.yaml             # 单字基础保障
+│   ├── base.dict.yaml              # 常用词，主干
+│   ├── compatible.dict.yaml        # 多音优化
+│   ├── correlation.dict.yaml       # 四字成词
+│   ├── suggestion.dict.yaml        # 五字以上联想
+│   ├── people.dict.yaml            # 人名
+│   ├── place.dict.yaml             # 地名
+│   └── poetry.dict.yaml            # 诗词/成语/典故类，靠后
+│
+├── 当输入四字以上内容时，更容易联想到诗词成语（如五言七言、惯用语），提升输入体验。可将 poetry 放在 suggestion 之前
+│
+│
 ├── cn_dicts_cell                   # 中文 cell 词库（通常为 Rime Cell 格式词条）
 │   └── ...                         # 若有多个细分类词库可放此处
 │
@@ -134,13 +148,23 @@ use_preset_vocabulary: false
 # 雾凇拼音词库，由Github Robot自动更新
 import_tables:
   - dicts/custom_simple          # 自定义
-  - dicts/cn_dicts/8105           # 字表
-  - dicts/cn_dicts/41448         # 大字表（按需启用）
-  - dicts/cn_dicts/base         # 基础词库
-  - dicts/cn_dicts/ext          # 扩展词库
-  - dicts/cn_dicts/tencent  # 腾讯词向量（大词库，部署时间较长）
-  - dicts/other_kaomoji          # 颜文字表情（按`VV`呼出)
-  - dicts/cn_dicts/others        # 雾凇拼音 others词库（用于自动纠错）
+  # - dicts/cn_dicts/8105           # 字表
+  # - dicts/cn_dicts/41448         # 大字表（按需启用）
+  # - dicts/cn_dicts/base         # 基础词库
+  # - dicts/cn_dicts/ext          # 扩展词库
+  # - dicts/cn_dicts/tencent  # 腾讯词向量（大词库，部署时间较长）
+  # - dicts/other_kaomoji          # 颜文字表情（按`VV`呼出)
+  # - dicts/cn_dicts/others        # 雾凇拼音 others词库（用于自动纠错）
+
+  - dicts/dicts_LMDG/corrections         # 错字纠音最优先
+  - dicts/dicts_LMDG/chars               # 单字基础保障
+  - dicts/dicts_LMDG/base                # 常用词，主干
+  - dicts/dicts_LMDG/compatible          # 多音优化
+  - dicts/dicts_LMDG/correlation         # 四字成词
+  - dicts/dicts_LMDG/suggestion          # 五字以上联想
+  - dicts/dicts_LMDG/people              # 人名
+  - dicts/dicts_LMDG/place               # 地名
+  - dicts/dicts_LMDG/poetry              # 诗词/成语/典故类，靠后
 
   # 细胞词库
   - dicts/cn_dicts_cell/medication
