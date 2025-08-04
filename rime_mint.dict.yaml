@@ -22,7 +22,7 @@ import_tables:
   - dicts/dicts_LMDG/correlation         # 四字成词
   - dicts/dicts_LMDG/poetry              # 诗词/成语/典故类，靠后
   - dicts/dicts_LMDG/suggestion          # 五字以上联想
-  - dicts/tencent_replace                # ✅ 腾讯词向量扩展（已去重，位置靠后）
+  # - dicts/tencent_replace                # ✅ 腾讯词向量扩展（已去重，位置靠后）
   - dicts/dicts_LMDG/people              # 人名
   - dicts/dicts_LMDG/place               # 地名
 
