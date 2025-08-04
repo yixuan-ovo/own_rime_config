@@ -17,7 +17,7 @@ switches:
     states: [ "。，", "．，" ]
     reset: 0
   - name: emoji_suggestion
-    states: [ "😒","🥰"]
+    states: [ "💀","🥰"]
     reset: 0
   - name: full_shape
     states: [ 半角, 全角 ]
@@ -26,7 +26,7 @@ switches:
     states: [ 调关, 调起 ]
     reset: 0
   - name: chaifen        # 拆字滤镜
-    states: [ 🔒, 🔓️ ]     # 快捷键 「Control+Shift+C」
+    states: [ 💔, 🖤 ]     # 快捷键 「Control+Shift+C」
     reset: 1
   - name: transcription
     states: [ 简体 , 繁体 ]
