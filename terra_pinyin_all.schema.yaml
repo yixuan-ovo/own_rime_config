@@ -383,6 +383,11 @@ key_binder:
     - { when: composing, accept: "KP_9", send: "9" }
     - { when: composing, accept: "KP_Decimal", send: "." }
     - { when: composing, accept: "KP_Enter", send: Return }
+    # 小键盘运算符以在计算器中使用
+    - { when: composing, accept: "KP_Add", send: "+" }
+    - { when: composing, accept: "KP_Subtract", send: "-" }
+    - { when: composing, accept: "KP_Multiply", send: "*" }
+    - { when: composing, accept: "KP_Divide", send: "/" }
 
 
 menu:
