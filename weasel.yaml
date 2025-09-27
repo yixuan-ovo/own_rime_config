@@ -40,6 +40,8 @@ app_options:
     ascii_mode: true
   Cursor.exe:
     ascii_mode: true
+  git-bash.exe:
+    ascii_mode: true
  
 
 # [global settings]
