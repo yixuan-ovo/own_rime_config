@@ -11,37 +11,33 @@ config_version: "2024-03-02"
 
 # [app_options]
 # 针对特定应用的设置
+# %APPDATA%\Rime\weasel.yaml
+
+# 针对特定应用的设置
+# %APPDATA%\Rime\weasel.yaml
 app_options:
-  code.exe:
-    ascii_mode: true
-  WeChatDevTools.exe:
-    ascii_mode: true
-  Postman.exe:
-    ascii_mode: true
-  idea64.exe:
-    ascii_mode: true
-  navicat17.exe:
-    ascii_mode: true
-  Notepad3.exe:
-    ascii_mode: true
-  MobaXterm.exe:
-    ascii_mode: true
-  powershell.exe:
-    ascii_mode: true
-  cmd.exe:
-    ascii_mode: true
-  bash.exe:
-    ascii_mode: true
-  git-gui.exe:
-    ascii_mode: true
-  WindowsTerminal.exe:
-    ascii_mode: true
-  devenv.exe:
-    ascii_mode: true
-  Cursor.exe:
-    ascii_mode: true
-  git-bash.exe:
-    ascii_mode: true
+  code.exe:            { ascii_mode: true }
+  WeChatDevTools.exe:  { ascii_mode: true }
+  Postman.exe:         { ascii_mode: true }
+  idea64.exe:          { ascii_mode: true }
+  navicat17.exe:       { ascii_mode: true }
+  Notepad3.exe:        { ascii_mode: true }
+  MobaXterm.exe:       { ascii_mode: true }
+  powershell.exe:      { ascii_mode: true }   # 你的原有条目（Win PowerShell 5.x）
+  cmd.exe:             { ascii_mode: true }   # 你的原有条目
+  bash.exe:            { ascii_mode: true }   # 你的原有条目
+  git-gui.exe:         { ascii_mode: true }
+  WindowsTerminal.exe: { ascii_mode: true }   # 你的原有条目（WT 前端）
+  devenv.exe:          { ascii_mode: true }
+  Cursor.exe:          { ascii_mode: true }
+  git-bash.exe:        { ascii_mode: true }
+
+  # === 新增补充（为确保命中实际进程名）===
+  pwsh.exe:            { ascii_mode: true }   # PowerShell 7+
+  conhost.exe:         { ascii_mode: true }   # 传统控制台宿主(托管 cmd/PowerShell)
+  OpenConsole.exe:     { ascii_mode: true }   # Windows Terminal 宿主
+  wt.exe:              { ascii_mode: true }   # 部分系统下 WT 启动器
+  mintty.exe:          { ascii_mode: true }   # Git Bash/MSYS2 默认前端
  
 
 # [global settings]
