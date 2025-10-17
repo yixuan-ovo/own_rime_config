@@ -843,7 +843,7 @@ sort: by_weight
 爱神的阴影	ài shén de yīn yǐng	1
 矮身间吸鳅	ǎi shēn jiān xī qiū	1
 爱神螺亚科	ài shén luó yà kē	1
-爱什么稀罕	ài shén me xī hǎn	1
+爱什么稀罕	ài shén me xī han	1
 爱神巧克力	ài shén qiǎo kè lì	1
 爱神丘比特	ài shén qiū bǐ tè	1
 爱神维纳斯	ài shén wéi nà sī	1
@@ -2700,7 +2700,7 @@ sort: by_weight
 爸爸的角色	bà ba de jué sè	1
 爸爸的快乐	bà ba de kuài lè	1
 爸爸的名字	bà ba de míng zì	1
-爸爸的女儿	bà ba de nǚ ér	1
+爸爸的女儿	bà ba de nǚ er	1
 爸爸的陪伴	bà ba de péi bàn	1
 爸爸的朋友	bà ba de péng you	1
 爸爸的生日	bà ba de shēng rì	1
@@ -2726,7 +2726,7 @@ sort: by_weight
 爸爸和儿子	bà ba hé ér zi	1
 爸爸和孩子	bà ba hé hái zi	1
 爸爸和妈妈	bà ba hé mā ma	1
-爸爸和女儿	bà ba hé nǚ ér	1
+爸爸和女儿	bà ba hé nǚ er	1
 爸爸喝醉了	bà ba hē zuì le	1
 爸爸回来了	bà ba huí lái le	1
 爸爸或妈妈	bà ba huò mā ma	1
@@ -2738,7 +2738,7 @@ sort: by_weight
 爸爸妈妈看	bà ba mā ma kàn	1
 爸爸妈妈们	bà ba mā ma men	1
 爸爸去出差	bà ba qù chū chāi	1
-爸爸去哪儿	bà ba qù nǎ ér	1
+爸爸去哪儿	bà ba qù nǎ er	1
 爸爸去哪了	bà ba qù nǎ le	1
 爸爸去哪里	bà ba qù nǎ lǐ	1
 爸爸去世了	bà ba qù shì le	1
@@ -4251,7 +4251,7 @@ sort: by_weight
 白花米口袋	bái huā mǐ kǒu dài	1
 白花欧丁香	bái huā ōu dīng xiāng	1
 白花蓬子菜	bái huā péng zǐ cài	1
-白花婆婆针	bái huā pó pó zhēn	1
+白花婆婆针	bái huā pó po zhēn	1
 白花蒲公英	bái huā pú gōng yīng	1
 白花三宝木	bái huā sān bǎo mù	1
 白花三叶草	bái huā sān yè cǎo	1
@@ -4319,7 +4319,7 @@ sort: by_weight
 败家娘们儿	bài jiā niáng men er	1
 白假丝酵母	bái jiǎ sī jiào mǔ	1
 白家疃小学	bái jiā tuǎn xiǎo xué	1
-败家玩意儿	bài jiā wán yì ér	1
+败家玩意儿	bài jiā wán yì er	1
 白甲尾孢虫	bái jiǎ wěi bāo chóng	1
 百家姓次序	bǎi jiā xìng cì xù	1
 百家姓排名	bǎi jiā xìng pái míng	1
@@ -5635,6 +5635,7 @@ sort: by_weight
 半官方机构	bàn guān fāng jī gòu	1
 半胱天冬酶	bàn guāng tiān dōng méi	1
 半胱亚磺酸	bàn guāng yà huáng suān	1
+搬过几次家	bān guò jǐ cì jiā	1
 半海百合属	bàn hǎi bǎi hé shǔ	1
 搬好小板凳	bān hǎo xiǎo bǎn dèng	1
 半合成机油	bàn hé chéng jī yóu	1
@@ -7846,7 +7847,7 @@ sort: by_weight
 被别人关注	bèi bié rén guān zhù	1
 被别人看穿	bèi bié rén kàn chuān	1
 被别人看到	bèi bié rén kàn dào	1
-被别人欺负	bèi bié rén qī fù	1
+被别人欺负	bèi bié rén qī fu	1
 被别人抢走	bèi bié rén qiǎng zǒu	1
 被别人认可	bèi bié rén rèn kě	1
 被别人误解	bèi bié rén wù jiě	1
@@ -8120,9 +8121,9 @@ sort: by_weight
 贝尔氏菌属	bèi ěr shì jūn shǔ	1
 贝尔特孢属	bèi ěr tè bāo shǔ	1
 孛儿帖赤那	bèi ér tiē chì nà	1
-倍儿喜欢你	bèi ér xǐ huān nǐ	1
+倍儿喜欢你	bèi er xǐ huān nǐ	1
 贝尔雅罗鱼	bèi ěr yǎ luó yú	1
-倍儿有面子	bèi ér yǒu miàn zi	1
+倍儿有面子	bèi er yǒu miàn zi	1
 孛儿只斤氏	bèi ér zhǐ jīn shì	1
 被发好人卡	bèi fā hǎo rén kǎ	1
 被发配到了	bèi fā pèi dào le	1
@@ -8727,7 +8728,7 @@ sort: by_weight
 北京农商行	běi jīng nóng shāng háng	1
 北京农学院	běi jīng nóng xué yuàn	1
 北京女八中	běi jīng nǚ bā zhōng	1
-北京女孩儿	běi jīng nǚ hái ér	1
+北京女孩儿	běi jīng nǚ hái er	1
 北京潘家园	běi jīng pān jiā yuán	1
 北京啤酒厂	běi jīng pí jiǔ chǎng	1
 北京平谷区	běi jīng píng gǔ qū	1
@@ -9256,7 +9257,7 @@ sort: by_weight
 被弃沉船法	bèi qì chén chuán fǎ	1
 贝齐尔函数	bèi qí ěr hán shù	1
 北齐范阳王	běi qí fàn yáng wáng	1
-被欺负的人	bèi qī fù de rén	1
+被欺负的人	bèi qī fu de rén	1
 北齐神武帝	běi qí shén wǔ dì	1
 北齐文襄帝	běi qí wén xiāng dì	1
 北齐文宣帝	běi qí wén xuān dì	1
@@ -9305,7 +9306,7 @@ sort: by_weight
 被人们喜爱	bèi rén men xǐ ài	1
 被人们遗忘	bèi rén men yí wàng	1
 北人民大街	běi rén mín dà jiē	1
-被人欺负了	bèi rén qī fù le	1
+被人欺负了	bèi rén qī fu le	1
 被人瞧不起	bèi rén qiáo bù qǐ	1
 被人说闲话	bèi rén shuō xián huà	1
 被认为撤回	bèi rèn wéi chè huí	1
@@ -9507,7 +9508,7 @@ sort: by_weight
 被同事排挤	bèi tóng shì pái jǐ	1
 被同学嘲笑	bèi tóng xué cháo xiào	1
 被同学孤立	bèi tóng xué gū lì	1
-被同学欺负	bèi tóng xué qī fù	1
+被同学欺负	bèi tóng xué qī fu	1
 被统治阶级	bèi tǒng zhì jiē jí	1
 悲痛转化为	bēi tòng zhuǎn huà wéi	1
 北投百灵鸟	běi tóu bǎi líng niǎo	1
@@ -12417,7 +12418,7 @@ sort: by_weight
 婊子立牌坊	biǎo zi lì pái fāng	1
 别不当回事	bié bù dāng huí shì	1
 别不好意思	bié bù hǎo yì sī	1
-别踩白块儿	bié cǎi bái kuài ér	1
+别踩白块儿	bié cǎi bái kuài er	1
 别猜我是谁	bié cāi wǒ shì shuí	1
 别扯犊子了	bié chě dú zi le	1
 别出心裁地	bié chū xīn cái de	1
@@ -12601,7 +12602,7 @@ sort: by_weight
 别人的脑袋	bié rén de nǎo dai	1
 别人的能力	bié rén de néng lì	1
 别人的努力	bié rén de nǔ lì	1
-别人的女儿	bié rén de nǚ ér	1
+别人的女儿	bié rén de nǚ er	1
 别人的女人	bié rén de nǚ rén	1
 别人的女友	bié rén de nǚ yǒu	1
 别人的朋友	bié rén de péng you	1
@@ -12675,7 +12676,7 @@ sort: by_weight
 别人看不起	bié rén kàn bù qǐ	1
 别人男朋友	bié rén nán péng you	1
 别人女朋友	bié rén nǚ péng you	1
-别人欺负我	bié rén qī fù wǒ	1
+别人欺负我	bié rén qī fu wǒ	1
 别人欠我钱	bié rén qiàn wǒ qián	1
 别人是别人	bié rén shì bié rén	1
 别人说的话	bié rén shuō de huà	1
@@ -13947,7 +13948,7 @@ sort: by_weight
 不被人关注	bú bèi rén guān zhù	1
 不被人看好	bú bèi rén kàn hǎo	1
 不被人理解	bú bèi rén lǐ jiě	1
-不被人欺负	bú bèi rén qī fù	1
+不被人欺负	bú bèi rén qī fu	1
 不被人认可	bú bèi rén rèn kě	1
 不被人喜欢	bú bèi rén xǐ huān	1
 不被人重视	bú bèi rén zhòng shì	1
@@ -14756,7 +14757,7 @@ sort: by_weight
 不跟你们玩	bù gēn nǐ men wán	1
 不跟你说话	bù gēn nǐ shuō huà	1
 不跟你说了	bù gēn nǐ shuō le	1
-不跟你玩儿	bù gēn nǐ wán ér	1
+不跟你玩儿	bù gēn nǐ wán er	1
 不跟你玩了	bù gēn nǐ wán le	1
 不跟我说话	bù gēn wǒ shuō huà	1
 不更新微博	bù gēng xīn wēi bó	1
@@ -14838,7 +14839,7 @@ sort: by_weight
 不管有多苦	bù guǎn yǒu duō kǔ	1
 不管有多少	bù guǎn yǒu duō shǎo	1
 不管有没有	bù guǎn yǒu méi yǒu	1
-不管在哪儿	bù guǎn zài nǎ ér	1
+不管在哪儿	bù guǎn zài nǎ er	1
 不管在哪里	bù guǎn zài nǎ lǐ	1
 不管怎么变	bù guǎn zěn me biàn	1
 不管怎么吃	bù guǎn zěn me chī	1
@@ -17868,8 +17869,8 @@ sort: by_weight
 不要怕他们	bú yào pà tā men	1
 不要抛弃我	bú yào pāo qì wǒ	1
 不要骗自己	bú yào piàn zì jǐ	1
-不要欺负人	bú yào qī fù rén	1
-不要欺负我	bú yào qī fù wǒ	1
+不要欺负人	bú yào qī fu rén	1
+不要欺负我	bú yào qī fu wǒ	1
 不要情绪化	bú yào qíng xù huà	1
 不要轻易去	bú yào qīng yì qù	1
 不要求回报	bú yào qiú huí bào	1
@@ -18692,6 +18693,7 @@ sort: by_weight
 菜单中点击	cài dān zhōng diǎn jī	1
 菜单中选择	cài dān zhòng xuǎn zé	1
 猜到了开头	cāi dào le kāi tóu	1
+踩到棉花上	cǎi dào mián huā shàng	1
 菜刀实名制	cài dāo shí míng zhì	1
 猜到是谁了	cāi dào shì shuí le	1
 菜刀走江湖	cài dāo zǒu jiāng hú	1
@@ -19858,7 +19860,7 @@ sort: by_weight
 糙稃大麦草	cāo fū dà mài cǎo	1
 糙盖花鮨属	cāo gài huā yì shǔ	1
 草甘膦助剂	cǎo gān lìn zhù jì	1
-曹格的女儿	cáo gé de nǚ ér	1
+曹格的女儿	cáo gé de nǚ er	1
 草根创业者	cǎo gēn chuàng yè zhě	1
 草根国大党	cǎo gēn guó dà dǎng	1
 糙梗楼梯草	cāo gěng lóu tī cǎo	1
@@ -20638,7 +20640,7 @@ sort: by_weight
 查帕溪脂鲤	chá pà xī zhī lǐ	1
 叉拍尾蜂鸟	chā pāi wěi fēng niǎo	1
 查皮裸吻鱼	chá pí luǒ wěn yú	1
-差热分析仪	chà rè fēn xī yí	1
+差热分析仪	chā rè fēn xī yí	1
 茶人三部曲	chá rén sān bù qǔ	1
 插入超链接	chā rù chāo liàn jiē	1
 插入排序法	chā rù pái xù fǎ	1
@@ -20813,7 +20815,7 @@ sort: by_weight
 察隅肋毛蕨	chá yú lèi máo jué	1
 察隅菱瘤蝽	chá yú líng liú chūn	1
 察隅裸趾虎	chá yú luǒ zhǐ hǔ	1
-察隅婆婆纳	chá yú pó pó nà	1
+察隅婆婆纳	chá yú pó po nà	1
 察隅双盖蕨	chá yú shuāng gài jué	1
 察隅蹄盖蕨	chá yú tí gài jué	1
 察隅野豌豆	chá yú yě wān dòu	1
@@ -21546,7 +21548,7 @@ sort: by_weight
 长白鹿蹄草	cháng bái lù tí cǎo	1
 长白米奴草	cháng bái mǐ nú cǎo	1
 长白米努草	cháng bái mǐ nǔ cǎo	1
-长白婆婆纳	cháng bái pó pó nà	1
+长白婆婆纳	cháng bái pó po nà	1
 长白山北坡	cháng bái shān běi pō	1
 长白山的雪	cháng bái shān de xuě	1
 长白山地区	cháng bái shān dì qū	1
@@ -21691,7 +21693,7 @@ sort: by_weight
 长柄米口袋	cháng bǐng mǐ kǒu dài	1
 长柄逆刃刀	cháng bǐng nì rèn dāo	1
 长柄爬藤榕	cháng bǐng pá téng róng	1
-长柄婆婆纳	cháng bǐng pó pó nà	1
+长柄婆婆纳	cháng bǐng pó po nà	1
 长柄歧伞花	cháng bǐng qí sǎn huā	1
 长柄七叶树	cháng bǐng qī yè shù	1
 长柄秋海棠	cháng bǐng qiū hǎi táng	1
@@ -22079,8 +22081,8 @@ sort: by_weight
 长梗密脉木	cháng gěng mì mài mù	1
 长梗木姜子	cháng gěng mù jiāng zǐ	1
 长梗盘花麻	cháng gěng pán huā má	1
-长梗婆婆纳	cháng gěng pó pó nà	1
-长梗雀儿豆	cháng gěng què ér dòu	1
+长梗婆婆纳	cháng gěng pó po nà	1
+长梗雀儿豆	cháng gěng què er dòu	1
 长梗三宝木	cháng gěng sān bǎo mù	1
 长梗山麦冬	cháng gěng shān mài dōng	1
 长梗山土瓜	cháng gěng shān tǔ guā	1
@@ -22161,7 +22163,7 @@ sort: by_weight
 长果绿绒蒿	cháng guǒ lǜ róng hāo	1
 长果牧根草	cháng guǒ mù gēn cǎo	1
 长果念珠芥	cháng guǒ niàn zhū jiè	1
-长果婆婆纳	cháng guǒ pó pó nà	1
+长果婆婆纳	cháng guǒ pó po nà	1
 长果山桐子	cháng guǒ shān tóng zǐ	1
 长果双盖蕨	cháng guǒ shuāng gài jué	1
 长果水苦荬	cháng guǒ shuǐ kǔ mǎi	1
@@ -23815,7 +23817,7 @@ sort: by_weight
 超级美少女	chāo jí měi shào nǚ	1
 超级明星脸	chāo jí míng xīng liǎn	1
 超级魔术师	chāo jí mó shù shī	1
-超级模特儿	chāo jí mó tè ér	1
+超级模特儿	chāo jí mó tè er	1
 超级摩托车	chāo jí mó tuō chē	1
 超级女英雄	chāo jí nǚ yīng xióng	1
 超级品类日	chāo jí pǐn lèi rì	1
@@ -23964,7 +23966,7 @@ sort: by_weight
 超能力大战	chāo néng lì dà zhàn	1
 超能力美空	chāo néng lì měi kōng	1
 超能力魔美	chāo néng lì mó měi	1
-超能力女儿	chāo néng lì nǚ ér	1
+超能力女儿	chāo néng lì nǚ er	1
 超能量战士	chāo néng liàng zhàn shì	1
 超能陆战队	chāo néng lù zhàn duì	1
 超能塞豆隆	chāo néng sāi dòu lóng	1
@@ -24677,7 +24679,7 @@ sort: by_weight
 陈冠希专辑	chén guān xī zhuān jí	1
 晨光出版社	chén guāng chū bǎn shè	1
 晨光萌萌哒	chén guāng méng méng dá	1
-陈赫的女儿	chén hè de nǚ ér	1
+陈赫的女儿	chén hè de nǚ er	1
 陈赫的前妻	chén hè de qián qī	1
 陈赫和许婧	chén hè hé xǔ jìng	1
 陈赫张子萱	chén hè zhāng zǐ xuān	1
@@ -27140,7 +27142,7 @@ sort: by_weight
 冲动是魔鬼	chōng dòng shì mó guǐ	1
 冲动型消费	chōng dòng xíng xiāo fèi	1
 冲动性消费	chōng dòng xìng xiāo fèi	1
-虫儿向南飞	chóng ér xiàng nán fēi	1
+虫儿向南飞	chóng er xiàng nán fēi	1
 重返大气层	chóng fǎn dà qì céng	1
 重返二叠纪	chóng fǎn èr dié jì	1
 重返二十岁	chóng fǎn èr shí suì	1
@@ -27815,7 +27817,7 @@ sort: by_weight
 丑女大翻身	chǒu nǚ dà fān shēn	1
 抽气过滤法	chōu qì guò lǜ fǎ	1
 抽取地下水	chōu qǔ dì xià shuǐ	1
-仇人的女儿	chóu rén de nǚ ér	1
+仇人的女儿	chóu rén de nǚ er	1
 丑人多作怪	chǒu rén duō zuò guài	1
 抽绳的设计	chōu shéng de shè jì	1
 稠墅牌坊群	chóu shù pái fāng qún	1
@@ -28083,7 +28085,7 @@ sort: by_weight
 初级消费者	chū jí xiāo fèi zhě	1
 初级中学校	chū jí zhōng xué xiào	1
 出家当和尚	chū jiā dāng hé shàng	1
-出嫁的女儿	chū jià de nǚ ér	1
+出嫁的女儿	chū jià de nǚ er	1
 出嫁的新娘	chū jià de xīn niáng	1
 楚加奇山脉	chǔ jiā qí shān mài	1
 除甲醛产品	chú jiǎ quán chǎn pǐn	1
@@ -28197,6 +28199,7 @@ sort: by_weight
 出了那么多	chū le nà me duō	1
 除了你以外	chú le nǐ yǐ wài	1
 除了你之外	chú le nǐ zhī wài	1
+出了什么事	chū le shén me shì	1
 出了什么事	chū le shén me shì	1
 除了他以外	chú le tā yǐ wài	1
 除了他之外	chú le tā zhī wài	1
@@ -30400,7 +30403,7 @@ sort: by_weight
 戳下方视频	chuō xià fāng shì pín	1
 戳爷美如画	chuō yé měi rú huà	1
 绰源林业局	chuò yuán lín yè jú	1
-戳中你的心	chuō zhōng nǐ de xīn	1
+戳中你的心	chuō zhòng nǐ de xīn	1
 次锕系元素	cì ā xì yuán sù	1
 慈爱的父亲	cí ài de fù qīn	1
 慈爱的母亲	cí ài de mǔ qīn	1
@@ -32178,7 +32181,7 @@ sort: by_weight
 错误中学习	cuò wù zhōng xué xí	1
 锉缘亮丽鲷	cuò yuán liàng lì diāo	1
 错在了哪里	cuò zài le nǎ lǐ	1
-错在哪儿了	cuò zài nǎ ér le	1
+错在哪儿了	cuò zài nǎ er le	1
 错在哪里了	cuò zài nǎ lǐ le	1
 挫折承受力	cuò zhé chéng shòu lì	1
 挫折和失败	cuò zhé hé shī bài	1
@@ -32587,7 +32590,7 @@ sort: by_weight
 大地的结晶	dà dì de jié jīng	1
 大地的力量	dà dì de lì liàng	1
 大地的裂变	dà dì de liè biàn	1
-大地的女儿	dà dì de nǚ ér	1
+大地的女儿	dà dì de nǚ er	1
 大地的苹果	dà dì de píng guǒ	1
 大地的汽笛	dà dì de qì dí	1
 大地电磁法	dà dì diàn cí fǎ	1
@@ -33435,7 +33438,7 @@ sort: by_weight
 大佬级人物	dà lǎo jí rén wù	1
 打捞母锥钻	dǎ lāo mǔ zhuī zuān	1
 大老山隧道	dà lǎo shān suì dào	1
-大老爷们儿	dà lǎo yé men ér	1
+大老爷们儿	dà lǎo yé men er	1
 打了玻尿酸	dǎ le bō niào suān	1
 打了大胜仗	dǎ le dà shèng zhàng	1
 打了翻身仗	dǎ le fān shēn zhàng	1
@@ -34135,7 +34138,7 @@ sort: by_weight
 大唐芙蓉园	dà táng fú róng yuán	1
 大唐开元礼	dà táng kāi yuán lǐ	1
 大唐魔盗团	dà táng mó dào tuán	1
-大唐女儿行	dà táng nǚ ér xíng	1
+大唐女儿行	dà táng nǚ er xíng	1
 大唐女法医	dà táng nǚ fǎ yī	1
 大唐女巡按	dà táng nǚ xún àn	1
 大唐双龙传	dà táng shuāng lóng zhuàn	1
@@ -34484,7 +34487,7 @@ sort: by_weight
 大学的历史	dà xué de lì shǐ	1
 大学的理想	dà xué de lǐ xiǎng	1
 大学的录取	dà xué de lù qǔ	1
-大学的女儿	dà xué de nǚ ér	1
+大学的女儿	dà xué de nǚ er	1
 大学的朋友	dà xué de péng you	1
 大学的生活	dà xué de shēng huó	1
 大学的时光	dà xué de shí guāng	1
@@ -35876,7 +35879,7 @@ sort: by_weight
 单调的颜色	dān diào de yán sè	1
 但丁的补丁	dàn dīng de bǔ dīng	1
 但丁的地狱	dàn dīng de dì yù	1
-淡定的猴儿	dàn dìng de hóu ér	1
+淡定的猴儿	dàn dìng de hóu er	1
 淡定的人生	dàn dìng de rén shēng	1
 但丁的小诗	dàn dīng de xiǎo shī	1
 淡定的心态	dàn dìng de xīn tài	1
@@ -37441,7 +37444,7 @@ sort: by_weight
 到底有什么	dào dǐ yǒu shén me	1
 到底咋回事	dào dǐ zǎ huí shì	1
 到底在干嘛	dào dǐ zài gàn ma	1
-到底在哪儿	dào dǐ zài nǎ ér	1
+到底在哪儿	dào dǐ zài nǎ er	1
 到底在哪里	dào dǐ zài nǎ lǐ	1
 到底怎么办	dào dǐ zěn me bàn	1
 到底怎么吃	dào dǐ zěn me chī	1
@@ -37928,7 +37931,7 @@ sort: by_weight
 到我身边来	dào wǒ shēn biān lái	1
 到我碗里来	dào wǒ wǎn lǐ lái	1
 到我这边来	dào wǒ zhè biān lái	1
-到我这儿来	dào wǒ zhè ér lái	1
+到我这儿来	dào wǒ zhè er lái	1
 到我这里来	dào wǒ zhè lǐ lái	1
 到五大连池	dào wǔ dà lián chí	1
 到乌兰察布	dào wū lán chá bù	1
@@ -38254,6 +38257,7 @@ sort: by_weight
 得了肩周炎	dé le jiān zhōu yán	1
 得了精神病	dé le jīng shén bìng	1
 得了颈椎病	dé le jǐng zhuī bìng	1
+得了什么病	dé le shén me bìng	1
 得了什么病	dé le shén me bìng	1
 得了失心疯	dé le shī xīn fēng	1
 得了糖尿病	dé le táng niào bìng	1
@@ -39186,7 +39190,7 @@ sort: by_weight
 第二个母亲	dì èr gè mǔ qīn	1
 第二个男人	dì èr gè nán rén	1
 第二个难题	dì èr gè nán tí	1
-第二个女儿	dì èr gè nǚ ér	1
+第二个女儿	dì èr gè nǚ er	1
 第二个女人	dì èr gè nǚ rén	1
 第二个妻子	dì èr gè qī zǐ	1
 第二个任期	dì èr gè rèn qī	1
@@ -40263,7 +40267,7 @@ sort: by_weight
 第三个秘密	dì sān gè mì mì	1
 第三个目标	dì sān gè mù biāo	1
 第三个男人	dì sān gè nán rén	1
-第三个女儿	dì sān gè nǚ ér	1
+第三个女儿	dì sān gè nǚ er	1
 第三个女人	dì sān gè nǚ rén	1
 第三个任务	dì sān gè rèn wù	1
 第三个赛季	dì sān gè sài jì	1
@@ -40607,7 +40611,7 @@ sort: by_weight
 第四个孩子	dì sì gè hái zi	1
 第四个阶段	dì sì gè jiē duàn	1
 第四个年头	dì sì gè nián tóu	1
-第四个女儿	dì sì gè nǚ ér	1
+第四个女儿	dì sì gè nǚ er	1
 第四个赛季	dì sì gè sài jì	1
 第四个问题	dì sì gè wèn tí	1
 第四个星期	dì sì gè xīng qī	1
@@ -44542,7 +44546,7 @@ sort: by_weight
 董事杯冠军	dǒng shì bēi guàn jūn	1
 懂事的儿子	dǒng shì de ér zi	1
 懂事的孩子	dǒng shì de hái zi	1
-懂事的女儿	dǒng shì de nǚ ér	1
+懂事的女儿	dǒng shì de nǚ er	1
 懂事的女孩	dǒng shì de nǚ hái	1
 懂事的女人	dǒng shì de nǚ rén	1
 懂事的小孩	dǒng shì de xiǎo hái	1
@@ -45165,7 +45169,7 @@ sort: by_weight
 都很有可能	dōu hěn yǒu kě néng	1
 都很有特色	dōu hěn yǒu tè sè	1
 都很有意思	dōu hěn yǒu yì sī	1
-都花哪儿了	dōu huā nǎ ér le	1
+都花哪儿了	dōu huā nǎ er le	1
 都会被放大	dōu huì bèi fàng dà	1
 都会被人说	dōu huì bèi rén shuō	1
 都会不一样	dōu huì bù yí yàng	1
@@ -45382,7 +45386,7 @@ sort: by_weight
 都能体验到	dōu néng tǐ yàn dào	1
 都能享受到	dōu néng xiǎng shòu dào	1
 都能写出来	dōu néng xiě chū lái	1
-逗你玩儿呢	dòu nǐ wán ér ne	1
+逗你玩儿呢	dòu nǐ wán er ne	1
 豆泥小丸子	dòu ní xiǎo wán zi	1
 斗牛犬餐厅	dòu niú quǎn cān tīng	1
 斗牛犬蚁属	dòu niú quǎn yǐ shǔ	1
@@ -45641,8 +45645,8 @@ sort: by_weight
 都在一起了	dōu zài yì qǐ le	1
 都在一瞬间	dōu zài yí shùn jiān	1
 都在娱乐圈	dōu zài yú lè quān	1
-都在这儿了	dōu zài zhè ér le	1
-都在这儿呢	dōu zài zhè ér ne	1
+都在这儿了	dōu zài zhè er le	1
+都在这儿呢	dōu zài zhè er ne	1
 都在做什么	dōu zài zuò shén me	1
 都赞不绝口	dōu zàn bù jué kǒu	1
 斗战翼龙属	dòu zhàn yì lóng shǔ	1
@@ -49275,7 +49279,7 @@ sort: by_weight
 多枝马先蒿	duō zhī mǎ xiān hāo	1
 多枝矛丽鱼	duō zhī máo lì yú	1
 多枝梅花草	duō zhī méi huā cǎo	1
-多枝婆婆纳	duō zhī pó pó nà	1
+多枝婆婆纳	duō zhī pó po nà	1
 多汁乳菇属	duō zhī rǔ gū shǔ	1
 多枝唐松草	duō zhī táng sōng cǎo	1
 多枝雾水葛	duō zhī wù shuǐ gé	1
@@ -51050,7 +51054,7 @@ sort: by_weight
 儿童口腔科	ér tóng kǒu qiāng kē	1
 儿童乐益会	ér tóng lè yì huì	1
 儿童免疫力	ér tóng miǎn yì lì	1
-儿童模特儿	ér tóng mó tè ér	1
+儿童模特儿	ér tóng mó tè er	1
 儿童牛皮癣	ér tóng niú pí xuǎn	1
 儿童碰碰车	ér tóng pèng pèng chē	1
 儿童票选奖	ér tóng piào xuǎn jiǎng	1
@@ -51446,11 +51450,11 @@ sort: by_weight
 儿子和儿媳	ér zi hé ér xí	1
 儿子和父亲	ér zi hé fù qīn	1
 儿子和母亲	ér zi hé mǔ qīn	1
-儿子和女儿	ér zi hé nǚ ér	1
+儿子和女儿	ér zi hé nǚ er	1
 儿子和孙子	ér zi hé sūn zi	1
 儿子和媳妇	ér zi hé xí fù	1
 儿子何猷君	ér zi hé yóu jūn	1
-儿子或女儿	ér zi huò nǚ ér	1
+儿子或女儿	ér zi huò nǚ er	1
 儿子结婚后	ér zi jié hūn hòu	1
 儿子结婚了	ér zi jié hūn le	1
 二字来形容	èr zì lái xíng róng	1
@@ -52168,6 +52172,7 @@ sort: by_weight
 发生了口角	fā shēng le kǒu jué	1
 发生了矛盾	fā shēng le máo dùn	1
 发生了什么	fā shēng le shén me	1
+发生了什么	fā shēng le shén me	1
 发生了一次	fā shēng le yí cì	1
 发生了一起	fā shēng le yì qǐ	1
 发生了意外	fā shēng le yì wài	1
@@ -52267,6 +52272,7 @@ sort: by_weight
 发现了另一	fā xiàn le lìng yī	1
 发现了没有	fā xiàn le méi yǒu	1
 发现了商机	fā xiàn le shāng jī	1
+发现了什么	fā xiàn le shén me	1
 发现了什么	fā xiàn le shén me	1
 发现了问题	fā xiàn le wèn tí	1
 发现了一个	fā xiàn le yí gè	1
@@ -53823,7 +53829,7 @@ sort: by_weight
 放顶煤支架	fàng dǐng méi zhī jià	1
 方鼎蛇根草	fāng dǐng shé gēn cǎo	1
 防冻玻璃水	fáng dòng bō li shuǐ	1
-房东的女儿	fáng dōng de nǚ ér	1
+房东的女儿	fáng dōng de nǚ er	1
 房东和房客	fáng dōng hé fáng kè	1
 房东和租户	fáng dōng hé zū hù	1
 房东和租客	fáng dōng hé zū kè	1
@@ -55699,6 +55705,7 @@ sort: by_weight
 非纳税收益	fēi nà shuì shōu yì	1
 非那斯特莱	fēi nà sī tè lái	1
 非那雄胺片	fēi nà xióng àn piàn	1
+非奈利酮片	fēi nài lì tóng piàn	1
 肺囊虫肺炎	fèi náng chóng fèi yán	1
 非内阁部门	fēi nèi gé bù mén	1
 非你不挂念	fēi nǐ bú guà niàn	1
@@ -56612,7 +56619,7 @@ sort: by_weight
 非主流网名	fēi zhǔ liú wǎng míng	1
 非主流文化	fēi zhǔ liú wén huà	1
 非主流艺术	fēi zhǔ liú yì shù	1
-非主流音乐	fēi zhǔ liú yīn lè	1
+非主流音乐	fēi zhǔ liú yīn yuè	1
 非主流右派	fēi zhǔ liú yòu pài	1
 非主流造型	fēi zhǔ liú zào xíng	1
 非主流宅人	fēi zhǔ liú zhái rén	1
@@ -57929,6 +57936,7 @@ sort: by_weight
 疯狂的表现	fēng kuáng de biǎo xiàn	1
 疯狂的蠢贼	fēng kuáng de chǔn zéi	1
 疯狂的代价	fēng kuáng de dài jià	1
+疯狂的地步	fēng kuáng de dì bù	1
 疯狂的粉丝	fēng kuáng de fěn sī	1
 疯狂的攻击	fēng kuáng de gōng jī	1
 疯狂的工作	fēng kuáng de gōng zuò	1
@@ -58730,7 +58738,7 @@ sort: by_weight
 富二代身份	fù èr dài shēn fèn	1
 福尔蒂悖论	fú ěr dì bèi lùn	1
 氟二碘甲烷	fú èr diǎn jiǎ wán	1
-妇儿工委办	fù ér gōng wěi bàn	1
+妇儿工委办	fù er gōng wěi bàn	1
 伏尔加鸟属	fú ěr jiā niǎo shǔ	1
 福尔卡鱼属	fú ěr kǎ yú shǔ	1
 氟二氯甲烷	fú èr lǜ jiǎ wán	1
@@ -59610,7 +59618,7 @@ sort: by_weight
 父亲的目光	fù qīn de mù guāng	1
 父亲的模样	fù qīn de mú yàng	1
 父亲的年龄	fù qīn de nián líng	1
-父亲的女儿	fù qīn de nǚ ér	1
+父亲的女儿	fù qīn de nǚ er	1
 父亲的陪伴	fù qīn de péi bàn	1
 父亲的朋友	fù qīn de péng you	1
 父亲的去世	fù qīn de qù shì	1
@@ -59652,14 +59660,14 @@ sort: by_weight
 父亲的葬礼	fù qīn de zàng lǐ	1
 父亲的责任	fù qīn de zé rèn	1
 父亲的职责	fù qīn de zhí zé	1
-父亲对女儿	fù qīn duì nǚ ér	1
+父亲对女儿	fù qīn duì nǚ er	1
 父亲对我说	fù qīn duì wǒ shuō	1
 父亲和弟弟	fù qīn hé dì di	1
 父亲和儿子	fù qīn hé ér zi	1
 父亲和哥哥	fù qīn hé gē ge	1
 父亲和孩子	fù qīn hé hái zi	1
 父亲和母亲	fù qīn hé mǔ qīn	1
-父亲和女儿	fù qīn hé nǚ ér	1
+父亲和女儿	fù qīn hé nǚ er	1
 父亲和爷爷	fù qīn hé yé ye	1
 父亲和丈夫	fù qīn hé zhàng fū	1
 父亲回来了	fù qīn huí lái le	1
@@ -59673,7 +59681,7 @@ sort: by_weight
 父亲与儿子	fù qīn yǔ ér zi	1
 父亲与孩子	fù qīn yǔ hái zi	1
 父亲与母亲	fù qīn yǔ mǔ qīn	1
-父亲与女儿	fù qīn yǔ nǚ ér	1
+父亲与女儿	fù qīn yǔ nǚ er	1
 父亲在世时	fù qīn zài shì shí	1
 父亲知道后	fù qīn zhī dào hòu	1
 釜庆大菌属	fǔ qìng dà jūn shǔ	1
@@ -59705,7 +59713,7 @@ sort: by_weight
 釜日电影奖	fǔ rì diàn yǐng jiǎng	1
 芙蓉广场站	fú róng guǎng chǎng zhàn	1
 芙蓉江大桥	fú róng jiāng dà qiáo	1
-芙蓉女儿诔	fú róng nǚ ér lěi	1
+芙蓉女儿诔	fú róng nǚ er lěi	1
 芙蓉派出所	fú róng pài chū suǒ	1
 副绒皮鲉属	fù róng pí yóu shǔ	1
 芙蓉区法院	fú róng qū fǎ yuàn	1
@@ -61825,7 +61833,7 @@ sort: by_weight
 感情不稳定	gǎn qíng bù wěn dìng	1
 感情不专一	gǎn qíng bù zhuān yī	1
 感情出问题	gǎn qíng chū wèn tí	1
-感情当儿戏	gǎn qíng dāng ér xì	1
+感情当儿戏	gǎn qíng dāng er xì	1
 感情到最后	gǎn qíng dào zuì hòu	1
 感情的变化	gǎn qíng de biàn huà	1
 感情的表达	gǎn qíng de biǎo dá	1
@@ -63810,7 +63818,7 @@ sort: by_weight
 高身毛鼻鲶	gāo shēn máo bí nián	1
 高什么东西	gāo shén me dōng xi	1
 搞什么飞机	gǎo shén me fēi jī	1
-搞什么名堂	gǎo shén me míng táng	1
+搞什么名堂	gǎo shén me míng tang	1
 高身魮脂鲤	gāo shēn pí zhī lǐ	1
 高身朴丽鱼	gāo shēn pǔ lì yú	1
 高渗葡萄糖	gāo shèn pú táo táng	1
@@ -66213,7 +66221,7 @@ sort: by_weight
 根本不是人	gēn běn bú shì rén	1
 根本不是事	gēn běn bú shì shì	1
 根本不算啥	gēn běn bú suàn shá	1
-根本不稀罕	gēn běn bù xī hǎn	1
+根本不稀罕	gēn běn bù xī han	1
 根本不喜欢	gēn běn bù xǐ huān	1
 根本不现实	gēn běn bú xiàn shí	1
 根本不想动	gēn běn bù xiǎng dòng	1
@@ -67797,8 +67805,8 @@ sort: by_weight
 公共盥洗室	gōng gòng guàn xǐ shì	1
 公共关系学	gōng gòng guān xì xué	1
 公共海外仓	gōng gòng hǎi wài cāng	1
-公公和儿媳	gōng gōng hé ér xí	1
-公公和婆婆	gōng gōng hé pó pó	1
+公公和儿媳	gōng gong hé ér xí	1
+公公和婆婆	gōng gong hé pó po	1
 公共互联网	gōng gòng hù lián wǎng	1
 公共活动区	gōng gòng huó dòng qū	1
 公共活动室	gōng gòng huó dòng shì	1
@@ -67845,7 +67853,7 @@ sort: by_weight
 公共艺术品	gōng gòng yì shù pǐn	1
 公共营养师	gōng gòng yíng yǎng shī	1
 公共游泳池	gōng gòng yóu yǒng chí	1
-公公与儿媳	gōng gōng yǔ ér xí	1
+公公与儿媳	gōng gong yǔ ér xí	1
 公共云服务	gōng gòng yún fú wù	1
 公共政策学	gōng gòng zhèng cè xué	1
 公共秩序罪	gōng gòng zhì xù zuì	1
@@ -69924,8 +69932,8 @@ sort: by_weight
 沟额墨头鱼	gōu é mò tóu yú	1
 沟颚阎甲属	gōu è yán jiǎ shǔ	1
 沟额叶蜂属	gōu é yè fēng shǔ	1
-狗儿逃家记	gǒu ér táo jiā jì	1
-狗儿爷涅槃	gǒu ér yé niè pán	1
+狗儿逃家记	gǒu er táo jiā jì	1
+狗儿爷涅槃	gǒu er yé niè pán	1
 购房合同中	gòu fáng hé tong zhōng	1
 购房首付款	gòu fáng shǒu fù kuǎn	1
 购房者观望	gòu fáng zhě guān wàng	1
@@ -69952,7 +69960,7 @@ sort: by_weight
 狗狗和猫咪	gǒu gou hé māo mī	1
 狗狗拉肚子	gǒu gou lā dǔ zi	1
 狗狗皮肤病	gǒu gou pí fū bìng	1
-狗狗去哪儿	gǒu gou qù nǎ ér	1
+狗狗去哪儿	gǒu gou qù nǎ er	1
 狗狗伤心志	gǒu gou shāng xīn zhì	1
 狗狗汪汪叫	gǒu gou wāng wāng jiào	1
 狗狗巡逻队	gǒu gou xún luó duì	1
@@ -70047,7 +70055,7 @@ sort: by_weight
 狗男女的爱	gǒu nán nǚ de ài	1
 钩扭白蚁属	gōu niǔ bái yǐ shǔ	1
 狗爬式游泳	gǒu pá shì yóu yǒng	1
-狗屁玩意儿	gǒu pì wán yì ér	1
+狗屁玩意儿	gǒu pì wán yì er	1
 枸杞的功效	gǒu qǐ de gōng xiào	1
 枸杞和红枣	gǒu qǐ hé hóng zǎo	1
 枸杞红枣茶	gǒu qǐ hóng zǎo chá	1
@@ -71513,7 +71521,7 @@ sort: by_weight
 怪奇孤儿院	guài qí gū ér yuàn	1
 怪奇马戏团	guài qí mǎ xì tuán	1
 乖巧的孩子	guāi qiǎo de hái zi	1
-乖巧的女儿	guāi qiǎo de nǚ ér	1
+乖巧的女儿	guāi qiǎo de nǚ er	1
 乖巧的样子	guāi qiǎo de yàng zi	1
 拐刃钩镰枪	guǎi rèn gōu lián qiāng	1
 怪事发生了	guài shì fā shēng le	1
@@ -73429,7 +73437,7 @@ sort: by_weight
 光缘虎耳草	guāng yuán hǔ ěr cǎo	1
 广园客运站	guǎng yuán kè yùn zhàn	1
 广园快速路	guǎng yuán kuài sù lù	1
-广元女儿节	guǎng yuán nǚ ér jié	1
+广元女儿节	guǎng yuán nǚ er jié	1
 光缘瓢虫属	guāng yuán piáo chóng shǔ	1
 广元千佛崖	guǎng yuán qiān fó yá	1
 光源氏计划	guāng yuán shì jì huà	1
@@ -76298,7 +76306,7 @@ sort: by_weight
 过往的经验	guò wǎng de jīng yàn	1
 过往的历史	guò wǎng de lì shǐ	1
 过往的路人	guò wǎng de lù rén	1
-国王的女儿	guó wáng de nǚ ér	1
+国王的女儿	guó wáng de nǚ er	1
 国王的求婚	guó wáng de qiú hūn	1
 国王的权力	guó wáng de quán lì	1
 过往的生活	guò wǎng de shēng huó	1
@@ -77188,7 +77196,7 @@ sort: by_weight
 海天黄豆酱	hǎi tiān huáng dòu jiàng	1
 海天味极鲜	hǎi tiān wèi jí xiān	1
 还挺不错的	hái tǐng bú cuò de	1
-还挺好玩儿	hái tǐng hǎo wán ér	1
+还挺好玩儿	hái tǐng hǎo wán er	1
 还挺划算的	hái tǐng huá suàn de	1
 还挺简单的	hái tǐng jiǎn dān de	1
 还挺便宜的	hái tǐng pián yi de	1
@@ -77491,7 +77499,7 @@ sort: by_weight
 海中一条鱼	hǎi zhōng yì tiáo yú	1
 海州常山属	hǎi zhōu cháng shān shǔ	1
 孩子被拐卖	hái zi bèi guǎi mài	1
-孩子被欺负	hái zi bèi qī fù	1
+孩子被欺负	hái zi bèi qī fu	1
 孩子不爱吃	hái zi bú ài chī	1
 孩子不吃饭	hái zi bù chī fàn	1
 孩子不懂事	hái zi bù dǒng shì	1
@@ -77830,7 +77838,7 @@ sort: by_weight
 孩子是什么	hái zi shì shén me	1
 孩子是谁的	hái zǐ shì shuí de	1
 孩子是未来	hái zǐ shì wèi lái	1
-孩子受欺负	hái zi shòu qī fù	1
+孩子受欺负	hái zi shòu qī fu	1
 孩子睡觉时	hái zi shuì jiào shí	1
 孩子睡着后	hái zi shuì zháo hòu	1
 孩子睡着了	hái zi shuì zháo le	1
@@ -78764,7 +78772,7 @@ sort: by_weight
 好多颗菊花	hǎo duō kē jú huā	1
 好多小伙伴	hǎo duō xiǎo huǒ bàn	1
 好多小朋友	hǎo duō xiǎo péng you	1
-好儿女齐全	hǎo ér nǚ qí quán	1
+好儿女齐全	hǎo er nǚ qí quán	1
 好发于面部	hǎo fā yú miàn bù	1
 好饭不怕晚	hǎo fàn bú pà wǎn	1
 好烦好无聊	hǎo fán hǎo wú liáo	1
@@ -79139,7 +79147,7 @@ sort: by_weight
 好朋友之间	hǎo péng you zhī jiān	1
 好评率最高	hǎo píng lǜ zuì gāo	1
 蒿坪蹄盖蕨	hāo píng tí gài jué	1
-好婆婆标准	hǎo pó pó biāo zhǔn	1
+好婆婆标准	hǎo pó po biāo zhǔn	1
 好奇的孩子	hào qí de hái zi	1
 好奇地看着	hào qí de kàn zhe	1
 好奇的懒人	hào qí de lǎn rén	1
@@ -80486,7 +80494,7 @@ sort: by_weight
 和平与发展	hé píng yǔ fā zhǎn	1
 和平于世奖	hé píng yú shì jiǎng	1
 和平主义者	hé píng zhǔ yì zhě	1
-和婆婆一起	hé pó pó yì qǐ	1
+和婆婆一起	hé pó po yì qǐ	1
 合浦文昌塔	hé pǔ wén chāng tǎ	1
 合浦营盘港	hé pǔ yíng pán gǎng	1
 合鳍躄鱼属	hé qí bì yú shǔ	1
@@ -80993,6 +81001,7 @@ sort: by_weight
 核心领导层	hé xīn lǐng dǎo céng	1
 何信禄龙属	hé xìn lù lóng shǔ	1
 核心路由器	hé xīn lù yóu qì	1
+核心期待感	hé xīn qī dài gǎn	1
 核心启动区	hé xīn qǐ dòng qū	1
 核心驱动力	hé xīn qū dòng lì	1
 核心区范围	hé xīn qū fàn wéi	1
@@ -81544,7 +81553,7 @@ sort: by_weight
 黑杰克模式	hēi jié kè mó shì	1
 黑金毛鼻鲶	hēi jīn máo bí nián	1
 黑襟毛瓢虫	hēi jīn máo piáo chóng	1
-黑金雀儿属	hēi jīn què ér shǔ	1
+黑金雀儿属	hēi jīn què er shǔ	1
 黑金属音乐	hēi jīn shǔ yīn yuè	1
 黑金属乐团	hēi jīn shǔ yuè tuán	1
 黑颈长尾雉	hēi jǐng cháng wěi zhì	1
@@ -82923,7 +82932,7 @@ sort: by_weight
 恒有源科技	héng yǒu yuán kē jì	1
 恒源祥集团	héng yuán xiáng jí tuán	1
 横展异隐蟹	héng zhǎn yì yǐn xiè	1
-哼着小曲儿	hēng zhe xiǎo qǔ ér	1
+哼着小曲儿	hēng zhe xiǎo qǔ er	1
 横振动方程	héng zhèn dòng fāng chéng	1
 恒指成分股	héng zhǐ chéng fèn gǔ	1
 横置发动机	héng zhì fā dòng jī	1
@@ -86458,7 +86467,6 @@ sort: by_weight
 华润总公司	huá rùn zǒng gōng sī	1
 滑鳃喉盘鱼	huá sāi hóu pán yú	1
 花色小蛋糕	huā sè xiǎo dàn gāo	1
-华厦大酒店	huá shà dà jiǔ diàn	1
 花山殡仪馆	huā shān bìn yí guǎn	1
 华山风景区	huà shān fēng jǐng qū	1
 华珊瑚蛇属	huá shān hú shé shǔ	1
@@ -86658,6 +86666,7 @@ sort: by_weight
 华西医学院	huá xī yī xué yuàn	1
 华夏常青树	huá xià cháng qīng shù	1
 华夏出版社	huá xià chū bǎn shè	1
+华厦大酒店	huá xià dà jiǔ diàn	1
 华夏大酒店	huá xià dà jiǔ diàn	1
 华夏碘泡虫	huá xià diǎn pào chóng	1
 华夏东路站	huá xià dōng lù zhàn	1
@@ -88185,7 +88194,7 @@ sort: by_weight
 皇帝的名字	huáng dì de míng zì	1
 皇帝的某某	huáng dì de mǒu mǒu	1
 皇帝的母亲	huáng dì de mǔ qīn	1
-皇帝的女儿	huáng dì de nǚ ér	1
+皇帝的女儿	huáng dì de nǚ er	1
 皇帝的女人	huáng dì de nǚ rén	1
 皇帝的妻子	huáng dì de qī zǐ	1
 皇帝的权力	huáng dì de quán lì	1
@@ -88653,7 +88662,7 @@ sort: by_weight
 晃来晃去吧	huǎng lái huǎng qù ba	1
 黄蓝海猪鱼	huáng lán hǎi zhū yú	1
 黄磊的厨艺	huáng lěi de chú yì	1
-黄磊的女儿	huáng lěi de nǚ ér	1
+黄磊的女儿	huáng lěi de nǚ er	1
 黄磊电视剧	huáng lěi diàn shì jù	1
 黄磊和孙莉	huáng lěi hé sūn lì	1
 黄肋鹦哥鱼	huáng lèi yīng gē yú	1
@@ -89700,7 +89709,7 @@ sort: by_weight
 回来吧顺爱	huí lái ba shùn ài	1
 回来不回来	huí lái bù huí lái	1
 惠来城隍庙	huì lái chéng huáng miào	1
-回来的女儿	huí lái de nǚ ér	1
+回来的女儿	huí lái de nǚ er	1
 回来的日子	huí lái de rì zi	1
 回来的时候	huí lái de shí hou	1
 回来的时间	huí lái de shí jiān	1
@@ -90287,8 +90296,8 @@ sort: by_weight
 混不下去了	hùn bú xià qù le	1
 混成旅旅长	hùn chéng lǚ lǚ zhǎng	1
 混成什么样	hùn chéng shén me yàng	1
-混出个名堂	hùn chū gè míng táng	1
-混出了名堂	hùn chū le míng táng	1
+混出个名堂	hùn chū gè míng tang	1
+混出了名堂	hùn chū le míng tang	1
 珲春副都统	hún chūn fù dū tǒng	1
 珲春林业局	hún chūn lín yè jú	1
 珲春农商行	hún chūn nóng shāng háng	1
@@ -91521,7 +91530,7 @@ sort: by_weight
 棘芭蕉螺属	jí bā jiāo luó shǔ	1
 棘八角鱼属	jí bā jiǎo yú shǔ	1
 基巴拉山脉	jī bā lā shān mài	1
-鸡巴玩意儿	jī bā wán yì ér	1
+鸡巴玩意儿	jī bā wán yì er	1
 击败的对手	jī bài de duì shǒu	1
 姬百合部队	jī bǎi hé bù duì	1
 集百家之长	jí bǎi jiā zhī cháng	1
@@ -91696,6 +91705,7 @@ sort: by_weight
 几步的距离	jǐ bù de jù lí	1
 极不负责任	jí bú fù zé rèn	1
 记不记得住	jì bú jì de zhù	1
+急不可耐地	jí bù kě nài de	1
 吉卜力动画	jí bǔ lì dòng huà	1
 季布里夫基	jì bù lǐ fū jī	1
 吉卜力公园	jí bǔ lì gōng yuán	1
@@ -92238,7 +92248,7 @@ sort: by_weight
 技多不压身	jì duō bù yā shēn	1
 戟额斑螟属	jǐ é bān míng shǔ	1
 饥饿的感觉	jī è de gǎn jué	1
-饥饿的女儿	jī è de nǚ ér	1
+饥饿的女儿	jī è de nǚ er	1
 饥饿的鲨鱼	jī è de shā yú	1
 饥饿的苏丹	jī è de sū dān	1
 脊额姬蜂属	jí é jī fēng shǔ	1
@@ -96398,7 +96408,7 @@ sort: by_weight
 贾平凹先生	jià píng wā xiān shēng	1
 贾平凹小说	jià píng wā xiǎo shuō	1
 贾平凹作品	jià píng wā zuò pǐn	1
-假婆婆纳属	jiǎ pó pó nà shǔ	1
+假婆婆纳属	jiǎ pó po nà shǔ	1
 甲浦号志站	jiǎ pǔ hào zhì zhàn	1
 假普蛇蜥属	jiǎ pǔ shé xī shǔ	1
 家谱图书馆	jiā pǔ tú shū guǎn	1
@@ -100012,7 +100022,7 @@ sort: by_weight
 将军堡街道	jiāng jūn bǎo jiē dào	1
 将军不是兵	jiāng jūn bú shì bīng	1
 将军的儿子	jiāng jūn de ér zi	1
-将军的女儿	jiāng jūn de nǚ ér	1
+将军的女儿	jiāng jūn de nǚ er	1
 将军的荣耀	jiāng jūn de róng yào	1
 将军路街道	jiāng jūn lù jiē dào	1
 将军山公园	jiāng jūn shān gōng yuán	1
@@ -100156,7 +100166,6 @@ sort: by_weight
 僵人综合征	jiāng rén zōng hé zhēng	1
 姜蓉非洲鱼	jiāng róng fēi zhōu yú	1
 降三世明王	jiàng sān shì míng wáng	1
-江厦桥东站	jiāng shà qiáo dōng zhàn	1
 江沙提克鸟	jiāng shā tí kè niǎo	1
 江山多少年	jiāng shān duō shǎo nián	1
 桨扇发动机	jiǎng shàn fā dòng jī	1
@@ -100417,6 +100426,7 @@ sort: by_weight
 江西中医药	jiāng xī zhōng yī yào	1
 缰鰕虎鱼属	jiāng xiā hǔ yú shǔ	1
 江夏客厅站	jiāng xià kè tīng zhàn	1
+江厦桥东站	jiāng xià qiáo dōng zhàn	1
 江夏区区长	jiāng xià qū qū cháng	1
 绛县长春观	jiàng xiàn cháng chūn guān	1
 绛县公安局	jiàng xiàn gōng ān jú	1
@@ -101837,7 +101847,7 @@ sort: by_weight
 胶州湾事件	jiāo zhōu wān shì jiàn	1
 胶州湾隧道	jiāo zhōu wān suì dào	1
 交州异物志	jiāo zhōu yì wù zhì	1
-教主的女儿	jiào zhǔ de nǚ ér	1
+教主的女儿	jiào zhǔ de nǚ er	1
 教主黄晓明	jiào zhǔ huáng xiǎo míng	1
 浇筑混凝土	jiāo zhù hùn níng tǔ	1
 浇注混凝土	jiāo zhù hùn níng tǔ	1
@@ -102350,6 +102360,7 @@ sort: by_weight
 结婚的结婚	jié hūn de jié hūn	1
 结婚的理由	jié hūn de lǐ yóu	1
 结婚的那天	jié hūn de nà tiān	1
+结婚的年纪	jié hūn de nián jì	1
 结婚的年龄	jié hūn de nián líng	1
 结婚的女人	jié hūn de nǚ rén	1
 结婚的女神	jié hūn de nǚ shén	1
@@ -102704,8 +102715,8 @@ sort: by_weight
 解脲脲原体	jiě niào niào yuán tǐ	1
 解脲支原体	jiě niào zhī yuán tǐ	1
 捷涅特尼基	jié niè tè ní jī	1
-接女儿放学	jiē nǚ ér fàng xué	1
-接女儿回家	jiē nǚ ér huí jiā	1
+接女儿放学	jiē nǚ er fàng xué	1
+接女儿回家	jiē nǚ er huí jiā	1
 解偶联蛋白	jiě ǒu lián dàn bái	1
 街拍摄影师	jiē pāi shè yǐng shī	1
 截平盘孢属	jié píng pán bāo shǔ	1
@@ -103874,7 +103885,7 @@ sort: by_weight
 金牌经纪人	jīn pái jīng jì rén	1
 金牌经理人	jīn pái jīng lǐ rén	1
 金牌警校军	jīn pái jǐng xiào jūn	1
-金牌女儿红	jīn pái nǚ ér hóng	1
+金牌女儿红	jīn pái nǚ er hóng	1
 进排气系统	jìn pái qì xì tǒng	1
 金牌设计师	jīn pái shè jì shī	1
 金牌蒜香骨	jīn pái suàn xiāng gǔ	1
@@ -105515,7 +105526,7 @@ sort: by_weight
 警察抓小偷	jǐng chá zhuā xiǎo tōu	1
 警察足球队	jǐng chá zú qiú duì	1
 经常被嘲笑	jīng cháng bèi cháo xiào	1
-经常被欺负	jīng cháng bèi qī fù	1
+经常被欺负	jīng cháng bèi qī fu	1
 经常被吐槽	jīng cháng bèi tǔ cáo	1
 经常被问到	jīng cháng bèi wèn dào	1
 经常不回家	jīng cháng bù huí jiā	1
@@ -106358,6 +106369,7 @@ sort: by_weight
 经历了风雨	jīng lì le fēng yǔ	1
 经历了高考	jīng lì le gāo kǎo	1
 经历了离婚	jīng lì le lí hūn	1
+经历了什么	jīng lì le shén me	1
 经历了什么	jīng lì le shén me	1
 经历了生死	jīng lì le shēng sǐ	1
 经历了太多	jīng lì le tài duō	1
@@ -107769,7 +107781,7 @@ sort: by_weight
 就当旅游了	jiù dāng lǚ yóu le	1
 就当没听见	jiù dāng méi tīng jiàn	1
 就到北京了	jiù dào běi jīng le	1
-就到这儿吧	jiù dào zhè ér ba	1
+就到这儿吧	jiù dào zhè er ba	1
 就得意忘形	jiù dé yì wàng xíng	1
 就低不就高	jiù dī bú jiù gāo	1
 就地打滚儿	jiù dì dǎ gǔn er	1
@@ -107838,7 +107850,7 @@ sort: by_weight
 九二零口腔	jiǔ èr líng kǒu qiāng	1
 九二一地震	jiǔ èr yí dì zhèn	1
 九方输入法	jiǔ fāng shū rù fǎ	1
-就放在那儿	jiù fàng zài nà ér	1
+就放在那儿	jiù fàng zài nà er	1
 就放在那里	jiù fàng zài nà lǐ	1
 就放在这里	jiù fàng zài zhè lǐ	1
 纠纷当事人	jiū fēn dāng shì rén	1
@@ -108128,7 +108140,7 @@ sort: by_weight
 就没必要买	jiù méi bì yào mǎi	1
 就没开始过	jiù méi kāi shǐ guò	1
 就没啥区别	jiù méi shá qū bié	1
-就没事儿了	jiù méi shì ér le	1
+就没事儿了	jiù méi shì er le	1
 就没意思了	jiù méi yì sī le	1
 就没有动力	jiù méi yǒu dòng lì	1
 就没有灵魂	jiù méi yǒu líng hún	1
@@ -109643,7 +109655,7 @@ sort: by_weight
 具体如下图	jù tǐ rú xià tú	1
 具体是多少	jù tǐ shì duō shǎo	1
 具体时间表	jù tǐ shí jiān biǎo	1
-具体是哪儿	jù tǐ shì nǎ ér	1
+具体是哪儿	jù tǐ shì nǎ er	1
 具体是什么	jù tǐ shì shén me	1
 具体为什么	jù tǐ wèi shén me	1
 具体有多少	jù tǐ yǒu duō shǎo	1
@@ -112092,13 +112104,14 @@ sort: by_weight
 看到了没有	kàn dào le méi yǒu	1
 看到了商机	kàn dào le shāng jī	1
 看到了什么	kàn dào le shén me	1
+看到了什么	kàn dào le shén me	1
 看到了世界	kàn dào le shì jiè	1
 看到了曙光	kàn dào le shǔ guāng	1
 看到了未来	kàn dào le wèi lái	1
 看到了希望	kàn dào le xī wàng	1
 看到了一个	kàn dào le yí gè	1
 看到了一切	kàn dào le yí qiè	1
-看到了这儿	kàn dào le zhè ér	1
+看到了这儿	kàn dào le zhè er	1
 看到了这种	kàn dào le zhè zhǒng	1
 看到了最后	kàn dào le zuì hòu	1
 看到两个人	kàn dào liǎng gè rén	1
@@ -112115,7 +112128,7 @@ sort: by_weight
 看到他的脸	kàn dào tā de liǎn	1
 看到王俊凯	kàn dào wáng jùn kǎi	1
 看到我了吗	kàn dào wǒ le ma	1
-看到我女儿	kàn dào wǒ nǚ ér	1
+看到我女儿	kàn dào wǒ nǚ er	1
 看到我自己	kàn dào wǒ zì jǐ	1
 看到消息后	kàn dào xiāo xi hòu	1
 看到小学生	kàn dào xiǎo xué shēng	1
@@ -113299,7 +113312,7 @@ sort: by_weight
 可爱的男人	kě ài de nán rén	1
 可爱的男生	kě ài de nán shēng	1
 可爱的你们	kě ài de nǐ men	1
-可爱的女儿	kě ài de nǚ ér	1
+可爱的女儿	kě ài de nǚ er	1
 可爱的女孩	kě ài de nǚ hái	1
 可爱的女人	kě ài de nǚ rén	1
 可爱的女生	kě ài de nǚ shēng	1
@@ -113577,7 +113590,7 @@ sort: by_weight
 可二次开发	kě èr cì kāi fā	1
 科尔德威岛	kē ěr dé wēi dǎo	1
 克尔戈伦岛	kè ěr gē lún dǎo	1
-可儿江西也	kě ér jiāng xī yě	1
+可儿江西也	kě er jiāng xī yě	1
 科尔卡斯角	kē ěr kǎ sī jiǎo	1
 科尔纳特岛	kē ěr nà tè dǎo	1
 科尔内利角	kē ěr nèi lì jiǎo	1
@@ -114225,7 +114238,7 @@ sort: by_weight
 可怜的梨花	kě lián de lí huā	1
 可怜的母亲	kě lián de mǔ qīn	1
 可怜的男人	kě lián de nán rén	1
-可怜的女儿	kě lián de nǚ ér	1
+可怜的女儿	kě lián de nǚ er	1
 可怜的女孩	kě lián de nǚ hái	1
 可怜的女人	kě lián de nǚ rén	1
 可怜的强强	kě lián de qiáng qiáng	1
@@ -117986,7 +117999,7 @@ sort: by_weight
 垃圾桶模型	lā jī tǒng mó xíng	1
 垃圾桶旁边	lā jī tǒng páng biān	1
 垃圾投放点	lā jī tóu fàng diǎn	1
-垃圾玩意儿	lā jī wán yì ér	1
+垃圾玩意儿	lā jī wán yì er	1
 垃圾无害化	lā jī wú hài huà	1
 垃圾压实机	lā jī yā shí jī	1
 垃圾压缩车	lā jī yā suō chē	1
@@ -118462,7 +118475,7 @@ sort: by_weight
 蓝晶石片岩	lán jīng shí piàn yán	1
 蓝军切尔西	lán jūn qiè ěr xī	1
 蓝刻齿雀鲷	lán kè chǐ què diāo	1
-蓝可儿事件	lán kě ér shì jiàn	1
+蓝可儿事件	lán kě er shì jiàn	1
 兰克墨头鱼	lán kè mò tóu yú	1
 蓝颏青蜂鸟	lán kē qīng fēng niǎo	1
 懒懒的金鱼	lǎn lǎn de jīn yú	1
@@ -118986,7 +118999,7 @@ sort: by_weight
 老板打电话	lǎo bǎn dǎ diàn huà	1
 老板的儿子	lǎo bǎn de ér zi	1
 老板的秘书	lǎo bǎn de mì shū	1
-老板的女儿	lǎo bǎn de nǚ ér	1
+老板的女儿	lǎo bǎn de nǚ er	1
 老板的亲戚	lǎo bǎn de qīn qī	1
 老板的食谱	lǎo bǎn de shí pǔ	1
 老板的要求	lǎo bǎn de yāo qiú	1
@@ -119187,8 +119200,8 @@ sort: by_weight
 老公和儿子	lǎo gōng hé ér zi	1
 老公和孩子	lǎo gōng hé hái zi	1
 老公和老婆	lǎo gōng hé lǎo pó	1
-老公和女儿	lǎo gōng hé nǚ ér	1
-老公和婆婆	lǎo gōng hé pó pó	1
+老公和女儿	lǎo gōng hé nǚ er	1
+老公和婆婆	lǎo gōng hé pó po	1
 老公和小三	lǎo gōng hé xiǎo sān	1
 老公很喜欢	lǎo gōng hěn xǐ huān	1
 老公看你的	lǎo gōng kàn nǐ de	1
@@ -119381,7 +119394,7 @@ sort: by_weight
 老婆和儿子	lǎo pó hé ér zi	1
 老婆和孩子	lǎo pó hé hái zi	1
 老婆和老妈	lǎo pó hé lǎo mā	1
-老婆和女儿	lǎo pó hé nǚ ér	1
+老婆和女儿	lǎo pó hé nǚ er	1
 老婆怀孕后	lǎo pó huái yùn hòu	1
 老婆回来了	lǎo pó huí lái le	1
 老婆回娘家	lǎo pó huí niáng jiā	1
@@ -119402,7 +119415,7 @@ sort: by_weight
 老人的家人	lǎo rén de jiā rén	1
 老人的家属	lǎo rén de jiā shǔ	1
 老人的健康	lǎo rén de jiàn kāng	1
-老人的女儿	lǎo rén de nǚ ér	1
+老人的女儿	lǎo rén de nǚ er	1
 老人的亲属	lǎo rén de qīn shǔ	1
 老人的情绪	lǎo rén de qíng xù	1
 老人的赡养	lǎo rén de shàn yǎng	1
@@ -121341,6 +121354,7 @@ sort: by_weight
 李斯特氏菌	lǐ sī tè shì jūn	1
 离丝线虫属	lí sī xiàn chóng shǔ	1
 丽松鼠亚科	lì sōng shǔ yà kē	1
+李肃说吕布	lǐ sù shuō lǚ bù	1
 力所不能及	lì suǒ bù néng jí	1
 利索寄蝇属	lì suǒ jì yíng shǔ	1
 理索纳控股	lǐ suǒ nà kòng gǔ	1
@@ -122935,8 +122949,8 @@ sort: by_weight
 两个男人的	liǎng gè nán rén de	1
 两个男主角	liǎng gè nán zhǔ jué	1
 两个年轻人	liǎng gè nián qīng rén	1
-两个弄潮儿	liǎng gè nòng cháo ér	1
-两个女孩儿	liǎng gè nǚ hái ér	1
+两个弄潮儿	liǎng gè nòng cháo er	1
+两个女孩儿	liǎng gè nǚ hái er	1
 两个女孩子	liǎng gè nǚ hái zi	1
 两个女朋友	liǎng gè nǚ péng you	1
 两个女主角	liǎng gè nǚ zhǔ jué	1
@@ -122985,7 +122999,7 @@ sort: by_weight
 两个西红柿	liǎng gè xī hóng shì	1
 两个小宝宝	liǎng gè xiǎo bǎo bǎo	1
 两个小宝贝	liǎng gè xiǎo bǎo bèi	1
-两个小宝儿	liǎng gè xiǎo bǎo ér	1
+两个小宝儿	liǎng gè xiǎo bǎo er	1
 两个小辫子	liǎng gè xiǎo biàn zi	1
 两个小东西	liǎng gè xiǎo dōng xi	1
 两个小哥哥	liǎng gè xiǎo gē ge	1
@@ -123405,7 +123419,7 @@ sort: by_weight
 两人的名字	liǎng rén de míng zì	1
 两人的默契	liǎng rén de mò qì	1
 两人的年龄	liǎng rén de nián líng	1
-两人的女儿	liǎng rén de nǚ ér	1
+两人的女儿	liǎng rén de nǚ er	1
 两人的情感	liǎng rén de qíng gǎn	1
 两人的日常	liǎng rén de rì cháng	1
 两人的身份	liǎng rén de shēn fèn	1
@@ -123528,7 +123542,7 @@ sort: by_weight
 两岁的宝宝	liǎng suì de bǎo bao	1
 两岁的儿子	liǎng suì de ér zi	1
 两岁的孩子	liǎng suì de hái zi	1
-两岁的女儿	liǎng suì de nǚ ér	1
+两岁的女儿	liǎng suì de nǚ er	1
 两所幼儿园	liǎng suǒ yòu ér yuán	1
 两台笔记本	liǎng tái bǐ jì běn	1
 两台发动机	liǎng tái fā dòng jī	1
@@ -124310,7 +124324,7 @@ sort: by_weight
 邻甲基苯酚	lín jiǎ jī běn fēn	1
 邻甲基酚酞	lín jiǎ jī fēn tài	1
 邻甲基氯苄	lín jiǎ jī lǜ biàn	1
-邻家女孩儿	lín jiā nǚ hái ér	1
+邻家女孩儿	lín jiā nǚ hái er	1
 邻家小姑娘	lín jiā xiǎo gū niang	1
 邻家小萝莉	lín jiā xiǎo luó lì	1
 邻家小妹妹	lín jiā xiǎo mèi mei	1
@@ -124333,7 +124347,7 @@ sort: by_weight
 临近预产期	lín jìn yù chǎn qī	1
 邻居查尔斯	lín jū chá ěr sī	1
 邻居的孩子	lín jū de hái zi	1
-邻居的女儿	lín jū de nǚ ér	1
+邻居的女儿	lín jū de nǚ er	1
 邻居的妻子	lín jū de qī zǐ	1
 邻居的时候	lín jū de shí hou	1
 邻居家的狗	lín jū jiā de gǒu	1
@@ -125603,7 +125617,7 @@ sort: by_weight
 刘德华电影	liú dé huá diàn yǐng	1
 刘德华歌曲	liú dé huá gē qǔ	1
 刘德华监制	liú dé huá jiān zhì	1
-刘德华女儿	liú dé huá nǚ ér	1
+刘德华女儿	liú dé huá nǚ er	1
 刘德华先生	liú dé huá xiān shēng	1
 刘德华专辑	liú dé huá zhuān jí	1
 留德科尔斯	liú dé kē ěr sī	1
@@ -126379,7 +126393,7 @@ sort: by_weight
 硫酸紫霉素	liú suān zǐ méi sù	1
 六岁的儿子	liù suì de ér zi	1
 六岁的孩子	liù suì de hái zi	1
-六岁的女儿	liù suì de nǚ ér	1
+六岁的女儿	liù suì de nǚ er	1
 六索线虫属	liù suǒ xiàn chóng shǔ	1
 硫碳酸铅矿	liú tàn suān qiān kuàng	1
 硫弹性沥青	liú tán xìng lì qīng	1
@@ -126632,7 +126646,7 @@ sort: by_weight
 刘亦菲饰演	liú yì fēi shì yǎn	1
 刘亦菲素颜	liú yì fēi sù yán	1
 刘亦菲主演	liú yì fēi zhǔ yǎn	1
-六一好儿童	liù yī hǎo ér tóng	1
+六一好儿童	liù yī hǎo er tóng	1
 六一九炮战	liù yī jiǔ pào zhàn	1
 六一六事变	liù yī liù shì biàn	1
 六一七炮战	liù yī qī pào zhàn	1
@@ -127621,7 +127635,7 @@ sort: by_weight
 露叶毛毡苔	lù yè máo zhān tái	1
 录也没录过	lù yě méi lù guò	1
 路易波拿巴	lù yì bō ná bā	1
-陆毅的女儿	lù yì de nǚ ér	1
+陆毅的女儿	lù yì de nǚ er	1
 录一段视频	lù yí duàn shì pín	1
 陆毅和鲍蕾	lù yì hé bào lěi	1
 路易拿破仑	lù yì ná pò lún	1
@@ -129448,7 +129462,7 @@ sort: by_weight
 妈妈的模样	mā ma de mú yàng	1
 妈妈的那个	mā ma de nà ge	1
 妈妈的奶水	mā ma de nǎi shuǐ	1
-妈妈的女儿	mā ma de nǚ ér	1
+妈妈的女儿	mā ma de nǚ er	1
 妈妈的陪伴	mā ma de péi bàn	1
 妈妈的朋友	mā ma de péng you	1
 妈妈的情绪	mā ma de qíng xù	1
@@ -129503,7 +129517,7 @@ sort: by_weight
 妈妈告诉我	mā ma gào sù wǒ	1
 妈妈给宝宝	mā ma gěi bǎo bao	1
 妈妈给你买	mā ma gěi nǐ mǎi	1
-妈妈给女儿	mā ma gěi nǚ ér	1
+妈妈给女儿	mā ma gěi nǚ er	1
 妈妈跟我说	mā ma gēn wǒ shuō	1
 妈妈过生日	mā ma guò shēng rì	1
 妈妈和爸爸	mā ma hé bà ba	1
@@ -129516,8 +129530,8 @@ sort: by_weight
 妈妈和老婆	mā ma hé lǎo pó	1
 妈妈和妹妹	mā ma hé mèi mei	1
 妈妈和奶奶	mā ma hé nǎi nai	1
-妈妈和女儿	mā ma hé nǚ ér	1
-妈妈和婆婆	mā ma hé pó pó	1
+妈妈和女儿	mā ma hé nǚ er	1
+妈妈和婆婆	mā ma hé pó po	1
 妈妈和外婆	mā ma hé wài pó	1
 妈妈很高兴	mā ma hěn gāo xìng	1
 妈妈很喜欢	mā ma hěn xǐ huān	1
@@ -130653,7 +130667,7 @@ sort: by_weight
 矛齿鱼亚目	máo chǐ yú yà mù	1
 冒充公检法	mào chōng gōng jiǎn fǎ	1
 毛虫俱乐部	máo chóng jù lè bù	1
-毛虫婆婆纳	máo chóng pó pó nà	1
+毛虫婆婆纳	máo chóng pó po nà	1
 毛虫猪笼草	máo chóng zhū lóng cǎo	1
 毛唇鼠尾草	máo chún shǔ wěi cǎo	1
 毛唇玉凤花	máo chún yù fèng huā	1
@@ -132085,7 +132099,7 @@ sort: by_weight
 美丽的名字	měi lì de míng zì	1
 美丽的母亲	měi lì de mǔ qīn	1
 美丽的南方	měi lì de nán fāng	1
-美丽的女儿	měi lì de nǚ ér	1
+美丽的女儿	měi lì de nǚ er	1
 美丽的女孩	měi lì de nǚ hái	1
 美丽的女人	měi lì de nǚ rén	1
 美丽的女神	měi lì de nǚ shén	1
@@ -132473,7 +132487,7 @@ sort: by_weight
 美能达相机	měi néng dá xiàng jī	1
 没能控制好	méi néng kòng zhì hǎo	1
 没能在一起	méi néng zài yì qǐ	1
-没你的份儿	méi nǐ de fèn ér	1
+没你的份儿	méi nǐ de fèn er	1
 梅尼尔氏症	méi ní ěr shì zhèng	1
 美尼尔氏症	měi ní ěr shì zhèng	1
 煤泥分选机	méi ní fēn xuǎn jī	1
@@ -132889,9 +132903,9 @@ sort: by_weight
 美食第一站	měi shí dì yī zhàn	1
 美食短视频	měi shí duǎn shì pín	1
 没事多喝水	méi shì duō hē shuǐ	1
-没事儿干了	méi shì ér gàn le	1
-没事儿闲的	méi shì ér xián de	1
-没事儿一样	méi shì ér yí yàng	1
+没事儿干了	méi shì er gàn le	1
+没事儿闲的	méi shì er xián de	1
+没事儿一样	méi shì er yí yàng	1
 美式复古风	měi shì fù gǔ fēng	1
 没事改着玩	méi shì gǎi zhe wán	1
 美式橄榄球	měi shì gǎn lǎn qiú	1
@@ -133583,7 +133597,7 @@ sort: by_weight
 每英寸点数	měi yīng cùn diǎn shù	1
 每英吋像素	měi yīng cùn xiàng sù	1
 每英寸像素	měi yīng cùn xiàng sù	1
-没影儿的事	méi yǐng ér de shì	1
+没影儿的事	méi yǐng er de shì	1
 没用的阿吉	méi yòng de ā jí	1
 没用的东西	méi yòng de dōng xi	1
 没用的废物	méi yòng de fèi wù	1
@@ -133953,7 +133967,7 @@ sort: by_weight
 门冬胰岛素	mén dōng yí dǎo sù	1
 门都出不去	mén dōu chū bú qù	1
 门多萨龙属	mén duō sà lóng shǔ	1
-门儿都没有	mén ér dōu méi yǒu	1
+门儿都没有	mén er dōu méi yǒu	1
 门缝里看人	mén fèng lǐ kàn rén	1
 门格尔定理	mén gé ěr dìng lǐ	1
 门将颜骏凌	mén jiàng yán jùn líng	1
@@ -135464,7 +135478,6 @@ sort: by_weight
 民主革命家	mín zhǔ gé mìng jiā	1
 民主共和党	mín zhǔ gòng hé dǎng	1
 民主共和国	mín zhǔ gòng hé guó	1
-民主共和政	mín zhǔ gòng hé zhèng	1
 民主共和制	mín zhǔ gòng hé zhì	1
 民主捍卫者	mín zhǔ hàn wèi zhě	1
 民主和科学	mín zhǔ hé kē xué	1
@@ -137561,7 +137574,7 @@ sort: by_weight
 母亲河黄河	mǔ qīn hé huáng hé	1
 母亲和姐姐	mǔ qīn hé jiě jie	1
 母亲和妹妹	mǔ qīn hé mèi mei	1
-母亲和女儿	mǔ qīn hé nǚ ér	1
+母亲和女儿	mǔ qīn hé nǚ er	1
 母亲和妻子	mǔ qīn hé qī zǐ	1
 母亲和婴儿	mǔ qīn hé yīng ér	1
 母亲节当天	mǔ qīn jié dàng tiān	1
@@ -137826,13 +137839,13 @@ sort: by_weight
 那多没意思	nà duō méi yì sī	1
 那朵知语花	nà duǒ zhī yǔ huā	1
 呐尔不哒号	nà ěr bù dá hào	1
-哪儿到哪儿	nǎ ér dào nǎ ér	1
-哪儿跟哪儿	nǎ ér gēn nǎ ér	1
+哪儿到哪儿	nǎ er dào nǎ er	1
+哪儿跟哪儿	nǎ er gēn nǎ er	1
 那耳喀索斯	nà ěr kā suǒ sī	1
 那耳客索斯	nà ěr kè suǒ sī	1
-哪儿那么多	nǎ ér nà me duō	1
+哪儿那么多	nǎ er nà me duō	1
 纳尔瓦战役	nà ěr wǎ zhàn yì	1
-哪儿也不去	nǎ ér yě bú qù	1
+哪儿也不去	nǎ er yě bú qù	1
 那方面不行	nà fāng miàn bù xíng	1
 娜菲鲁塔利	nà fēi lǔ tǎ lì	1
 纳夫塔鳄属	nà fū tǎ è shǔ	1
@@ -137864,7 +137877,7 @@ sort: by_weight
 那个年代里	nà ge nián dài lǐ	1
 那个年轻人	nà ge nián qīng rén	1
 那个女孩的	nà ge nǚ hái de	1
-那个女孩儿	nà ge nǚ hái ér	1
+那个女孩儿	nà ge nǚ hái er	1
 那个女孩子	nà ge nǚ hái zi	1
 那个女同学	nà ge nǚ tóng xué	1
 那个女演员	nà ge nǚ yǎn yuán	1
@@ -137883,7 +137896,7 @@ sort: by_weight
 那个世界里	nà ge shì jiè lǐ	1
 那个双子座	nà ge shuāng zǐ zuò	1
 那个谁谁谁	nà ge shuí shuí shuí	1
-那个玩意儿	nà ge wán yì ér	1
+那个玩意儿	nà ge wán yì er	1
 那个王八蛋	nà ge wáng bā dàn	1
 那个味道啊	nà ge wèi dào a	1
 那个我喜欢	nà ge wǒ xǐ huān	1
@@ -138267,7 +138280,7 @@ sort: by_weight
 那些日子里	nà xiē rì zi lǐ	1
 那些逝去的	nà xiē shì qù de	1
 哪些是重点	nǎ xiē shì zhòng diǎn	1
-那些玩意儿	nà xiē wán yì ér	1
+那些玩意儿	nà xiē wán yì er	1
 那些小人物	nà xiē xiǎo rén wù	1
 那些小鲜肉	nà xiē xiǎo xiān ròu	1
 那些有钱人	nà xiē yǒu qián rén	1
@@ -138586,7 +138599,7 @@ sort: by_weight
 萘乙酸乙酯	nài yǐ suān yǐ zhǐ	1
 耐用品订单	nài yòng pǐn dìng dān	1
 耐用消费品	nài yòng xiāo fèi pǐn	1
-奶油冰棍儿	nǎi yóu bīng gùn ér	1
+奶油冰棍儿	nǎi yóu bīng gùn er	1
 奶油冰淇淋	nǎi yóu bīng qí lín	1
 奶油菠萝冻	nǎi yóu bō luó dòng	1
 奶油炒面糊	nǎi yóu chǎo miàn hú	1
@@ -139242,7 +139255,7 @@ sort: by_weight
 男性健康日	nán xìng jiàn kāng rì	1
 男性科学家	nán xìng kē xué jiā	1
 男性恐惧症	nán xìng kǒng jù zhèng	1
-男性模特儿	nán xìng mó tè ér	1
+男性模特儿	nán xìng mó tè er	1
 男性尿道口	nán xìng niào dào kǒu	1
 男性尿道炎	nán xìng niào dào yán	1
 男性女高音	nán xìng nǚ gāo yīn	1
@@ -140739,7 +140752,7 @@ sort: by_weight
 拟刺新鳗鲶	nǐ cì xīn mán nián	1
 逆磁性物质	nì cí xìng wù zhì	1
 你从来就不	nǐ cóng lái jiù bù	1
-你从哪儿来	nǐ cóng nǎ ér lái	1
+你从哪儿来	nǐ cóng nǎ er lái	1
 你从哪里来	nǐ cóng nǎ lǐ lái	1
 你从未见过	nǐ cóng wèi jiàn guò	1
 你从未在此	nǐ cóng wèi zài cǐ	1
@@ -140771,7 +140784,7 @@ sort: by_weight
 你到底爱谁	nǐ dào dǐ ài shuí	1
 你到底是谁	nǐ dào dǐ shì shuí	1
 你到底在哪	nǐ dào dǐ zài nǎ	1
-你到哪儿了	nǐ dào nǎ ér le	1
+你到哪儿了	nǐ dào nǎ er le	1
 你到哪里去	nǐ dào nǎ lǐ qù	1
 你到那里去	nǐ dào nà lǐ qù	1
 你倒是说啊	nǐ dào shì shuō a	1
@@ -141583,7 +141596,7 @@ sort: by_weight
 你没经历过	nǐ méi jīng lì guò	1
 你美眷如花	nǐ měi juàn rú huā	1
 你没看到吗	nǐ méi kàn dào ma	1
-你没事儿吧	nǐ méi shì ér ba	1
+你没事儿吧	nǐ méi shì er ba	1
 你没时间去	nǐ méi shí jiān qù	1
 你没事就好	nǐ méi shì jiù hǎo	1
 你没事没事	nǐ méi shì méi shì	1
@@ -141655,7 +141668,7 @@ sort: by_weight
 你们的梦想	nǐ men de mèng xiǎng	1
 你们的名字	nǐ men de míng zì	1
 你们的努力	nǐ men de nǔ lì	1
-你们的女儿	nǐ men de nǚ ér	1
+你们的女儿	nǐ men de nǚ er	1
 你们的女神	nǐ men de nǚ shén	1
 你们的朋友	nǐ men de péng you	1
 你们的评论	nǐ men de píng lùn	1
@@ -141770,7 +141783,7 @@ sort: by_weight
 你们有没有	nǐ men yǒu méi yǒu	1
 你们在北京	nǐ men zài běi jīng	1
 你们在干嘛	nǐ men zài gàn ma	1
-你们在哪儿	nǐ men zài nǎ ér	1
+你们在哪儿	nǐ men zài nǎ er	1
 你们在哪里	nǐ men zài nǎ lǐ	1
 你们在那里	nǐ men zài nà lǐ	1
 你们在哪呢	nǐ men zài nǎ ne	1
@@ -141929,7 +141942,7 @@ sort: by_weight
 你去看看的	nǐ qù kàn kàn de	1
 你去了哪里	nǐ qù le nǎ lǐ	1
 你去没去过	nǐ qù méi qù guò	1
-你去哪儿了	nǐ qù nǎ ér le	1
+你去哪儿了	nǐ qù nǎ er le	1
 你去哪里了	nǐ qù nǎ lǐ le	1
 你去死好了	nǐ qù sǐ hǎo le	1
 你去洗洗睡	nǐ qù xǐ xǐ shuì	1
@@ -142401,7 +142414,7 @@ sort: by_weight
 拟项鳍鲇属	nǐ xiàng qí nián shǔ	1
 拟项鳍鲶属	nǐ xiàng qí nián shǔ	1
 拟项鳍鲉属	nǐ xiàng qí yóu shǔ	1
-你想去哪儿	nǐ xiǎng qù nǎ ér	1
+你想去哪儿	nǐ xiǎng qù nǎ er	1
 你想去哪里	nǐ xiǎng qù nǎ lǐ	1
 逆向失忆症	nì xiàng shī yì zhèng	1
 拟相手蟹属	nǐ xiāng shǒu xiè shǔ	1
@@ -142501,7 +142514,7 @@ sort: by_weight
 你要考什么	nǐ yào kǎo shén me	1
 你要买什么	nǐ yào mǎi shén me	1
 你要闹哪样	nǐ yào nào nǎ yàng	1
-你要去哪儿	nǐ yào qù nǎ ér	1
+你要去哪儿	nǐ yào qù nǎ er	1
 你要去哪里	nǐ yào qù nǎ lǐ	1
 你要是喜欢	nǐ yào shì xǐ huān	1
 你要是愿意	nǐ yào shì yuàn yì	1
@@ -142686,8 +142699,8 @@ sort: by_weight
 你在看什么	nǐ zài kàn shén me	1
 你在看我吗	nǐ zài kàn wǒ ma	1
 你在忙什么	nǐ zài máng shén me	1
-你在哪儿啊	nǐ zài nǎ ér a	1
-你在哪儿呢	nǐ zài nǎ ér ne	1
+你在哪儿啊	nǐ zài nǎ er a	1
+你在哪儿呢	nǐ zài nǎ er ne	1
 你在哪个区	nǐ zài nǎ ge qū	1
 你在哪里啊	nǐ zài nǎ lǐ a	1
 你在哪里呢	nǐ zài nǎ lǐ ne	1
@@ -142832,7 +142845,7 @@ sort: by_weight
 你只要记住	nǐ zhǐ yào jì zhù	1
 你只有一个	nǐ zhǐ yǒu yí gè	1
 拟蜘蛛兰属	nǐ zhī zhū lán shǔ	1
-你中了几条	nǐ zhōng le jǐ tiáo	1
+你中了几条	nǐ zhòng le jǐ tiáo	1
 你中枪了吗	nǐ zhōng qiāng le ma	1
 你终于出现	nǐ zhōng yú chū xiàn	1
 你终于来了	nǐ zhōng yú lái le	1
@@ -142901,7 +142914,7 @@ sort: by_weight
 你总结一下	nǐ zǒng jié yí xià	1
 拟鬃鳃鱼属	nǐ zōng sāi yú shǔ	1
 你总是这样	nǐ zǒng shì zhè yàng	1
-你走到哪儿	nǐ zǒu dào nǎ ér	1
+你走到哪儿	nǐ zǒu dào nǎ er	1
 你走到哪里	nǐ zǒu dào nǎ lǐ	1
 你走的那天	nǐ zǒu de nà tiān	1
 你走的时候	nǐ zǒu de shí hou	1
@@ -143314,7 +143327,7 @@ sort: by_weight
 年幼的儿子	nián yòu de ér zi	1
 年幼的孩子	nián yòu de hái zi	1
 年幼的妹妹	nián yòu de mèi mei	1
-年幼的女儿	nián yòu de nǚ ér	1
+年幼的女儿	nián yòu de nǚ er	1
 鲶鱼级潜艇	nián yú jí qián tǐng	1
 鲇鱼山灌区	nián yú shān guàn qū	1
 鲇鱼山街道	nián yú shān jiē dào	1
@@ -144809,72 +144822,72 @@ sort: by_weight
 女帝汉库克	nǚ dì hàn kù kè	1
 女帝奇英传	nǚ dì qí yīng zhuàn	1
 女帝武则天	nǚ dì wǔ zé tiān	1
-女儿被绑架	nǚ ér bèi bǎng jià	1
-女儿出嫁后	nǚ ér chū jià hòu	1
-女儿出嫁了	nǚ ér chū jià le	1
-女儿出嫁时	nǚ ér chū jià shí	1
-女儿出生后	nǚ ér chū shēng hòu	1
-女儿出生时	nǚ ér chū shēng shí	1
-女儿打电话	nǚ ér dǎ diàn huà	1
-女儿当自强	nǚ ér dāng zì qiáng	1
-女儿的爸爸	nǚ ér de bà ba	1
-女儿的病情	nǚ ér de bìng qíng	1
-女儿的成长	nǚ ér de chéng zhǎng	1
-女儿的出生	nǚ ér de chū shēng	1
-女儿的到来	nǚ ér de dào lái	1
-女儿的电话	nǚ ér de diàn huà	1
-女儿的房间	nǚ ér de fáng jiān	1
-女儿的父亲	nǚ ér de fù qīn	1
-女儿的工作	nǚ ér de gōng zuò	1
-女儿的故事	nǚ ér de gù shì	1
-女儿的婚礼	nǚ ér de hūn lǐ	1
-女儿的婚事	nǚ ér de hūn shì	1
-女儿的嫁妆	nǚ ér de jià zhuāng	1
-女儿的老师	nǚ ér de lǎo shī	1
-女儿的礼物	nǚ ér de lǐ wù	1
-女儿的恋爱	nǚ ér de liàn ài	1
-女儿的名字	nǚ ér de míng zì	1
-女儿的男友	nǚ ér de nán yǒu	1
-女儿的朋友	nǚ ér de péng you	1
-女儿的日记	nǚ ér de rì jì	1
-女儿的身体	nǚ ér de shēn tǐ	1
-女儿的生日	nǚ ér de shēng rì	1
-女儿的思念	nǚ ér de sī niàn	1
-女儿的同学	nǚ ér de tóng xué	1
-女儿的问题	nǚ ér de wèn tí	1
-女儿的心思	nǚ ér de xīn sī	1
-女儿的幸福	nǚ ér de xìng fú	1
-女儿的性命	nǚ ér de xìng mìng	1
-女儿的选择	nǚ ér de xuǎn zé	1
-女儿的学习	nǚ ér de xué xí	1
-女儿的衣服	nǚ ér de yī fu	1
-女儿的长相	nǚ ér de zhǎng xiàng	1
-女儿法图麦	nǚ ér fǎ tú mài	1
-女儿刚出生	nǚ ér gāng chū shēng	1
-女儿国国民	nǚ ér guó guó mín	1
-女儿国国王	nǚ ér guó guó wáng	1
-女儿和爸爸	nǚ ér hé bà ba	1
-女儿和儿子	nǚ ér hé ér zi	1
-女儿河街道	nǚ ér hé jiē dào	1
-女儿和母亲	nǚ ér hé mǔ qīn	1
-女儿和女婿	nǚ ér hé nǚ xu	1
-女儿很喜欢	nǚ ér hěn xǐ huān	1
-女儿回娘家	nǚ ér huí niáng jiā	1
-女儿结婚后	nǚ ér jié hūn hòu	1
-女儿美不美	nǚ ér měi bù měi	1
-女儿上大学	nǚ ér shàng dà xué	1
-女儿是彭帅	nǚ ér shì péng shuài	1
-女儿谈恋爱	nǚ ér tán liàn ài	1
-女儿王诗龄	nǚ ér wáng shī líng	1
-女儿像爸爸	nǚ ér xiàng bà ba	1
-女儿小糯米	nǚ ér xiǎo nuò mǐ	1
-女儿小时候	nǚ ér xiǎo shí hou	1
-女儿写作业	nǚ ér xiě zuò yè	1
-女儿要富养	nǚ ér yào fù yǎng	1
-女儿伊万卡	nǚ ér yī wàn kǎ	1
-女儿幼儿园	nǚ ér yòu ér yuán	1
-女儿长大后	nǚ ér zhǎng dà hòu	1
-女儿正面照	nǚ ér zhèng miàn zhào	1
+女儿被绑架	nǚ er bèi bǎng jià	1
+女儿出嫁后	nǚ er chū jià hòu	1
+女儿出嫁了	nǚ er chū jià le	1
+女儿出嫁时	nǚ er chū jià shí	1
+女儿出生后	nǚ er chū shēng hòu	1
+女儿出生时	nǚ er chū shēng shí	1
+女儿打电话	nǚ er dǎ diàn huà	1
+女儿当自强	nǚ er dāng zì qiáng	1
+女儿的爸爸	nǚ er de bà ba	1
+女儿的病情	nǚ er de bìng qíng	1
+女儿的成长	nǚ er de chéng zhǎng	1
+女儿的出生	nǚ er de chū shēng	1
+女儿的到来	nǚ er de dào lái	1
+女儿的电话	nǚ er de diàn huà	1
+女儿的房间	nǚ er de fáng jiān	1
+女儿的父亲	nǚ er de fù qīn	1
+女儿的工作	nǚ er de gōng zuò	1
+女儿的故事	nǚ er de gù shì	1
+女儿的婚礼	nǚ er de hūn lǐ	1
+女儿的婚事	nǚ er de hūn shì	1
+女儿的嫁妆	nǚ er de jià zhuāng	1
+女儿的老师	nǚ er de lǎo shī	1
+女儿的礼物	nǚ er de lǐ wù	1
+女儿的恋爱	nǚ er de liàn ài	1
+女儿的名字	nǚ er de míng zì	1
+女儿的男友	nǚ er de nán yǒu	1
+女儿的朋友	nǚ er de péng you	1
+女儿的日记	nǚ er de rì jì	1
+女儿的身体	nǚ er de shēn tǐ	1
+女儿的生日	nǚ er de shēng rì	1
+女儿的思念	nǚ er de sī niàn	1
+女儿的同学	nǚ er de tóng xué	1
+女儿的问题	nǚ er de wèn tí	1
+女儿的心思	nǚ er de xīn sī	1
+女儿的幸福	nǚ er de xìng fú	1
+女儿的性命	nǚ er de xìng mìng	1
+女儿的选择	nǚ er de xuǎn zé	1
+女儿的学习	nǚ er de xué xí	1
+女儿的衣服	nǚ er de yī fu	1
+女儿的长相	nǚ er de zhǎng xiàng	1
+女儿法图麦	nǚ er fǎ tú mài	1
+女儿刚出生	nǚ er gāng chū shēng	1
+女儿国国民	nǚ er guó guó mín	1
+女儿国国王	nǚ er guó guó wáng	1
+女儿和爸爸	nǚ er hé bà ba	1
+女儿和儿子	nǚ er hé ér zi	1
+女儿河街道	nǚ er hé jiē dào	1
+女儿和母亲	nǚ er hé mǔ qīn	1
+女儿和女婿	nǚ er hé nǚ xu	1
+女儿很喜欢	nǚ er hěn xǐ huān	1
+女儿回娘家	nǚ er huí niáng jiā	1
+女儿结婚后	nǚ er jié hūn hòu	1
+女儿美不美	nǚ er měi bù měi	1
+女儿上大学	nǚ er shàng dà xué	1
+女儿是彭帅	nǚ er shì péng shuài	1
+女儿谈恋爱	nǚ er tán liàn ài	1
+女儿王诗龄	nǚ er wáng shī líng	1
+女儿像爸爸	nǚ er xiàng bà ba	1
+女儿小糯米	nǚ er xiǎo nuò mǐ	1
+女儿小时候	nǚ er xiǎo shí hou	1
+女儿写作业	nǚ er xiě zuò yè	1
+女儿要富养	nǚ er yào fù yǎng	1
+女儿伊万卡	nǚ er yī wàn kǎ	1
+女儿幼儿园	nǚ er yòu ér yuán	1
+女儿长大后	nǚ er zhǎng dà hòu	1
+女儿正面照	nǚ er zhèng miàn zhào	1
 女法官协会	nǚ fǎ guān xié huì	1
 女方的父母	nǚ fāng de fù mǔ	1
 女高推理班	nǚ gāo tuī lǐ bān	1
@@ -147201,7 +147214,7 @@ sort: by_weight
 朋友的名义	péng you de míng yì	1
 朋友的名字	péng you de míng zì	1
 朋友的母亲	péng you de mǔ qīn	1
-朋友的女儿	péng you de nǚ ér	1
+朋友的女儿	péng you de nǚ er	1
 朋友的女人	péng you de nǚ rén	1
 朋友的女友	péng you de nǚ yǒu	1
 朋友的陪伴	péng you de péi bàn	1
@@ -147923,7 +147936,7 @@ sort: by_weight
 漂亮的面孔	piào liang de miàn kǒng	1
 漂亮的男孩	piào liang de nán hái	1
 漂亮的男人	piào liang de nán rén	1
-漂亮的女儿	piào liang de nǚ ér	1
+漂亮的女儿	piào liang de nǚ er	1
 漂亮的女孩	piào liang de nǚ hái	1
 漂亮的女人	piào liang de nǚ rén	1
 漂亮的女神	piào liang de nǚ shén	1
@@ -147968,7 +147981,7 @@ sort: by_weight
 漂亮的照片	piào liang de zhào piān	1
 漂亮的转身	piào liang de zhuǎn shēn	1
 漂亮的装饰	piào liang de zhuāng shì	1
-漂亮女孩儿	piào liang nǚ hái ér	1
+漂亮女孩儿	piào liang nǚ hái er	1
 漂亮女孩子	piào liang nǚ hái zi	1
 漂亮女老师	piào liang nǚ lǎo shī	1
 漂亮女明星	piào liang nǚ míng xīng	1
@@ -149304,7 +149317,7 @@ sort: by_weight
 泼辣酷企鹅	pō là kù qǐ é	1
 破烂的电梯	pò làn de diàn tī	1
 破烂的衣服	pò làn de yī fu	1
-破烂玩意儿	pò làn wán yì ér	1
+破烂玩意儿	pò làn wán yì er	1
 珀勒德布尔	pò lè dé bù ěr	1
 破了个大洞	pò le gè dà dòng	1
 泼了盆冷水	pō le pén lěng shuǐ	1
@@ -149342,19 +149355,19 @@ sort: by_weight
 破囊壶菌科	pò náng hú jūn kē	1
 泼皮破落户	pō pí pò luò hù	1
 破片手榴弹	pò piàn shǒu liú dàn	1
-婆婆不是妈	pó pó bú shì mā	1
-婆婆打电话	pó pó dǎ diàn huà	1
-婆婆带孩子	pó pó dài hái zi	1
-婆婆的脸色	pó pó de liǎn sè	1
-婆婆的态度	pó pó de tài dù	1
-婆婆的做法	pó pó de zuò fǎ	1
-婆婆和儿媳	pó pó hé ér xí	1
-婆婆和老公	pó pó hé lǎo gōng	1
-婆婆和妈妈	pó pó hé mā ma	1
-婆婆和媳妇	pó pó hé xí fù	1
-婆婆也是妈	pó pó yě shì mā	1
-婆婆与儿媳	pó pó yǔ ér xí	1
-婆婆针线包	pó pó zhēn xiàn bāo	1
+婆婆不是妈	pó po bú shì mā	1
+婆婆打电话	pó po dǎ diàn huà	1
+婆婆带孩子	pó po dài hái zi	1
+婆婆的脸色	pó po de liǎn sè	1
+婆婆的态度	pó po de tài dù	1
+婆婆的做法	pó po de zuò fǎ	1
+婆婆和儿媳	pó po hé ér xí	1
+婆婆和老公	pó po hé lǎo gōng	1
+婆婆和妈妈	pó po hé mā ma	1
+婆婆和媳妇	pó po hé xí fù	1
+婆婆也是妈	pó po yě shì mā	1
+婆婆与儿媳	pó po yǔ ér xí	1
+婆婆针线包	pó po zhēn xiàn bāo	1
 迫切的任务	pò qiè de rèn wù	1
 迫切的危机	pò qiè de wēi jī	1
 迫切的问题	pò qiè de wèn tí	1
@@ -149917,7 +149930,7 @@ sort: by_weight
 普通摩托车	pǔ tōng mó tuō chē	1
 普通年轻人	pǔ tōng nián qīng rén	1
 普通念珠藻	pǔ tōng niàn zhū zǎo	1
-普通女孩儿	pǔ tōng nǚ hái ér	1
+普通女孩儿	pǔ tōng nǚ hái er	1
 普通女孩子	pǔ tōng nǚ hái zi	1
 普通女青年	pǔ tōng nǚ qīng nián	1
 扑通扑通跳	pū tōng pū tōng tiào	1
@@ -150503,18 +150516,18 @@ sort: by_weight
 起伏的山峦	qǐ fú de shān luán	1
 七氟丁酸酐	qī fú dīng suān gān	1
 齐夫基夫齐	qí fū jī fū qí	1
-欺负老百姓	qī fù lǎo bǎi xìng	1
-欺负老实人	qī fù lǎo shí rén	1
+欺负老百姓	qī fu lǎo bǎi xìng	1
+欺负老实人	qī fu lǎo shí rén	1
 其父母有罪	qí fù mǔ yǒu zuì	1
-欺负女孩子	qī fù nǚ hái zi	1
+欺负女孩子	qī fu nǚ hái zi	1
 七福神巡礼	qī fú shén xún lǐ	1
 七氟钽酸钾	qī fú tǎn suān jiǎ	1
-欺负我一个	qī fù wǒ yí gè	1
+欺负我一个	qī fu wǒ yí gè	1
 奇跗线螨属	qí fū xiàn mǎn shǔ	1
-欺负小孩子	qī fù xiǎo hái zi	1
-欺负小朋友	qī fù xiǎo péng you	1
+欺负小孩子	qī fu xiǎo hái zi	1
+欺负小朋友	qī fu xiǎo péng you	1
 起傅岩石刻	qǐ fù yán shí kè	1
-欺负中国人	qī fù zhōng guó rén	1
+欺负中国人	qī fu zhōng guó rén	1
 乞丐版车型	qǐ gài bǎn chē xíng	1
 乞丐鱼亚科	qǐ gài yú yà kē	1
 栖高温菌属	qī gāo wēn jūn shǔ	1
@@ -152357,7 +152370,7 @@ sort: by_weight
 妻子和儿子	qī zǐ hé ér zi	1
 妻子和孩子	qī zǐ hé hái zi	1
 妻子和母亲	qī zǐ hé mǔ qīn	1
-妻子和女儿	qī zǐ hé nǚ ér	1
+妻子和女儿	qī zǐ hé nǚ er	1
 妻子和情人	qī zǐ hé qíng rén	1
 妻子和丈夫	qī zǐ hé zhàng fū	1
 妻子和子女	qī zǐ hé zǐ nǚ	1
@@ -152463,7 +152476,7 @@ sort: by_weight
 前冲弧圈球	qián chōng hú quān qiú	1
 浅虫温泉站	qiǎn chóng wēn quán zhàn	1
 浅川智惠子	qiǎn chuān zhì huì zǐ	1
-钱从哪儿来	qián cóng nǎ ér lái	1
+钱从哪儿来	qián cóng nǎ er lái	1
 钱从哪里来	qián cóng nǎ lǐ lái	1
 钱存在银行	qián cún zài yín háng	1
 前大灯设计	qián dà dēng shè jì	1
@@ -152939,7 +152952,7 @@ sort: by_weight
 千秋家国梦	qiān qiū jiā guó mèng	1
 浅丘琉璃子	qiǎn qiū liú lí zǐ	1
 前去过那里	qián qù guò nà lǐ	1
-钱去哪儿了	qián qù nǎ ér le	1
+钱去哪儿了	qián qù nǎ er le	1
 缱绻仙凡间	qiǎn quǎn xiān fán jiān	1
 千人保有量	qiān rén bǎo yǒu liàng	1
 前任的婚礼	qián rèn de hūn lǐ	1
@@ -153568,7 +153581,7 @@ sort: by_weight
 强大影响力	qiáng dà yǐng xiǎng lì	1
 强大战斗力	qiáng dà zhàn dòu lì	1
 强大执行力	qiáng dà zhí xíng lì	1
-强盗的女儿	qiáng dào de nǚ ér	1
+强盗的女儿	qiáng dào de nǚ er	1
 强到哪儿去	qiáng dào nǎ ér qù	1
 墙倒众人推	qiáng dǎo zhòng rén tuī	1
 强盗资本家	qiáng dào zī běn jiā	1
@@ -153927,7 +153940,7 @@ sort: by_weight
 强势的男人	qiáng shì de nán rén	1
 强势的女人	qiáng shì de nǚ rén	1
 强势的品牌	qiáng shì de pǐn pái	1
-强势的婆婆	qiáng shì de pó pó	1
+强势的婆婆	qiáng shì de pó po	1
 强势的一方	qiáng shì de yì fāng	1
 强势股补跌	qiáng shì gǔ bǔ diē	1
 强势股回调	qiáng shì gǔ huí tiáo	1
@@ -154261,7 +154274,7 @@ sort: by_weight
 切成滚刀块	qiē chéng gǔn dāo kuài	1
 切成三角形	qiē chéng sān jiǎo xíng	1
 切成小方块	qiē chéng xiǎo fāng kuài	1
-切成小块儿	qiē chéng xiǎo kuài ér	1
+切成小块儿	qiē chéng xiǎo kuài er	1
 切成小块后	qiē chéng xiǎo kuài hòu	1
 切成小块状	qiē chéng xiǎo kuài zhuàng	1
 切成一小块	qiē chéng yì xiǎo kuài	1
@@ -154403,7 +154416,7 @@ sort: by_weight
 亲爱的母亲	qīn ài de mǔ qīn	1
 亲爱的奶奶	qīn ài de nǎi nai	1
 亲爱的你们	qīn ài de nǐ men	1
-亲爱的女儿	qīn ài de nǚ ér	1
+亲爱的女儿	qīn ài de nǚ er	1
 亲爱的女孩	qīn ài de nǚ hái	1
 亲爱的朋友	qīn ài de péng you	1
 亲爱的戎装	qīn ài de róng zhuāng	1
@@ -154639,7 +154652,7 @@ sort: by_weight
 亲身体验过	qīn shēn tǐ yàn guò	1
 琴生不等式	qín shēng bù děng shì	1
 亲生的孩子	qīn shēng de hái zi	1
-亲生的女儿	qīn shēng de nǚ ér	1
+亲生的女儿	qīn shēng de nǚ er	1
 亲生命假说	qīn shēng mìng jiǎ shuō	1
 亲生物元素	qīn shēng wù yuán sù	1
 秦始皇本纪	qín shǐ huáng běn jì	1
@@ -156136,7 +156149,7 @@ sort: by_weight
 情商有点低	qíng shāng yǒu diǎn dī	1
 情商与智商	qíng shāng yǔ zhì shāng	1
 请稍等片刻	qǐng shāo děng piàn kè	1
-青少儿英语	qīng shǎo ér yīng yǔ	1
+青少儿英语	qīng shào ér yīng yǔ	1
 请稍后再拨	qǐng shāo hòu zài bō	1
 请稍后再试	qǐng shāo hòu zài shì	1
 青少年安全	qīng shào nián ān quán	1
@@ -157625,11 +157638,11 @@ sort: by_weight
 驱魔人前传	qū mó rén qián zhuàn	1
 去某个地方	qù mǒu gè dì fāng	1
 趋木齿菌属	qū mù chǐ jūn shǔ	1
-去哪儿攻略	qù nǎ ér gōng lüè	1
-去哪儿酒店	qù nǎ ér jiǔ diàn	1
-去哪儿旅行	qù nǎ ér lǚ xíng	1
-去哪儿旅游	qù nǎ ér lǚ yóu	1
-去哪儿玩儿	qù nǎ ér wán ér	1
+去哪儿攻略	qù nǎ er gōng lüè	1
+去哪儿酒店	qù nǎ er jiǔ diàn	1
+去哪儿旅行	qù nǎ er lǚ xíng	1
+去哪儿旅游	qù nǎ er lǚ yóu	1
+去哪儿玩儿	qù nǎ er wán er	1
 去哪个城市	qù nǎ ge chéng shì	1
 去哪个地方	qù nǎ ge dì fāng	1
 去哪个平台	qù nǎ ge píng tái	1
@@ -159447,7 +159460,7 @@ sort: by_weight
 确定自闭症	què dìng zì bì zhèng	1
 雀杜父鱼属	què dù fù yú shǔ	1
 却尔却克虫	què ěr què kè chóng	1
-雀儿山公园	què ér shān gōng yuán	1
+雀儿山公园	què er shān gōng yuán	1
 缺乏标准化	quē fá biāo zhǔn huà	1
 缺乏持续性	quē fá chí xù xìng	1
 缺乏创新性	quē fá chuàng xīn xìng	1
@@ -159991,7 +160004,7 @@ sort: by_weight
 让我抱抱你	ràng wǒ bào bào nǐ	1
 让我背黑锅	ràng wǒ bēi hēi guō	1
 让我带你去	ràng wǒ dài nǐ qù	1
-让我的女儿	ràng wǒ de nǚ ér	1
+让我的女儿	ràng wǒ de nǚ er	1
 让我告诉你	ràng wǒ gào sù nǐ	1
 让我很郁闷	ràng wǒ hěn yù mèn	1
 让我静一静	ràng wǒ jìng yí jìng	1
@@ -160020,7 +160033,7 @@ sort: by_weight
 让我们自由	ràng wǒ men zì yóu	1
 让我们走进	ràng wǒ men zǒu jìn	1
 让我陪着你	ràng wǒ péi zhe nǐ	1
-让我欺负你	ràng wǒ qī fù nǐ	1
+让我欺负你	ràng wǒ qī fu nǐ	1
 让我误会的	ràng wǒ wù huì de	1
 让我想起了	ràng wǒ xiǎng qǐ le	1
 让我想起你	ràng wǒ xiǎng qǐ nǐ	1
@@ -160712,7 +160725,7 @@ sort: by_weight
 人家的老公	rén jiā de lǎo gōng	1
 人家的老婆	rén jiā de lǎo pó	1
 人家的名字	rén jiā de míng zì	1
-人家的女儿	rén jiā de nǚ ér	1
+人家的女儿	rén jiā de nǚ er	1
 人家的生活	rén jiā de shēng huó	1
 人家的生意	rén jiā de shēng yì	1
 人家的意见	rén jiā de yì jiàn	1
@@ -162722,7 +162735,7 @@ sort: by_weight
 容易被感染	róng yì bèi gǎn rǎn	1
 容易被忽视	róng yì bèi hū shì	1
 容易被激怒	róng yì bèi jī nù	1
-容易被欺负	róng yì bèi qī fù	1
+容易被欺负	róng yì bèi qī fu	1
 容易被误会	róng yì bèi wù huì	1
 容易被遗忘	róng yì bèi yí wàng	1
 容易被影响	róng yì bèi yǐng xiǎng	1
@@ -163176,7 +163189,7 @@ sort: by_weight
 如果我现在	rú guǒ wǒ xiàn zài	1
 如果我有钱	rú guǒ wǒ yǒu qián	1
 如果我知道	rú guǒ wǒ zhī dào	1
-如果我中了	rú guǒ wǒ zhōng le	1
+如果我中了	rú guǒ wǒ zhòng le	1
 如果我走了	rú guǒ wǒ zǒu le	1
 如果我做了	rú guǒ wǒ zuò le	1
 如果吸血鬼	rú guǒ xī xuè guǐ	1
@@ -165676,7 +165689,7 @@ sort: by_weight
 傻白甜人设	shǎ bái tián rén shè	1
 傻白甜形象	shǎ bái tián xíng xiàng	1
 砂白樱蛤属	shā bái yīng há shǔ	1
-傻逼玩意儿	shǎ bī wán yì ér	1
+傻逼玩意儿	shǎ bī wán yì er	1
 傻逼一样的	shǎ bī yí yàng de	1
 沙钵略可汗	shā bō lüè kè hán	1
 纱布海蛳螺	shā bù hǎi sī luó	1
@@ -165697,8 +165710,6 @@ sort: by_weight
 杀出一片天	shā chū yí piàn tiān	1
 杀出一条路	shā chū yì tiáo lù	1
 沙葱鸢尾属	shā cōng yuān wěi shǔ	1
-厦大图书馆	shà dà tú shū guǎn	1
-厦大医院站	shà dà yī yuàn zhàn	1
 砂单胞菌属	shā dān bāo jūn shǔ	1
 鲨胆大话王	shā dǎn dà huà wáng	1
 杀稻瘟菌素	shā dào wēn jūn sù	1
@@ -165877,7 +165888,7 @@ sort: by_weight
 沙田市中心	shā tián shì zhōng xīn	1
 沙土集战役	shā tǔ jí zhàn yì	1
 沙瓦特定律	shā wǎ tè dìng lǜ	1
-啥玩意儿啊	shá wán yì ér a	1
+啥玩意儿啊	shá wán yì er a	1
 杀微生物剂	shā wēi shēng wù jì	1
 沙勿略教堂	shā wù lüè jiào táng	1
 砂鰕虎鱼属	shā xiā hǔ yú shǔ	1
@@ -167695,7 +167706,7 @@ sort: by_weight
 上面有好多	shàng miàn yǒu hǎo duō	1
 上面有什么	shàng miàn yǒu shén me	1
 上名牌大学	shàng míng pái dà xué	1
-上哪儿说理	shàng nǎ ér shuō lǐ	1
+上哪儿说理	shàng nǎ er shuō lǐ	1
 上哪个大学	shàng nǎ ge dà xué	1
 上哪里去找	shàng nǎ lǐ qù zhǎo	1
 上哪所大学	shàng nǎ suǒ dà xué	1
@@ -167956,7 +167967,7 @@ sort: by_weight
 上网玩游戏	shàng wǎng wán yóu xì	1
 尚未被开发	shàng wèi bèi kāi fā	1
 上位捕虫笼	shàng wèi bǔ chóng lóng	1
-上尉的女儿	shàng wèi de nǚ ér	1
+上尉的女儿	shàng wèi de nǚ er	1
 上位机软件	shàng wèi jī ruǎn jiàn	1
 尚未上映的	shàng wèi shàng yìng de	1
 尚未有定论	shàng wèi yǒu dìng lùn	1
@@ -168107,6 +168118,8 @@ sort: by_weight
 上行下给式	shàng xíng xià gěi shì	1
 上学的孩子	shàng xué de hái zi	1
 上学的路上	shàng xué de lù shàng	1
+上学的年纪	shàng xué de nián jì	1
+上学的年龄	shàng xué de nián líng	1
 上学的日子	shàng xué de rì zi	1
 上学的上学	shàng xué de shàng xué	1
 上学的时候	shàng xué de shí hou	1
@@ -168369,18 +168382,18 @@ sort: by_weight
 少带重牙鲷	shǎo dài zhòng yá diāo	1
 绍德铁甲虫	shào dé tiě jiǎ chóng	1
 稍等一会儿	shāo děng yí huì er	1
-少儿出版社	shǎo ér chū bǎn shè	1
-少儿出版物	shǎo ér chū bǎn wù	1
-少儿合唱团	shǎo ér hé chàng tuán	1
-少儿拉丁舞	shǎo ér lā dīng wǔ	1
-少儿平安福	shǎo ér píng ān fú	1
-少儿图书馆	shǎo ér tú shū guǎn	1
-少儿学英语	shǎo ér xué yīng yǔ	1
-少儿艺术团	shǎo ér yì shù tuán	1
-少儿意外险	shǎo ér yì wài xiǎn	1
-少儿阅览室	shǎo ér yuè lǎn shì	1
-少儿重疾险	shǎo ér zhòng jí xiǎn	1
-少儿主持人	shǎo ér zhǔ chí rén	1
+少儿出版社	shào ér chū bǎn shè	1
+少儿出版物	shào ér chū bǎn wù	1
+少儿合唱团	shào ér hé chàng tuán	1
+少儿拉丁舞	shào ér lā dīng wǔ	1
+少儿平安福	shào ér píng ān fú	1
+少儿图书馆	shào ér tú shū guǎn	1
+少儿学英语	shào ér xué yīng yǔ	1
+少儿艺术团	shào ér yì shù tuán	1
+少儿意外险	shào ér yì wài xiǎn	1
+少儿阅览室	shào ér yuè lǎn shì	1
+少儿重疾险	shào ér zhòng jí xiǎn	1
+少儿主持人	shào ér zhǔ chí rén	1
 少奋斗几年	shǎo fèn dòu jǐ nián	1
 少奋斗十年	shǎo fèn dòu shí nián	1
 少辐光蟾鱼	shǎo fú guāng chán yú	1
@@ -168902,7 +168915,7 @@ sort: by_weight
 舍不得离开	shě bù de lí kāi	1
 舍不得你们	shě bù de nǐ men	1
 舍不得你走	shě bù de nǐ zǒu	1
-舍不得女儿	shě bù de nǚ ér	1
+舍不得女儿	shě bù de nǚ er	1
 舍不得扔掉	shě bù de rēng diào	1
 舍不得删除	shě bù de shān chú	1
 舍不得删掉	shě bù de shān diào	1
@@ -170939,7 +170952,7 @@ sort: by_weight
 什么他妈的	shén me tā mā de	1
 什么态度啊	shén me tài dù a	1
 什么玩意啊	shén me wán yì a	1
-什么玩意儿	shén me wán yì ér	1
+什么玩意儿	shén me wán yì er	1
 什么为什么	shén me wèi shén me	1
 什么问题啊	shén me wèn tí a	1
 什么我家的	shén me wǒ jiā de	1
@@ -171599,7 +171612,7 @@ sort: by_weight
 神堂慧理那	shén táng huì lǐ nà	1
 沈腾和马丽	shěn téng hé mǎ lì	1
 身体棒棒哒	shēn tǐ bàng bàng dá	1
-身体倍儿棒	shēn tǐ bèi ér bàng	1
+身体倍儿棒	shēn tǐ bèi er bàng	1
 身体被掏空	shēn tǐ bèi tāo kōng	1
 身体不方便	shēn tǐ bù fāng biàn	1
 身体不健康	shēn tǐ bú jiàn kāng	1
@@ -172474,7 +172487,7 @@ sort: by_weight
 生当复来归	shēng dāng fù lái guī	1
 生当做人杰	shēng dàng zuò rén jié	1
 剩的不多了	shèng de bù duō le	1
-生的是女儿	shēng de shì nǚ ér	1
+生的是女儿	shēng de shì nǚ er	1
 省电力公司	shěng diàn lì gōng sī	1
 省电气学校	shěng diàn qì xué xiào	1
 省电影公司	shěng diàn yǐng gōng sī	1
@@ -172530,6 +172543,7 @@ sort: by_weight
 省广播电台	shěng guǎng bō diàn tái	1
 声光电技术	shēng guāng diàn jì shù	1
 声光热电力	shēng guāng rè diàn lì	1
+声光调制器	shēng guāng tiáo zhì qì	1
 胜过吃补药	shèng guò chī bǔ yào	1
 生过孩子后	shēng guò hái zi hòu	1
 生过好多次	shēng guò hǎo duō cì	1
@@ -173050,12 +173064,12 @@ sort: by_weight
 生了个儿子	shēng le gè ér zi	1
 生了个孩子	shēng le gè hái zi	1
 生了个男孩	shēng le gè nán hái	1
-生了个女儿	shēng le gè nǚ ér	1
+生了个女儿	shēng le gè nǚ er	1
 生了个女孩	shēng le gè nǚ hái	1
 生了个小孩	shēng le gè xiǎo hái	1
 生了孩子后	shēng le hái zi hòu	1
 省了很多钱	shěng le hěn duō qián	1
-生了女儿后	shēng le nǚ ér hòu	1
+生了女儿后	shēng le nǚ er hòu	1
 生了什么病	shēng le shén me bìng	1
 生了双胞胎	shēng le shuāng bāo tāi	1
 生了一场病	shēng le yì chǎng bìng	1
@@ -173158,7 +173172,7 @@ sort: by_weight
 生命大爆发	shēng mìng dà bào fā	1
 生命大爆炸	shēng mìng dà bào zhà	1
 生命大分子	shēng mìng dà fēn zǐ	1
-生命当儿戏	shēng mìng dāng ér xì	1
+生命当儿戏	shēng mìng dāng er xì	1
 生命倒计时	shēng mìng dǎo jì shí	1
 生命的奥秘	shēng mìng de ào mì	1
 生命的宝贵	shēng mìng de bǎo guì	1
@@ -173821,7 +173835,7 @@ sort: by_weight
 生下的孩子	shēng xià de hái zi	1
 剩下的孩子	shèng xià de hái zi	1
 盛夏的济南	shèng xià de jǐ nán	1
-生下的女儿	shēng xià de nǚ ér	1
+生下的女儿	shēng xià de nǚ er	1
 剩下的人生	shèng xià de rén shēng	1
 剩下的日子	shèng xià de rì zi	1
 盛夏的少年	shèng xià de shào nián	1
@@ -173839,7 +173853,7 @@ sort: by_weight
 省下来的钱	shěng xià lái de qián	1
 生下了儿子	shēng xià le ér zi	1
 生下了孩子	shēng xià le hái zi	1
-生下了女儿	shēng xià le nǚ ér	1
+生下了女儿	shēng xià le nǚ er	1
 生下龙凤胎	shēng xià lóng fèng tāi	1
 生下女儿后	shēng xià nǚ ér hòu	1
 生下双胞胎	shēng xià shuāng bāo tāi	1
@@ -174766,7 +174780,7 @@ sort: by_weight
 饰带毛鼻鲶	shì dài máo bí nián	1
 时代玫瑰园	shí dài méi guī yuán	1
 时代美术馆	shí dài měi shù guǎn	1
-时代弄潮儿	shí dài nòng cháo ér	1
+时代弄潮儿	shí dài nòng cháo er	1
 饰带朴丽鱼	shì dài pǔ lì yú	1
 时代启示录	shí dài qǐ shì lù	1
 时代少年团	shí dài shào nián tuán	1
@@ -175215,7 +175229,7 @@ sort: by_weight
 市妇产医院	shì fù chǎn yī yuàn	1
 市府大路站	shì fǔ dà lù zhàn	1
 师傅带徒弟	shī fu dài tú dì	1
-市妇儿工委	shì fù ér gōng wěi	1
+市妇儿工委	shì fù er gōng wěi	1
 市府广场东	shì fǔ guǎng chǎng dōng	1
 市府广场站	shì fǔ guǎng chǎng zhàn	1
 师傅郭德纲	shī fu guō dé gāng	1
@@ -175923,7 +175937,7 @@ sort: by_weight
 世间的美好	shì jiān de měi hǎo	1
 事件的内幕	shì jiàn de nèi mù	1
 时间的年轮	shí jiān de nián lún	1
-时间的女儿	shí jiān de nǚ ér	1
+时间的女儿	shí jiān de nǚ er	1
 时间的朋友	shí jiān de péng you	1
 事件的起因	shì jiàn de qǐ yīn	1
 时间的赛跑	shí jiān de sài pǎo	1
@@ -177627,7 +177641,7 @@ sort: by_weight
 失去的那些	shī qù de nà xiē	1
 逝去的年华	shì qù de nián huá	1
 逝去的诺言	shì qù de nuò yán	1
-失去的女儿	shī qù de nǚ ér	1
+失去的女儿	shī qù de nǚ er	1
 逝去的亲人	shì qù de qīn rén	1
 逝去的青春	shì qù de qīng chūn	1
 逝去的日子	shì qù de rì zi	1
@@ -177870,6 +177884,7 @@ sort: by_weight
 是啥玩意啊	shì shá wán yì a	1
 是啥意思啊	shì shá yì si a	1
 是啥意思了	shì shá yì si le	1
+是啥原因呢	shì shá yuán yīn ne	1
 石山坂本线	shí shān bǎn běn xiàn	1
 石山本愿寺	shí shān běn yuàn sì	1
 狮山大学城	shī shān dà xué chéng	1
@@ -177956,7 +177971,7 @@ sort: by_weight
 时尚敏锐度	shí shàng mǐn ruì dù	1
 时尚年轻人	shí shàng nián qīng rén	1
 时尚牛仔裤	shí shàng niú zǎi kù	1
-时尚弄潮儿	shí shàng nòng cháo ér	1
+时尚弄潮儿	shí shàng nòng cháo er	1
 时尚女编辑	shí shàng nǚ biān jí	1
 时尚女魔头	shí shàng nǚ mó tóu	1
 时尚偶像奖	shí shàng ǒu xiàng jiǎng	1
@@ -180144,7 +180159,7 @@ sort: by_weight
 饰妆铠弓鱼	shì zhuāng kǎi gōng yú	1
 饰妆丽体鱼	shì zhuāng lì tǐ yú	1
 饰妆毛鼻鲶	shì zhuāng máo bí nián	1
-时装模特儿	shí zhuāng mó tè ér	1
+时装模特儿	shí zhuāng mó tè er	1
 饰妆儒艮鲷	shì zhuāng rú gěn diāo	1
 时装设计师	shí zhuāng shè jì shī	1
 时装造型师	shí zhuāng zào xíng shī	1
@@ -180160,7 +180175,7 @@ sort: by_weight
 狮子大开口	shī zǐ dà kāi kǒu	1
 狮子大张口	shī zǐ dà zhāng kǒu	1
 狮子岛霉素	shī zi dǎo méi sù	1
-狮子的女儿	shī zi de nǚ ér	1
+狮子的女儿	shī zi de nǚ er	1
 狮子的牙齿	shī zi de yá chǐ	1
 狮子的摇滚	shī zi de yáo gǔn	1
 式自动步枪	shì zì dòng bù qiāng	1
@@ -180279,7 +180294,7 @@ sort: by_weight
 失踪的父亲	shī zōng de fù qīn	1
 失踪的孩子	shī zōng de hái zi	1
 失踪的黑色	shī zōng de hēi sè	1
-失踪的女儿	shī zōng de nǚ ér	1
+失踪的女儿	shī zōng de nǚ er	1
 失踪的女孩	shī zōng de nǚ hái	1
 失踪的事情	shī zōng de shì qíng	1
 失踪的王子	shī zōng de wáng zǐ	1
@@ -180440,7 +180455,7 @@ sort: by_weight
 受到了惊吓	shòu dào le jīng xià	1
 收到了没有	shōu dào le méi yǒu	1
 受到了启发	shòu dào le qǐ fā	1
-受到了欺负	shòu dào le qī fù	1
+受到了欺负	shòu dào le qī fu	1
 受到了欺骗	shòu dào le qī piàn	1
 受到了伤害	shòu dào le shāng hài	1
 受到了损害	shòu dào le sǔn hài	1
@@ -180702,6 +180717,7 @@ sort: by_weight
 手绘效果图	shǒu huì xiào guǒ tú	1
 收货报告单	shōu huò bào gào dān	1
 收获的果实	shōu huò de guǒ shí	1
+收获的季节	shōu huò de jì jié	1
 收获的季节	shōu huò de jì jié	1
 收获的快乐	shōu huò de kuài lè	1
 收获的日子	shōu huò de rì zi	1
@@ -183074,7 +183090,7 @@ sort: by_weight
 双胞胎妈妈	shuāng bāo tāi mā ma	1
 双胞胎妹妹	shuāng bāo tāi mèi mei	1
 双胞胎美女	shuāng bāo tāi měi nǚ	1
-双胞胎女儿	shuāng bāo tāi nǚ ér	1
+双胞胎女儿	shuāng bāo tāi nǚ er	1
 双胞胎女孩	shuāng bāo tāi nǚ hái	1
 双胞胎饲料	shuāng bāo tāi sì liào	1
 双胞胎兄弟	shuāng bāo tāi xiōng dì	1
@@ -184395,7 +184411,7 @@ sort: by_weight
 水瓶座女生	shuǐ píng zuò nǚ shēng	1
 水瓶座性格	shuǐ píng zuò xìng gé	1
 水瓶座运势	shuǐ píng zuò yùn shì	1
-谁欺负你了	shuí qī fù nǐ le	1
+谁欺负你了	shuí qī fu nǐ le	1
 睡前半小时	shuì qián bàn xiǎo shí	1
 睡前不饮茶	shuì qián bù yǐn chá	1
 睡前吃东西	shuì qián chī dōng xi	1
@@ -185573,7 +185589,7 @@ sort: by_weight
 四个交易日	sì gè jiāo yì rì	1
 四个金同志	sì gè jīn tóng zhì	1
 四个年轻人	sì gè nián qīng rén	1
-四个女孩儿	sì gè nǚ hái ér	1
+四个女孩儿	sì gè nǚ hái er	1
 四个全覆盖	sì gè quán fù gài	1
 四个摄像头	sì gè shè xiàng tóu	1
 四个时间段	sì gè shí jiān duàn	1
@@ -186356,7 +186372,7 @@ sort: by_weight
 似松鼠龙属	sì sōng shǔ lóng shǔ	1
 四岁的儿子	sì suì de ér zi	1
 四岁的孩子	sì suì de hái zi	1
-四岁的女儿	sì suì de nǚ ér	1
+四岁的女儿	sì suì de nǚ er	1
 丝穗金粟兰	sī suì jīn sù lán	1
 似锁瑚菌属	sì suǒ hú jūn shǔ	1
 斯塔巴克岛	sī tǎ bā kè dǎo	1
@@ -187936,7 +187952,7 @@ sort: by_weight
 随后的日子	suí hòu de rì zi	1
 穗花佛甲草	suì huā fó jiǎ cǎo	1
 碎花连衣裙	suì huā lián yī qún	1
-穗花婆婆纳	suì huā pó pó nà	1
+穗花婆婆纳	suì huā pó po nà	1
 穗花棋盘脚	suì huā qí pán jiǎo	1
 穗花香科科	suì huā xiāng kē kē	1
 穗花香苦草	suì huā xiāng kǔ cǎo	1
@@ -189523,7 +189539,7 @@ sort: by_weight
 太行英雄传	tài háng yīng xióng zhuàn	1
 太昊伏羲氏	tài hào fú xī shì	1
 太好看了吧	tài hǎo kàn le ba	1
-太好玩儿了	tài hǎo wán ér le	1
+太好玩儿了	tài hǎo wán er le	1
 太和城遗址	tài hé chéng yí zhǐ	1
 太和大药房	tài hé dà yào fáng	1
 太和宫金殿	tài hé gōng jīn diàn	1
@@ -189918,7 +189934,7 @@ sort: by_weight
 泰山老奶奶	tài shān lǎo nǎi nai	1
 太山龙泉寺	tài shān lóng quán sì	1
 泰山路街道	tài shān lù jiē dào	1
-泰山女儿茶	tài shān nǚ ér chá	1
+泰山女儿茶	tài shān nǚ er chá	1
 泰山气象站	tài shān qì xiàng zhàn	1
 泰山石敢当	tài shān shí gǎn dāng	1
 台山市政府	tái shān shì zhèng fǔ	1
@@ -190221,7 +190237,7 @@ sort: by_weight
 太阳的距离	tài yáng de jù lí	1
 太阳的力量	tài yáng de lì liàng	1
 太阳的能量	tài yáng de néng liàng	1
-太阳的女儿	tài yáng de nǚ ér	1
+太阳的女儿	tài yáng de nǚ er	1
 太阳的女人	tài yáng de nǚ rén	1
 太阳的女子	tài yáng de nǚ zǐ	1
 太阳的朋友	tài yáng de péng you	1
@@ -190790,6 +190806,7 @@ sort: by_weight
 探讨与交流	tàn tǎo yǔ jiāo liú	1
 弹跳黑丽鱼	tán tiào hēi lì yú	1
 弹跳力惊人	tán tiào lì jīng rén	1
+探听下虚实	tàn tīng xià xū shí	1
 贪图小便宜	tān tú xiǎo pián yi	1
 贪玩的孩子	tān wán de hái zi	1
 谭维维歌曲	tán wéi wéi gē qǔ	1
@@ -191553,7 +191570,7 @@ sort: by_weight
 特别工作组	tè bié gōng zuò zǔ	1
 特别股股本	tè bié gǔ gǔ běn	1
 特别好说话	tè bié hǎo shuō huà	1
-特别好玩儿	tè bié hǎo wán ér	1
+特别好玩儿	tè bié hǎo wán er	1
 特别会聊天	tè bié huì liáo tiān	1
 特别会说话	tè bié huì shuō huà	1
 特别检查官	tè bié jiǎn chá guān	1
@@ -193972,7 +193989,7 @@ sort: by_weight
 天使在哪里	tiān shǐ zài nǎ lǐ	1
 天使在人间	tiān shǐ zài rén jiān	1
 天使在身边	tiān shǐ zài shēn biān	1
-天使在这儿	tiān shǐ zài zhè ér	1
+天使在这儿	tiān shǐ zài zhè er	1
 天使在这里	tiān shǐ zài zhè lǐ	1
 天使综合征	tiān shǐ zōng hé zhēng	1
 天使综合症	tiān shǐ zōng hé zhèng	1
@@ -194127,7 +194144,7 @@ sort: by_weight
 天天要开心	tiān tiān yào kāi xīn	1
 天天有惊喜	tiān tiān yǒu jīng xǐ	1
 天天运动会	tiān tiān yùn dòng huì	1
-天天在那儿	tiān tiān zài nà ér	1
+天天在那儿	tiān tiān zài nà er	1
 天天在外边	tiān tiān zài wài biān	1
 天天在一起	tiān tiān zài yì qǐ	1
 天天早起的	tiān tiān zǎo qǐ de	1
@@ -195029,7 +195046,7 @@ sort: by_weight
 贴心的服务	tiē xīn de fú wù	1
 贴心的关怀	tiē xīn de guān huái	1
 贴心的礼物	tiē xīn de lǐ wù	1
-贴心的女儿	tiē xīn de nǚ ér	1
+贴心的女儿	tiē xīn de nǚ er	1
 贴心的朋友	tiē xīn de péng you	1
 贴心的设计	tiē xīn de shè jì	1
 贴心的问候	tiē xīn de wèn hòu	1
@@ -195186,7 +195203,7 @@ sort: by_weight
 挺好的其实	tǐng hǎo de qí shí	1
 挺好看的啊	tǐng hǎo kàn de a	1
 挺好看的呀	tǐng hǎo kàn de ya	1
-挺好玩儿的	tǐng hǎo wán ér de	1
+挺好玩儿的	tǐng hǎo wán er de	1
 听话的孩子	tīng huà de hái zi	1
 听话的学生	tīng huà de xué shēng	1
 挺会过日子	tǐng huì guò rì zi	1
@@ -195862,7 +195879,7 @@ sort: by_weight
 同事的关系	tóng shì de guān xì	1
 同事的孩子	tóng shì de hái zi	1
 同事的秘密	tóng shì de mì mì	1
-同事的女儿	tóng shì de nǚ ér	1
+同事的女儿	tóng shì de nǚ er	1
 同事的朋友	tóng shì de péng you	1
 同事的认可	tóng shì de rèn kě	1
 同事的支持	tóng shì de zhī chí	1
@@ -196290,6 +196307,7 @@ sort: by_weight
 同一款游戏	tóng yī kuǎn yóu xì	1
 统一了思想	tǒng yī le sī xiǎng	1
 统一零售价	tǒng yī líng shòu jià	1
+同一路径下	tóng yī lù jìng xià	1
 统一码标准	tǒng yī mǎ biāo zhǔn	1
 统一码联盟	tǒng yī mǎ lián méng	1
 统一马其顿	tǒng yī mǎ qí dùn	1
@@ -197174,7 +197192,7 @@ sort: by_weight
 土地取得费	tǔ dì qǔ dé fèi	1
 土地沙漠化	tǔ dì shā mò huà	1
 土地审裁处	tǔ dì shěn cái chǔ	1
-土地神公公	tǔ dì shén gōng gōng	1
+土地神公公	tǔ dì shén gōng gong	1
 土地生产力	tǔ dì shēng chǎn lì	1
 土地生产率	tǔ dì shēng chǎn lǜ	1
 土地适宜性	tǔ dì shì yí xìng	1
@@ -199059,7 +199077,7 @@ sort: by_weight
 弯齿褶丽鱼	wān chǐ zhě lì yú	1
 玩出不一样	wán chū bù yí yàng	1
 玩出了花样	wán chū le huā yàng	1
-玩出了名堂	wán chū le míng táng	1
+玩出了名堂	wán chū le míng tang	1
 玩出新高度	wán chū xīn gāo dù	1
 玩出新花样	wán chū xīn huā yàng	1
 玩传奇世界	wán chuán qí shì jiè	1
@@ -199123,7 +199141,7 @@ sort: by_weight
 万恶淫为首	wàn è yín wéi shǒu	1
 玩儿不下去	wán ér bú xià qù	1
 万尔芬效应	wàn ěr fēn xiào yìng	1
-玩儿剩下的	wán ér shèng xià de	1
+玩儿剩下的	wán er shèng xià de	1
 万法由心造	wàn fǎ yóu xīn zào	1
 晚饭吃什么	wǎn fàn chī shén me	1
 晚饭后散步	wǎn fàn hòu sàn bù	1
@@ -200230,7 +200248,7 @@ sort: by_weight
 王妃戴安娜	wáng fēi dài ān nà	1
 王菲的感情	wáng fēi de gǎn qíng	1
 王菲的歌曲	wáng fēi de gē qǔ	1
-王菲的女儿	wáng fēi de nǚ ér	1
+王菲的女儿	wáng fēi de nǚ er	1
 王菲的前夫	wáng fēi de qián fū	1
 王菲和窦唯	wáng fēi hé dòu wéi	1
 王菲李亚鹏	wáng fēi lǐ yà péng	1
@@ -201361,7 +201379,7 @@ sort: by_weight
 未成年怀孕	wèi chéng nián huái yùn	1
 未成年恋爱	wèi chéng nián liàn ài	1
 未成年母亲	wèi chéng nián mǔ qīn	1
-未成年女儿	wèi chéng nián nǚ ér	1
+未成年女儿	wèi chéng nián nǚ er	1
 未成年女孩	wèi chéng nián nǚ hái	1
 未成年女性	wèi chéng nián nǚ xìng	1
 未成年少男	wèi chéng nián shào nán	1
@@ -202005,7 +202023,7 @@ sort: by_weight
 未来的你们	wèi lái de nǐ men	1
 未来的女婿	wèi lái de nǚ xu	1
 未来的品牌	wèi lái de pǐn pái	1
-未来的婆婆	wèi lái de pó pó	1
+未来的婆婆	wèi lái de pó po	1
 未来的汽车	wèi lái de qì chē	1
 未来的期待	wèi lái de qī dài	1
 未来的期望	wèi lái de qī wàng	1
@@ -203257,7 +203275,7 @@ sort: by_weight
 唯一的男性	wéi yī de nán xìng	1
 唯一的念头	wéi yī de niàn tou	1
 唯一的念想	wéi yī de niàn xiǎng	1
-唯一的女儿	wéi yī de nǚ ér	1
+唯一的女儿	wéi yī de nǚ er	1
 唯一的女孩	wéi yī de nǚ hái	1
 唯一的女人	wéi yī de nǚ rén	1
 唯一的女神	wéi yī de nǚ shén	1
@@ -203508,7 +203526,7 @@ sort: by_weight
 位置异构体	wèi zhì yì gòu tǐ	1
 未知艺术家	wèi zhī yì shù jiā	1
 位置与方向	wèi zhì yǔ fāng xiàng	1
-位置在哪儿	wèi zhì zài nǎ ér	1
+位置在哪儿	wèi zhì zài nǎ er	1
 位置在哪里	wèi zhì zài nǎ lǐ	1
 位置指示器	wèi zhì zhǐ shì qì	1
 危重病医学	wēi zhòng bìng yī xué	1
@@ -204562,7 +204580,7 @@ sort: by_weight
 问题与解决	wèn tí yǔ jiě jué	1
 问题娱乐圈	wèn tí yú lè quān	1
 问题与挑战	wèn tí yǔ tiǎo zhàn	1
-问题在哪儿	wèn tí zài nǎ ér	1
+问题在哪儿	wèn tí zài nǎ er	1
 问题在哪里	wèn tí zài nǎ lǐ	1
 问题早发现	wèn tí zǎo fā xiàn	1
 问题指出来	wèn tí zhǐ chū lái	1
@@ -206580,7 +206598,7 @@ sort: by_weight
 我们前两天	wǒ men qián liǎng tiān	1
 我们青岛的	wǒ men qīng dǎo de	1
 我们去旅游	wǒ men qù lǚ yóu	1
-我们去哪儿	wǒ men qù nǎ ér	1
+我们去哪儿	wǒ men qù nǎ er	1
 我们去哪里	wǒ men qù nǎ lǐ	1
 我们缺什么	wǒ men quē shén me	1
 我们认识吗	wǒ men rèn shi ma	1
@@ -206772,7 +206790,7 @@ sort: by_weight
 我默默路过	wǒ mò mò lù guò	1
 沃那比蛇属	wò nà bǐ shé shǔ	1
 我拿到手机	wǒ ná dào shǒu jī	1
-我哪儿知道	wǒ nǎ ér zhī dào	1
+我哪儿知道	wǒ nǎ er zhī dào	1
 我哪里不好	wǒ nǎ lǐ bù hǎo	1
 我那么爱你	wǒ nà me ài nǐ	1
 我哪有时间	wǒ nǎ yǒu shí jiān	1
@@ -206799,8 +206817,8 @@ sort: by_weight
 卧牛山街道	wò niú shān jiē dào	1
 蜗牛也是牛	wō niú yě shì niú	1
 倭奴国王印	wō nú guó wáng yìn	1
-我女儿好萌	wǒ nǚ ér hǎo méng	1
-我女儿是花	wǒ nǚ ér shì huā	1
+我女儿好萌	wǒ nǚ er hǎo méng	1
+我女儿是花	wǒ nǚ er shì huā	1
 我怕来不及	wǒ pà lái bù jí	1
 我拍的照片	wǒ pāi de zhào piān	1
 我蹒跚在牵	wǒ pán shān zài qiān	1
@@ -206938,7 +206956,7 @@ sort: by_weight
 卧室的设计	wò shì de shè jì	1
 卧室的衣柜	wò shì de yī guì	1
 卧室的装修	wò shì de zhuāng xiū	1
-我是低能儿	wǒ shì dī néng ér	1
+我是低能儿	wǒ shì dī néng er	1
 我是地球人	wǒ shì dì qiú rén	1
 我是第一个	wǒ shì dì yī gè	1
 我是地质人	wǒ shì dì zhì rén	1
@@ -207931,7 +207949,7 @@ sort: by_weight
 我有你大爷	wǒ yǒu nǐ dà ye	1
 我有女朋友	wǒ yǒu nǚ péng you	1
 我有起床气	wǒ yǒu qǐ chuáng qì	1
-我有三个儿	wǒ yǒu sān gè ér	1
+我有三个儿	wǒ yǒu sān gè er	1
 我有时候都	wǒ yǒu shí hou dōu	1
 我有时会想	wǒ yǒu shí huì xiǎng	1
 我有时觉得	wǒ yǒu shí jué de	1
@@ -208057,7 +208075,7 @@ sort: by_weight
 我在娱乐圈	wǒ zài yú lè quān	1
 我在在一起	wǒ zài zài yì qǐ	1
 我在这等你	wǒ zài zhè děng nǐ	1
-我在这儿呢	wǒ zài zhè ér ne	1
+我在这儿呢	wǒ zài zhè er ne	1
 我在这里等	wǒ zài zhè lǐ děng	1
 我在直播间	wǒ zài zhí bō jiān	1
 我在中关村	wǒ zài zhōng guān cūn	1
@@ -209802,7 +209820,7 @@ sort: by_weight
 无论说什么	wú lùn shuō shén me	1
 无论在何处	wú lùn zài hé chù	1
 无论在何时	wú lùn zài hé shí	1
-无论在哪儿	wú lùn zài nǎ ér	1
+无论在哪儿	wú lùn zài nǎ er	1
 无论在哪里	wú lùn zài nǎ lǐ	1
 无论怎么变	wú lùn zěn me biàn	1
 无论怎么看	wú lùn zěn me kàn	1
@@ -210553,7 +210571,7 @@ sort: by_weight
 无穗柄苔草	wú suì bǐng tái cǎo	1
 五岁的儿子	wǔ suì de ér zi	1
 五岁的孩子	wǔ suì de hái zi	1
-五岁的女儿	wǔ suì de nǚ ér	1
+五岁的女儿	wǔ suì de nǚ er	1
 吴孙子兵法	wú sūn zǐ bīng fǎ	1
 无所不在的	wú suǒ bú zài de	1
 无所不知的	wú suǒ bù zhī de	1
@@ -212060,7 +212078,7 @@ sort: by_weight
 吸附等温式	xī fù děng wēn shì	1
 吸附等温线	xī fù děng wēn xiàn	1
 媳妇和孩子	xí fù hé hái zi	1
-媳妇和婆婆	xí fù hé pó pó	1
+媳妇和婆婆	xí fù hé pó po	1
 媳妇回娘家	xí fù huí niáng jiā	1
 吸附能力强	xī fù néng lì qiáng	1
 希福尼藓属	xī fú ní xiǎn shǔ	1
@@ -212154,7 +212172,7 @@ sort: by_weight
 嘻哈壹笑堂	xī hā yī xiào táng	1
 嘻哈音乐家	xī hā yīn yuè jiā	1
 喜旱莲子草	xǐ hàn lián zǐ cǎo	1
-稀罕玩意儿	xī hǎn wán yì ér	1
+稀罕玩意儿	xī han wán yì er	1
 洗好的衣服	xǐ hǎo de yī fu	1
 喜好和预算	xǐ hào hé yù suàn	1
 溪河瑙脂鲤	xī hé nǎo zhī lǐ	1
@@ -212184,6 +212202,7 @@ sort: by_weight
 喜欢安德鲁	xǐ huān ān dé lǔ	1
 喜欢帮助人	xǐ huān bāng zhù rén	1
 喜欢布莱德	xǐ huān bù lái dé	1
+喜欢不喜欢	xǐ huān bù xǐ huān	1
 喜欢不喜欢	xǐ huān bù xǐ huān	1
 喜欢吃大米	xǐ huān chī dà mǐ	1
 喜欢吃的菜	xǐ huān chī de cài	1
@@ -212722,6 +212741,7 @@ sort: by_weight
 溪流下口鲶	xī liú xià kǒu nián	1
 夕露沾我衣	xī lù zhān wǒ yī	1
 溪洛渡电站	xī luò dù diàn zhàn	1
+希律的生日	xī lǜ de shēng rì	1
 喜马灯心草	xǐ mǎ dēng xīn cǎo	1
 锡马尖条鳅	xī mǎ jiān tiáo qiū	1
 喜马拉雅猫	xǐ mǎ lā yǎ māo	1
@@ -213907,6 +213927,8 @@ sort: by_weight
 下次再说吧	xià cì zài shuō ba	1
 下次注意点	xià cì zhù yì diǎn	1
 下大甲溪桥	xià dà jiǎ xī qiáo	1
+厦大图书馆	xià dà tú shū guǎn	1
+厦大医院站	xià dà yī yuàn zhàn	1
 下大雨的天	xià dà yǔ de tiān	1
 下蛋的母鸡	xià dàn de mǔ jī	1
 下单的时候	xià dān de shí hou	1
@@ -215077,7 +215099,7 @@ sort: by_weight
 显得很年轻	xiǎn de hěn nián qīng	1
 显得很兴奋	xiǎn de hěn xīng fèn	1
 显得很优雅	xiǎn de hěn yōu yǎ	1
-闲的没事儿	xián de méi shì ér	1
+闲的没事儿	xián de méi shì er	1
 闲得没事干	xián de méi shì gàn	1
 闲得没事做	xián de méi shì zuò	1
 氙的同位素	xiān de tóng wèi sù	1
@@ -216318,6 +216340,7 @@ sort: by_weight
 现在是没法	xiàn zài shì méi fǎ	1
 现在市面上	xiàn zài shì miàn shàng	1
 现在是学习	xiàn zài shì xué xí	1
+现在试一下	xiàn zài shì yí xià	1
 现在使用的	xiàn zài shǐ yòng de	1
 现在手上的	xiàn zài shǒu shàng de	1
 现在说不上	xiàn zài shuō bú shàng	1
@@ -216380,7 +216403,7 @@ sort: by_weight
 显爪龟甲属	xiǎn zhǎo guī jiǎ shǔ	1
 先兆性流产	xiān zhào xìng liú chǎn	1
 先照照镜子	xiān zhào zhào jìng zi	1
-闲着没事儿	xián zhe méi shì ér	1
+闲着没事儿	xián zhe méi shì er	1
 闲着没事干	xián zhe méi shì gàn	1
 闲着没事做	xián zhe méi shì zuò	1
 闲着无聊的	xián zhe wú liáo de	1
@@ -216651,7 +216674,7 @@ sort: by_weight
 像初恋一样	xiàng chū liàn yí yàng	1
 想出去看看	xiǎng chū qù kàn kàn	1
 想出去旅游	xiǎng chū qù lǚ yóu	1
-想出去玩儿	xiǎng chū qù wán ér	1
+想出去玩儿	xiǎng chū qù wán er	1
 想出去走走	xiǎng chū qù zǒu zǒu	1
 想出人头地	xiǎng chū rén tóu dì	1
 相处在一起	xiāng chǔ zài yì qǐ	1
@@ -217506,7 +217529,7 @@ sort: by_weight
 向南说再见	xiàng nán shuō zài jiàn	1
 湘南新宿线	xiāng nán xīn sù xiàn	1
 想你成习惯	xiǎng nǐ chéng xí guàn	1
-像你的女儿	xiàng nǐ de nǚ ér	1
+像你的女儿	xiàng nǐ de nǚ er	1
 想你的时候	xiǎng nǐ de shí hou	1
 想你的微笑	xiǎng nǐ de wēi xiào	1
 香泥乐铁汁	xiāng ní lè tiě zhī	1
@@ -217919,6 +217942,7 @@ sort: by_weight
 相同或相近	xiāng tóng huò xiāng jìn	1
 相同或相似	xiāng tóng huò xiāng sì	1
 相同价值观	xiāng tóng jià zhí guān	1
+相同路径下	xiāng tóng lù jìng xià	1
 相同条件下	xiāng tóng tiáo jiàn xià	1
 向同一方向	xiàng tóng yī fāng xiàng	1
 相同与不同	xiāng tóng yǔ bù tóng	1
@@ -218178,7 +218202,7 @@ sort: by_weight
 想要告诉你	xiǎng yào gào sù nǐ	1
 想要个儿子	xiǎng yào gè ér zi	1
 想要个孩子	xiǎng yào gè hái zi	1
-想要个女儿	xiǎng yào gè nǚ ér	1
+想要个女儿	xiǎng yào gè nǚ er	1
 想要好身材	xiǎng yào hǎo shēn cái	1
 想要进一步	xiǎng yào jìn yí bù	1
 想要就直说	xiǎng yào jiù zhí shuō	1
@@ -220408,7 +220432,7 @@ sort: by_weight
 孝顺的儿女	xiào shùn de ér nǚ	1
 孝顺的儿子	xiào shùn de ér zi	1
 孝顺的孩子	xiào shùn de hái zi	1
-孝顺的女儿	xiào shùn de nǚ ér	1
+孝顺的女儿	xiào shùn de nǚ er	1
 孝顺的子女	xiào shùn de zǐ nǚ	1
 小说长恨歌	xiǎo shuō cháng hèn gē	1
 小说的背景	xiǎo shuō de bèi jǐng	1
@@ -221331,7 +221355,7 @@ sort: by_weight
 蟹粉狮子头	xiè fěn shī zi tóu	1
 蟹粉羊驼包	xiè fěn yáng tuó bāo	1
 楔蜂麻蝇属	xiē fēng má yíng shǔ	1
-写给女儿的	xiě gěi nǚ ér de	1
+写给女儿的	xiě gěi nǚ er de	1
 写给我的信	xiě gěi wǒ de xìn	1
 写给自己的	xiě gěi zì jǐ de	1
 写给自己看	xiě gěi zì jǐ kàn	1
@@ -221633,7 +221657,7 @@ sort: by_weight
 心爱的公主	xīn ài de gōng zhǔ	1
 心爱的男人	xīn ài de nán rén	1
 心爱的男生	xīn ài de nán shēng	1
-心爱的女儿	xīn ài de nǚ ér	1
+心爱的女儿	xīn ài de nǚ er	1
 心爱的女孩	xīn ài de nǚ hái	1
 心爱的女神	xīn ài de nǚ shén	1
 心爱的女友	xīn ài de nǚ yǒu	1
@@ -223033,7 +223057,7 @@ sort: by_weight
 辛弃疾作品	xīn qì jí zuò pǐn	1
 欣奇克利夫	xīn qí kè lì fū	1
 新奇特产品	xīn qí tè chǎn pǐn	1
-新奇玩意儿	xīn qí wán yì ér	1
+新奇玩意儿	xīn qí wán yì er	1
 心前区疼痛	xīn qián qū téng tòng	1
 新鞘脂菌属	xīn qiào zhī jūn shǔ	1
 新乔治亚岛	xīn qiáo zhì yà dǎo	1
@@ -223879,7 +223903,7 @@ sort: by_weight
 辛酰羟肟酸	xīn xiān qiǎng wò suān	1
 新现实主义	xīn xiàn shí zhǔ yì	1
 辛酰水杨酸	xīn xiān shuǐ yáng suān	1
-新鲜玩意儿	xīn xiān wán yì ér	1
+新鲜玩意儿	xīn xiān wán yì er	1
 新项目建设	xīn xiàng mù jiàn shè	279
 新项鳍鲉属	xīn xiàng qí yóu shǔ	1
 新相亲大会	xīn xiāng qīn dà huì	1
@@ -226955,6 +226979,7 @@ sort: by_weight
 需要认识到	xū yào rèn shi dào	1
 需要人照顾	xū yào rén zhào gù	1
 需要身份证	xū yào shēn fèn zhèng	1
+需要什么了	xū yào shén me le	1
 需要什么样	xū yào shén me yàng	1
 需要升级了	xū yào shēng jí le	1
 需要使用时	xū yào shǐ yòng shí	1
@@ -227078,7 +227103,7 @@ sort: by_weight
 宣传活动中	xuān chuán huó dòng zhōng	1
 宣传科科长	xuān chuán kē kē zhǎng	1
 宣传了一下	xuān chuán le yí xià	1
-宣传模特儿	xuān chuán mó tè ér	1
+宣传模特儿	xuān chuán mó tè er	1
 宣传片拍摄	xuān chuán piàn pāi shè	1
 宣传片视频	xuān chuán piàn shì pín	1
 宣传片制作	xuān chuán piàn zhì zuò	1
@@ -228945,7 +228970,7 @@ sort: by_weight
 压根不了解	yà gēn bù liǎo jiě	1
 压根不认识	yà gēn bú rèn shi	1
 压根不知道	yà gēn bù zhī dào	1
-压根儿就不	yà gēn ér jiù bù	1
+压根儿就不	yà gēn er jiù bù	1
 压根就不在	yà gēn jiù bú zài	1
 压根就没有	yà gēn jiù méi yǒu	1
 亚沟蜾蠃属	yà gōu guǒ luǒ shǔ	1
@@ -229730,8 +229755,8 @@ sort: by_weight
 燕都华夏鸟	yàn dū huá xià niǎo	1
 眼耳鼻喉科	yǎn ěr bí hóu kē	1
 眼耳鼻舌身	yǎn ěr bí shé shēn	1
-燕儿岛路站	yàn ér dǎo lù zhàn	1
-燕儿翩翩飞	yàn ér piān piān fēi	1
+燕儿岛路站	yàn er dǎo lù zhàn	1
+燕儿翩翩飞	yàn er piān piān fēi	1
 演而优则唱	yǎn ér yōu zé chàng	1
 演而优则导	yǎn ér yōu zé dǎo	1
 雁儿在林梢	yàn ér zài lín shāo	1
@@ -229958,7 +229983,7 @@ sort: by_weight
 岩浆成因的	yán jiāng chéng yīn de	1
 岩浆冲击说	yán jiāng chōng jī shuō	1
 演讲的内容	yǎn jiǎng de nèi róng	1
-岩浆的女儿	yán jiāng de nǚ ér	1
+岩浆的女儿	yán jiāng de nǚ er	1
 演讲的题目	yǎn jiǎng de tí mù	1
 烟江叠嶂图	yān jiāng dié zhàng tú	1
 岩浆分结酌	yán jiāng fēn jié zhuó	1
@@ -230433,7 +230458,9 @@ sort: by_weight
 炎热的天气	yán rè de tiān qì	1
 炎热的午后	yán rè de wǔ hòu	1
 炎热的夏季	yán rè de xià jì	1
+炎热的夏季	yán rè de xià jì	1
 炎热的夏日	yán rè de xià rì	1
+炎热的夏天	yán rè de xià tiān	1
 炎热的下午	yán rè de xià wǔ	1
 炎热的夏夜	yán rè de xià yè	1
 炎热的夜晚	yán rè de yè wǎn	1
@@ -234050,13 +234077,17 @@ sort: by_weight
 一定不会输	yī dìng bú huì shū	1
 一定程度上	yí dìng chéng dù shàng	1
 一定的程度	yí dìng de chéng dù	1
+一定的程度	yí dìng de chéng dù	1
 一定的高度	yí dìng de gāo dù	1
 一定的关系	yí dìng de guān xì	1
 一定的好处	yí dìng de hǎo chù	1
 一定的距离	yí dìng de jù lí	1
+一定的年纪	yí dìng de nián jì	1
+一定的年龄	yí dìng de nián líng	1
 一定的强度	yí dìng de qiáng dù	1
 一定的深度	yí dìng de shēn dù	1
 一定的湿度	yí dìng de shī dù	1
+一定的时间	yí dìng de shí jiān	1
 一定的水平	yí dìng de shuǐ píng	1
 一定的速度	yí dìng de sù dù	1
 一定的温度	yí dìng de wēn dù	1
@@ -234617,7 +234648,7 @@ sort: by_weight
 一个小问题	yí gè xiǎo wèn tí	1
 一个小县城	yí gè xiǎo xiàn chéng	1
 一个小崽崽	yí gè xiǎo zǎi zǎi	1
-一个心眼儿	yí gè xīn yǎn ér	1
+一个心眼儿	yí gè xīn yǎn er	1
 一个新足球	yí gè xīn zú qiú	1
 一个星期了	yí gè xīng qī le	1
 一个姓王的	yí gè xìng wáng de	1
@@ -236159,6 +236190,7 @@ sort: by_weight
 以肉食为主	yǐ ròu shí wéi zhǔ	1
 以肉眼可见	yǐ ròu yǎn kě jiàn	1
 一如既往地	yì rú jì wǎng de	1
+一如你初妆	yì rú nǐ chū zhuāng	1
 一如年少时	yì rú nián shào shí	1
 亿瑞典克朗	yì ruì diǎn kè lǎng	1
 异蕊落檐属	yì ruǐ luò yán shǔ	1
@@ -237178,6 +237210,7 @@ sort: by_weight
 意味着放弃	yì wèi zhe fàng qì	1
 意味着风险	yì wèi zhe fēng xiǎn	1
 意味着更多	yì wèi zhe gèng duō	1
+意味着什么	yì wèi zhe shén me	1
 意味着什么	yì wèi zhe shén me	1
 意味着未来	yì wèi zhe wèi lái	1
 意味着一切	yì wèi zhe yí qiè	1
@@ -238239,7 +238272,7 @@ sort: by_weight
 一直在一起	yì zhí zài yì qǐ	1
 一直在原地	yì zhí zài yuán dì	1
 一直在招人	yì zhí zài zhāo rén	1
-一直在这儿	yì zhí zài zhè ér	1
+一直在这儿	yì zhí zài zhè er	1
 一直长不大	yì zhí zhǎng bú dà	1
 一直这样的	yì zhí zhè yàng de	1
 一枝栀子花	yì zhī zhī zi huā	1
@@ -238423,6 +238456,7 @@ sort: by_weight
 隐藏于黑暗	yǐn cáng yú hēi àn	1
 隐藏在角落	yǐn cáng zài jiǎo luò	1
 隐藏在幕后	yǐn cáng zài mù hòu	1
+隐藏着什么	yǐn cáng zhe shén me	1
 隐藏着什么	yǐn cáng zhe shén me	1
 隐藏状态栏	yǐn cáng zhuàng tài lán	1
 阴曹朴丽鱼	yīn cáo pǔ lì yú	1
@@ -239404,7 +239438,7 @@ sort: by_weight
 音游爱好者	yīn yóu ài hào zhě	1
 阴有雷阵雨	yīn yǒu léi zhèn yǔ	1
 吟游默示录	yín yóu mò shì lù	1
-吟游说书人	yín yóu shuì shū rén	1
+吟游说书人	yín yóu shuō shū rén	1
 阴郁的阳光	yīn yù de yáng guāng	1
 银缘丽脂鲤	yín yuán lì zhī lǐ	1
 因缘所生法	yīn yuán suǒ shēng fǎ	1
@@ -239801,7 +239835,7 @@ sort: by_weight
 应该可以吧	yīng gāi kě yǐ ba	1
 应该买什么	yīng gāi mǎi shén me	1
 应该没事吧	yīng gāi méi shì ba	1
-应该没事儿	yīng gāi méi shì ér	1
+应该没事儿	yīng gāi méi shì er	1
 应该没问题	yīng gāi méi wèn tí	1
 应该没有吧	yīng gāi méi yǒu ba	1
 应该拿什么	yīng gāi ná shén me	1
@@ -242803,7 +242837,7 @@ sort: by_weight
 由上汽集团	yóu shàng qì jí tuán	1
 忧伤以终老	yōu shāng yǐ zhōng lǎo	1
 有商有量的	yǒu shāng yǒu liàng de	1
-幼少儿英语	yòu shǎo ér yīng yǔ	1
+幼少儿英语	yòu shào ér yīng yǔ	1
 由少数民族	yóu shǎo shù mín zú	1
 有舍才有得	yǒu shě cái yǒu dé	1
 幽深的峡谷	yōu shēn de xiá gǔ	1
@@ -243520,7 +243554,7 @@ sort: by_weight
 优秀的男人	yōu xiù de nán rén	1
 优秀的男生	yōu xiù de nán shēng	1
 优秀的男性	yōu xiù de nán xìng	1
-优秀的女儿	yōu xiù de nǚ ér	1
+优秀的女儿	yōu xiù de nǚ er	1
 优秀的女孩	yōu xiù de nǚ hái	1
 优秀的女人	yōu xiù de nǚ rén	1
 优秀的女生	yōu xiù de nǚ shēng	1
@@ -247262,6 +247296,7 @@ sort: by_weight
 约定的地点	yuē dìng de dì diǎn	1
 约定的地方	yuē dìng de dì fāng	1
 约定的时间	yuē dìng de shí jiān	1
+约定的时间	yuē dìng de shí jiān	1
 约定好时间	yuē dìng hǎo shí jiān	1
 约定驾驶人	yuē dìng jià shǐ rén	1
 约定试用期	yuē dìng shì yòng qī	1
@@ -249069,9 +249104,9 @@ sort: by_weight
 在某一方面	zài mǒu yì fāng miàn	1
 在某种意义	zài mǒu zhǒng yì yì	1
 再纳阿比丁	zài nà ā bǐ dīng	1
-在那儿的人	zài nà ér de rén	1
-在哪儿见过	zài nǎ ér jiàn guò	1
-在哪儿了呢	zài nǎ ér le ne	1
+在那儿的人	zài nà er de rén	1
+在哪儿见过	zài nǎ er jiàn guò	1
+在哪儿了呢	zài nǎ er le ne	1
 在哪个城市	zài nǎ ge chéng shì	1
 在那个地方	zài nà ge dì fāng	1
 在哪个教室	zài nǎ ge jiào shì	1
@@ -249664,7 +249699,7 @@ sort: by_weight
 咱们明天见	zán men míng tiān jiàn	1
 咱们普通人	zán men pǔ tōng rén	1
 咱们去旅行	zán men qù lǚ xíng	1
-咱们去哪儿	zán men qù nǎ ér	1
+咱们去哪儿	zán men qù nǎ er	1
 咱们相爱吧	zán men xiāng ài ba	1
 咱们小时候	zán men xiǎo shí hou	1
 咱们一家人	zán men yì jiā rén	1
@@ -249769,7 +249804,7 @@ sort: by_weight
 早餐俱乐部	zǎo cān jù lè bù	1
 早餐面包卷	zǎo cān miàn bāo juǎn	1
 早餐要吃好	zǎo cān yào chī hǎo	1
-早产儿奶粉	zǎo chǎn ér nǎi fěn	1
+早产儿奶粉	zǎo chǎn er nǎi fěn	1
 造车新势力	zào chē xīn shì lì	1
 早晨的空气	zǎo chén de kōng qì	1
 早晨的太阳	zǎo chén de tài yáng	1
@@ -250358,7 +250393,7 @@ sort: by_weight
 怎么又是你	zěn me yòu shì nǐ	1
 怎么又是我	zěn me yòu shì wǒ	1
 怎么在一起	zěn me zài yì qǐ	1
-怎么在这儿	zěn me zài zhè ér	1
+怎么在这儿	zěn me zài zhè er	1
 怎么怎么样	zěn me zěn me yàng	1
 怎么怎么着	zěn me zěn me zhāo	1
 怎么找不到	zěn me zhǎo bú dào	1
@@ -251561,8 +251596,8 @@ sort: by_weight
 丈夫和儿子	zhàng fū hé ér zi	1
 丈夫和父亲	zhàng fū hé fù qīn	1
 丈夫和孩子	zhàng fū hé hái zi	1
-丈夫和女儿	zhàng fū hé nǚ ér	1
-丈夫和婆婆	zhàng fū hé pó pó	1
+丈夫和女儿	zhàng fū hé nǚ er	1
+丈夫和婆婆	zhàng fū hé pó po	1
 丈夫和妻子	zhàng fū hé qī zǐ	1
 丈夫或妻子	zhàng fū huò qī zǐ	1
 丈夫及妻子	zhàng fū jí qī zǐ	1
@@ -252009,7 +252044,7 @@ sort: by_weight
 赵本山儿子	zhào běn shān ér zi	1
 赵本山范伟	zhào běn shān fàn wěi	1
 赵本山老师	zhào běn shān lǎo shī	1
-赵本山女儿	zhào běn shān nǚ ér	1
+赵本山女儿	zhào běn shān nǚ er	1
 赵本山徒弟	zhào běn shān tú dì	1
 赵本山小品	zhào běn shān xiǎo pǐn	1
 赵本山作品	zhào běn shān zuò pǐn	1
@@ -252480,7 +252515,7 @@ sort: by_weight
 赵王城遗址	zhào wáng chéng yí zhǐ	1
 赵王刘如意	zhào wáng liú rú yì	1
 赵王司马伦	zhào wáng sī mǎ lún	1
-赵薇的女儿	zhào wēi de nǚ ér	1
+赵薇的女儿	zhào wēi de nǚ er	1
 赵薇工作室	zhào wēi gōng zuò shì	1
 赵薇黄晓明	zhào wēi huáng xiǎo míng	1
 爪为筋之余	zhǎo wéi jīn zhī yú	1
@@ -252710,7 +252745,7 @@ sort: by_weight
 这个男孩儿	zhè ge nán hái er	1
 这个男人叫	zhè ge nán rén jiào	1
 这个你懂得	zhè ge nǐ dǒng de	1
-这个女孩儿	zhè ge nǚ hái ér	1
+这个女孩儿	zhè ge nǚ hái er	1
 这个女人叫	zhè ge nǚ rén jiào	1
 这个女娃娃	zhè ge nǚ wá wá	1
 这个情况吗	zhè ge qíng kuàng ma	1
@@ -253116,7 +253151,7 @@ sort: by_weight
 折筒苣苔属	zhé tǒng jù tái shǔ	1
 折突叶蝉属	zhé tū yè chán shǔ	1
 浙皖凤仙花	zhè wǎn fèng xiān huā	1
-这玩意儿啊	zhè wán yì ér a	1
+这玩意儿啊	zhè wán yì er a	1
 这位大兄弟	zhè wèi dà xiōng dì	1
 这位老先生	zhè wèi lǎo xiān shēng	1
 这位留学生	zhè wèi liú xué shēng	1
@@ -253330,7 +253365,7 @@ sort: by_weight
 这种日子的	zhè zhǒng rì zi de	1
 这种水平的	zhè zhǒng shuǐ píng de	1
 这种特殊的	zhè zhǒng tè shū de	1
-这种玩意儿	zhè zhǒng wán yì ér	1
+这种玩意儿	zhè zhǒng wán yì er	1
 这种小事儿	zhè zhǒng xiǎo shì ér	1
 这种新发明	zhè zhǒng xīn fā míng	1
 这种新型的	zhè zhǒng xīn xíng de	1
@@ -256782,6 +256817,7 @@ sort: by_weight
 知不知道啊	zhī bù zhī dào a	1
 知不知道呢	zhī bù zhī dào ne	1
 值不值得买	zhí bù zhí dé mǎi	1
+值不值得买	zhí bù zhí dé mǎi	1
 值不值得做	zhí bù zhí dé zuò	1
 制裁俄罗斯	zhì cái é luó sī	1
 制裁菲律宾	zhì cái fēi lǜ bīn	1
@@ -257344,7 +257380,7 @@ sort: by_weight
 支付劳务费	zhī fù láo wù fèi	1
 支付律师费	zhī fù lǜ shī fèi	1
 制服美少女	zhì fú měi shào nǚ	1
-制服模特儿	zhì fú mó tè ér	1
+制服模特儿	zhì fú mó tè er	1
 支付赔偿金	zhī fù péi cháng jīn	1
 致父亲的信	zhì fù qīn de xìn	1
 支付赡养费	zhī fù shàn yǎng fèi	1
@@ -257724,7 +257760,7 @@ sort: by_weight
 智力密集型	zhì lì mì jí xíng	1
 直立膜萼花	zhí lì mó è huā	1
 治理难度大	zhì lǐ nán dù dà	1
-直立婆婆纳	zhí lì pó pó nà	1
+直立婆婆纳	zhí lì pó po nà	1
 智利青眼鱼	zhì lì qīng yǎn yú	1
 智利蠕蛇鳗	zhì lì rú shé mán	1
 智利舌珍鱼	zhì lì shé zhēn yú	1
@@ -260572,7 +260608,7 @@ sort: by_weight
 中华海兔螺	zhōng huá hǎi tù luó	1
 中华海蜥鱼	zhōng huá hǎi xī yú	1
 中华海因螺	zhōng huá hǎi yīn luó	1
-中华好儿郎	zhōng huá hǎo ér láng	1
+中华好儿郎	zhōng huá hǎo er láng	1
 中华好故事	zhōng huá hǎo gù shì	1
 中华好诗词	zhōng huá hǎo shī cí	1
 中华河鸭属	zhōng huá hé yā shǔ	1
@@ -261153,7 +261189,7 @@ sort: by_weight
 中日韩三国	zhōng rì hán sān guó	1
 中日韩文字	zhōng rì hán wén zì	1
 中日合拍剧	zhōng rì hé pāi jù	1
-中日混血儿	zhōng rì hùn xuè ér	1
+中日混血儿	zhōng rì hùn xuè er	1
 肿腮长蝽属	zhǒng sāi cháng chūn shǔ	1
 中沙大环礁	zhōng shā dà huán jiāo	1
 重砂找矿法	zhòng shā zhǎo kuàng fǎ	1
@@ -262104,7 +262140,7 @@ sort: by_weight
 中医肿瘤科	zhōng yī zhǒng liú kē	1
 中医专家组	zhōng yī zhuān jiā zǔ	1
 中英关系史	zhōng yīng guān xì shǐ	1
-中英混血儿	zhōng yīng hùn xuè ér	1
+中英混血儿	zhōng yīng hùn xuè er	1
 中英双语版	zhōng yīng shuāng yǔ bǎn	1
 中英双字幕	zhōng yīng shuāng zì mù	1
 中英文对照	zhōng yīng wén duì zhào	1
@@ -262421,7 +262457,7 @@ sort: by_weight
 周杰伦歌曲	zhōu jié lún gē qǔ	1
 周杰伦很帅	zhōu jié lún hěn shuài	1
 周杰伦昆凌	zhōu jié lún kūn líng	1
-周杰伦女儿	zhōu jié lún nǚ ér	1
+周杰伦女儿	zhōu jié lún nǚ er	1
 周杰伦新歌	zhōu jié lún xīn gē	1
 周杰伦战队	zhōu jié lún zhàn duì	1
 周杰伦作曲	zhōu jié lún zuò qǔ	1
@@ -262476,7 +262512,7 @@ sort: by_weight
 周末节假日	zhōu mò jié jià rì	1
 周末连续剧	zhōu mò lián xù jù	1
 周末去河北	zhōu mò qù hé běi	1
-周末去哪儿	zhōu mò qù nǎ ér	1
+周末去哪儿	zhōu mò qù nǎ er	1
 周末去哪玩	zhōu mò qù nǎ wán	1
 周末双休日	zhōu mò shuāng xiū rì	1
 周末睡懒觉	zhōu mò shuì lǎn jiào	1
@@ -266357,7 +266393,7 @@ sort: by_weight
 自己的能力	zì jǐ de néng lì	1
 自己的年度	zì jǐ de nián dù	1
 自己的努力	zì jǐ de nǔ lì	1
-自己的女儿	zì jǐ de nǚ ér	1
+自己的女儿	zì jǐ de nǚ er	1
 自己的女人	zì jǐ de nǚ rén	1
 自己的偶像	zì jǐ de ǒu xiàng	1
 自己的判断	zì jǐ de pàn duàn	1
@@ -268413,7 +268449,7 @@ sort: by_weight
 总商会会长	zǒng shāng huì huì zhǎng	1
 总神大学站	zǒng shén dà xué zhàn	1
 总生产成本	zǒng shēng chǎn chéng běn	1
-总是被欺负	zǒng shì bèi qī fù	1
+总是被欺负	zǒng shì bèi qī fu	1
 总是吃不饱	zǒng shì chī bù bǎo	1
 总是得不到	zǒng shì dé bú dào	1
 总是低着头	zǒng shì dī zhe tóu	1
@@ -268472,7 +268508,7 @@ sort: by_weight
 总统蔡英文	zǒng tǒng cài yīng wén	1
 总统档案法	zǒng tǒng dàng àn fǎ	1
 总统当选人	zǒng tǒng dāng xuǎn rén	1
-总统的女儿	zǒng tǒng de nǚ ér	1
+总统的女儿	zǒng tǒng de nǚ er	1
 总统雕像山	zǒng tǒng diāo xiàng shān	1
 总统发言人	zǒng tǒng fā yán rén	1
 总统府部长	zǒng tǒng fǔ bù zhǎng	1
@@ -270242,6 +270278,7 @@ sort: by_weight
 作词作曲家	zuò cí zuò qǔ jiā	1
 做促销活动	zuò cù xiāo huó dòng	1
 做错的事情	zuò cuò de shì qíng	1
+做错了什么	zuò cuò le shén me	1
 做错了什么	zuò cuò le shén me	1
 做错了事情	zuò cuò liǎo shì qíng	1
 做错一件事	zuò cuò yí jiàn shì	1
@@ -272058,7 +272095,7 @@ sort: by_weight
 凹足拟熟若蟹	āo zú nǐ shú ruò xiè	1
 八八舰队计划	bā bā jiàn duì jì huà	1
 巴巴里翼龙属	bā bā lǐ yì lóng shǔ	1
-爸爸去哪儿中	bà ba qù nǎ ér zhōng	1
+爸爸去哪儿中	bà ba qù nǎ er zhōng	1
 八八式侦察机	bā bā shì zhēn chá jī	1
 八百万种死法	bā bǎi wàn zhǒng sǐ fǎ	1
 把悲伤看透时	bǎ bēi shāng kàn tòu shí	1
@@ -273703,8 +273740,8 @@ sort: by_weight
 北婆罗洲铁路	běi pó luó zhōu tiě lù	1
 背起爸爸上学	bēi qǐ bà ba shàng xué	1
 北齐长城遗址	běi qí cháng chéng yí zhǐ	1
-被欺负的对象	bèi qī fù de duì xiàng	1
-被欺负的孩子	bèi qī fù de hái zi	1
+被欺负的对象	bèi qī fu de duì xiàng	1
+被欺负的孩子	bèi qī fu de hái zi	1
 北齐后主高纬	běi qí hòu zhǔ gāo wěi	1
 北七角摇蚊属	běi qī jiǎo yáo wén shǔ	1
 被牵着鼻子走	bèi qiān zhe bí zi zǒu	1
@@ -274477,7 +274514,7 @@ sort: by_weight
 别人家的老师	bié rén jiā de lǎo shī	1
 别人家的妈妈	bié rén jiā de mā ma	1
 别人家的男友	bié rén jiā de nán yǒu	1
-别人家的女儿	bié rén jiā de nǚ ér	1
+别人家的女儿	bié rén jiā de nǚ er	1
 别人家的事情	bié rén jiā de shì qíng	1
 别人家的媳妇	bié rén jiā de xí fù	1
 别人家的小孩	bié rén jiā de xiǎo hái	1
@@ -279788,7 +279825,7 @@ sort: by_weight
 当年的小虎队	dāng nián de xiǎo hǔ duì	1
 当年的小燕子	dāng nián de xiǎo yàn zi	1
 当女孩遇到熊	dāng nǚ hái yù dào xióng	1
-当婆婆遇上妈	dāng pó pó yù shàng mā	1
+当婆婆遇上妈	dāng pó po yù shàng mā	1
 当期进项税额	dāng qī jìn xiàng shuì é	1
 当其欣于所遇	dāng qí xīn yú suǒ yù	1
 当前国际形势	dāng qián guó jì xíng shì	1
@@ -281078,7 +281115,7 @@ sort: by_weight
 叠氮酸根离子	dié dàn suān gēn lí zǐ	1
 叠氮乙酸乙酯	dié dàn yǐ suān yǐ zhǐ	1
 喋喋不休的人	dié dié bù xiū de rén	1
-迭里哥儿不花	dié lǐ gē ér bù huā	1
+迭里哥儿不花	dié lǐ gē er bù huā	1
 跌入万丈深渊	diē rù wàn zhàng shēn yuān	1
 迭蜕甲螨总科	dié tuì jiǎ mǎn zǒng kē	1
 蝶纹内陆溪蟹	dié wén nèi lù xī xiè	1
@@ -286700,7 +286737,7 @@ sort: by_weight
 公共管理硕士	gōng gòng guǎn lǐ shuò shì	1
 公共关系经理	gōng gòng guān xì jīng lǐ	1
 公共关系学系	gōng gòng guān xì xué xì	1
-公公和儿媳妇	gōng gōng hé ér xí fù	1
+公公和儿媳妇	gōng gong hé ér xí fù	1
 公共话语空间	gōng gòng huà yǔ kōng jiān	1
 公共交通秩序	gōng gòng jiāo tōng zhì xù	1
 公共聚集场所	gōng gòng jù jí chǎng suǒ	1
@@ -288118,7 +288155,7 @@ sort: by_weight
 棍状真巨口鱼	gùn zhuàng zhēn jù kǒu yú	1
 国宝中的国宝	guó bǎo zhōng de guó bǎo	1
 果倍爽博物馆	guǒ bèi shuǎng bó wù guǎn	1
-过不去的坎儿	guò bú qù de kǎn ér	1
+过不去的坎儿	guò bú qù de kǎn er	1
 国产车的价格	guó chǎn chē de jià gé	1
 国产大型客机	guó chǎn dà xíng kè jī	1
 国产单机游戏	guó chǎn dān jī yóu xì	1
@@ -288503,7 +288540,7 @@ sort: by_weight
 过江通道建设	guò jiāng tōng dào jiàn shè	1
 国教行动联盟	guó jiào xíng dòng lián méng	1
 过街老鼠一般	guò jiē lǎo shǔ yì bān	1
-郭晶晶的婆婆	guō jīng jīng de pó pó	1
+郭晶晶的婆婆	guō jīng jīng de pó po	1
 过境旅游套票	guò jìng lǚ yóu tào piào	1
 国军体育部队	guó jūn tǐ yù bù duì	1
 国开泰富基金	guó kāi tài fù jī jīn	1
@@ -292981,7 +293018,7 @@ sort: by_weight
 记忆中的经典	jì yì zhōng de jīng diǎn	1
 记忆中的模样	jì yì zhōng de mú yàng	1
 记忆中的年味	jì yì zhōng de nián wèi	1
-记忆中的女儿	jì yì zhōng de nǚ ér	1
+记忆中的女儿	jì yì zhōng de nǚ er	1
 记忆中的童年	jì yì zhōng de tóng nián	1
 记忆中的味道	jì yì zhōng de wèi dào	1
 记忆中的旋律	jì yì zhōng de xuán lǜ	1
@@ -293101,7 +293138,7 @@ sort: by_weight
 驾车撞人事件	jià chē zhuàng rén shì jiàn	1
 驾乘人员安全	jià chéng rén yuán ān quán	1
 嫁出去的姑娘	jià chū qù de gū niang	1
-嫁出去的女儿	jià chū qù de nǚ ér	1
+嫁出去的女儿	jià chū qù de nǚ er	1
 甲醇芽孢杆菌	jiǎ chún yá bāo gǎn jūn	1
 加大处罚力度	jiā dà chù fá lì dù	1
 加大警力投入	jiā dà jǐng lì tóu rù	1
@@ -293378,7 +293415,7 @@ sort: by_weight
 甲基猪毛菜酚	jiǎ jī zhū máo cài fēn	1
 甲甲黑心医院	jiǎ jiǎ hēi xīn yī yuàn	1
 嘉佳卡通卫视	jiā jiā kǎ tōng wèi shì	1
-嘉佳少儿频道	jiā jiā shǎo ér pín dào	1
+嘉佳少儿频道	jiā jiā shào ér pín dào	1
 假江南短肠蕨	jiǎ jiāng nán duǎn cháng jué	1
 假江南双盖蕨	jiǎ jiāng nán shuāng gài jué	1
 甲教太上长老	jiǎ jiào tài shàng zhǎng lǎo	1
@@ -297156,7 +297193,7 @@ sort: by_weight
 坎尼乍若反应	kǎn ní zhà ruò fǎn yìng	1
 看拼音写词语	kàn pīn yīn xiě cí yǔ	1
 看取眉头鬓上	kàn qǔ méi tóu bìn shàng	1
-看人下菜碟儿	kàn rén xià cài dié ér	1
+看人下菜碟儿	kàn rén xià cài dié er	1
 坎氏唇银汉鱼	kǎn shì chún yín hàn yú	1
 坎氏副狮子鱼	kǎn shì fù shī zi yú	1
 看世界的角度	kàn shì jiè de jiǎo dù	1
@@ -300399,7 +300436,7 @@ sort: by_weight
 留下心理阴影	liú xià xīn lǐ yīn yǐng	1
 留下一地鸡毛	liú xià yí dì jī máo	1
 留下只言片语	liú xià zhī yán piàn yǔ	1
-刘先生的女儿	liú xiān shēng de nǚ ér	1
+刘先生的女儿	liú xiān shēng de nǚ er	1
 流线型的车身	liú xiàn xíng de chē shēn	1
 流线型的设计	liú xiàn xíng de shè jì	1
 六项重点任务	liù xiàng zhòng diǎn rèn wù	1
@@ -301970,7 +302007,7 @@ sort: by_weight
 美食从天而降	měi shí cóng tiān ér jiàng	1
 美食大战老鼠	měi shí dà zhàn lǎo shǔ	1
 梅氏单杆脂鲤	méi shì dān gān zhī lǐ	1
-没事儿人一样	méi shì ér rén yí yàng	1
+没事儿人一样	méi shì er rén yí yàng	1
 梅氏副软口鱼	méi shì fù ruǎn kǒu yú	1
 梅氏钩齿脂鲤	méi shì gōu chǐ zhī lǐ	1
 梅氏哈氏甲鲶	méi shì hā shì jiǎ nián	1
@@ -302955,7 +302992,7 @@ sort: by_weight
 摩托罗拉公司	mó tuō luó lā gōng sī	1
 摩托罗拉系统	mó tuō luó lā xì tǒng	1
 莫托尼菊石属	mò tuō ní jú shí shǔ	1
-魔王的女儿们	mó wáng de nǚ ér men	1
+魔王的女儿们	mó wáng de nǚ er men	1
 末位淘汰法则	mò wèi táo tài fǎ zé	1
 魔物猎人物语	mó wù liè rén wù yǔ	1
 墨西哥阿兹鱼	mò xī gē ā zī yú	1
@@ -303121,7 +303158,7 @@ sort: by_weight
 拿渡麻辣香锅	ná dù má là xiāng guō	1
 那段峥嵘岁月	nà duàn zhēng róng suì yuè	1
 纳尔巴绵鳚属	nà ěr bā mián wèi shǔ	1
-哪儿跟哪儿啊	nǎ ér gēn nǎ ér a	1
+哪儿跟哪儿啊	nǎ er gēn nǎ er a	1
 纳尔维克战役	nà ěr wéi kè zhàn yì	1
 那份赤子之心	nà fèn chì zǐ zhī xīn	1
 拿弗他利支派	ná fú tā lì zhī pài	1
@@ -304486,12 +304523,12 @@ sort: by_weight
 诺文葛耳反应	nuò wén gé ěr fǎn yìng	1
 诺伊贝格条约	nuò yī bèi gé tiáo yuē	1
 女大十八变啊	nǚ dà shí bā biàn a	1
-女儿的抚养权	nǚ ér de fǔ yǎng quán	1
-女儿的男朋友	nǚ ér de nán péng you	1
-女儿国的国王	nǚ ér guó de guó wáng	1
-女儿国的杰基	nǚ ér guó de jié jī	1
-女儿们的恋爱	nǚ ér men de liàn ài	1
-女儿上幼儿园	nǚ ér shàng yòu ér yuán	1
+女儿的抚养权	nǚ er de fǔ yǎng quán	1
+女儿的男朋友	nǚ er de nán péng you	1
+女儿国的国王	nǚ er guó de guó wáng	1
+女儿国的杰基	nǚ er guó de jié jī	1
+女儿们的恋爱	nǚ er men de liàn ài	1
+女儿上幼儿园	nǚ er shàng yòu ér yuán	1
 女孩引人注目	nǚ hái yǐn rén zhù mù	1
 女孩与机器人	nǚ hái yǔ jī qì rén	1
 女孩子的名字	nǚ hái zi de míng zì	1
@@ -305312,7 +305349,7 @@ sort: by_weight
 婆罗洲少足属	pó luó zhōu shǎo zú shǔ	1
 破灭的圆舞曲	pò miè de yuán wǔ qǔ	1
 珀南布科鸺鹠	pò nán bù kē xiū liú	1
-婆婆媳妇小姑	pó pó xí fù xiǎo gū	1
+婆婆媳妇小姑	pó po xí fù xiǎo gū	1
 泼氏侧黄吸虫	pō shì cè huáng xī chóng	1
 珀氏长吻松鼠	pò shì cháng wěn sōng shǔ	1
 珀氏裸南极鱼	pò shì luǒ nán jí yú	1
@@ -307536,7 +307573,6 @@ sort: by_weight
 拳拳爱国之心	quán quán ài guó zhī xīn	1
 拳拳赤子之心	quán quán chì zǐ zhī xīn	1
 泉三高速公路	quán sān gāo sù gōng lù	1
-泉厦高速公路	quán shà gāo sù gōng lù	1
 泉山门停车场	quán shān mén tíng chē chǎng	1
 泉山森林公园	quán shān sēn lín gōng yuán	1
 券商中国记者	quàn shāng zhōng guó jì zhě	1
@@ -307594,6 +307630,7 @@ sort: by_weight
 全膝关节置换	quán xī guān jié zhì huàn	1
 全息玫瑰碎片	quán xī méi guī suì piàn	1
 全息摄影测量	quán xī shè yǐng cè liáng	1
+泉厦高速公路	quán xià gāo sù gōng lù	1
 全县干部职工	quán xiàn gàn bù zhí gōng	1
 全县生产总值	quán xiàn shēng chǎn zǒng zhí	1
 全县脱贫攻坚	quán xiàn tuō pín gōng jiān	1
@@ -308388,7 +308425,7 @@ sort: by_weight
 认真履职尽责	rèn zhēn lǚ zhí jìn zé	1
 认真你就输鸟	rèn zhēn nǐ jiù shū niǎo	1
 认真组织实施	rèn zhēn zǔ zhī shí shī	1
-任正非的女儿	rén zhèng fēi de nǚ ér	1
+任正非的女儿	rén zhèng fēi de nǚ er	1
 任正非和华为	rén zhèng fēi hé huá wéi	1
 人证物证俱在	rén zhèng wù zhèng jù zài	1
 人制橄榄球赛	rén zhì gǎn lǎn qiú sài	1
@@ -309318,8 +309355,6 @@ sort: by_weight
 杀虫剂的使用	shā chóng jì de shǐ yòng	1
 杀出一匹黑马	shā chū yì pǐ hēi mǎ	1
 杀出一条生路	shā chū yì tiáo shēng lù	1
-厦村邓氏宗祠	shà cūn dèng shì zōng cí	1
-厦大翔安校区	shà dà xiáng ān xiào qū	1
 杀得片甲不留	shā de piàn jiǎ bù liú	1
 沙地䍁牛尾鱼	shā dì suì niú wěi yú	1
 沙地肖叶甲属	shā dì xiào yè jiǎ shǔ	1
@@ -309369,7 +309404,6 @@ sort: by_weight
 傻傻分不清楚	shǎ shǎ fēn bù qīng chu	1
 莎莎妇女银袋	shā shā fù nǚ yín dài	1
 厦沙高速公路	shà shā gāo sù gōng lù	1
-沙厦高速公路	shā shà gāo sù gōng lù	1
 杀伤力的武器	shā shāng lì de wǔ qì	1
 厦深客运专线	shà shēn kè yùn zhuān xiàn	1
 沙氏矮长颌鱼	shā shì ǎi cháng hé yú	1
@@ -309389,6 +309423,7 @@ sort: by_weight
 沙特电信公司	shā tè diàn xìn gōng sī	1
 沙特似真小鲤	shā tè sì zhēn xiǎo lǐ	1
 杀外寄生虫药	shā wài jì shēng chóng yào	1
+沙厦高速公路	shā xià gāo sù gōng lù	1
 傻小子睡凉炕	shǎ xiǎo zi shuì liáng kàng	1
 傻小子学害怕	shǎ xiǎo zi xué hài pà	1
 杀蚜蝇姬蜂属	shā yá yíng jī fēng shǔ	1
@@ -310109,8 +310144,8 @@ sort: by_weight
 少灯黑巨口鱼	shǎo dēng hēi jù kǒu yú	1
 少灯太宁灯鱼	shǎo dēng tài níng dēng yú	1
 少对峨眉蔷薇	shǎo duì é méi qiáng wēi	1
-少儿编程教育	shǎo ér biān chéng jiào yù	1
-少儿特定重疾	shǎo ér tè dìng zhòng jí	1
+少儿编程教育	shào ér biān chéng jiào yù	1
+少儿特定重疾	shào ér tè dìng zhòng jí	1
 少分或者不分	shǎo fēn huò zhě bù fēn	1
 少辐大丝油鲶	shǎo fú dà sī yóu nián	1
 少辐异长颌鱼	shǎo fú yì cháng hé yú	1
@@ -310717,7 +310752,7 @@ sort: by_weight
 什么时候去的	shén me shí hòu qù de	1
 什么时候退役	shén me shí hòu tuì yì	1
 什么天长地久	shén me tiān cháng dì jiǔ	1
-什么玩意儿啊	shén me wán yì ér a	1
+什么玩意儿啊	shén me wán yì er a	1
 什么样的发型	shén me yàng de fà xíng	1
 什么样的价格	shén me yàng de jià gé	1
 什么重要的事	shén me zhòng yào de shì	1
@@ -311231,7 +311266,7 @@ sort: by_weight
 省下来的时间	shěng xià lái de shí jiān	1
 生下两个儿子	shēng xià liǎng gè ér zi	1
 生下两个孩子	shēng xià liǎng gè hái zi	1
-生下两个女儿	shēng xià liǎng gè nǚ ér	1
+生下两个女儿	shēng xià liǎng gè nǚ er	1
 省下一大笔钱	shěng xià yí dà bǐ qián	1
 生下一儿一女	shēng xià yī ér yì nǚ	1
 生祥与瓦窑坑	shēng xiáng yǔ wǎ yáo kēng	1
@@ -312262,7 +312297,7 @@ sort: by_weight
 十三甲伯公庙	shí sān jiǎ bó gōng miào	1
 诗三家义集疏	shī sān jiā yì jí shū	1
 十三陵景区站	shí sān líng jǐng qū zhàn	1
-十三岁的女儿	shí sān suì de nǚ ér	1
+十三岁的女儿	shí sān suì de nǚ er	1
 十三太保之一	shí sān tài bǎo zhī yī	1
 十三五规划中	shí sān wǔ guī huà zhōng	1
 十三周年纪念	shí sān zhōu nián jì niàn	1
@@ -312271,7 +312306,7 @@ sort: by_weight
 石山细梗香草	shí shān xì gěng xiāng cǎo	1
 世上本没有路	shì shàng běn méi yǒu lù	1
 时尚的风向标	shí shàng de fēng xiàng biāo	1
-时尚的弄潮儿	shí shàng de nòng cháo ér	1
+时尚的弄潮儿	shí shàng de nòng cháo er	1
 时尚的最前端	shí shàng de zuì qián duān	1
 时尚的最前沿	shí shàng de zuì qián yán	1
 史上第一混乱	shǐ shàng dì yī hùn luàn	1
@@ -312285,7 +312320,7 @@ sort: by_weight
 世上只有一个	shì shàng zhǐ yǒu yí gè	1
 史上最佳球员	shǐ shàng zuì jiā qiú yuán	1
 史上最严交规	shǐ shàng zuì yán jiāo guī	1
-市少儿图书馆	shì shǎo ér tú shū guǎn	1
+市少儿图书馆	shì shào ér tú shū guǎn	1
 市社会保险局	shì shè huì bǎo xiǎn jú	1
 市社会保障局	shì shè huì bǎo zhàng jú	1
 市社会福利院	shì shè huì fú lì yuàn	1
@@ -315148,7 +315183,7 @@ sort: by_weight
 他和她的故事	tā hé tā de gù shì	1
 她和她的孩子	tā hé tā de hái zi	1
 她和她的迷藏	tā hé tā de mí cáng	1
-她和他的女儿	tā hé tā de nǚ ér	1
+她和他的女儿	tā hé tā de nǚ er	1
 他和她的事情	tā hé tā de shì qíng	1
 他化自在天王	tā huà zì zài tiān wáng	1
 塔霍湖亚口鱼	tǎ huò hú yà kǒu yú	1
@@ -316610,8 +316645,6 @@ sort: by_weight
 同志仍需努力	tóng zhì réng xū nǔ lì	1
 同志仍须努力	tóng zhì réng xū nǔ lì	1
 通直散骑侍郎	tōng zhí sàn qí shì láng	1
-同治陕甘回变	tóng zhì shǎn gān huí biàn	1
-同治陕甘回乱	tóng zhì shǎn gān huí luàn	1
 同志社会运动	tóng zhì shè huì yùn dòng	1
 同知枢密院事	tóng zhī shū mì yuàn shì	1
 同治苏州府志	tóng zhì sū zhōu fǔ zhì	1
@@ -317475,6 +317508,7 @@ sort: by_weight
 网络安全保卫	wǎng luò ān quán bǎo wèi	1
 网络安全攻防	wǎng luò ān quán gōng fáng	1
 网络安全事件	wǎng luò ān quán shì jiàn	1
+网络安全术语	wǎng luò ān quán shù yǔ	1
 网络巴尔干化	wǎng luò bā ěr gān huà	1
 网络暴力事件	wǎng luò bào lì shì jiàn	1
 网络本体语言	wǎng luò běn tǐ yǔ yán	1
@@ -318374,7 +318408,7 @@ sort: by_weight
 我的盖世英雄	wǒ de gài shì yīng xióng	1
 我的狐仙老婆	wǒ de hú xiān lǎo pó	1
 我的狐仙女友	wǒ de hú xiān nǚ yǒu	1
-我的僵尸女儿	wǒ de jiāng shī nǚ ér	1
+我的僵尸女儿	wǒ de jiāng shī nǚ er	1
 我的课余生活	wǒ de kè yú shēng huó	1
 我的老天鹅啊	wǒ de lǎo tiān é a	1
 我的蒙娜丽莎	wǒ de méng nà lì shā	1
@@ -318501,9 +318535,7 @@ sort: by_weight
 我亲爱的父亲	wǒ qīn ài de fù qīn	1
 我亲爱的老师	wǒ qīn ài de lǎo shī	1
 我亲爱的妈妈	wǒ qīn ài de mā ma	1
-我亲爱的秘书	wǒ qīn ài de mì shū	1
 我亲爱的朋友	wǒ qīn ài de péng you	1
-我亲爱的未来	wǒ qīn ài de wèi lái	1
 我亲爱的祖国	wǒ qīn ài de zǔ guó	1
 斡勤巴儿合黑	wò qín bā ér hé hēi	1
 我轻轻的招手	wǒ qīng qīng de zhāo shǒu	1
@@ -320047,6 +320079,8 @@ sort: by_weight
 吓出一身冷汗	xià chū yì shēn lěng hàn	1
 瑕疵担保责任	xiá cī dān bǎo zé rèn	1
 下次要注意了	xià cì yào zhù yì le	1
+厦村邓氏宗祠	xià cūn dèng shì zōng cí	1
+厦大翔安校区	xià dà xiáng ān xiào qū	1
 狭带细鳞盔鱼	xiá dài xì lín kuī yú	1
 侠盗飞车系列	xiá dào fēi chē xì liè	1
 侠盗猎魔系列	xiá dào liè mó xì liè	1
@@ -320104,7 +320138,7 @@ sort: by_weight
 厦门海事法院	xià mén hǎi shì fǎ yuàn	1
 厦门禾山中学	xià mén hé shān zhōng xué	1
 厦门弘爱医院	xià mén hóng ài yī yuàn	1
-厦门华厦学院	xià mén huá shà xué yuàn	1
+厦门华厦学院	xià mén huá xià xué yuàn	1
 厦门建发集团	xià mén jiàn fā jí tuán	1
 厦门马拉松赛	xià mén mǎ lā sōng sài	1
 厦门马垅医院	xià mén mǎ lǒng yī yuàn	1
@@ -328689,7 +328723,7 @@ sort: by_weight
 章子怡和汪峰	zhāng zi yí hé wāng fēng	1
 照阿娜姆石刻	zhào ā nà mǔ shí kè	1
 赵本山的弟子	zhào běn shān de dì zǐ	1
-赵本山的女儿	zhào běn shān de nǚ ér	1
+赵本山的女儿	zhào běn shān de nǚ er	1
 赵本山的徒弟	zhào běn shān de tú dì	1
 赵本山的小品	zhào běn shān de xiǎo pǐn	1
 找遍所有的街	zhǎo biàn suǒ yǒu de jiē	1
@@ -328784,7 +328818,7 @@ sort: by_weight
 赵云七进七出	zhào yún qī jìn qī chū	1
 沼泽阿拉伯人	zhǎo zé ā lā bó rén	1
 沼泽司塔卡拓	zhǎo zé sī tǎ kǎ tuò	1
-沼泽王的女儿	zhǎo zé wáng de nǚ ér	1
+沼泽王的女儿	zhǎo zé wáng de nǚ er	1
 沼泽细身脂鲤	zhǎo zé xì shēn zhī lǐ	1
 沼泽新南乳鱼	zhǎo zé xīn nán rǔ yú	1
 赵詹奇受贿案	zhào zhān qí shòu huì àn	1
@@ -328797,7 +328831,7 @@ sort: by_weight
 褶孢黑粉菌属	zhě bāo hēi fěn jūn shǔ	1
 这本书的主人	zhè běn shū de zhǔ rén	1
 这不是坑人吗	zhè bú shì kēng rén ma	1
-这才哪到哪儿	zhè cái nǎ dào nǎ ér	1
+这才哪到哪儿	zhè cái nǎ dào nǎ er	1
 辙叉心轨尖端	zhé chā xīn guǐ jiān duān	1
 辙叉有害空间	zhé chā yǒu hài kōng jiān	1
 褶唇丽鱼亚科	zhě chún lì yú yà kē	1
@@ -329838,7 +329872,7 @@ sort: by_weight
 知名喜剧演员	zhī míng xǐ jù yǎn yuán	1
 致命自主武器	zhì mìng zì zhǔ wǔ qì	1
 直木三十五奖	zhí mù sān shí wǔ jiǎng	1
-指哪儿打哪儿	zhǐ nǎ ér dǎ nǎ ér	1
+指哪儿打哪儿	zhǐ nǎ er dǎ nǎ er	1
 织纳高速公路	zhī nà gāo sù gōng lù	1
 支那文化史迹	zhī nà wén huà shǐ jì	1
 稚内分屯基地	zhì nèi fēn tún jī dì	1
@@ -330700,7 +330734,7 @@ sort: by_weight
 中煤能源股份	zhōng méi néng yuán gǔ fèn	1
 中煤能源集团	zhōng méi néng yuán jí tuán	1
 中煤平朔集团	zhōng méi píng shuò jí tuán	1
-中美望厦条约	zhōng měi wàng shà tiáo yuē	1
+中美望厦条约	zhōng měi wàng xià tiáo yuē	1
 中美倭松鼠属	zhōng měi wō sōng shǔ shǔ	1
 中美续增条约	zhōng měi xù zēng tiáo yuē	1
 中美洲娇丽鱼	zhōng měi zhōu jiāo lì yú	1
@@ -333444,7 +333478,7 @@ sort: by_weight
 澳洲囊口七鳃鳗	ào zhōu náng kǒu qī sāi mán	1
 爸爸妈妈的骄傲	bà ba mā ma de jiāo ào	1
 爸爸妈妈和孩子	bà ba mā ma hé hái zi	1
-爸爸我们去哪儿	bà ba wǒ men qù nǎ ér	1
+爸爸我们去哪儿	bà ba wǒ men qù nǎ er	1
 爸爸我想对你说	bà ba wǒ xiǎng duì nǐ shuō	1
 八百标兵奔北坡	bā bǎi biāo bīng bēn běi pō	1
 八百吊钱掉井里	bā bǎi diào qián diào jǐng lǐ	1
@@ -334334,7 +334368,7 @@ sort: by_weight
 北京中央商务区	běi jīng zhōng yāng shāng wù qū	1
 北京中医药大学	běi jīng zhōng yī yào dà xué	1
 北救赵而西却秦	běi jiù zhào ér xī què qín	1
-悲怜上帝的女儿	bēi lián shàng dì de nǚ ér	1
+悲怜上帝的女儿	bēi lián shàng dì de nǚ er	1
 被列入失信名单	bèi liè rù shī xìn míng dān	1
 北落基山脉地区	běi luò jī shān mài dì qū	1
 北美防空司令部	běi měi fáng kōng sī lìng bù	1
@@ -337475,7 +337509,7 @@ sort: by_weight
 带着责任和感情	dài zhe zé rèn hé gǎn qíng	1
 带着自己的儿子	dài zhe zì jǐ de ér zi	1
 带着自己的孩子	dài zhe zì jǐ de hái zi	1
-带着自己的女儿	dài zhe zì jǐ de nǚ ér	1
+带着自己的女儿	dài zhe zì jǐ de nǚ er	1
 带状疱疹的治疗	dài zhuàng pào zhěn de zhì liáo	1
 带状岩性油气藏	dài zhuàng yán xìng yóu qì cáng	1
 蛋白丢失性肠病	dàn bái diū shī xìng cháng bìng	1
@@ -337620,7 +337654,7 @@ sort: by_weight
 当别人问起我的	dāng bié rén wèn qǐ wǒ de	1
 当朝正主救婴儿	dāng cháo zhèng zhǔ jiù yīng ér	1
 当成自己的孩子	dàng chéng zì jǐ de hái zi	1
-当成自己的女儿	dàng chéng zì jǐ de nǚ ér	1
+当成自己的女儿	dàng chéng zì jǐ de nǚ er	1
 当初谩留华表语	dāng chū mán liú huá biǎo yǔ	1
 当代的念写记者	dāng dài de niàn xiě jì zhě	1
 当代基督教音乐	dāng dài jī dū jiào yīn yuè	1
@@ -337637,20 +337671,12 @@ sort: by_weight
 党的十九大召开	dǎng de shí jiǔ dà zhào kāi	1
 党的十七大精神	dǎng de shí qī dà jīng shén	1
 党的性质和宗旨	dǎng de xìng zhì hé zōng zhǐ	1
-当地的风俗习惯	dāng dì de fēng sú xí guàn	1
-当地的风土人情	dāng dì de fēng tú rén qíng	1
-当地的经济发展	dāng dì de jīng jì fā zhǎn	1
-当地的经济水平	dāng dì de jīng jì shuǐ píng	1
-当地的气候条件	dāng dì de qì hòu tiáo jiàn	1
 当地的生活水平	dāng dì de shēng huó shuǐ píng	1
 当地球停止转动	dāng dì qiú tíng zhǐ zhuàn dòng	1
 当归补血口服液	dāng guī bǔ xuè kǒu fú yè	1
 当归生姜羊肉汤	dāng guī shēng jiāng yáng ròu tāng	1
 当过去就在眼前	dāng guò qù jiù zài yǎn qián	1
-当哈利碰上莎莉	dāng hā lì pèng shàng shā lì	1
 当哈利遇到莎莉	dāng hā lì yù dào shā lì	1
-当哈利遇见莎莉	dāng hā lì yù jiàn shā lì	1
-当哈利遇上莎莉	dāng hā lì yù shàng shā lì	1
 党和人民的事业	dǎng hé rén mín de shì yè	1
 当和尚遇到钻石	dāng hé shàng yù dào zuàn shí	1
 当婚姻走到尽头	dāng hūn yīn zǒu dào jìn tóu	1
@@ -337681,10 +337707,6 @@ sort: by_weight
 当时轻别意中人	dāng shí qīng bié yì zhōng rén	1
 当事人进行主义	dāng shì rén jìn xíng zhǔ yì	1
 当时若不登高望	dāng shí ruò bù dēng gāo wàng	1
-当时我就吓傻了	dāng shí wǒ jiù xià shǎ le	1
-当时我就震惊了	dāng shí wǒ jiù zhèn jīng le	1
-当时怎么没想到	dāng shí zěn me méi xiǎng dào	1
-当时自怕中原复	dāng shí zì pà zhōng yuán fù	1
 当天和尚撞天钟	dàng tiān hé shàng zhuàng tiān zhōng	1
 当铁马遇上战车	dāng tiě mǎ yù shàng zhàn chē	1
 党委办公室主任	dǎng wěi bàn gōng shì zhǔ rèn	1
@@ -337731,25 +337753,6 @@ sort: by_weight
 道德非自然主义	dào dé fēi zì rán zhǔ yì	1
 道德形上学基础	dào dé xíng shàng xué jī chǔ	1
 道德与立法原理	dào dé yǔ lì fǎ yuán lǐ	1
-到底出了什么事	dào dǐ chū le shén me shì	1
-到底得了什么病	dào dǐ dé le shén me bìng	1
-到底发生了什么	dào dǐ fā shēng le shén me	1
-到底发现了什么	dào dǐ fā xiàn le shén me	1
-到底经历了什么	dào dǐ jīng lì le shén me	1
-到底看到了什么	dào dǐ kàn dào le shén me	1
-到底是啥原因呢	dào dǐ shì shá yuán yīn ne	1
-到底喜欢不喜欢	dào dǐ xǐ huān bù xǐ huān	1
-到底需要什么了	dào dǐ xū yào shén me le	1
-到底意味着什么	dào dǐ yì wèi zhe shén me	1
-到底隐藏着什么	dào dǐ yǐn cáng zhe shén me	1
-到底有没有怀孕	dào dǐ yǒu méi yǒu huái yùn	1
-到底有没有整容	dào dǐ yǒu méi yǒu zhěng róng	1
-到底有什么不同	dào dǐ yǒu shén me bù tóng	1
-到底有什么魅力	dào dǐ yǒu shén me mèi lì	1
-到底有什么魔力	dào dǐ yǒu shén me mó lì	1
-到底有什么意义	dào dǐ yǒu shén me yì yì	1
-到底值不值得买	dào dǐ zhí bù zhí dé mǎi	1
-到底做错了什么	dào dǐ zuò cuò le shén me	1
 道耳顿分压定律	dào ěr dùn fēn yā dìng lǜ	1
 道尔顿分压定律	dào ěr dùn fēn yā dìng lǜ	1
 道法自然除心魔	dào fǎ zì rán chú xīn mó	1
@@ -337767,24 +337770,7 @@ sort: by_weight
 到老终无怨恨心	dào lǎo zhōng wú yuàn hèn xīn	1
 倒了八辈子的霉	dào le bā bèi zi de méi	1
 倒了八辈子血霉	dào le bā bèi zi xuè méi	1
-到了吃饭的时间	dào le chī fàn de shí jiān	1
-到了二十一世纪	dào le èr shí yī shì jì	1
-到了疯狂的地步	dào le fēng kuáng de dì bù	1
-到了结婚的年纪	dào le jié hūn de nián jì	1
-到了另一个世界	dào le lìng yí gè shì jiè	1
 到了千年又觉陈	dào le qiān nián yòu jué chén	1
-到了上学的年纪	dào le shàng xué de nián jì	1
-到了上学的年龄	dào le shàng xué de nián líng	1
-到了适婚的年龄	dào le shì hūn de nián líng	1
-到了收获的季节	dào le shōu huò de jì jié	1
-到了希律的生日	dào le xī lǜ de shēng rì	1
-到了炎热的夏季	dào le yán rè de xià jì	1
-到了炎热的夏天	dào le yán rè de xià tiān	1
-到了一定的程度	dào le yí dìng de chéng dù	1
-到了一定的年纪	dào le yí dìng de nián jì	1
-到了一定的年龄	dào le yí dìng de nián líng	1
-到了一定的时间	dào le yí dìng de shí jiān	1
-到了约定的时间	dào le yuē dìng de shí jiān	1
 悼良会之永绝兮	dào liáng huì zhī yǒng jué xī	1
 道林格雷综合征	dào lín gé léi zōng hé zhēng	1
 道路等基础设施	dào lù děng jī chǔ shè shī	1
@@ -338179,19 +338165,6 @@ sort: by_weight
 第十八届超级碗	dì shí bā jiè chāo jí wǎn	1
 第十二世本因坊	dì shí èr shì běn yīn fāng	1
 迪氏拟半齿甲鲶	dí shì nǐ bàn chǐ jiǎ nián	1
-迪士尼动画世界	dí shì ní dòng huà shì jiè	1
-迪士尼度假区线	dí shì ní dù jià qū xiàn	1
-迪士尼飞天巡游	dí shì ní fēi tiān xún yóu	1
-迪士尼公主系列	dí shì ní gōng zhǔ xì liè	1
-迪士尼幻想工程	dí shì ní huàn xiǎng gōng chéng	1
-迪士尼经典动画	dí shì ní jīng diǎn dòng huà	1
-迪士尼九大元老	dí shì ní jiǔ dà yuán lǎo	1
-迪士尼卡通电影	dí shì ní kǎ tōng diàn yǐng	1
-迪士尼快速通行	dí shì ní kuài sù tōng xíng	1
-迪士尼收购福斯	dí shì ní shōu gòu fú sī	1
-迪士尼戏剧集团	dí shì ní xì jù jí tuán	1
-迪士尼戏剧制作	dí shì ní xì jù zhì zuò	1
-迪士尼在逃公主	dí shì ní zài táo gōng zhǔ	1
 第十七世噶玛巴	dì shí qī shì gá mǎ bā	1
 第十四个的目标	dì shí sì gè de mù biāo	1
 蒂氏脱硫念珠菌	dì shì tuō liú niàn zhū jūn	1
@@ -340655,7 +340628,7 @@ sort: by_weight
 夫妻之间的矛盾	fū qī zhī jiān de máo dùn	1
 夫妻之间的相处	fū qī zhī jiān de xiāng chǔ	1
 腹腔淋巴结肿大	fù qiāng lín bā jié zhǒng dà	1
-父亲对女儿的爱	fù qīn duì nǚ ér de ài	1
+父亲对女儿的爱	fù qīn duì nǚ er de ài	1
 父亲写的散文诗	fù qīn xiě de sǎn wén shī	1
 伏清白以死直兮	fú qīng bái yǐ sǐ zhí xī	1
 氟轻松冰片乳膏	fú qīng sōng bīng piàn rǔ gāo	1
@@ -341487,7 +341460,7 @@ sort: by_weight
 根据自己的习惯	gēn jù zì jǐ de xí guàn	1
 根据自己的想法	gēn jù zì jǐ de xiǎng fǎ	1
 根据最新的消息	gēn jù zuì xīn de xiāo xi	1
-跟没事儿人一样	gēn méi shì ér rén yí yàng	1
+跟没事儿人一样	gēn méi shì er rén yí yàng	1
 跟你们说的一样	gēn nǐ men shuō de yí yàng	1
 跟你水平差不多	gēn nǐ shuǐ píng chà bù duō	1
 跟你有什么关系	gēn nǐ yǒu shén me guān xì	1
@@ -342548,6 +342521,7 @@ sort: by_weight
 赫尔不兰特定理	hè ěr bù lán tè dìng lǐ	1
 赫尔根森林战役	hè ěr gēn sēn lín zhàn yì	1
 核苷酸切除修复	hé gān suān qiē chú xiū fù	1
+何国舅谋诛宦竖	hé guó jiù móu zhū huàn shù	1
 荷甲阿贾克斯队	hé jiǎ ā jiǎ kè sī duì	1
 合聚脉长足虻属	hé jù mài cháng zú méng shǔ	1
 褐孔小牛肝菌属	hè kǒng xiǎo niú gān jūn shǔ	1
@@ -343638,6 +343612,7 @@ sort: by_weight
 墨西哥大鼩鼱属	mò xī gē dà qú jīng shǔ	1
 墨西哥灰捕鸟蛛	mò xī gē huī bǔ niǎo zhū	1
 缪岑贝格装甲师	móu cén bèi gé zhuāng jiǎ shī	1
+谋董贼孟德献刀	móu dǒng zéi mèng dé xiàn dāo	1
 牡丹花好空入目	mǔ dān huā hǎo kōng rù mù	1
 穆尔维大桥战役	mù ěr wéi dà qiáo zhàn yì	1
 木瓜凝乳蛋白酶	mù guā níng rǔ dàn bái méi	1
@@ -343772,6 +343747,7 @@ sort: by_weight
 拟双倍猛水蚤属	nǐ shuāng bèi měng shuǐ zǎo shǔ	1
 拟双单宫线虫属	nǐ shuāng dān gōng xiàn chóng shǔ	1
 你有什么资格说	nǐ yǒu shén me zī gé shuō	1
+匿玉玺孙坚背约	nì yù xǐ sūn jiān bèi yuē	1
 你再考虑考虑吧	nǐ zài kǎo lǜ kǎo lǜ ba	1
 你怎么这么笨呢	nǐ zěn me zhè me bèn ne	1
 你知道是哪里吗	nǐ zhī dào shì nǎ lǐ ma	1
@@ -345151,6 +345127,7 @@ sort: by_weight
 酸性沼泽软泥怪	suān xìng zhǎo zé ruǎn ní guài	1
 随机偏微分方程	suí jī piān wēi fēn fāng chéng	1
 随机微分方程式	suí jī wēi fēn fāng chéng shì	1
+孙坚跨江击刘表	sūn jiān kuà jiāng jī liú biǎo	1
 孙悟空三岛求方	sūn wù kōng sān dǎo qiú fāng	1
 梭孢南费盘菌属	suō bāo nán fèi pán jūn shǔ	1
 羧甲淀粉钠溶液	suō jiǎ diàn fěn nà róng yè	1
@@ -345824,6 +345801,7 @@ sort: by_weight
 胸甲拟半齿甲鲶	xiōng jiǎ nǐ bàn chǐ jiǎ nián	1
 胸廓出口综合征	xiōng kuò chū kǒu zōng hé zhēng	1
 熊去氧胆酸胶囊	xióng qù yǎng dǎn suān jiāo náng	1
+休达及梅利利亚	xiū dá jí méi lì lì yà	1
 溴代邻苯三酚红	xiù dài lín běn sān fēn hóng	1
 溴代三氟甲烷气	xiù dài sān fú jiǎ wán qì	1
 溴化四乙酸二锝	xiù huà sì yǐ suān èr dé	1
@@ -346348,6 +346326,7 @@ sort: by_weight
 原发性无月经症	yuán fā xìng wú yuè jīng zhèng	1
 远来和尚好看经	yuǎn lái hé shàng hǎo kàn jīng	1
 原绿丝蓝细菌属	yuán lǜ sī lán xì jūn shǔ	1
+袁绍磐河战公孙	yuán shào pán hé zhàn gōng sūn	1
 元神神圣战甲术	yuán shén shén shèng zhàn jiǎ shù	1
 原始观音座莲属	yuán shǐ guān yīn zuò lián shǔ	1
 原始无球粒陨石	yuán shǐ wú qiú lì yǔn shí	1
@@ -346406,6 +346385,7 @@ sort: by_weight
 站着说话不腰疼	zhàn zhe shuō huà bù yāo téng	1
 张伯伦莫顿假说	zhāng bó lún mò dùn jiǎ shuō	1
 丈夫得了抑郁症	zhàng fū dé le yì yù zhèng	1
+张翼德怒鞭督邮	zhāng yì dé nù biān dū yóu	1
 找个安静的地方	zhǎo gè ān jìng de dì fāng	1
 找个没人的地方	zhǎo gè méi rén de dì fāng	1
 遮风挡雨的地方	zhē fēng dǎng yǔ de dì fāng	1
@@ -347104,6 +347084,7 @@ sort: by_weight
 蝶胸肿腿金小蜂属	dié xiōng zhǒng tuǐ jīn xiǎo fēng shǔ	1
 定源式虚实分量法	dìng yuán shì xū shí fèn liàng fǎ	1
 冬练三九夏练三伏	dōng liàn sān jiǔ xià liàn sān fú	1
+董太师大闹凤仪亭	dǒng tài shī dà nào fèng yí tíng	1
 东一榔头西一棒子	dōng yī láng tou xī yī bàng zi	1
 东隅已逝桑榆非晚	dōng yú yǐ shì sāng yú fēi wǎn	1
 都是万变不离其宗	dōu shì wàn biàn bù lí qí zōng	1
@@ -347122,6 +347103,7 @@ sort: by_weight
 耳濡目染心向往之	ěr rú mù rǎn xīn xiàng wǎng zhī	1
 耳听为虚眼见为实	ěr tīng wéi xū yǎn jiàn wéi shí	1
 二异氰酸二苯甲烷	èr yì qíng suān èr běn jiǎ wán	1
+发矫诏诸镇应曹公	fā jiǎo zhào zhū zhèn yīng cáo gōng	1
 法网恢恢疏而不漏	fǎ wǎng huī huī shū ér bú lòu	1
 菲克扩散第一定律	fēi kè kuò sàn dì yī dìng lǜ	1
 费了九牛二虎之力	fèi le jiǔ niú èr hǔ zhī lì	1
@@ -347223,6 +347205,7 @@ sort: by_weight
 坑道进尺米毫克值	kēng dào jìn chǐ mǐ háo kè zhí	1
 矿井通风速度压头	kuàng jǐng tōng fēng sù dù yā tóu	1
 矿区水文地质条件	kuàng qū shuǐ wén dì zhì tiáo jiàn	1
+馈金珠李肃说吕布	kuì jīn zhū lǐ sù shuō lǚ bù	1
 癞蛤蟆想吃天鹅肉	lài há má xiǎng chī tiān é ròu	1
 老鼠的儿子会打洞	lǎo shǔ de ér zi huì dǎ dòng	1
 老吾老以及人之老	lǎo wú lǎo yǐ jí rén zhī lǎo	1
@@ -347280,6 +347263,7 @@ sort: by_weight
 平巷流变地压理论	píng hàng liú biàn dì yā lǐ lùn	1
 平平淡淡从从容容	píng píng dàn dàn cóng cóng róng róng	1
 平行空炮眼掏槽法	píng xíng kōng pào yǎn tāo cáo fǎ	1
+破关兵三英战吕布	pò guān bīng sān yīng zhàn lǚ bù	1
 鄱阳湖自然保护区	pó yáng hú zì rán bǎo hù qū	1
 普氏岩石强度指数	pǔ shì yán shí qiáng dù zhǐ shù	1
 齐拉却尔曼斯效应	qí lā què ěr màn sī xiào yìng	1
@@ -347384,6 +347368,7 @@ sort: by_weight
 万事俱备只欠东风	wàn shì jù bèi zhǐ qiàn dōng fēng	1
 王侯将相宁有种乎	wáng hóu jiàng xiàng níng yǒu zhǒng hū	1
 王婆卖瓜自卖自夸	wáng pó mài guā zì mài zì kuā	1
+王司徒巧使连环计	wáng sī tú qiǎo shǐ lián huán jì	1
 亡羊补牢为时未晚	wáng yáng bǔ láo wéi shí wèi wǎn	1
 望子成龙望女成凤	wàng zi chéng lóng wàng nǚ chéng fèng	1
 围得里三层外三层	wéi de lǐ sān céng wài sān céng	1
@@ -347414,6 +347399,7 @@ sort: by_weight
 岩石动态弹性模量	yán shí dòng tài tán xìng mó liàng	1
 岩石孔隙压缩系数	yán shí kǒng xì yā suō xì shù	1
 岩石破碎比能学说	yán shí pò suì bǐ néng xué shuō	1
+宴桃园豪杰三结义	yàn táo yuán háo jié sān jié yì	1
 岩体工程数学模拟	yán tǐ gōng chéng shù xué mó nǐ	1
 言之无文行而不远	yán zhī wú wén xíng ér bù yuǎn	1
 样本平均值与方差	yàng běn píng jūn zhí yǔ fāng chà	1
@@ -347442,6 +347428,7 @@ sort: by_weight
 一叔丁基二氯代膦	yī shū dīng jī èr lǜ dài lìn	1
 已所不欲勿施于人	yǐ suǒ bú yù wù shī yú rén	1
 忆往昔峥嵘岁月稠	yì wǎng xī zhēng róng suì yuè chóu	1
+议温明董卓叱丁原	yì wēn míng dǒng zhuó chì dīng yuán	1
 乙烯丙烯二烃单体	yǐ xī bǐng xī èr tīng dān tǐ	1
 乙烯丙烯共怪物物	yǐ xī bǐng xī gòng guài wù wù	1
 乙型疱疹病毒亚科	yǐ xíng pào zhěn bìng dú yà kē	1
@@ -347468,6 +347455,7 @@ sort: by_weight
 运用之妙存乎一心	yùn yòng zhī miào cún hū yì xīn	1
 早知今日何必当初	zǎo zhī jīn rì hé bì dāng chū	1
 早知如此何必当初	zǎo zhī rú cǐ hé bì dāng chū	1
+斩黄巾英雄首立功	zhǎn huáng jīn yīng xióng shǒu lì gōng	1
 站着说话不嫌腰疼	zhàn zhe shuō huà bù xián yāo téng	1
 召之即来挥之即去	zhào zhī jí lái huī zhī jí qù	1
 招之即来挥之即去	zhāo zhī jí lái huī zhī jí qù	1
