@@ -25,6 +25,7 @@ import_tables:
   - dicts/dicts_LMDG/people              # 人名
   - dicts/dicts_LMDG/place               # 地名
   - dicts/dicts_LMDG/poetry              # 诗词/成语/典故类，靠后
+  - dicts/dicts_LMDG/biology             # 生物学词汇（含部分未识别人名）
 
   # 细胞词库
   - dicts/cn_dicts_cell/medication

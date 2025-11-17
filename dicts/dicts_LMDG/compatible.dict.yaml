@@ -7,12 +7,16 @@ name: compatible
 version: "LTS"
 sort: by_weight
 ...
+星星	xīng xing	747
+盛放	shèng fàng	451
+愿为	yuàn wèi	490
 捏坏	niē pēi	120
 糁馆	sá guǎn	88
 糁面	sá miàn	83
 糁粥	sá zhōu	94
 糁汤	sá tāng	67
 吃子	chī zǐ	411
+倾倒	qīng dào	553
 教授	jiāo shòu	609
 褪去	tùn qù	340
 一简	yī jiǎn	340
@@ -24,6 +28,10 @@ sort: by_weight
 一朝	yì cháo	310
 特勒	tè lēi	310
 大汗	dà hán	481
+指甲	zhī jia	369
+降了吧	xiáng le ba	175
+降了没	xiáng le méi	194
+对不了	duì bu liǎo	223
 玉米糁粥	yù mǐ sá zhōu
 玉米糁汤	yù mǐ sá tāng
 玉米糁面	yù mǐ sá miàn
@@ -347,6 +355,7 @@ sort: by_weight
 委屈	wěi qu	656
 精神	jīng shen	816
 朴树	pò shù	400
+干将	gān jiāng
 长不长	cháng bù cháng	330
 长头发	cháng tóu fā	500
 长头发	zhǎng tóu fā	500
@@ -4730,8 +4739,7 @@ sort: by_weight
 手指头	shǒu zhǐ tou	1
 四个匕	sì gè bǐ	1
 四个屮	sì gè chè	1
-四个车	sì gè chē	1
-四个車	sì gè chē	1
+四个車	sì gè chē	2
 四个春	sì gè chūn	1
 四个朿	sì gè cì	1
 四个風	sì gè fēng	1

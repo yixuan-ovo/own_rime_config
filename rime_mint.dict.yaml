@@ -26,6 +26,7 @@ import_tables:
   - dicts/other_kaomoji          # 颜文字表情（按`VV`呼出)
   - dicts/dicts_LMDG/people              # 人名
   - dicts/dicts_LMDG/place               # 地名
+  - dicts/dicts_LMDG/biology             # 生物学词汇（含部分未识别人名）
 
 
   # 细胞词库
