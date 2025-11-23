@@ -9,17 +9,17 @@ import_tables:
   - dicts/custom_simple          # 自定义
 
   # 本地词库（按重要性排列）
-  - dicts/dicts_LMDG/错音错字                             # 错音错字对照表（最优先，用于纠错）
-  - dicts/dicts_LMDG/单字表                               # 单字基础保障
-  - dicts/dicts_LMDG/基础词库                             # 常用词，主干词库
-  - dicts/dicts_LMDG/读音兼容                             # 多音字兼容优化
-  - dicts/dicts_LMDG/联想词库                             # 五字及以上长词联想（靠后）
-  # - dicts/tencent_replace                                 # 腾讯词向量扩展（已去重，位置靠后）
-  - dicts/other_kaomoji                                   # 颜文字表情（按`VV`呼出)
-  - dicts/dicts_LMDG/诗词文                               # 诗词/成语/典故类（靠后）
-  - dicts/dicts_LMDG/人名                                 # 人名词库（专有名词，靠后）
-  - dicts/dicts_LMDG/行政区划                             # 地名/行政区划（专有名词，靠后）
-  - dicts/dicts_LMDG/生物                                 # 生物学词汇（专业领域，靠后）
+  - dicts/dicts_LMDG/cuoyin                                # 错音错字对照表（最优先，用于纠错）
+  - dicts/dicts_LMDG/zi                                    # 单字基础保障
+  - dicts/dicts_LMDG/jichu                                 # 常用词，主干词库
+  - dicts/dicts_LMDG/duoyin                                # 多音字兼容优化
+  - dicts/dicts_LMDG/lianxiang                             # 五字及以上长词联想（靠后）
+  # - dicts/dicts_LMDG/tencent_replace                # ✅ 腾讯词向量扩展（已去重，位置靠后）
+  - dicts/other_kaomoji          # 颜文字表情（按`VV`呼出)
+  - dicts/dicts_LMDG/shici                                 # 诗词/成语/典故类（靠后）
+  - dicts/dicts_LMDG/renming                               # 人名词库（专有名词，靠后）
+  - dicts/dicts_LMDG/diming                                # 地名/行政区划（专有名词，靠后）
+  - dicts/dicts_LMDG/shengwu                               # 生物学词汇（专业领域，靠后）
 
   # 细胞词库（按使用频率和重要性排列）
   # 日常常用词库（优先）
