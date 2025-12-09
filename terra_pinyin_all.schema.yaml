@@ -1,6 +1,6 @@
 schema:
   schema_id: terra_pinyin_all
-  name: "地球拼音-薄荷定制"
+  name: "地球拼音-月七改"
   version: "24.10.02"
   author:
     - 佛振 <chen.sst@gmail.com>
@@ -53,20 +53,27 @@ engine:
     - fallback_segmentor
   translators:
     - lua_translator@*mint_date_time_translator          # 时间、日期、星期、月份
+    - lua_translator@*date_translator                    # 时间、日期、星期（rime-ice 风格，触发关键字：rq, sj, xq, dt, ts）
+    - lua_translator@*lunar                              # 农历（rime-ice 风格，触发关键字：nl）
+    - lua_translator@*uuid                               # UUID
     - lua_translator@*number_translator                  # 金额大小写
-    - lua_translator@*chineseLunarCalendar_translator    # 农历
+    - lua_translator@*chineseLunarCalendar_translator    # 农历（own_rime_config 风格）
     - lua_translator@*mint_calculator_translator         # 计算器（lua 动态表达式）
     - punct_translator
     - table_translator@custom_phrase
     - table_translator@melt_eng           # 英文输入（作为子翻译器，优先级需要比原生的低）
     - table_translator@cn_en                             # 中英混合词汇
     - reverse_lookup_translator@radical_reverse_lookup
+    - lua_translator@*unicode                           # Unicode 字符输入，如 U62fc 得到「拼」
     - script_translator
     - lua_translator@*force_gc                           # 暴力GC，尝试解决小狼毫长期使用的卡顿
   filters:
     - lua_filter@*corrector_filter               # 错音错字提示
     - lua_filter@*super_preedit                  # 输入码显示全拼并带上音调
     - lua_filter@*autocap_filter           # 英文自动大写
+    - lua_filter@*v_filter                    # v 模式 symbols 优先（顺序要求：v_filter > Emoji）
+    - lua_filter@*pin_cand_filter             # 置顶候选项（顺序要求：置顶候选项 > Emoji > 简繁切换）
+    - lua_filter@*long_word_filter           # 长词优先（顺序要求：长词优先 > Emoji）
     - simplifier@emoji_suggestion         # Emoji OpenCC
     - simplifier@transcription_cc         # 繁体&简体 OpenCC
     - lua_filter@*reduce_english_filter    # 降低部分英语单词在候选项的位置
@@ -92,6 +99,37 @@ codeLengthLimit_processor: 28
 
 # 中国农历配置
 chineseLunarCalendar_translator: lunar
+
+# Lua 配置: 日期、时间、星期、ISO 8601、时间戳的触发关键字（rime-ice 风格）
+date_translator:
+  date: rq       # 日期： 2022-11-29
+  time: sj       # 时间： 18:13
+  week: xq       # 星期： 星期二
+  datetime: dt   # ISO 8601： 2022-11-29T18:13:11+08:00
+  timestamp: ts  # 时间戳： 1669716794
+
+# Lua 配置：农历的触发关键字（rime-ice 风格）
+lunar: nl  # 农历： 二〇二三年冬月二十 癸卯年（兔）冬月二十
+
+# Lua 配置: 生成 UUID 的触发关键字
+uuid: uuid
+
+# Lua 配置：长词优先
+# 提升 count 个词语，插入到第 idx 个位置。
+# 示例：将 2 个词插入到第 4、5 个候选项，输入 jie 得到「1接 2解 3姐 4饥饿 5极恶 6结 7界……」
+long_word_filter:
+  count: 2
+  idx: 4
+
+# Lua 配置: 置顶候选项
+# 注释太长了，请参考 pin_cand_filter.lua 开头的说明书。
+# pin_cand_filter.lua 末尾有常见编码可供直接复制参考
+pin_cand_filter:
+  # 格式：编码<Tab>字词1<Space>字词2……
+  # 示例：
+  # - d	的
+  # - m	吗 嘛
+  # - hm	后面
 
 # Lua 配置: 降低部分英语单词在候选项的位置。
 # 详细介绍 https://dvel.me/posts/make-rime-en-better/#短单词置顶的问题
@@ -356,7 +394,8 @@ recognizer:
   import_preset: default
   patterns:
     url: "^[a-z]+[.].+$"
-    punct: "^/([0-9]0?|[a-zA-Z]+)$"
+    punct: "^[/v]([0-9]0?|[a-zA-Z]+)$"  # 支持 / 和 v 两种模式的符号输入
+    unicode: "^U[0-9A-Fa-f]+$"          # Unicode 字符输入，如 U62fc 得到「拼」
     radical_lookup: "Uu[a-z]*'?$"
     rmb: "^R[0-9]+[.]?[0-9]*"        # 响应 lua_translator@number_translator 脚本将自动获取第 2 个字符作为触发前缀
     expression: "^=.*$"              # 响应 lua_translator@expression_translator 脚本将自动获取第 2 个字符作为触发前缀

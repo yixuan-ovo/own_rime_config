@@ -19,17 +19,6 @@
 					{
 						"type": "text",
 						"file": "others.txt"
-					},
-                    {
-                        "type": "text",
-                        "file": "spoken.txt"
-                    },
-					{
-						"type": "text",
-						"file": "emoji_word.txt"
-					}, {
-						"type": "text",
-						"file": "emoji_category.txt"
 					}
 				]
 			}

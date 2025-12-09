@@ -51,6 +51,8 @@ translator:
   encode_commit_history: true
 
 punctuator:
+  digit_separators: ",.:"  # 在此处指定的字符，在数字后被输入，若再次输入数字，则连同数字直接上屏；若双击，则恢复映射。 # librime >= 28a234f
+  # digit_separator_action: commit  # 关闭上述行为 librime >= 1.13.1
   full_shape:
     ' ' : { commit: '　' }
     ',' : { commit: ， }
@@ -120,6 +122,9 @@ punctuator:
     '}' : [ 』, 〗, ｝ ]
 
 key_binder:
+  # Lua 配置: 以词定字（上屏当前词句的第一个或最后一个字），和中括号翻页有冲突
+  # select_first_character: "bracketleft"  # 左中括号 [
+  # select_last_character: "bracketright"  # 右中括号 ]
   bindings:
     # Emacs 风格的快捷键
     - { when: composing, accept: Control+p, send: Up }     # composing 时,Control+p 等同于 Up 键
@@ -133,41 +138,70 @@ key_binder:
     - { when: composing, accept: Control+g, send: Escape }       # 退出编码
     - { when: composing, accept: Alt+v, send: Page_Up }          # 翻页
     - { when: composing, accept: Control+v, send: Page_Down }
-    # 按词移动光标
+    # Tab / Shift+Tab 切换光标至下/上一个拼音
     - { when: composing, accept: ISO_Left_Tab, send: Shift+Left } # ISO_Left_Tab 是 Shift+Tab
     - { when: composing, accept: Shift+Tab, send: Shift+Left }
     - { when: composing, accept: Tab, send: Shift+Right }
-    # 翻页
+    # Option/Alt + ←/→ 切换光标至下/上一个拼音
+    - { when: composing, accept: Alt+Left, send: Shift+Left }
+    - { when: composing, accept: Alt+Right, send: Shift+Right }
+    # 翻页 - =
     - { when: paging, accept: minus, send: Page_Up }             # 使用`-`进行向上翻页（第一页时候无效）
     - { when: has_menu, accept: equal, send: Page_Down }         # 使用`=`进行向下翻页
 #    - { when: paging, accept: comma, send: Page_Up }             # 候选窗口翻页
 #    - { when: has_menu, accept: period, send: Page_Down }
     - { when: predicting, accept: comma, send: comma }           # 在预编码模式下,不当作快捷键
     - { when: predicting, accept: period, send: period }
+    # 翻页 [ ]  ⚠️ 开启时请修改上面以词定字的快捷键
+    # - { when: paging, accept: bracketleft, send: Page_Up }
+    # - { when: has_menu, accept: bracketright, send: Page_Down }
     # 切换状态
     - { when: always, accept: Control+Shift+1, select: .next }   # 切换输入方案
     - { when: always, accept: Control+Shift+2, toggle: ascii_mode } # 切换中/西文模式
     - { when: always, accept: Control+Shift+3, toggle: full_shape } # 切换全角/半角
     - { when: always, accept: Control+Shift+4, toggle: transcription } # 切换简体/繁体
     - { when: always, accept: Control+Shift+5, toggle: extended_charset } # 切换扩展字符
-#    - { when: always, accept: Shift+space, toggle: full_shape } # 另一种切换全角/半角的方式
     - { when: always, accept: Control+period, toggle: ascii_punct } # 切换中/西文标点
+    # 将小键盘 0~9 . 映射到主键盘，数字金额大写的 Lua 如 R1234.5678 可使用小键盘输入
+    - {accept: KP_0, send: 0, when: composing}
+    - {accept: KP_1, send: 1, when: composing}
+    - {accept: KP_2, send: 2, when: composing}
+    - {accept: KP_3, send: 3, when: composing}
+    - {accept: KP_4, send: 4, when: composing}
+    - {accept: KP_5, send: 5, when: composing}
+    - {accept: KP_6, send: 6, when: composing}
+    - {accept: KP_7, send: 7, when: composing}
+    - {accept: KP_8, send: 8, when: composing}
+    - {accept: KP_9, send: 9, when: composing}
+    - {accept: KP_Decimal, send: period, when: composing}
+    # 将小键盘 + - * / 映射到主键盘，使计算器 如 1+2-3*4 可使用小键盘输入
+    - {accept: KP_Multiply, send: asterisk, when: composing}
+    - {accept: KP_Add,      send: plus,     when: composing}
+    - {accept: KP_Subtract, send: minus,    when: composing}
+    - {accept: KP_Divide,   send: slash,    when: composing}
     # 小键盘 Enter 等同于回车，上屏当前候选
     - { when: composing, accept: KP_Enter, send: Return }
 
 recognizer:
   # 定义识别码的正则表达式规则
   patterns:
-    email: "^[a-z][-_.0-9a-z]*@.*$"  # 匹配电子邮件地址
+    email: "^[A-Za-z][-_.0-9A-Za-z]*@.*$"  # 匹配电子邮件地址，@ 之后不上屏
     uppercase: "[A-Z][-_+.'0-9A-Za-z]*$"  # 匹配大写字母开头的字符串
-    url: "^(www[.]|https?:|ftp:|mailto:).*$|^[a-z]+[.].+$"  # 匹配 URL 或域名
+    url: "^(www[.]|https?:|ftp[.:]|mailto:|file:).*$|^[a-z]+[.].+$"  # 匹配 URL 或域名
+    underscore: "^[A-Za-z]+_.*"  # 下划线不上屏
 
 ascii_composer:
   # 定义切换到西文模式的快捷键
+  # 不同的选项表示：打字打到一半时按下了 CapsLock、Shift、Control 后：
+  # commit_code  上屏原始的编码，然后切换到英文
+  # commit_text  上屏拼出的词句，然后切换到英文
+  # clear        清除未上屏内容，然后切换到英文
+  # inline_ascii 切换到临时英文模式，按回车上屏后回到中文状态
+  # noop         屏蔽快捷键，不切换中英，但不要屏蔽 CapsLock
+  good_old_caps_lock: true  # true | false，启用经典的 Caps Lock 开启西文模式的方式
   switch_key:
-    Caps_Lock: commit_code  # 按下 Caps Lock 会直接上屏
-#    Control_L: noop  # 按下左 Control 键不做任何操作
-#    Control_R: noop  # 按下右 Control 键不做任何操作
-    Shift_L: commit_code  # 按下左 Shift 键会直接上屏
-    Shift_R: inline_ascii  # 按下右 Shift 键会临时切换到西文模式
-  good_old_caps_lock: true  # 启用经典的 Caps Lock 开启西文模式的方式
+    Caps_Lock: clear      # commit_code | commit_text | clear
+    Shift_L: commit_code  # commit_code | commit_text | inline_ascii | clear | noop
+    Shift_R: inline_ascii # commit_code | commit_text | inline_ascii | clear | noop
+    Control_L: noop       # commit_code | commit_text | inline_ascii | clear | noop
+    Control_R: noop       # commit_code | commit_text | inline_ascii | clear | noop

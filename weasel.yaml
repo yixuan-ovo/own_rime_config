@@ -6,8 +6,14 @@
 # Weasel 定制文档 <https://github.com/rime/weasel/wiki/Weasel-定製化>
 # Weasel 字体设定 <https://github.com/rime/weasel/wiki/字體設定>
 
+# Weasel 特殊行为的命令行选项
+# WeaselServer.exe /ascii - CLI 中切换 ASCII 模式
+# WeaselServer.exe /nascii - CLI 中切换非 ASCII 模式
+# WeaselSetup.exe /toggleime - 设置系统快捷键用于开启/关闭键盘（0.16.1 以上版本）
+# WeaselSetup.exe /toggleascii - 设置系统快捷键用于切换 ASCII 模式（0.16.1 以上版本）
+
 # 部分选项需要将 Weasel 更新至最新开发版才能生效
-config_version: "2024-03-02"
+config_version: "2024-09-25"
 
 # [app_options]
 # 针对特定应用的设置
@@ -16,6 +22,8 @@ config_version: "2024-03-02"
 # 针对特定应用的设置
 # %APPDATA%\Rime\weasel.yaml
 app_options:
+  firefox.exe:
+    inline_preedit: true   # 行内显示预编辑区：规避 <https://github.com/rime/weasel/issues/946>
   code.exe:            { ascii_mode: true }
   WeChatDevTools.exe:  { ascii_mode: true }
   Postman.exe:         { ascii_mode: true }
@@ -90,10 +98,10 @@ style:
     baseline: 0                            # 字号百分比，与 linespacing 一同设置可解决字体跳动问题，设置为 0 为禁用
     linespacing: 0                         # 字号百分比，参考 <https://github.com/rime/weasel/pull/1177>
     align_type: center                     # 标签、候选文字、注解文字之间的相对对齐方式：top ; center ; bottom
-    max_height: 600                        # 候选框最大高度，horizontal 布局如宽超此尺寸则换行显示候选，设置为 0 不启用此功能
-    max_width: 0                           # 候选框最大宽度，文本竖排模式下如高度超此尺寸则换列显示候选，设置为 0 不启用此功能
+    max_height: 600                        # 候选框最大高度，文本竖排模式下如高度超此尺寸则换列显示候选，设置为 0 不启用此功能
+    max_width: 0                           # 候选框最大宽度，horizontal 布局如宽超此尺寸则换行显示候选，设置为 0 不启用此功能
     min_height: 0                          # 候选框最小高度
-    min_width: 145                          # 候选框最小宽度
+    min_width: 145                         # 候选框最小宽度
     border_width: 1                        # 边框宽度；又名 border
     margin_x: 8                            # 主体元素和候选框的左右边距；为负值时，不显示候选框
     margin_y: 7                            # 主体元素的上下边距；为负值时，不显示候选框
