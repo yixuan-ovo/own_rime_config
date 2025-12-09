@@ -15,10 +15,10 @@ schema:
 switches:
   - name: ascii_punct
     states: [ "。，", "．，" ]
-    reset: 0
+    reset: 1
   - name: emoji_suggestion
     states: [ "💀","🥰"]
-    reset: 0
+    reset: 1
   - name: full_shape
     states: [ 半角, 全角 ]
     reset: 0
@@ -27,7 +27,7 @@ switches:
     reset: 0
   - name: chaifen        # 拆字滤镜
     states: [ 💔, 🖤 ]     # 快捷键 「Control+Shift+C」
-    reset: 1
+    reset: 0
   - name: transcription
     states: [ 简体 , 繁体 ]
     reset: 0
@@ -409,6 +409,8 @@ key_binder:
     - {accept: "Control+Shift+E", toggle: emoji_suggestion, when: always}   # Emoji 快捷键
     - {accept: "Control+Shift+1", toggle: transcription, when: has_menu}           # 当存在候选菜单时，可以切换简体和繁体
     - {accept: "Control+Shift+exclam", toggle: transcription, when: has_menu}      # 当存在候选菜单时，可以切换简体和繁体（小狼毫可能读取这个）
+    - {accept: "Control+Shift+T", toggle: tone_display, when: has_menu}      # 音调显示开关
+    - {accept: "Control+Shift+C", toggle: chaifen, when: has_menu}          # 拆字滤镜开关
     # 映射小键盘数字键,丶,回车可以在计算器中使用
     - { when: composing, accept: "KP_0", send: "0" }
     - { when: composing, accept: "KP_1", send: "1" }

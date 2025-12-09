@@ -369,6 +369,7 @@ key_binder:
     - {accept: "Control+Shift+E", toggle: emoji_suggestion, when: always}   # Emoji 快捷键
     - {accept: "Control+Shift+1", toggle: transcription, when: has_menu}           # 当存在候选菜单时，可以切换简体和繁体
     - {accept: "Control+Shift+exclam", toggle: transcription, when: has_menu}      # 当存在候选菜单时，可以切换简体和繁体（小狼毫可能读取这个）
+    - {accept: "Control+Shift+T", toggle: tone_display, when: has_menu}      # 音调显示开关
     - {accept: "Control+Shift+C", toggle: chaifen, when: has_menu}          # 拆字滤镜开关
     # 映射小键盘数字键,丶,回车可以在计算器中使用
     - { when: composing, accept: "KP_0", send: "0" }

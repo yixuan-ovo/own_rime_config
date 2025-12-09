@@ -15,12 +15,12 @@ local function modify_preedit_filter(input, env)
     local tone_isolate = config:get_bool("speller/tone_isolate")      -- 是否将数字声调从转换后拼音中隔离出来
     local visual_delim = config:get_string("speller/visual_delimiter") or " "  -- 定义转换后的分隔符号
 
-    env.settings = { tone_display = env.engine.context:get_option("tone_display") } or false
+    -- 获取 tone_display 选项值
+    local context = env.engine.context
+    local tone_display_option = context:get_option("tone_display")
+    local is_tone_display = (tone_display_option == true)
     local auto_delimiter = delimiter:sub(1, 1)
     local manual_delimiter = delimiter:sub(2, 2)
-
-    local is_tone_display = env.settings.tone_display
-    local context = env.engine.context
 
     local seg = context.composition:back()
     env.is_special_tag_mode = seg and (
@@ -39,7 +39,16 @@ local function modify_preedit_filter(input, env)
             goto continue
         end
 
-        if not comment or comment == "" or not is_tone_display then
+        -- 如果 tone_display 关闭，不显示任何编码和拼音，只显示纯候选项汉字
+        if not is_tone_display then
+            genuine_cand.preedit = ""
+            genuine_cand.comment = ""
+            yield(genuine_cand)
+            goto continue
+        end
+
+        -- 如果 tone_display 开启但没有 comment，保持原样
+        if not comment or comment == "" then
             yield(cand)
             goto continue
         end
