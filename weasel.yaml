@@ -274,7 +274,7 @@ preset_color_schemes:
   # source: <https://github.com/rime/weasel/blob/master/output/data/weasel.yaml>
 
   yixuan1:
-    name: 月一／ytq
+    name: 月一/ytq
     author: yixuan-gmail
     color_format: rgba
     hilited_mark_color: 0xBE646D
@@ -295,7 +295,7 @@ preset_color_schemes:
     prevpage_color: 0xc0666f                  # inline_preedit: false 翻页箭头颜色：上一页；不设置则不显示箭头
 
   yixuan2:
-    name: 月二／ytq
+    name: 月二/ytq
     author: yixuan-gmail
     color_format: rgba
     hilited_mark_color: 0xBE646D
@@ -316,7 +316,7 @@ preset_color_schemes:
     prevpage_color: 0xc0666f                  # inline_preedit: false 翻页箭头颜色：上一页；不设置则不显示箭头
 
   yixuan3:
-    name: 月三／ytq
+    name: 月三/ytq
     author: yixuan-gmail
     color_format: rgba
     hilited_mark_color: 0xBE646D
@@ -335,216 +335,69 @@ preset_color_schemes:
     # inline_preedit: false 时翻页箭头颜色，不设置则不显示箭头
     nextpage_color: 0x2b313d                  # inline_preedit: false 翻页箭头颜色：下一页；不设置则不显示箭头
     prevpage_color: 0xc0666f                  # inline_preedit: false 翻页箭头颜色：上一页；不设置则不显示箭头
-
+    
   yixuan4:
-    name: 月四／ytq
+    name: 月四/ytq
     author: yixuan-gmail
     color_format: abgr
-    hilited_mark_color: 0xBE646D
-    text_color: 0xAC4D4D
-    back_color: 0xFFFFFF
-    border_color: 0x99B2DE
-    label_color: 0x7D94BB
+    hilited_mark_color: 0xB85C63
+    text_color: 0xA24A4A
+    back_color: 0xFFFEFC
+    border_color: 0x9FAFC8
+    label_color: 0x7A8FB3
     hilited_text_color: 0xFFFFFF
-    hilited_back_color: 0xEAD4AD
-    candidate_text_color: 0x6392BE
-    comment_text_color: 0x677B80
-    hilited_candidate_text_color: 0x9F2727
+    hilited_back_color: 0xE7D1A8
+    candidate_text_color: 0x5F87B2
+    comment_text_color: 0x6C7F86
+    hilited_candidate_text_color: 0x8E1F1F
     hilited_comment_text_color: 0xFFFFFF
-    hilited_candidate_back_color: 0xE4BEBE
-    hilited_label_color: 0xA31B1B
+    hilited_candidate_back_color: 0xE1B9B9
+    hilited_label_color: 0x9B1C1C
     # inline_preedit: false 时翻页箭头颜色，不设置则不显示箭头
-    nextpage_color: 0x2b313d                  # inline_preedit: false 翻页箭头颜色：下一页；不设置则不显示箭头
-    prevpage_color: 0xc0666f                  # inline_preedit: false 翻页箭头颜色：上一页；不设置则不显示箭头
-
-  aqua:
-    name: 碧水／Aqua
-    author: 佛振 <chen.sst@gmail.com>
-    text_color: 0x000000
-    back_color: 0xeceeee
-    shadow_color: 0x00000000
-    border_color: 0xe0e0e0
-    hilited_text_color: 0x000000
-    hilited_back_color: 0xd4d4d4
-    hilited_shadow_color: 0x00000000
-    hilited_candidate_text_color: 0xffffff
-    hilited_candidate_back_color: 0xfa3a0a
-    hilited_candidate_shadow_color: 0x00000000
-    candidate_text_color: 0x000000
-    candidate_back_color: 0xeceeee
-    candidate_shadow_color: 0x00000000
-
-  luna:
-    name: 明月／Luna
-    author: 佛振 <chen.sst@gmail.com>
-    text_color: 0x000000
-    back_color: 0xffffff
-    border_color: 0xcccccc
-    hilited_text_color: 0x000000
-    hilited_back_color: 0x7fffff
-    hilited_candidate_text_color: 0xffffff
-    hilited_candidate_back_color: 0x000000
-
-  ink:
-    name: 墨池／Ink
-    author: 佛振 <chen.sst@gmail.com>
-    text_color: 0x000000
-    back_color: 0xffffff
-    border_color: 0x000000
-    hilited_text_color: 0x000000
-    hilited_back_color: 0xdddddd
-    hilited_candidate_text_color: 0xffffff
-    hilited_candidate_back_color: 0x000000
-
-  lost_temple:
-    name: 孤寺／Lost Temple
-    author: 佛振 <chen.sst@gmail.com>, based on ir_black
-    text_color: 0xe8f3f6
-    back_color: 0x444444
-    border_color: 0x444444
-    hilited_text_color: 0x82e6ca
-    hilited_back_color: 0x222222
-    hilited_candidate_text_color: 0x000000
-    hilited_candidate_back_color: 0x82e6ca
-
-  dark_temple:
-    name: 暗堂／Dark Temple
-    author: 佛振 <chen.sst@gmail.com>, based on ir_black
-    text_color: 0x92f6da
-    candidate_text_color: 0xd8e3e6
-    back_color: 0x222222
-    border_color: 0x222222
-    hilited_text_color: 0xffcf9a
-    hilited_back_color: 0x222222
-    hilited_candidate_text_color: 0x92f6da
-    hilited_candidate_back_color: 0x333333
-    comment_text_color: 0x606cff
-
-  starcraft:
-    name: 星際我爭霸／StarCraft
-    author: Contralisk <contralisk@gmail.com>, original artwork by Blizzard Entertainment
-    text_color: 0xccaa88
-    candidate_text_color: 0x30bb55
-    back_color: 0x000000
-    border_color: 0x1010a0
-    hilited_text_color: 0xfecb96
-    hilited_back_color: 0x000000
-    hilited_candidate_text_color: 0x60ffa8
-    hilited_candidate_back_color: 0x000000
-
-  google:
-    name: 谷歌／Google
-    author: skoj <skoj@qq.com>
-    text_color: 0x666666
-    candidate_text_color: 0x000000
-    back_color: 0xFFFFFF
-    border_color: 0xE2E2E2
-    hilited_text_color: 0x000000
-    hilited_back_color: 0xFFFFFF
-    hilited_candidate_text_color: 0xFFFFFF
-    hilited_candidate_back_color: 0xCE7539
-
-  xbox_silver:
-    name: "銀色叉盒／Xbox Silver"
-    author: "Patricivs <ipatrickmac@me.com>"
-    text_color: 0x1fc28d
-    back_color: 0xefeeee
-    border_color: 0xefeeee
-    label_color: 0x5bf0b5
-    hilited_text_color: 0xffffff
-    hilited_back_color: 0x5bf0b5
-    candidate_text_color: 0x1fc28d
-    comment_text_color: 0x1fc28d
-    hilited_candidate_text_color: 0xffffff
-    hilited_comment_text_color: 0xffffff
-    hilited_candidate_back_color: 0x448c28
-
-  youtube:
-    name: "YouTube"
-    author: "Patricivs <ipatrickmac@me.com>"
-    text_color: 0x000000
-    back_color: 0xdedede
-    border_color: 0xdedede
-    label_color: 0x000000
-    hilited_text_color: 0x230dc3
-    hilited_back_color: 0xffffff
-    candidate_text_color: 0x000000
-    comment_text_color: 0x000000
-    hilited_candidate_text_color: 0xffffff
-    hilited_comment_text_color: 0xffffff
-    hilited_candidate_back_color: 0x230dc3
-
-  so_young:
-    name: "致青春／So Young"
-    author: "五磅兔 <zcunlin@foxmail.com>"
-    text_color: 0x8236d3
-    back_color: 0xe3f6fd
-    border_color: 0xd5e8ee
-    label_color: 0xa1a193
-    candidate_text_color: 0x837b65
-    comment_text_color: 0xd28b26
-    hilited_text_color: 0x969483
-    hilited_back_color: 0xd5e8ee
-    hilited_candidate_text_color: 0xd5e8ee
-    hilited_comment_text_color: 0xd5e8ee
-    hilited_candidate_back_color: 0x98a12a
-
-  wii:
-    name: "Wii"
-    author: "Patricivs <ipatrickmac@me.com>"
-    text_color: 0x575759
-    back_color: 0xefefef
-    border_color: 0xefefef
-    label_color: 0xcac9c8
-    hilited_text_color: 0xffcc33
-    hilited_back_color: 0xefefef
-    candidate_text_color: 0x575759
-    comment_text_color: 0xcac9c8
-    hilited_candidate_text_color: 0xffffff
-    hilited_comment_text_color: 0xffffff
-    hilited_candidate_back_color: 0xffcc33
-
-  google_plus:
-    name: "Google+"
-    author: "Patricivs <ipatrickmac@me.com>"
-    text_color: 0xcac9c8
-    back_color: 0xffffff
-    border_color: 0x394bdd
-    label_color: 0xcac9c8
-    hilited_text_color: 0x394bdd
-    hilited_back_color: 0xffffff
-    candidate_text_color: 0x394bdd
-    comment_text_color: 0xcac9c8
-    hilited_candidate_text_color: 0xffffff
-    hilited_comment_text_color: 0xffffff
-    hilited_candidate_back_color: 0x394bdd
-
-  brisk:
-    name: "輕盈／Brisk"
-    author: "skoj <skoj@qq.com>"
-    text_color: 0x2238dc
-    back_color: 0xffffff
-    border_color: 0x333333
-    hilited_text_color: 0x2238dc
-    hilited_back_color: 0xffffff
-    candidate_text_color: 0x575757
-    hilited_candidate_text_color: 0x2238dc
-    hilited_candidate_back_color: 0xffffff
-
-  steam:
-    name: "Steam"
-    author: "Patricivs <ipatrickmac@me.com>"
-    text_color: 0xcd8c52
-    back_color: 0x141617
-    border_color: 0x353638
-    label_color: 0xffffff
-    hilited_text_color: 0xc9cfd1
-    hilited_back_color: 0x141617
-    candidate_text_color: 0xffffff
-    comment_text_color: 0xa7a7a9
-    hilited_candidate_text_color: 0xffffff
-    hilited_comment_text_color: 0xa7a7a9
-    hilited_candidate_back_color: 0x594231
+    nextpage_color: 0x3A3F4B				# inline_preedit: false 翻页箭头颜色：下一页；不设置则不显示箭头
+    prevpage_color: 0xB56A6F				# inline_preedit: false 翻页箭头颜色：上一页；不设置则不显示箭头
+    
+  yixuan5:
+    name: 月五/ytq
+    author: yixuan-gmail
+    color_format: abgr
+    hilited_mark_color: 0x8A4E5B
+    text_color: 0x5E3E3E
+    back_color: 0xFBFBF7
+    border_color: 0xA5B8C8
+    label_color: 0x6F8FA8
+    hilited_text_color: 0xFFFFFF
+    hilited_back_color: 0xD8E1C8
+    candidate_text_color: 0x5E87A6
+    comment_text_color: 0x6E7E7A
+    hilited_candidate_text_color: 0x2E4E3F
+    hilited_comment_text_color: 0xFFFFFF
+    hilited_candidate_back_color: 0xC6D8CE
+    hilited_label_color: 0x3F6F5F
+    # inline_preedit: false 时翻页箭头颜色，不设置则不显示箭头
+    nextpage_color: 0x4A5568			# inline_preedit: false 翻页箭头颜色：下一页；不设置则不显示箭头
+    prevpage_color: 0x7A8FA3			# inline_preedit: false 翻页箭头颜色：上一页；不设置则不显示箭头
+    
+  yixuan6:
+    name: 月六/ytq
+    author: yixuan-gmail
+    color_format: abgr
+    hilited_mark_color: 0x9A5A55
+    text_color: 0x7B3F3F
+    back_color: 0xFAF7F2
+    border_color: 0xB5AFA5
+    label_color: 0x8A8074
+    hilited_text_color: 0xFFFFFF
+    hilited_back_color: 0xE6CFAF
+    candidate_text_color: 0x6F7E8A
+    comment_text_color: 0x7C746A
+    hilited_candidate_text_color: 0x6B1F1F
+    hilited_comment_text_color: 0xFFFFFF
+    hilited_candidate_back_color: 0xD8B1A8
+    hilited_label_color: 0x7B2A2A
+    # inline_preedit: false 时翻页箭头颜色，不设置则不显示箭头
+    nextpage_color: 0x5C5C5C			# inline_preedit: false 翻页箭头颜色：下一页；不设置则不显示箭头
+    prevpage_color: 0x9A6A6A			# inline_preedit: false 翻页箭头颜色：上一页；不设置则不显示箭头
 
   flypy:
     # description: |
