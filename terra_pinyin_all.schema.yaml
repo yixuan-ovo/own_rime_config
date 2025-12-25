@@ -129,6 +129,8 @@ pin_cand_filter:
   # - d	的
   # - m	吗 嘛
   # - hm	后面
+  # 固定 lianji 的分词方式为 lian ji（两个音节），避免被切分为 li an ji
+  - 'lian ji	联机 连击'
 
 # Lua 配置: 降低部分英语单词在候选项的位置。
 # 详细介绍 https://dvel.me/posts/make-rime-en-better/#短单词置顶的问题
