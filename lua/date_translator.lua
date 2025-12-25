@@ -1,9 +1,9 @@
 -- 日期时间，可在方案中配置触发关键字。
 
--- 提高权重的原因：因为在方案中设置了大于 1 的 initial_quality，导致 rq sj xq dt ts 产出的候选项在所有词语的最后。
+-- 让日期时间候选项出现在第 1 个位置
 local function yield_cand(seg, text)
     local cand = Candidate('', seg.start, seg._end, text, '')
-    cand.quality = 100
+    cand.quality = 5    -- 默认出现在第一个
     yield(cand)
 end
 
@@ -17,6 +17,7 @@ function M.init(env)
     M.week = config:get_string(env.name_space .. '/week') or 'xq'
     M.datetime = config:get_string(env.name_space .. '/datetime') or 'dt'
     M.timestamp = config:get_string(env.name_space .. '/timestamp') or 'ts'
+    M.month = config:get_string(env.name_space .. '/month') or 'yf'
 end
 
 function M.func(input, seg, env)
@@ -28,21 +29,40 @@ function M.func(input, seg, env)
         yield_cand(seg, os.date('%Y.%m.%d', current_time))
         yield_cand(seg, os.date('%Y%m%d', current_time))
         yield_cand(seg, os.date('%Y年%m月%d日', current_time):gsub('年0', '年'):gsub('月0','月'))
+        yield_cand(seg, os.date('%m-%d-%Y', current_time))
+        -- 中文大写日期
+        local chinese_num = {
+            ["1"]="一", ["2"]="二", ["3"]="三", ["4"]="四", ["5"]="五",
+            ["6"]="六", ["7"]="七", ["8"]="八", ["9"]="九", ["0"]="〇"
+        }
+        local chinese_month = {"一月", "二月", "三月", "四月", "五月", "六月", "七月", "八月", "九月", "十月", "十一月", "十二月"}
+        local date_y_chinese = os.date("%Y", current_time):gsub("%d", chinese_num) .. "年"
+        local date_m_chinese = chinese_month[tonumber(os.date("%m", current_time))]
+        local date_d_chinese = tostring(tonumber(os.date("%d", current_time))):gsub("%d", chinese_num) .. "日"
+        if tonumber(os.date("%d", current_time)) > 9 then
+            date_d_chinese = string.sub(date_d_chinese, 1, 3) .. "十" .. string.sub(date_d_chinese, 4)
+        end
+        yield_cand(seg, date_y_chinese .. date_m_chinese .. date_d_chinese)
 
     -- 时间
     elseif (input == M.time) then
         local current_time = os.time()
         yield_cand(seg, os.date('%H:%M', current_time))
         yield_cand(seg, os.date('%H:%M:%S', current_time))
+        yield_cand(seg, os.date('%Y%m%d%H%M%S', current_time))
+        yield_cand(seg, os.date('%H点%M分%S秒', current_time))
 
     -- 星期
     elseif (input == M.week) then
         local current_time = os.time()
         local week_tab = {'日', '一', '二', '三', '四', '五', '六'}
         local text = week_tab[tonumber(os.date('%w', current_time) + 1)]
+        yield_cand(seg, '周' .. text)
         yield_cand(seg, '星期' .. text)
         yield_cand(seg, '礼拜' .. text)
-        yield_cand(seg, '周' .. text)
+        yield_cand(seg, os.date('%A', current_time))
+        yield_cand(seg, os.date('%a', current_time))
+        yield_cand(seg, os.date('%W', current_time))
 
     -- ISO 8601/RFC 3339 的时间格式 （固定东八区）（示例 2022-01-07T20:42:51+08:00）
     elseif (input == M.datetime) then
@@ -55,6 +75,12 @@ function M.func(input, seg, env)
     elseif (input == M.timestamp) then
         local current_time = os.time()
         yield_cand(seg, string.format('%d', current_time))
+
+    -- 月份
+    elseif (input == M.month) then
+        local current_time = os.time()
+        yield_cand(seg, os.date('%B', current_time))
+        yield_cand(seg, os.date('%b', current_time))
     end
 
     -- -- 显示内存
