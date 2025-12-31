@@ -31,9 +31,9 @@ app_options:
   navicat17.exe:       { ascii_mode: true }
   Notepad3.exe:        { ascii_mode: true }
   MobaXterm.exe:       { ascii_mode: true }
-  powershell.exe:      { ascii_mode: true }   # 你的原有条目（Win PowerShell 5.x）
-  cmd.exe:             { ascii_mode: true }   # 你的原有条目
-  bash.exe:            { ascii_mode: true }   # 你的原有条目
+  powershell.exe:      { ascii_mode: true }   # 原有条目（Win PowerShell 5.x）
+  cmd.exe:             { ascii_mode: true }   # 原有条目
+  bash.exe:            { ascii_mode: true }   # 原有条目
   git-gui.exe:         { ascii_mode: true }
   WindowsTerminal.exe: { ascii_mode: true }   # 你的原有条目（WT 前端）
   devenv.exe:          { ascii_mode: true }
@@ -46,6 +46,7 @@ app_options:
   OpenConsole.exe:     { ascii_mode: true }   # Windows Terminal 宿主
   wt.exe:              { ascii_mode: true }   # 部分系统下 WT 启动器
   mintty.exe:          { ascii_mode: true }   # Git Bash/MSYS2 默认前端
+  WindTerm.exe:        { ascii_mode: true }   # WindTerm
  
 
 # [global settings]
