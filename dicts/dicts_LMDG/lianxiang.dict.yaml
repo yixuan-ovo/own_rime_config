@@ -5394,7 +5394,7 @@ sort: by_weight
 帮人建房子	bāng rén jiàn fáng zi	1
 蚌式进气道	bàng shì jìn qì dào	1
 榜首的位置	bǎng shǒu de wèi zhì	1
-帮他洗衣服	bāng tā xǐ yī fú	1
+帮他洗衣服	bāng tā xǐ yī fu	1
 棒条给料机	bàng tiáo gěi liào jī	1
 傍晚的天空	bàng wǎn de tiān kōng	1
 傍晚的夕阳	bàng wǎn de xī yáng	1
@@ -5409,7 +5409,7 @@ sort: by_weight
 帮我看一下	bāng wǒ kàn yí xià	1
 帮我拿东西	bāng wǒ ná dōng xi	1
 帮我问一下	bāng wǒ wèn yí xià	1
-帮我洗衣服	bāng wǒ xǐ yī fú	1
+帮我洗衣服	bāng wǒ xǐ yī fu	1
 帮我写作业	bāng wǒ xiě zuò yè	1
 帮我一个忙	bāng wǒ yí gè máng	1
 邦无道则愚	bāng wú dào zé yú	1
@@ -6497,8 +6497,6 @@ sort: by_weight
 保温性能好	bǎo wēn xìng néng hǎo	1
 保温装饰板	bǎo wēn zhuāng shì bǎn	1
 报喜不报忧	bào xǐ bú bào yōu	1
-薄熙来事件	báo xī lái shì jiàn	1
-薄熙来之歌	báo xī lái zhī gē	1
 报喜鸟集团	bào xǐ niǎo jí tuán	1
 报喜也报忧	bào xǐ yě bào yōu	1
 保险不保险	bǎo xiǎn bù bǎo xiǎn	1
@@ -6579,41 +6577,7 @@ sort: by_weight
 保养小知识	bǎo yǎng xiǎo zhī shí	1
 保养与维护	bǎo yǎng yǔ wéi hù	1
 保养与维修	bǎo yǎng yǔ wéi xiū	1
-薄叶艾纳香	báo yè ài nà xiāng	1
-薄叶柏拉木	báo yè bǎi lā mù	1
-薄叶变豆菜	báo yè biàn dòu cài	1
-薄叶滇榄仁	báo yè diān lǎn rén	1
-薄叶杜茎山	báo yè dù jīng shān	1
-薄叶粉报春	báo yè fěn bào chūn	1
-薄叶红厚壳	báo yè hóng hòu ké	1
-薄叶猴耳环	báo yè hóu ěr huán	1
-薄叶胡颓子	báo yè hú tuí zǐ	1
-薄叶黄芩苷	báo yè huáng qín gān	1
-薄叶鸡屎树	báo yè jī shǐ shù	1
-薄叶嘉赐木	báo yè jiā cì mù	1
-薄叶见风红	báo yè jiàn fēng hóng	1
-薄叶金花茶	báo yè jīn huā chá	1
-薄叶蓝刺头	báo yè lán cì tóu	1
-薄叶蓝果树	báo yè lán guǒ shù	1
-苞叶马兜铃	bāo yè mǎ dōu líng	1
-薄叶麻花头	báo yè má huā tóu	1
 报也没报过	bào yě méi bào guò	1
-薄叶猕猴桃	báo yè mí hóu táo	1
-薄叶囊瓣芹	báo yè náng bàn qín	1
-薄叶牛皮消	báo yè niú pí xiāo	1
-薄叶桤叶树	báo yè qī yè shù	1
-薄叶森林榕	báo yè sēn lín róng	1
-薄叶石笔木	báo yè shí bǐ mù	1
-薄叶水锦树	báo yè shuǐ jǐn shù	1
-薄叶天名精	báo yè tiān míng jīng	1
-薄叶铁线莲	báo yè tiě xiàn lián	1
-薄叶兔儿风	báo yè tù ér fēng	1
-薄叶小羽藓	báo yè xiǎo yǔ xiǎn	1
-薄叶岩豆藤	báo yè yán dòu téng	1
-薄叶羊蹄甲	báo yè yáng tí jiǎ	1
-薄叶野丁香	báo yè yě dīng xiāng	1
-薄叶疣鳞藓	báo yè yóu lín xiǎn	1
-薄叶猪屎豆	báo yè zhū shǐ dòu	1
 胞衣不下病	bāo yī bú xià bìng	1
 保一方平安	bǎo yì fāng píng ān	1
 报一箭之仇	bào yí jiàn zhī chóu	1
@@ -14220,7 +14184,7 @@ sort: by_weight
 不回我短信	bù huí wǒ duǎn xìn	1
 不回我信息	bù huí wǒ xìn xī	1
 不会喜欢他	bú huì xǐ huan tā	1
-不会洗衣服	bú huì xǐ yī fú	1
+不会洗衣服	bú huì xǐ yī fu	1
 不会想太多	bú huì xiǎng tài duō	1
 不会写代码	bú huì xiě dài mǎ	2
 不会携带吗	bú huì xié dài ma	1
@@ -32936,6 +32900,8 @@ sort: by_weight
 殆单代数群	dài dān dài shù qún	1
 待到重逢时	dài dào chóng féng shí	1
 待倒是待过	dài dào shì dài guò	1
+逮到一个人	dǎi dào yí gè rén	2
+带到一个人	dài dào yí gè rén	1
 代的基础上	dài de jī chǔ shàng	1
 戴德金函数	dài dé jīn hán shù	1
 戴德金整环	dài dé jīn zhěng huán	1
@@ -46542,6 +46508,7 @@ sort: by_weight
 俄国外交官	é guó wài jiāo guān	1
 额贺福志郎	é hè fú zhì láng	1
 腭后天畸形	è hòu tiān jī xíng	1
+鄂侯驭方鼎	è hóu yù fāng dǐng	1
 恶环壬四烯	è huán rén sì xī	1
 𫫇环壬四烯	ě huán rén sì xī	1
 鄂霍次克海	è huò cì kè hǎi	1
@@ -47663,7 +47630,7 @@ sort: by_weight
 二零零三年	èr líng líng sān nián	1
 二零零四年	èr líng líng sì nián	1
 二零零五年	èr líng líng wǔ nián	1
-二零零一年	èr líng líng yì nián	1
+二零零一年	èr líng líng yī nián	1
 二零一八年	èr líng yī bā nián	1
 二零一二年	èr líng yī èr nián	1
 二零一九年	èr líng yī jiǔ nián	1
@@ -50017,6 +49984,7 @@ sort: by_weight
 泛代数的型	fàn dài shù de xíng	1
 反担保措施	fǎn dān bǎo cuò shī	1
 反担保合同	fǎn dān bǎo hé tong	1
+反弹道导弹	fǎn dàn dào dǎo dàn	1
 反丹麦情绪	fǎn dān mài qíng xù	1
 反导弹系统	fǎn dǎo dàn xì tǒng	1
 反导拦截弹	fǎn dǎo lán jié dàn	1
@@ -50587,7 +50555,6 @@ sort: by_weight
 繁琐的手续	fán suǒ de shǒu xù	1
 钒钛磁铁矿	fán tài cí tiě kuàng	1
 反台独情绪	fǎn tái dú qíng xù	1
-反弹道导弹	fǎn tán dào dǎo dàn	1
 反弹的高度	fǎn tán de gāo dù	1
 反弹的空间	fǎn tán de kōng jiān	1
 反弹的力度	fǎn tán de lì dù	1
@@ -69077,7 +69044,7 @@ sort: by_weight
 古列斯坦宫	gǔ liè sī tǎn gōng	1
 古林博斯帝	gǔ lín bó sī dì	1
 古灵精怪枪	gǔ líng jīng guài qiāng	1
-孤零零一人	gū líng líng yì rén	1
+孤零零一人	gū líng líng yī rén	1
 骨苓通痹丸	gǔ líng tōng bì wán	1
 古六大茶山	gǔ liù dà chá shān	1
 钴硫砷铁矿	gǔ liú shēn tiě kuàng	1
@@ -76891,7 +76858,6 @@ sort: by_weight
 浩大的声势	hào dà de shēng shì	1
 好大的威风	hǎo dà de wēi fēng	1
 好大的雨啊	hǎo dà de yǔ a	1
-好大夫在线	hǎo dà fū zài xiàn	1
 号大协奏曲	hào dà xié zòu qǔ	1
 好大一场雨	hǎo dà yì cháng yǔ	1
 好大一个家	hǎo dà yí gè jiā	1
@@ -76903,6 +76869,7 @@ sort: by_weight
 好大一坨屎	hǎo dà yì tuó shǐ	1
 好大一只鹅	hǎo dà yì zhī é	1
 好大一只喵	hǎo dà yì zhī miāo	1
+好大夫在线	hǎo dài fū zài xiàn	1
 好到哪儿去	hǎo dào nǎ ér qù	1
 好的便利店	hǎo de biàn lì diàn	1
 好得不得了	hǎo de bù dé liǎo	1
@@ -105113,7 +105080,7 @@ sort: by_weight
 就好奇地问	jiù hào qí de wèn	1
 就毫无意义	jiù háo wú yì yì	1
 就好像那种	jiù hǎo xiàng nà zhǒng	1
-就好这一口	jiù hào zhè yī kǒu	1
+就好这一口	jiù hào zhè yì kǒu	1
 九合维生素	jiǔ hé wéi shēng sù	1
 九合一大选	jiǔ hé yī dà xuǎn	1
 九合一选举	jiǔ hé yī xuǎn jǔ	1
@@ -121588,7 +121555,7 @@ sort: by_weight
 零的执行人	líng de zhí xíng rén	1
 零点的火车	líng diǎn de huǒ chē	1
 零点的钟声	líng diǎn de zhōng shēng	1
-零点零一分	líng diǎn líng yì fēn	1
+零点零一分	líng diǎn líng yī fēn	1
 零点六一八	líng diǎn liù yī bā	1
 零点三十七	líng diǎn sān shí qī	1
 伶仃洋大桥	líng dīng yáng dà qiáo	1
@@ -129254,7 +129221,7 @@ sort: by_weight
 每天晚饭后	měi tiān wǎn fàn hòu	1
 每天五分钟	měi tiān wǔ fēn zhōng	1
 每天无聊的	měi tiān wú liáo de	1
-每天洗衣服	měi tiān xǐ yī fú	1
+每天洗衣服	měi tiān xǐ yī fu	1
 每天下班后	měi tiān xià bān hòu	1
 每天笑一笑	měi tiān xiào yí xiào	1
 每天写日记	měi tiān xiě rì jì	1
@@ -138112,6 +138079,8 @@ sort: by_weight
 你要闹哪样	nǐ yào nào nǎ yàng	1
 你要去哪儿	nǐ yào qù nǎ er	1
 你要去哪里	nǐ yào qù nǎ lǐ	1
+你要忍一下	nǐ yào rěn yí xià	2
+你要人一下	nǐ yào rén yí xià	1
 你要是喜欢	nǐ yào shì xǐ huan	1
 你要是愿意	nǐ yào shì yuàn yì	1
 你要说什么	nǐ yào shuō shén me	1
@@ -168655,6 +168624,7 @@ sort: by_weight
 省高级法院	shěng gāo jí fǎ yuàn	1
 省高速公路	shěng gāo sù gōng lù	1
 省高校新区	shěng gāo xiào xīn qū	1
+笙歌方一歇	shēng gē fāng yī xiē	1
 生个孩子吧	shēng gè hái zi ba	1
 省公安厅的	shěng gōng ān tīng de	1
 省公安学校	shěng gōng ān xué xiào	1
@@ -171119,11 +171089,10 @@ sort: by_weight
 市第一小学	shì dì yī xiǎo xué	1
 市第一医院	shì dì yī yī yuàn	1
 市第一中学	shì dì yī zhōng xué	1
-是地藏菩萨	shì dì zàng pú sà	1
 嗜碘阿米巴	shì diǎn ā mǐ bā	1
 十点差三分	shí diǎn chà sān fēn	1
 市电力公司	shì diàn lì gōng sī	1
-十点零一分	shí diǎn líng yì fēn	1
+十点零一分	shí diǎn líng yī fēn	1
 室点密可汗	shì diǎn mì kè hán	1
 试点纳税人	shì diǎn nà shuì rén	1
 试点示范区	shì diǎn shì fàn qū	1
@@ -171776,6 +171745,7 @@ sort: by_weight
 事后才知道	shì hòu cái zhī dào	1
 时候发给我	shí hou fā gěi wǒ	1
 时候回到家	shí hou huí dào jiā	1
+时候结算的	shí hou jié suàn de	1
 时候就去看	shí hou jiù qù kàn	1
 时候就需要	shí hou jiù xū yào	1
 时候来北京	shí hou lái běi jīng	1
@@ -174701,7 +174671,7 @@ sort: by_weight
 十万分之一	shí wàn fēn zhī yī	1
 十万个为啥	shí wàn gè wèi shá	1
 十万火急啊	shí wàn huǒ jí a	1
-十万零一千	shí wàn líng yì qiān	1
+十万零一千	shí wàn líng yī qiān	1
 十万米高空	shí wàn mǐ gāo kōng	1
 石湾派出所	shí wān pài chū suǒ	1
 十万平方米	shí wàn píng fāng mǐ	1
@@ -182149,7 +182119,6 @@ sort: by_weight
 司马文正公	sī mǎ wén zhèng gōng	1
 司马炎篡魏	sī mǎ yán cuàn wèi	1
 司马懿父子	sī mǎ yì fù zǐ	1
-司马懿哈哈	sī mǎ yì hā hā	1
 司马昭弑君	sī mǎ zhāo shì jūn	1
 死猫式反弹	sǐ māo shì fǎn tán	1
 斯梅尔系统	sī méi ěr xì tǒng	1
@@ -208992,7 +208961,7 @@ sort: by_weight
 细叶香茶菜	xì yè xiāng chá cài	1
 洗衣店加盟	xǐ yī diàn jiā méng	1
 洗衣房设备	xǐ yī fáng shè bèi	1
-洗衣服做饭	xǐ yī fú zuò fàn	1
+洗衣服做饭	xǐ yī fu zuò fàn	1
 洗衣机地漏	xǐ yī jī dì lòu	1
 洗衣机滚筒	xǐ yī jī gǔn tǒng	1
 洗衣机行业	xǐ yī jī háng yè	1
@@ -221968,6 +221937,7 @@ sort: by_weight
 需要使用时	xū yào shǐ yòng shí	1
 需要手续费	xū yào shǒu xù fèi	1
 需要说明的	xū yào shuō míng de	1
+需要挑出来	xū yào tiāo chū lái	1
 需要停下来	xū yào tíng xià lái	1
 需要维修的	xū yào wéi xiū de	1
 需要我帮忙	xū yào wǒ bāng máng	1
@@ -228724,8 +228694,8 @@ sort: by_weight
 一百零二岁	yì bǎi líng èr suì	1
 一百零五个	yì bǎi líng wǔ gè	1
 一百零五岁	yì bǎi líng wǔ suì	1
-一百零一次	yì bǎi líng yí cì	1
-一百零一天	yì bǎi líng yì tiān	1
+一百零一次	yì bǎi líng yī cì	1
+一百零一天	yì bǎi líng yī tiān	1
 一百六十八	yì bǎi liù shí bā	1
 一百六十多	yì bǎi liù shí duō	1
 一百六十二	yì bǎi liù shí èr	1
@@ -229966,6 +229936,7 @@ sort: by_weight
 一个人旅行	yí gè rén lǚ xíng	1
 一个人慢跑	yí gè rén màn pǎo	1
 一个人面对	yí gè rén miàn duì	1
+一个人面前	yí gè rén miàn qián	2
 一个人去看	yí gè rén qù kàn	1
 一个人生活	yí gè rén shēng huó	1
 一个人是谁	yí gè rén shì shuí	1
@@ -231332,9 +231303,9 @@ sort: by_weight
 依前列醇钠	yī qián liè chún nà	1
 一千零二十	yì qiān líng èr shí	1
 一千零二夜	yì qiān líng èr yè	1
-一千零一次	yì qiān líng yí cì	1
-一千零一个	yì qiān líng yí gè	1
-一千零一夜	yì qiān líng yí yè	1
+一千零一次	yì qiān líng yī cì	1
+一千零一个	yì qiān líng yī gè	1
+一千零一夜	yì qiān líng yī yè	1
 一千六百万	yì qiān liù bǎi wàn	1
 一千六百元	yì qiān liù bǎi yuán	1
 以前没见过	yǐ qián méi jiàn guò	1
@@ -232372,7 +232343,7 @@ sort: by_weight
 一天好开始	yì tiān hǎo kāi shǐ	1
 一天就不行	yì tiān jiù bù xíng	1
 一天看一次	yì tiān kàn yí cì	1
-一天零一夜	yì tiān líng yí yè	1
+一天零一夜	yì tiān líng yī yè	1
 益田路隧道	yì tián lù suì dào	1
 一天没吃饭	yì tiān méi chī fàn	1
 一天说的话	yì tiān shuō de huà	1
@@ -236506,6 +236477,7 @@ sort: by_weight
 应注意观察	yīng zhù yì guān chá	1
 应注意哪些	yīng zhù yì nǎ xiē	1
 应注意事项	yīng zhù yì shì xiàng	1
+莺啭柳洲亭	yīng zhuàn liǔ zhōu tíng	1
 应准予离婚	yīng zhǔn yǔ lí hūn	1
 影子的传说	yǐng zi de chuán shuō	1
 影子的世界	yǐng zi de shì jiè	1
@@ -237521,7 +237493,7 @@ sort: by_weight
 有关哈罗德	yǒu guān hā luo dé	1
 右冠状动脉	yòu guān zhuàng dòng mài	1
 有光化性的	yǒu guāng huà xìng de	1
-右光禄大夫	yòu guāng lù dài fū	1
+右光禄大夫	yòu guāng lù dà fū	1
 油光满面的	yóu guāng mǎn miàn de	1
 有轨电车蓉	yǒu guǐ diàn chē róng	1
 有鬼无害论	yǒu guǐ wú hài lùn	1
@@ -237760,7 +237732,7 @@ sort: by_weight
 邮件客户端	yóu jiàn kè hù duān	1
 又见桃花源	yòu jiàn táo huā yuán	1
 邮件详情单	yóu jiàn xiáng qíng dān	1
-右谏议大夫	yòu jiàn yì dài fū	1
+右谏议大夫	yòu jiàn yì dà fū	1
 邮件已收到	yóu jiàn yǐ shōu dào	1
 幼教工作者	yòu jiào gōng zuò zhě	1
 右脚踝扭伤	yòu jiǎo huái niǔ shāng	1
@@ -263275,7 +263247,7 @@ sort: by_weight
 自责和内疚	zì zé hé nèi jiù	1
 自责失分率	zì zé shī fèn lǜ	1
 自宅警备员	zì zhái jǐng bèi yuán	1
-资政大夫祠	zī zhèng dài fū cí	1
+资政大夫祠	zī zhèng dà fū cí	1
 资政殿学士	zī zhèng diàn xué shì	1
 资政院选举	zī zhèng yuàn xuǎn jǔ	1
 资政院总裁	zī zhèng yuàn zǒng cái	1
@@ -265817,7 +265789,7 @@ sort: by_weight
 做饭给我吃	zuò fàn gěi wǒ chī	1
 做饭很好吃	zuò fàn hěn hǎo chī	1
 坐反了方向	zuò fǎn le fāng xiàng	1
-做饭洗衣服	zuò fàn xǐ yī fú	1
+做饭洗衣服	zuò fàn xǐ yī fu	1
 做饭做家务	zuò fàn zuò jiā wù	1
 做房产中介	zuò fáng chǎn zhōng jiè	1
 左方连续的	zuǒ fāng lián xù de	1
@@ -265889,7 +265861,7 @@ sort: by_weight
 左冠状动脉	zuǒ guān zhuàng dòng mài	1
 做广播体操	zuò guǎng bō tǐ cāo	1
 做广告宣传	zuò guǎng gào xuān chuán	1
-左光禄大夫	zuǒ guāng lù dài fū	1
+左光禄大夫	zuǒ guāng lù dà fū	1
 做鬼也风流	zuò guǐ yě fēng liú	1
 做过的事情	zuò guò de shì qíng	1
 做过服务员	zuò guò fú wù yuán	1
@@ -265942,7 +265914,7 @@ sort: by_weight
 作家张爱玲	zuò jiā zhāng ài líng	1
 做价值投资	zuò jià zhí tóu zī	1
 左甲状腺素	zuǒ jiǎ zhuàng xiàn sù	1
-左谏议大夫	zuǒ jiàn yì dài fū	1
+左谏议大夫	zuǒ jiàn yì dà fū	1
 左将军刘备	zuǒ jiāng jūn liú bèi	1
 左江镇总兵	zuǒ jiāng zhèn zǒng bīng	1
 左脚踩右脚	zuǒ jiǎo cǎi yòu jiǎo	1
@@ -266626,7 +266598,7 @@ sort: by_weight
 做有氧运动	zuò yǒu yǎng yùn dòng	1
 左右羽林军	zuǒ yòu yǔ lín jūn	1
 左右做人难	zuǒ yòu zuò rén nán	1
-左御史大夫	zuǒ yù shǐ dài fū	1
+左御史大夫	zuǒ yù shǐ dà fū	1
 做阅读理解	zuò yuè dú lǐ jiě	1
 做孕前检查	zuò yùn qián jiǎn chá	1
 坐在板凳席	zuò zài bǎn dèng xí	1
@@ -268676,7 +268648,6 @@ sort: by_weight
 暴风雨的前奏	bào fēng yǔ de qián zòu	1
 暴风雨来临前	bào fēng yǔ lái lín qián	1
 保妇康泡沫剂	bǎo fù kāng pào mò jì	1
-薄扶林水塘道	báo fú lín shuǐ táng dào	1
 葆宫止血颗粒	bǎo gōng zhǐ xuè kē lì	1
 报关水平测试	bào guān shuǐ píng cè shì	1
 鲍果二氏试验	bào guǒ èr shì shì yàn	1
@@ -270705,6 +270676,7 @@ sort: by_weight
 播放背景音乐	bō fàng bèi jǐng yīn yuè	1
 博弗二氏导管	bó fú èr shì dǎo guǎn	1
 伯夫里拉福雷	bó fū lǐ lā fú léi	1
+薄扶林水塘道	bó fú lín shuǐ táng dào	1
 伯格格二氏病	bó gé gé èr shì bìng	1
 伯格曼的电影	bó gé màn de diàn yǐng	1
 波根多夫错觉	bō gēn duō fū cuò jué	1
@@ -276958,7 +276930,7 @@ sort: by_weight
 第二百零三条	dì èr bǎi líng sān tiáo	1
 第二百零四条	dì èr bǎi líng sì tiáo	1
 第二百零五条	dì èr bǎi líng wǔ tiáo	1
-第二百零一条	dì èr bǎi líng yì tiáo	1
+第二百零一条	dì èr bǎi líng yī tiáo	1
 第二百一十条	dì èr bǎi yī shí tiáo	1
 第二比较检验	dì èr bǐ jiào jiǎn yàn	1
 地耳草田基黄	dì ěr cǎo tián jī huáng	1
@@ -277209,7 +277181,7 @@ sort: by_weight
 第三百零七条	dì sān bǎi líng qī tiáo	1
 第三百零三条	dì sān bǎi líng sān tiáo	1
 第三百零五条	dì sān bǎi líng wǔ tiáo	1
-第三百零一条	dì sān bǎi líng yì tiáo	1
+第三百零一条	dì sān bǎi líng yī tiáo	1
 第三百一十条	dì sān bǎi yī shí tiáo	1
 第三边界条件	dì sān biān jiè tiáo jiàn	1
 第三次反进剿	dì sān cì fǎn jìn jiǎo	1
@@ -277263,7 +277235,7 @@ sort: by_weight
 第四百九十条	dì sì bǎi jiǔ shí tiáo	1
 第四百零二条	dì sì bǎi líng èr tiáo	1
 第四百零三条	dì sì bǎi líng sān tiáo	1
-第四百零一条	dì sì bǎi líng yì tiáo	1
+第四百零一条	dì sì bǎi líng yī tiáo	1
 第四百一十条	dì sì bǎi yī shí tiáo	1
 第四季度财报	dì sì jì dù cái bào	1
 第四舰队事件	dì sì jiàn duì shì jiàn	1
@@ -277382,8 +277354,8 @@ sort: by_weight
 第一百零三条	dì yī bǎi líng sān tiáo	1
 第一百零四条	dì yī bǎi líng sì tiáo	1
 第一百零五条	dì yī bǎi líng wǔ tiáo	1
-第一百零一个	dì yī bǎi líng yí gè	1
-第一百零一条	dì yī bǎi líng yì tiáo	1
+第一百零一个	dì yī bǎi líng yī gè	1
+第一百零一条	dì yī bǎi líng yī tiáo	1
 第一百一十条	dì yī bǎi yī shí tiáo	1
 第一比较检验	dì yī bǐ jiào jiǎn yàn	1
 第一边值问题	dì yī biān zhí wèn tí	1
@@ -277444,7 +277416,7 @@ sort: by_weight
 第一天的比赛	dì yī tiān de bǐ sài	1
 第一天然食品	dì yī tiān rán shí pǐn	1
 第一同构定理	dì yī tóng gòu dìng lǐ	1
-第一万零一次	dì yī wàn líng yí cì	1
+第一万零一次	dì yī wàn líng yī cì	1
 第一五九中学	dì yī wǔ jiǔ zhōng xué	1
 第一新闻记者	dì yī xīn wén jì zhě	1
 地衣芽孢杆菌	dì yī yá bāo gǎn jūn	1
@@ -301675,7 +301647,7 @@ sort: by_weight
 菱叶野决明碱	líng yè yě jué míng jiǎn	1
 灵异教师神眉	líng yì jiào shī shén méi	1
 灵异侦缉档案	líng yì zhēn jī dàng àn	1
-零一整数规划	líng yì zhěng shù guī huà	1
+零一整数规划	líng yī zhěng shù guī huà	1
 灵应岩石桅子	líng yīng yán shí wéi zǐ	1
 凌源中国俊兽	líng yuán zhōng guó jùn shòu	1
 零月蚀的假面	líng yuè shí de jiǎ miàn	1
@@ -330458,7 +330430,7 @@ sort: by_weight
 一百年的孤寂	yì bǎi nián de gū jì	1
 一百年很长吗	yì bǎi nián hěn cháng ma	1
 以白色为基调	yǐ bái sè wéi jī diào	1
-一百万零一夜	yì bǎi wàn líng yí yè	1
+一百万零一夜	yì bǎi wàn líng yī yè	1
 一百五十万镑	yì bǎi wǔ shí wàn bàng	1
 一百周年纪念	yì bǎi zhōu nián jì niàn	1
 一般般的男孩	yì bān bān de nán hái	1
@@ -332479,7 +332451,7 @@ sort: by_weight
 银翘散袋泡剂	yín qiào sàn dài pào jì	1
 银翘伤风胶囊	yín qiào shāng fēng jiāo náng	1
 引擎的轰鸣声	yǐn qíng de hōng míng shēng	1
-银青光禄大夫	yín qīng guāng lù dài fū	1
+银青光禄大夫	yín qīng guāng lù dà fū	1
 引青济秦工程	yǐn qīng jì qín gōng chéng	1
 隐球菌性脑炎	yǐn qiú jūn xìng nǎo yán	1
 引入人工智能	yǐn rù rén gōng zhì néng	1
@@ -343325,20 +343297,12 @@ sort: by_weight
 伯格二氏综合征	bó gé èr shì zōng hé zhēng	1
 伯格吕茨二氏病	bó gé lǚ cí èr shì bìng	1
 伯格曼环化反应	bó gé màn huán huà fǎn yìng	1
-勃根地属尼德兰	bó gēn dì shǔ ní dé lán	1
 勃艮第属尼德兰	bó gěn dì shǔ ní dé lán	1
 博哈二氏综合征	bó hā èr shì zōng hé zhēng	1
 渤海轮渡客运站	bó hǎi lún dù kè yùn zhàn	1
 渤海上京龙泉府	bó hǎi shàng jīng lóng quán fǔ	1
 渤海商品交易所	bó hǎi shāng pǐn jiāo yì suǒ	1
-薄荷茶靡梨花白	bò he chá mí lí huā bái	1
-薄荷水龙岩市二	bò he shuǐ lóng yán shì èr	1
-薄荷水厦门市二	bò he shuǐ xià mén shì èr	1
-薄荷水厦门市一	bò he shuǐ xià mén shì yī	1
-薄荷素油薄荷油	bò he sù yóu bò he yóu	1
 薄荷荼靡梨花白	bò he tú mí lí huā bái	1
-薄荷荼蘼梨花白	bò he tú mí lí huā bái	1
-薄荷醑龙岩市二	bò he xǔ lóng yán shì èr	1
 驳回申请的决定	bó huí shēn qǐng de jué dìng	1
 伯霍二氏综合征	bó huò èr shì zōng hé zhēng	1
 玻基粗粒玄武岩	bō jī cū lì xuán wǔ yán	1
@@ -344997,48 +344961,6 @@ sort: by_weight
 陈嘉辞而云对兮	chén jiā cí ér yún duì xī	1
 陈嘉庚先生故居	chén jiā gēng xiān shēng gù jū	1
 陈建斌和蒋勤勤	chén jiàn bīn hé jiǎng qín qín	1
-陈旧性鼻骨骨折	chén jiù xìng bí gǔ gǔ zhé	1
-陈旧性髌骨骨折	chén jiù xìng bìn gǔ gǔ zhé	1
-陈旧性髌骨脱位	chén jiù xìng bìn gǔ tuō wèi	1
-陈旧性耻骨骨折	chén jiù xìng chǐ gǔ gǔ zhé	1
-陈旧性腹腔结核	chén jiù xìng fù qiāng jié hé	1
-陈旧性肱骨骨折	chén jiù xìng gōng gǔ gǔ zhé	1
-陈旧性宫颈裂伤	chén jiù xìng gōng jǐng liè shāng	1
-陈旧性巩膜异物	chén jiù xìng gǒng mó yì wù	1
-陈旧性骨盆骨折	chén jiù xìng gǔ pén gǔ zhé	1
-陈旧性会阴裂伤	chén jiù xìng huì yīn liè shāng	1
-陈旧性会阴损伤	chén jiù xìng huì yīn sǔn shāng	1
-陈旧性脊柱骨折	chén jiù xìng jǐ zhù gǔ zhé	1
-陈旧性脊柱结核	chén jiù xìng jǐ zhù jié hé	1
-陈旧性胫骨骨折	chén jiù xìng jìng gǔ gǔ zhé	1
-陈旧性颈椎骨折	chén jiù xìng jǐng zhuī gǔ zhé	1
-陈旧性眶骨骨折	chén jiù xìng kuàng gǔ gǔ zhé	1
-陈旧性肋骨骨折	chén jiù xìng lèi gǔ gǔ zhé	1
-陈旧性颅骨骨折	chén jiù xìng lú gǔ gǔ zhé	1
-陈旧性颅骨缺失	chén jiù xìng lú gǔ quē shī	1
-陈旧性尿道损伤	chén jiù xìng niào dào sǔn shāng	1
-陈旧性尿道狭窄	chén jiù xìng niào dào xiá zhǎi	1
-陈旧性葡萄膜炎	chén jiù xìng pú táo mó yán	1
-陈旧性球后异物	chén jiù xìng qiú hòu yì wù	1
-陈旧性躯干骨折	chén jiù xìng qū gàn gǔ zhé	1
-陈旧性颧骨骨折	chén jiù xìng quán gǔ gǔ zhé	1
-陈旧性上肢骨折	chén jiù xìng shàng zhī gǔ zhé	1
-陈旧性锁骨骨折	chén jiù xìng suǒ gǔ gǔ zhé	1
-陈旧性外阴疤痕	chén jiù xìng wài yīn bā hén	1
-陈旧性外阴裂伤	chén jiù xìng wài yīn liè shāng	1
-陈旧性腕骨骨折	chén jiù xìng wàn gǔ gǔ zhé	1
-陈旧性尾骨骨折	chén jiù xìng wěi gǔ gǔ zhé	1
-陈旧性下肢骨折	chén jiù xìng xià zhī gǔ zhé	1
-陈旧性心肌梗死	chén jiù xìng xīn jī gěng sǐ	1
-陈旧性胸膜结核	chén jiù xìng xiōng mó jié hé	1
-陈旧性胸椎骨折	chén jiù xìng xiōng zhuī gǔ zhé	1
-陈旧性胸椎结核	chén jiù xìng xiōng zhuī jié hé	1
-陈旧性眼睑异物	chén jiù xìng yǎn jiǎn yì wù	1
-陈旧性腰椎骨折	chén jiù xìng yāo zhuī gǔ zhé	1
-陈旧性腰椎结核	chén jiù xìng yāo zhuī jié hé	1
-陈旧性阴道裂伤	chén jiù xìng yīn dào liè shāng	1
-陈旧性阴茎损伤	chén jiù xìng yīn jīng sǔn shāng	1
-陈旧性子宫破裂	chén jiù xìng zi gōng pò liè	1
 尘劳迥脱事非常	chén láo jiǒng tuō shì fēi cháng	1
 衬里三通旋塞阀	chèn lǐ sān tōng xuán sāi fá	2
 沉默的十五分钟	chén mò de shí wǔ fēn zhōng	1
@@ -347008,7 +346930,6 @@ sort: by_weight
 倒入适量的生抽	dào rù shì liàng de shēng chōu	1
 道是春归人未归	dào shì chūn guī rén wèi guī	1
 到时候我去送你	dào shí hou wǒ qù sòng nǐ	1
-道是无情却有情	dào shì wú qíng què yǒu qíng	1
 倒数第二次爱情	dào shǔ dì èr cì ài qíng	1
 倒数第二次恋爱	dào shǔ dì èr cì liàn ài	1
 导数计时电位法	dǎo shù jì shí diàn wèi fǎ	5
@@ -349152,6 +349073,7 @@ sort: by_weight
 翻炒一分钟左右	fān chǎo yì fēn zhōng zuǒ yòu	1
 反刍月形单胞菌	fǎn chú yuè xíng dān bāo jūn	1
 泛船浦天主教堂	fàn chuán pǔ tiān zhǔ jiào táng	1
+反弹道导弹系统	fǎn dàn dào dǎo dàn xì tǒng	1
 范德比尔特大学	fàn dé bǐ ěr tè dà xué	1
 范德比尔特家族	fàn dé bǐ ěr tè jiā zú	1
 范德波尔方程式	fàn dé bō ěr fāng chéng shì	1
@@ -349248,7 +349170,6 @@ sort: by_weight
 范斯莱克测定法	fàn sī lái kè cè dìng fǎ	3
 反算了卿卿性命	fǎn suàn le qīng qīng xìng mìng	1
 钒钛磁铁矿矿床	fán tài cí tiě kuàng kuàng chuáng	1
-反弹道导弹系统	fǎn tán dào dǎo dàn xì tǒng	1
 反贪污贿赂总局	fǎn tān wū huì lù zǒng jú	1
 范特二氏综合征	fàn tè èr shì zōng hé zhēng	1
 番腾妆束闹苏堤	fān téng zhuāng shù nào sū dī	1
@@ -350262,7 +350183,6 @@ sort: by_weight
 腹壁围裙状松垂	fù bì wéi qún zhuàng sōng chuí	1
 腹壁脂肪抽吸术	fù bì zhī fáng chōu xī shù	1
 腹壁肿瘤切除术	fù bì zhǒng liú qiē chú shù	1
-夫兵久而国利者	fū bīng jiǔ ér guó lì zhě	1
 腹部瘢痕切除术	fù bù bān hén qiē chú shù	1
 腹部闭合性损伤	fù bù bì hé xìng sǔn shāng	1
 腹部病害切除术	fù bù bìng hài qiē chú shù	1
@@ -365219,8 +365139,8 @@ sort: by_weight
 自发对称性破缺	zì fā duì chèn xìng pò quē	1
 自发性侧腹壁疝	zì fā xìng cè fù bì shàn	1
 子房以盖世之才	zǐ fáng yǐ gài shì zhī cái	1
-子非三闾大夫与	zǐ fēi sān lǘ dài fū yǔ	1
-子非三闾大夫欤	zǐ fēi sān lǘ dài fū yú	1
+子非三闾大夫与	zǐ fēi sān lǘ dà fū yǔ	1
+子非三闾大夫欤	zǐ fēi sān lǘ dà fū yú	1
 字符串查找算法	zì fú chuàn chá zhǎo suàn fǎ	1
 自改革开放以来	zì gǎi gé kāi fàng yǐ lái	1
 资格复审及面试	zī gé fù shěn jí miàn shì	1
