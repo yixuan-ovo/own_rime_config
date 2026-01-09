@@ -83,7 +83,7 @@
 |lua/chineseLunarCalendar_translator.lua|农历翻译器|输入 `nl` 获取当前日期农历，输入 `N20240115` 公历转农历|
 |lua/number_translator.lua|数字金额翻译器|输入 `R1234.56` 转换为中文大写金额|
 |lua/mint_calculator_translator.lua|计算器|输入 `=1+2*3` 进行计算|
-|lua/corrector_filter.lua|错音错字提示|自动纠正常见错音错字|
+|lua/corrector.lua|错音错字提示|自动纠正常见错音错字|
 |lua/super_preedit.lua|全拼音调显示|实时显示带声调的全拼拼音|
 |lua/autocap_filter.lua|英文自动大写|自动识别需要大写的英文单词|
 |lua/reduce_english_filter.lua|降低英文优先级|降低部分英文单词在候选项的位置|

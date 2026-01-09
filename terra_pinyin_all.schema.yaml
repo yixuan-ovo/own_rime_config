@@ -66,7 +66,7 @@ engine:
     - script_translator
     - lua_translator@*force_gc                           # 暴力GC，尝试解决小狼毫长期使用的卡顿
   filters:
-    - lua_filter@*corrector_filter               # 错音错字提示
+    - lua_filter@*corrector               # 错音错字提示
     - lua_filter@*super_preedit                  # 输入码显示全拼并带上音调
     - lua_filter@*autocap_filter           # 英文自动大写
     - lua_filter@*v_filter                    # v 模式 symbols 优先（顺序要求：v_filter > Emoji）
