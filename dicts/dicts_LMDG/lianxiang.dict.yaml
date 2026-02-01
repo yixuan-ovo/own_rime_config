@@ -2670,6 +2670,7 @@ sort: by_weight
 八氟环丁烷	bā fú huán dīng wán	2
 把服务做好	bǎ fú wù zuò hǎo	1
 巴弗综合征	bā fú zōng hé zhēng	1
+巴干口服液	bā gàn kǒu fú yè	1
 巴格达条约	bā gé dá tiáo yuē	1
 巴格达战役	bā gé dá zhàn yì	1
 八个多小时	bā gè duō xiǎo shí	1
@@ -2963,7 +2964,6 @@ sort: by_weight
 把钱花完了	bǎ qián huā wán le	1
 把钱还给我	bǎ qián huán gěi wǒ	1
 把钱交出来	bǎ qián jiāo chū lái	1
-巴乾口服液	bā qián kǒu fú yè	1
 八千里云月	bā qiān lǐ yún yuè	1
 八千米高山	bā qiān mǐ gāo shān	1
 把钱拿出来	bǎ qián ná chū lái	1
@@ -4621,7 +4621,7 @@ sort: by_weight
 板凳上钉钉	bǎn dèng shàng dìng dīng	1
 斑点比基尼	bān diǎn bǐ jī ní	1
 半点不由人	bàn diǎn bù yóu rén	1
-斑点叉尾鮰	bān diǎn chā wěi huí	1
+斑点叉尾𫚔	bān diǎn chā wěi huí	1
 半电池反应	bàn diàn chí fǎn yìng	1
 斑点带子案	bān diǎn dài zi àn	1
 斑点钝口螈	bān diǎn dùn kǒu yuán	1
@@ -5405,7 +5405,7 @@ sort: by_weight
 棒约翰比萨	bàng yuē hàn bǐ sà	1
 绑在了一起	bǎng zài le yì qǐ	1
 绑在椅子上	bǎng zài yǐ zi shàng	1
-傍轴光线鉝	bàng zhóu guāng xiàn lì	1
+傍轴光线𫟷	bàng zhóu guāng xiàn lì	1
 帮助比较大	bāng zhù bǐ jiào dà	1
 帮助残疾人	bāng zhù cán jí rén	1
 帮助创业者	bāng zhù chuàng yè zhě	1
@@ -10848,7 +10848,6 @@ sort: by_weight
 苄氧基乙醇	biàn yǎng jī yǐ chún	3
 苄氧基吲哚	biàn yǎng jī yǐn duǒ	3
 苄氧甲酰氯	biàn yǎng jiǎ xiān lǜ	5
-变叶翅子树	biàn yè chì zǐ shù	1
 苄乙撑二胺	biàn yǐ chēng èr àn	1
 变异的病毒	biàn yì de bìng dú	1
 变异链球菌	biàn yì liàn qiú jūn	1
@@ -12166,7 +12165,6 @@ sort: by_weight
 并没有回应	bìng méi yǒu huí yìng	1
 并没有见过	bìng méi yǒu jiàn guò	1
 并没有减少	bìng méi yǒu jiǎn shǎo	1
-并没有降低	bìng méi yǒu jiàng dī	1
 并没有交代	bìng méi yǒu jiāo dài	1
 并没有交集	bìng méi yǒu jiāo jí	1
 并没有结婚	bìng méi yǒu jié hūn	1
@@ -12208,6 +12206,7 @@ sort: by_weight
 并没有嫌弃	bìng méi yǒu xián qì	1
 并没有限制	bìng méi yǒu xiàn zhì	1
 并没有想到	bìng méi yǒu xiǎng dào	1
+并没有降低	bìng méi yǒu xiáng dī	1
 并没有想过	bìng méi yǒu xiǎng guò	1
 并没有消失	bìng méi yǒu xiāo shī	1
 并没有选择	bìng méi yǒu xuǎn zé	1
@@ -25110,7 +25109,6 @@ sort: by_weight
 吃药不忌嘴	chī yào bú jì zuǐ	1
 吃也没吃过	chī yě méi chī guò	1
 翅叶牛奶菜	chì yè niú nǎi cài	1
-齿叶乳香树	chǐ yè rǔ xiāng shù	1
 吃野生动物	chī yě shēng dòng wù	1
 翅叶掌叶树	chì yè zhǎng yè shù	1
 吃一点东西	chī yì diǎn dōng xi	1
@@ -26300,7 +26298,7 @@ sort: by_weight
 出口量增加	chū kǒu liàng zēng jiā	1
 出口量最大	chū kǒu liàng zuì dà	1
 出口贸易额	chū kǒu mào yì é	1
-出口目的地	chū kǒu mù dì dì	1
+出口目的地	chū kǒu mù di dì	1
 出口目的国	chū kǒu mù dì guó	1
 出口农产品	chū kǒu nóng chǎn pǐn	1
 出口收费站	chū kǒu shōu fèi zhàn	1
@@ -26891,7 +26889,7 @@ sort: by_weight
 出行更方便	chū xíng gèng fāng biàn	1
 出行过程中	chū xíng guò chéng zhōng	1
 锄形洁治器	chú xíng jié zhì qì	1
-出行目的地	chū xíng mù dì dì	1
+出行目的地	chū xíng mù di dì	1
 出行要注意	chū xíng yào zhù yì	1
 楚雄州交通	chǔ xióng zhōu jiāo tōng	1
 楚雄州教育	chǔ xióng zhōu jiào yù	1
@@ -28808,7 +28806,7 @@ sort: by_weight
 次加性函数	cì jiā xìng hán shù	1
 此间的少年	cǐ jiān de shào nián	1
 瓷介电容器	cí jiè diàn róng qì	1
-此结为癥瘕	cǐ jié wéi zhēng jiǎ	1
+此结为症瘕	cǐ jié wéi zhēng jiǎ	1
 次紧凑型车	cì jǐn còu xíng chē	1
 赐进士出身	cì jìn shì chū shēn	1
 次就给大家	cì jiù gěi dà jiā	1
@@ -29112,7 +29110,7 @@ sort: by_weight
 瓷砖清洁剂	cí zhuān qīng jié jì	1
 瓷砖踢脚线	cí zhuān tī jiǎo xiàn	1
 次子李世民	cì zǐ lǐ shì mín	1
-磁子午线鉝	cí zǐ wǔ xiàn lì	1
+磁子午线𫟷	cí zǐ wǔ xiàn lì	1
 磁阻电动机	cí zǔ diàn dòng jī	1
 从澳大利亚	cóng ào dà lì yà	1
 葱白七味饮	cōng bái qī wèi yǐn	1
@@ -29807,7 +29805,6 @@ sort: by_weight
 醋酸根离子	cù suān gēn lí zǐ	1
 醋酸胍那苄	cù suān guā nà biàn	1
 醋酸环己酯	cù suān huán jǐ zhǐ	5
-醋酸環己酯	cù suān huán jǐ zhǐ	1
 醋酸茴香酯	cù suān huí xiāng zhǐ	3
 醋酸甲诺酮	cù suān jiǎ nuò tóng	1
 醋酸可的松	cù suān kě dì sōng	1
@@ -32511,36 +32508,17 @@ sort: by_weight
 大洋洲鸟类	dà yáng zhōu niǎo lèi	1
 大洋洲区域	dà yáng zhōu qū yù	1
 打野奥拉夫	dǎ yě ào lā fū	1
-大叶白蜡树	dà yè bái là shù	1
-大叶半枝莲	dà yè bàn zhī lián	1
-大叶捕鱼木	dà yè bǔ yú mù	1
 打也打不得	dǎ yě dǎ bù de	1
-大叶尔奇基	dà yè ěr qí jī	1
-大叶高岛屋	dà yè gāo dǎo wū	1
-大叶骨碎补	dà yè gǔ suì bǔ	1
 打野和辅助	dǎ yě hé fǔ zhù	1
-大叶黑桫椤	dà yè hēi suō luó	1
-大叶胡枝子	dà yè hú zhī zi	1
-大叶罗汉松	dà yè luó hàn sōng	1
 答也没答过	dá yě méi dá guò	1
 打也没打过	dǎ yě méi dǎ guò	1
-大叶茜草素	dà yè qiàn cǎo sù	1
-大叶秋海棠	dà yè qiū hǎi táng	1
 大业十二年	dà yè shí èr nián	1
 大业十三年	dà yè shí sān nián	1
 大业十四年	dà yè shí sì nián	1
-大叶石岩枫	dà yè shí yán fēng	1
 大业拾遗记	dà yè shí yí jì	1
 大业十一年	dà yè shí yī nián	1
-大叶酸藤子	dà yè suān téng zi	1
-大叶碎米荠	dà yè suì mǐ jì	1
-大叶铁线莲	dà yè tiě xiàn lián	1
 打野挖掘机	dǎ yě wā jué jī	1
 打野小花生	dǎ yě xiǎo huā shēng	1
-大叶性肺炎	dà yè xìng fèi yán	1
-大叶野丁香	dà yè yě dīng xiāng	1
-大叶野生茶	dà yè yě shēng chá	1
-大叶鱼骨木	dà yè yú gǔ mù	1
 打一场硬仗	dǎ yì chǎng yìng zhàng	1
 打一次电话	dǎ yí cì diàn huà	1
 打一顿就好	dǎ yí dùn jiù hǎo	1
@@ -33712,6 +33690,7 @@ sort: by_weight
 单机斗地主	dān jī dòu dì zhǔ	1
 单极股骨头	dān jí gǔ gǔ tóu	1
 单极晶体管	dān jí jīng tǐ guǎn	1
+单级离心泵	dān jí lí xīn bèng	1
 单剂量包装	dān jì liàng bāo zhuāng	1
 氮基三乙酸	dàn jī sān yǐ suān	4
 单极神经元	dān jí shén jīng yuán	1
@@ -35029,7 +35008,7 @@ sort: by_weight
 到达了巅峰	dào dá le diān fēng	1
 到达了终点	dào dá le zhōng diǎn	1
 到大陆发展	dào dà lù fā zhǎn	1
-到达目的地	dào dá mù dì dì	1
+到达目的地	dào dá mù di dì	1
 到达时间差	dào dá shí jiān chà	1
 到达现场后	dào dá xiàn chǎng hòu	1
 到达现场时	dào dá xiàn chǎng shí	1
@@ -35236,7 +35215,7 @@ sort: by_weight
 导航等功能	dǎo háng děng gōng néng	1
 导航和理解	dǎo háng hé lǐ jiě	1
 导航计算机	dǎo háng jì suàn jī	1
-导航目的地	dǎo háng mù dì dì	1
+导航目的地	dǎo háng mù di dì	1
 导航一体机	dǎo háng yì tǐ jī	1
 导航与控制	dǎo háng yǔ kòng zhì	1
 到河北保定	dào hé běi bǎo dìng	1
@@ -35363,7 +35342,7 @@ sort: by_weight
 到了就知道	dào le jiù zhī dào	1
 到了另一边	dào le lìng yì biān	1
 到了美国后	dào le měi guó hòu	1
-到了目的地	dào le mù dì dì	1
+到了目的地	dào le mù di dì	1
 到了那时候	dào le nà shí hòu	1
 到了那一天	dào le nà yì tiān	1
 到了派出所	dào le pài chū suǒ	1
@@ -35464,7 +35443,7 @@ sort: by_weight
 到某种程度	dào mǒu zhǒng chéng dù	1
 盗墓笔记里	dào mù bǐ jì lǐ	1
 盗墓笔记中	dào mù bǐ jì zhōng	1
-到目的地后	dào mù dì dì hòu	1
+到目的地后	dào mù di dì hòu	1
 到目前来看	dào mù qián lái kàn	1
 到目前为止	dào mù qián wéi zhǐ	1
 盗墓者罗拉	dào mù zhě luó lā	1
@@ -36387,7 +36366,7 @@ sort: by_weight
 登上了央视	dēng shàng le yāng shì	1
 登上领奖台	dēng shàng lǐng jiǎng tái	1
 登上热搜榜	dēng shàng rè sōu bǎng	1
-等滲性脱水	děng shèn xìng tuō shuǐ	1
+等渗性脱水	děng shèn xìng tuō shuǐ	1
 等生活用品	děng shēng huó yòng pǐn	1
 登士柏树脂	dēng shì bǎi shù zhī	1
 等时对易子	děng shí duì yì zǐ	2
@@ -36627,7 +36606,7 @@ sort: by_weight
 地磁极逆转	dì cí jí nì zhuǎn	1
 地磁三要素	dì cí sān yào sù	1
 地磁子午线	dì cí zǐ wǔ xiàn	1
-抵达目的地	dǐ dá mù dì dì	1
+抵达目的地	dǐ dá mù di dì	1
 蒂达史云顿	dì dá shǐ yún dùn	1
 抵达现场后	dǐ dá xiàn chǎng hòu	1
 滴答小猫咪	dī dā xiǎo māo mī	1
@@ -38895,7 +38874,7 @@ sort: by_weight
 第一次法国	dì yí cì fǎ guó	1
 第一次发酵	dì yí cì fā jiào	1
 第一次发生	dì yí cì fā shēng	1
-第一次发帖	dì yí cì fā tiē	1
+第一次发帖	dì yí cì fā tiě	1
 第一次发现	dì yí cì fā xiàn	1
 第一次房改	dì yí cì fáng gǎi	1
 第一次访问	dì yí cì fǎng wèn	1
@@ -43557,7 +43536,6 @@ sort: by_weight
 杜阿二氏型	dù ā èr shì xíng	1
 杜阿梅尔法	dù ā méi ěr fǎ	1
 镀钯氧化铝	dù bǎ yǎng huà lǚ	2
-镀鈀氧化铝	dù bǎ yǎng huà lǚ	1
 杜邦方程式	dù bāng fāng chéng shì	1
 独臂刀之情	dú bì dāo zhī qíng	1
 赌博的危害	dǔ bó de wēi hài	1
@@ -44791,7 +44769,6 @@ sort: by_weight
 对甲基溴苄	duì jiǎ jī xiù biàn	1
 对甲基乙苯	duì jiǎ jī yǐ běn	1
 对甲氧苯胺	duì jiǎ yǎng běn àn	2
-對甲氧苯胺	duì jiǎ yǎng běn àn	1
 对健康不利	duì jiàn kāng bú lì	1
 对健康有益	duì jiàn kāng yǒu yì	1
 对角化方法	duì jiǎo huà fāng fǎ	1
@@ -45119,41 +45096,6 @@ sort: by_weight
 钝吻黄盖鲽	dùn wěn huáng gài dié	1
 沌阳大道站	dùn yáng dà dào zhàn	1
 钝药野木瓜	dùn yào yě mù guā	1
-钝叶扁担杆	dùn yè biǎn dàn gān	1
-钝叶臭黄荆	dùn yè chòu huáng jīng	1
-钝叶大果漆	dùn yè dà guǒ qī	1
-钝叶独行菜	dùn yè dú xíng cài	1
-钝叶短柱茶	dùn yè duǎn zhù chá	1
-钝叶凤尾藓	dùn yè fèng wěi xiǎn	1
-盾叶冠心宁	dùn yè guān xīn níng	1
-钝叶核果木	dùn yè hé guǒ mù	1
-钝叶黑面神	dùn yè hēi miàn shén	1
-钝叶厚壳桂	dùn yè hòu ké guì	1
-钝叶金合欢	dùn yè jīn hé huān	1
-钝叶拉拉藤	dùn yè lā lā téng	1
-钝叶拎树藤	dùn yè līn shù téng	1
-盾叶茅膏菜	dùn yè máo gāo cài	1
-钝叶毛果榕	dùn yè máo guǒ róng	1
-盾叶毛毡苔	dùn yè máo zhān tái	1
-钝叶猕猴桃	dùn yè mí hóu táo	1
-钝叶木姜子	dùn yè mù jiāng zǐ	1
-钝叶拟平藓	dùn yè nǐ píng xiǎn	1
-钝叶千里光	dùn yè qiān lǐ guāng	1
-盾叶秋海棠	dùn yè qiū hǎi táng	1
-钝叶山鸡椒	dùn yè shān jī jiāo	1
-钝叶山芝麻	dùn yè shān zhī má	1
-钝叶树平藓	dùn yè shù píng xiǎn	1
-钝叶水丝梨	dùn yè shuǐ sī lí	1
-钝叶碎米荠	dùn yè suì mǐ jì	1
-盾叶天胡荽	dùn yè tiān hú suī	1
-盾叶天竺葵	dùn yè tiān zhú kuí	1
-盾叶铁线莲	dùn yè tiě xiàn lián	1
-钝叶土牛膝	dùn yè tǔ niú xī	1
-钝叶小赤藓	dùn yè xiǎo chì xiǎn	1
-钝叶眼子菜	dùn yè yǎn zi cài	1
-钝叶折柄茶	dùn yè zhé bǐng chá	1
-钝叶猪毛菜	dùn yè zhū máo cài	1
-钝叶走灯藓	dùn yè zǒu dēng xiǎn	1
 惇怡皇贵妃	dūn yí huáng guì fēi	1
 钝缘支动脉	dùn yuán zhī dòng mài	1
 蹲在家门口	dūn zài jiā mén kǒu	1
@@ -46154,26 +46096,10 @@ sort: by_weight
 多样性中心	duō yàng xìng zhōng xīn	1
 多要素地图	duō yào sù dì tú	1
 多要素认证	duō yào sù rèn zhèng	1
-多叶斑叶兰	duō yè bān yè lán	1
 躲也躲不掉	duǒ yě duǒ bú diào	1
-多叶鹅掌柴	duō yè é zhǎng chái	1
-多叶勾儿茶	duō yè gōu ér chá	1
-多叶锦鸡儿	duō yè jǐn jī ér	1
-多叶井冈竹	duō yè jǐng gāng zhú	1
 多业内人士	duō yè nèi rén shì	1
-多叶水蜈蚣	duō yè shuǐ wú gōng	1
-多叶碎米荠	duō yè suì mǐ jì	1
 多业态发展	duō yè tài fā zhǎn	1
 多业态融合	duō yè tài róng hé	1
-多叶铁线莲	duō yè tiě xiàn lián	1
-多叶委陵菜	duō yè wěi líng cài	1
-多叶五匹青	duō yè wǔ pǐ qīng	1
-多叶香茶菜	duō yè xiāng chá cài	1
-多叶小漆树	duō yè xiǎo qī shù	1
-多叶野豌豆	duō yè yě wān dòu	1
-多叶羽扇豆	duō yè yǔ shàn dòu	1
-多叶越南槐	duō yè yuè nán huái	1
-多叶早熟禾	duō yè zǎo shú hé	1
 多易必多难	duō yì bì duō nàn	1
 多一层保护	duō yì céng bǎo hù	1
 多一次机会	duō yí cì jī huì	1
@@ -46655,7 +46581,6 @@ sort: by_weight
 恶势力团伙	è shì lì tuán huǒ	1
 颚式破碎机	è shì pò suì jī	1
 鄂式破碎机	è shì pò suì jī	1
-莪术温郁金	é shù wēn yù jīn	1
 恶水不欲饮	è shuǐ bú yù yǐn	1
 饿死癌细胞	è sǐ ái xì bāo	1
 饿死胆小的	è sǐ dǎn xiǎo de	1
@@ -46786,6 +46711,7 @@ sort: by_weight
 鄂州市辖区	è zhōu shì xiá qū	1
 鄂州市政协	è zhōu shì zhèng xié	1
 扼住了喉咙	è zhù le hóu lóng	1
+莪术温郁金	é zhú wēn yù jīn	1
 俄总统普京	é zǒng tǒng pǔ jīng	1
 鹅足悬吊术	é zú xuán diào shù	1
 恶作剧得逞	è zuò jù dé chěng	1
@@ -47309,7 +47235,7 @@ sort: by_weight
 二环己基脲	èr huán jǐ jī niào	1
 二环十三郎	èr huán shí sān láng	1
 耳环输气管	ěr huán shū qì guǎn	1
-二環戊二烯	èr huán wù èr xī	1
+二环戊二烯	èr huán wù èr xī	1
 二环西路站	èr huán xī lù zhàn	1
 耳环型手机	ěr huán xíng shǒu jī	1
 二荒山神社	èr huāng shān shén shè	1
@@ -47686,7 +47612,6 @@ sort: by_weight
 二氯甲羟喹	èr lǜ jiǎ qiǎng kuí	1
 二氯喹啉酸	èr lǜ kuí lín suān	1
 二氯联苯胺	èr lǜ lián běn àn	1
-二氯聯苯胺	èr lǜ lián běn àn	1
 二氯硫化碳	èr lǜ liú huà tàn	1
 二绿女贞茶	èr lǜ nǚ zhēn chá	1
 二氯十八酸	èr lǜ shí bā suān	1
@@ -48703,7 +48628,7 @@ sort: by_weight
 发包与承包	fā bāo yǔ chéng bāo	1
 发表不远热	fā biǎo bù yuǎn rè	1
 发表的评论	fā biǎo de píng lùn	1
-发表的帖子	fā biǎo de tiě zǐ	1
+发表的帖子	fā biǎo de tiě zi	1
 发飙的蜗牛	fā biāo de wō niú	1
 发表公开信	fā biǎo gōng kāi xìn	1
 发表过论文	fā biǎo guò lùn wén	1
@@ -48729,7 +48654,7 @@ sort: by_weight
 发布的商品	fā bù de shāng pǐn	1
 发布的时间	fā bù de shí jiān	1
 发布的视频	fā bù de shì pín	1
-发布的帖子	fā bù de tiě zǐ	1
+发布的帖子	fā bù de tiě zi	1
 发布的通知	fā bù de tōng zhī	1
 发布的微博	fā bù de wēi bó	1
 发布的消息	fā bù de xiāo xi	1
@@ -49135,7 +49060,7 @@ sort: by_weight
 发了疯一样	fā le fēng yí yàng	1
 发了个短信	fā le gè duǎn xìn	1
 发了个红包	fā le gè hóng bāo	1
-发了个帖子	fā le gè tiě zǐ	1
+发了个帖子	fā le gè tiě zi	1
 发了个微信	fā le gè wēi xìn	1
 发了个消息	fā le gè xiāo xi	1
 发了个信息	fā le gè xìn xī	1
@@ -49360,7 +49285,7 @@ sort: by_weight
 发射火箭弹	fā shè huǒ jiàn dàn	1
 发射极电流	fā shè jí diàn liú	1
 发射接收机	fā shè jiē shōu jī	1
-发射谱线鉝	fā shè pǔ xiàn lì	1
+发射谱线𫟷	fā shè pǔ xiàn lì	1
 发射手枪弹	fā shè shǒu qiāng dàn	1
 发射线星系	fā shè xiàn xīng xì	1
 发射者一号	fā shè zhě yī hào	1
@@ -52297,7 +52222,7 @@ sort: by_weight
 非常高水平	fēi cháng gāo shuǐ píng	1
 非常高质量	fēi cháng gāo zhì liàng	1
 非常个人化	fēi cháng gè rén huà	1
-非常光线鉝	fēi cháng guāng xiàn lì	1
+非常光线𫟷	fēi cháng guāng xiàn lì	1
 非常规操作	fēi cháng guī cāo zuò	1
 非常桂林网	fēi cháng guì lín wǎng	1
 非常规能源	fēi cháng guī néng yuán	1
@@ -54880,7 +54805,6 @@ sort: by_weight
 分型试剂盒	fēn xíng shì jì hé	1
 分羊的比喻	fēn yáng de bǐ yù	1
 汾阳文峰塔	fén yáng wén fēng tǎ	1
-粉叶羊蹄甲	fěn yè yáng tí jiǎ	1
 分圆多项式	fēn yuán duō xiàng shì	1
 分站大奖赛	fēn zhàn dà jiǎng sài	1
 分站赛冠军	fēn zhàn sài guàn jūn	1
@@ -56420,7 +56344,7 @@ sort: by_weight
 复方杜仲片	fù fāng dù zhòng piàn	1
 复方多酶片	fù fāng duō méi piàn	1
 复方阿胶浆	fù fāng ē jiāo jiāng	1
-复方莪术油	fù fāng é shù yóu	1
+复方莪术油	fù fāng é zhú yóu	1
 复方番泻叶	fù fāng fān xiè yè	1
 复方酚苄明	fù fāng fēn biàn míng	1
 复方奋乃静	fù fāng fèn nǎi jìng	1
@@ -58880,7 +58804,7 @@ sort: by_weight
 嘎玛仁波切	gā mǎ rén bō qiè	1
 伽马射线暴	gā mǎ shè xiàn bào	1
 伽玛射线爆	gā mǎ shè xiàn bào	1
-伽玛射线鉝	gā mǎ shè xiàn lì	1
+伽玛射线𫟷	gā mǎ shè xiàn lì	1
 伽马探矿法	gā mǎ tàn kuàng fǎ	1
 伽马吸收法	gā mǎ xī shōu fǎ	1
 伽马中子法	gā mǎ zhōng zǐ fǎ	1
@@ -69243,7 +69167,7 @@ sort: by_weight
 古生物专业	gǔ shēng wù zhuān yè	1
 骨生长因子	gǔ shēng zhǎng yīn zǐ	1
 古什埃齐翁	gǔ shí āi qí wēng	1
-古史层累说	gǔ shǐ céng lèi shuō	1
+古史层累说	gǔ shǐ céng lěi shuō	1
 鼓室插管术	gǔ shì chā guǎn shù	1
 股市成交量	gǔ shì chéng jiāo liàng	1
 鼓室成形术	gǔ shì chéng xíng shù	1
@@ -69438,6 +69362,7 @@ sort: by_weight
 古铜安山岩	gǔ tóng ān shān yán	1
 古铜色肌肤	gǔ tóng sè jī fū	1
 古铜色皮肤	gǔ tóng sè pí fū	1
+顾头不顾腚	gù tóu bú gù dìng	1
 顾头不顾尾	gù tóu bú gù wěi	1
 股头康复片	gǔ tóu kāng fù piàn	1
 骨头汤补钙	gǔ tou tāng bǔ gài	1
@@ -73981,7 +73906,7 @@ sort: by_weight
 国内经销商	guó nèi jīng xiāo shāng	1
 国内旅行社	guó nèi lǚ xíng shè	1
 国内贸易部	guó nèi mào yì bù	1
-国内目的地	guó nèi mù dì dì	1
+国内目的地	guó nèi mù di dì	1
 国内球员中	guó nèi qiú yuán zhōng	1
 国内认可度	guó nèi rèn kě dù	1
 国内上千家	guó nèi shàng qiān jiā	1
@@ -74469,7 +74394,6 @@ sort: by_weight
 过氧化苯酰	guò yǎng huà běn xiān	2
 过氧化丙酮	guò yǎng huà bǐng tóng	1
 过氧化丁酮	guò yǎng huà dīng tóng	4
-過氧化丁酮	guò yǎng huà dīng tóng	1
 过氧化反应	guò yǎng huà fǎn yìng	1
 过氧化酶体	guò yǎng huà méi tǐ	1
 过氧化钠粒	guò yǎng huà nà lì	3
@@ -80682,7 +80606,6 @@ sort: by_weight
 宏量营养素	hóng liàng yíng yǎng sù	1
 红林大酒店	hóng lín dà jiǔ diàn	1
 红磷非晶型	hóng lín fēi jīng xíng	1
-紅磷非晶型	hóng lín fēi jīng xíng	1
 红领巾公园	hóng lǐng jīn gōng yuán	1
 红领巾水库	hóng lǐng jīn shuǐ kù	1
 红翎毛翅燕	hóng líng máo chì yàn	1
@@ -81473,6 +81396,8 @@ sort: by_weight
 后面的走势	hòu miàn de zǒu shì	1
 后面是什么	hòu miàn shì shén me	1
 后面也没有	hòu miàn yě méi yǒu	1
+后面有没有	hòu miàn yǒu méi yǒu	2
+后面又没有	hòu miàn yòu méi yǒu	1
 后面再说吧	hòu miàn zài shuō ba	1
 后膜半规管	hòu mó bàn guī guǎn	1
 喉模取出术	hóu mó qǔ chū shù	1
@@ -81679,7 +81604,6 @@ sort: by_weight
 后摇滚乐团	hòu yáo gǔn yuè tuán	1
 后叶催产素	hòu yè cuī chǎn sù	1
 后叶加压素	hòu yè jiā yā sù	1
-厚叶岩白菜	hòu yè yán bái cài	1
 后羿射日弓	hòu yì shè rì gōng	1
 后遗神经痛	hòu yí shén jīng tòng	1
 后一条天皇	hòu yì tiáo tiān huáng	1
@@ -84771,14 +84695,12 @@ sort: by_weight
 环氧地坪漆	huán yǎng dì píng qī	1
 环氧防腐漆	huán yǎng fáng fǔ qī	1
 环氧化丙烯	huán yǎng huà bǐng xī	2
-環氧化丙烯	huán yǎng huà bǐng xī	1
 环氧化反应	huán yǎng huà fǎn yìng	1
 环氧化合物	huán yǎng huà hé wù	5
 环氧化酵素	huán yǎng huà jiào sù	1
 环氧环己烷	huán yǎng huán jǐ wán	3
 环氧氯丙醇	huán yǎng lǜ bǐng chún	2
 环氧氯丙烷	huán yǎng lǜ bǐng wán	5
-環氧氯丙烷	huán yǎng lǜ bǐng wán	1
 环氧氯乙烷	huán yǎng lǜ yǐ wán	1
 环氧绵马烷	huán yǎng mián mǎ wán	1
 环氧尸清漆	huán yǎng shī qīng qī	3
@@ -85586,8 +85508,8 @@ sort: by_weight
 黄山毛峰茶	huáng shān máo fēng chá	1
 黄山迎客松	huáng shān yíng kè sōng	1
 黄鳝嘴文化	huáng shàn zuǐ wén huà	1
-皇上二大爷	huáng shàng èr dà ye	1
-皇上无话儿	huáng shàng wú huà ér	1
+皇上二大爷	huáng shang èr dà ye	1
+皇上无话儿	huáng shang wú huà ér	1
 黄圣依本人	huáng shèng yī běn rén	1
 皇室堡商场	huáng shì bǎo shāng chǎng	1
 黄石大峡谷	huáng shí dà xiá gǔ	1
@@ -85765,6 +85687,7 @@ sort: by_weight
 会变得更好	huì biàn de gèng hǎo	1
 会变得更糟	huì biàn de gèng zāo	1
 挥鞭样损伤	huī biān yàng sǔn shāng	1
+辉玻无球粒	huī bō wú qiú lì	1
 悔不当初啊	huǐ bù dāng chū a	1
 回不到曾经	huí bú dào céng jīng	1
 回不到从前	huí bú dào cóng qián	1
@@ -86651,7 +86574,6 @@ sort: by_weight
 辉夜大小姐	huī yè dà xiǎo jiě	1
 辉夜姬物语	huī yè jī wù yǔ	1
 回也没回过	huí yě méi huí guò	1
-灰叶铁线莲	huī yè tiě xiàn lián	1
 回忆不起来	huí yì bù qǐ lái	1
 会议出席者	huì yì chū xí zhě	1
 回忆的地方	huí yì de dì fāng	1
@@ -90496,6 +90418,7 @@ sort: by_weight
 矶山沙也加	jī shān shā yě jiā	1
 肌疝修补术	jī shàn xiū bǔ shù	1
 积善有余庆	jī shàn yǒu yú qìng	1
+系上安全带	jì shàng ān quán dài	1
 级商办大楼	jí shāng bàn dà lóu	1
 机上互联网	jī shàng hù lián wǎng	1
 肌上皮细胞	jī shàng pí xì bāo	1
@@ -91351,6 +91274,7 @@ sort: by_weight
 集团总资产	jí tuán zǒng zī chǎn	1
 基托成形器	jī tuō chéng xíng qì	1
 基托伊山脉	jī tuō yī shān mài	1
+吉妥珠单抗	jí tuǒ zhū dān kàng	1
 吉瓦尼尔多	jí wǎ ní ěr duō	1
 吉瓦特拉姆	jí wǎ tè lā mǔ	1
 集外集拾遗	jí wài jí shí yí	1
@@ -92696,13 +92620,10 @@ sort: by_weight
 甲基环丁烷	jiǎ jī huán dīng wán	1
 甲基环己胺	jiǎ jī huán jǐ àn	1
 甲基环己醇	jiǎ jī huán jǐ chún	6
-甲基環己醇	jiǎ jī huán jǐ chún	1
 甲基环己酮	jiǎ jī huán jǐ tóng	6
-甲基環己酮	jiǎ jī huán jǐ tóng	1
 甲基环己烷	jiǎ jī huán jǐ wán	3
 甲基环己烯	jiǎ jī huán jǐ xī	3
 甲基环戊烷	jiǎ jī huán wù wán	6
-甲基環戊烷	jiǎ jī huán wù wán	1
 甲基环戊烯	jiǎ jī huán wù xī	3
 甲基环已胺	jiǎ jī huán yǐ àn	1
 甲基环已烷	jiǎ jī huán yǐ wán	3
@@ -92821,7 +92742,6 @@ sort: by_weight
 甲基异靛蓝	jiǎ jī yì diàn lán	1
 甲基异丁胺	jiǎ jī yì dīng àn	1
 甲基异丁酮	jiǎ jī yì dīng tóng	5
-甲基異丁酮	jiǎ jī yì dīng tóng	1
 甲基乙二醛	jiǎ jī yǐ èr quán	1
 甲基乙基醚	jiǎ jī yǐ jī mí	1
 甲基乙基酮	jiǎ jī yǐ jī tóng	1
@@ -92830,7 +92750,6 @@ sort: by_weight
 甲基异喹啉	jiǎ jī yì kuí lín	1
 甲基乙硼烷	jiǎ jī yǐ péng wán	1
 甲基异戊酮	jiǎ jī yì wù tóng	2
-甲基異戊酮	jiǎ jī yì wù tóng	1
 甲基乙烯酮	jiǎ jī yǐ xī tóng	3
 甲基乙酰胺	jiǎ jī yǐ xiān àn	1
 甲基吲哚啉	jiǎ jī yǐn duǒ lín	1
@@ -93631,7 +93550,6 @@ sort: by_weight
 甲酸香叶酯	jiǎ suān xiāng yè zhǐ	1
 甲酸芽殖菌	jiǎ suān yá zhí jūn	1
 甲酸异丙酯	jiǎ suān yì bǐng zhǐ	3
-甲酸異丙酯	jiǎ suān yì bǐng zhǐ	1
 甲酸异丁酯	jiǎ suān yì dīng zhǐ	3
 甲酸乙酸酐	jiǎ suān yǐ suān gān	1
 甲酸异戊酯	jiǎ suān yì wù zhǐ	3
@@ -95692,6 +95610,7 @@ sort: by_weight
 剑门关景区	jiàn mén guān jǐng qū	1
 剑门路西段	jiàn mén lù xī duàn	1
 见面打招呼	jiàn miàn dǎ zhāo hū	1
+见面道一声	jiàn miàn dào yì shēng	1
 见面的次数	jiàn miàn de cì shù	1
 见面的机会	jiàn miàn de jī huì	1
 见面的时间	jiàn miàn de shí jiān	1
@@ -96198,7 +96117,6 @@ sort: by_weight
 间硝基苯酚	jiān xiāo jī běn fēn	1
 间硝基苯肼	jiān xiāo jī běn jǐng	1
 间硝基甲苯	jiān xiāo jī jiǎ běn	1
-間硝基甲苯	jiān xiāo jī jiǎ běn	1
 间歇暴怒症	jiàn xiē bào nù zhèng	1
 间歇暴躁症	jiàn xiē bào zào zhèng	1
 间歇电弧法	jiàn xiē diàn hú fǎ	1
@@ -96286,7 +96204,6 @@ sort: by_weight
 简要济众方	jiǎn yào jì zhòng fāng	1
 煎药扬去沫	jiān yào yáng qù mò	1
 建业房地产	jiàn yè fáng dì chǎn	1
-剑叶龙血树	jiàn yè lóng xiě shù	1
 见也没见过	jiàn yě méi jiàn guò	1
 间叶性肉瘤	jiān yè xìng ròu liú	1
 菅野亚梨沙	jiān yě yà lí shā	1
@@ -97692,7 +97609,6 @@ sort: by_weight
 焦磷酸测序	jiāo lín suān cè xù	1
 焦磷酸激酶	jiāo lín suān jī méi	1
 焦磷酸四钠	jiāo lín suān sì nà	2
-焦磷酸四鈉	jiāo lín suān sì nà	1
 焦磷酸铁钠	jiāo lín suān tiě nà	2
 焦磷酸亚铬	jiāo lín suān yà gè	1
 焦磷酸亚铁	jiāo lín suān yà tiě	2
@@ -97845,7 +97761,7 @@ sort: by_weight
 焦浓重淡清	jiāo nóng zhòng dàn qīng	1
 教弩台旧址	jiào nǔ tái jiù zhǐ	1
 交配的季节	jiāo pèi de jì jié	1
-焦蓬莪术酮	jiāo péng é shù tóng	1
+焦蓬莪术酮	jiāo péng é zhú tóng	1
 胶片的味道	jiāo piàn de wèi dào	1
 胶片放映机	jiāo piàn fàng yìng jī	1
 胶片制造商	jiāo piàn zhì zào shāng	1
@@ -102691,7 +102607,7 @@ sort: by_weight
 京都竞马场	jīng dū jìng mǎ chǎng	1
 京都橘大学	jīng dū jú dà xué	1
 京都老蔡记	jīng dū lǎo cài jì	1
-京都念慈菴	jīng dū niàn cí ān	1
+京都念慈庵	jīng dū niàn cí ān	1
 经度起算点	jīng dù qǐ suàn diǎn	1
 京都三大祭	jīng dū sān dà jì	1
 京都水族馆	jīng dū shuǐ zú guǎn	1
@@ -104013,7 +103929,7 @@ sort: by_weight
 颈外动脉丛	jǐng wài dòng mài cóng	1
 境外服务器	jìng wài fú wù qì	1
 境外交易所	jìng wài jiāo yì suǒ	1
-境外目的地	jìng wài mù dì dì	1
+境外目的地	jìng wài mù di dì	1
 境外优先股	jìng wài yōu xiān gǔ	1
 境外子公司	jìng wài zǐ gōng sī	1
 京万红软膏	jīng wàn hóng ruǎn gāo	1
@@ -105065,9 +104981,7 @@ sort: by_weight
 纠结了好久	jiū jié le hǎo jiǔ	1
 纠结了很久	jiū jié le hěn jiǔ	1
 就接受了你	jiù jiē shòu le nǐ	1
-纠结小萝莉	jiū jié xiǎo luó lì	1
 纠结要不要	jiū jié yào bú yào	1
-纠结已成歌	jiū jié yǐ chéng gē	1
 酒浸牛膝丸	jiǔ jìn niú xī wán	1
 酒精比重计	jiǔ jīng bǐ zhòng jì	1
 酒精测试仪	jiǔ jīng cè shì yí	1
@@ -105120,7 +105034,7 @@ sort: by_weight
 究竟怎么样	jiū jìng zěn me yàng	1
 究竟值不值	jiū jìng zhí bù zhí	1
 九九八十一	jiǔ jiǔ bā shí yī	1
-久久必身瞤	jiǔ jiǔ bì shēn rún	1
+久久必身𥆧	jiǔ jiǔ bì shēn rún	1
 九九乘法表	jiǔ jiǔ chéng fǎ biǎo	1
 九九重阳节	jiǔ jiǔ chóng yáng jié	1
 九久读书人	jiǔ jiǔ dú shū rén	1
@@ -114405,7 +114319,6 @@ sort: by_weight
 宽广的胸怀	kuān guǎng de xiōng huái	1
 宽广的胸襟	kuān guǎng de xiōng jīn	1
 宽厚的肩膀	kuān hòu de jiān bǎng	1
-宽基多叶蓼	kuān jī duō yè liǎo	1
 髋臼成形术	kuān jiù chéng xíng shù	1
 髋臼重建杯	kuān jiù chóng jiàn bēi	1
 髋臼横韧带	kuān jiù héng rèn dài	1
@@ -117032,7 +116945,7 @@ sort: by_weight
 冷凝集素病	lěng níng jí sù bìng	1
 冷凝器压力	lěng níng qì yā lì	1
 冷凝泄水器	lěng níng xiè shuǐ qì	1
-冷却曲线鉝	lěng què qū xiàn lì	1
+冷却曲线𫟷	lěng què qū xiàn lì	1
 冷却时间长	lěng què shí jiān cháng	1
 冷却时间短	lěng què shí jiān duǎn	1
 冷却水温度	lěng què shuǐ wēn dù	1
@@ -118370,7 +118283,7 @@ sort: by_weight
 理想化模型	lǐ xiǎng huà mó xíng	1
 理想混合物	lǐ xiǎng hùn hé wù	1
 理想抗磁性	lǐ xiǎng kàng cí xìng	1
-理想目的地	lǐ xiǎng mù dì dì	1
+理想目的地	lǐ xiǎng mù di dì	1
 理想是什么	lǐ xiǎng shì shén me	1
 理想稀溶液	lǐ xiǎng xī róng yè	1
 理想型女友	lǐ xiǎng xíng nǚ yǒu	1
@@ -121019,7 +120932,6 @@ sort: by_weight
 邻家小妹妹	lín jiā xiǎo mèi mei	1
 邻家小女孩	lín jiā xiǎo nǚ hái	1
 邻甲氧苯胺	lín jiǎ yǎng běn àn	2
-鄰甲氧苯胺	lín jiǎ yǎng běn àn	1
 临江街夜市	lín jiāng jiē yè shì	1
 临江林业局	lín jiāng lín yè jú	1
 临江门大桥	lín jiāng mén dà qiáo	1
@@ -121072,7 +120984,6 @@ sort: by_weight
 邻氯苯乙酸	lín lǜ běn yǐ suān	3
 邻氯苯乙酮	lín lǜ běn yǐ tóng	3
 邻氯苯乙烯	lín lǜ běn yǐ xī	3
-鄰氯苯乙烯	lín lǜ běn yǐ xī	1
 邻氯扁桃酸	lín lǜ biǎn táo suān	3
 邻氯硝基苯	lín lǜ xiāo jī běn	1
 磷霉素钙片	lín méi sù gài piàn	1
@@ -122929,7 +122840,6 @@ sort: by_weight
 硫酸奎尼丁	liú suān kuí ní dīng	6
 硫酸奎宁定	liú suān kuí níng dìng	3
 硫酸奎宁片	liú suān kuí níng piàn	1
-硫酸鎘無水	liú suān lì wú shuǐ	1
 硫酸联苯胺	liú suān lián běn àn	3
 硫酸链霉素	liú suān liàn méi sù	1
 硫酸罗通定	liú suān luó tōng dìng	1
@@ -123162,7 +123072,7 @@ sort: by_weight
 留学监理网	liú xué jiān lǐ wǎng	1
 留学奖学金	liú xué jiǎng xué jīn	1
 留学俱乐部	liú xué jù lè bù	1
-留学目的地	liú xué mù dì dì	1
+留学目的地	liú xué mù di dì	1
 留学那些事	liú xué nà xiē shì	1
 留学生代表	liú xué shēng dài biǎo	1
 留学生贷款	liú xué shēng dài kuǎn	1
@@ -123401,7 +123311,7 @@ sort: by_weight
 陇海东路站	lǒng hǎi dōng lù zhàn	1
 陇海快速路	lǒng hǎi kuài sù lù	1
 陇海西路站	lǒng hǎi xī lù zhàn	1
-龙蠔理痰汤	lóng háo lǐ tán tāng	1
+龙蚝理痰汤	lóng háo lǐ tán tāng	1
 龙号太空船	lóng hào tài kōng chuán	1
 龙河口水库	lóng hé kǒu shuǐ kù	1
 龙虎榜揭秘	lóng hǔ bǎng jiē mì	1
@@ -123840,7 +123750,7 @@ sort: by_weight
 芦荟提取物	lú huì tí qǔ wù	1
 鹿回头公园	lù huí tóu gōng yuán	1
 鹿回头广场	lù huí tóu guǎng chǎng	1
-炉霍乾宁带	lú huò qián níng dài	1
+炉霍干宁带	lú huò gàn níng dài	1
 路吉阿诺斯	lù jí ā nuò sī	1
 陆家浜路站	lù jiā bāng lù zhàn	1
 陆架沉积物	lù jià chén jī wù	1
@@ -124526,13 +124436,10 @@ sort: by_weight
 洛克林药盒	luò kè lín yào hé	1
 洛克鲁姆岛	luò kè lǔ mǔ dǎo	1
 罗克斯群岛	luó kè sī qún dǎo	1
-泺口服装城	luò kǒu fú zhuāng chéng	1
 罗兰多骨折	luó lán duō gǔ zhé	1
 落泪的冲动	luò lèi de chōng dòng	1
 萝莉的时间	luó lì de shí jiān	1
 萝莉即正义	luó lì jí zhèng yì	1
-萝莉么么哒	luó lì me me dā	1
-萝莉喵小咪	luó lì miāo xiǎo mī	1
 萝莉塔风格	luó lì tǎ fēng gé	1
 萝莉小清新	luó lì xiǎo qīng xīn	1
 瘰疬性苔藓	luǒ lì xìng tái xiǎn	1
@@ -125308,7 +125215,7 @@ sort: by_weight
 履行抗辩权	lǚ xíng kàng biàn quán	1
 履行了承诺	lǚ xíng le chéng nuò	1
 履行了义务	lǚ xíng le yì wù	1
-旅行目的地	lǚ xíng mù dì dì	1
+旅行目的地	lǚ xíng mù di dì	1
 履行其职责	lǚ xíng qí zhí zé	1
 旅行任意门	lǚ xíng rèn yì mén	1
 旅行商问题	lǚ xíng shāng wèn tí	1
@@ -125435,7 +125342,7 @@ sort: by_weight
 旅游局局长	lǚ yóu jú jú zhǎng	1
 旅游开发区	lǚ yóu kāi fā qū	1
 旅游客源地	lǚ yóu kè yuán dì	1
-旅游目的地	lǚ yóu mù dì dì	1
+旅游目的地	lǚ yóu mù di dì	1
 旅游批发商	lǚ yóu pī fā shāng	1
 旅游全攻略	lǚ yóu quán gōng lüè	1
 旅游人类学	lǚ yóu rén lèi xué	1
@@ -126643,7 +126550,7 @@ sort: by_weight
 漫威夜魔侠	màn wēi yè mó xiá	1
 漫威英雄们	màn wēi yīng xióng men	1
 漫威宇宙中	màn wēi yǔ zhòu zhōng	1
-漫无目的地	màn wú mù dì dì	1
+漫无目的地	màn wú mù di dì	1
 满五年唯一	mǎn wǔ nián wéi yī	1
 满血复活了	mǎn xiě fù huó le	1
 满心的欢喜	mǎn xīn de huān xǐ	1
@@ -127540,7 +127447,7 @@ sort: by_weight
 美到了极致	měi dào le jí zhì	1
 没道理可讲	méi dào lǐ kě jiǎng	1
 美到没朋友	měi dào méi péng you	1
-没到目的地	méi dào mù dì dì	1
+没到目的地	méi dào mù di dì	1
 每到清明节	měi dào qīng míng jié	1
 没到最困难	méi dào zuì kùn nan	1
 没到最糟糕	méi dào zuì zāo gāo	1
@@ -133085,17 +132992,17 @@ sort: by_weight
 木地板行业	mù dì bǎn háng yè	1
 目的不单纯	mù dì bù dān chún	1
 目的不明确	mù dì bù míng què	1
-目的地城市	mù dì dì chéng shì	1
-目的地攻略	mù dì dì gōng lüè	1
-目的地国家	mù dì dì guó jiā	1
-目的地机场	mù dì dì jī chǎng	1
-目的地酒吧	mù dì dì jiǔ bā	1
-目的地旅游	mù dì dì lǚ yóu	1
-目的地天气	mù dì dì tiān qì	1
-目的地推荐	mù dì dì tuī jiàn	1
-目的地信息	mù dì dì xìn xī	1
-目的地选择	mù dì dì xuǎn zé	1
-目的地营销	mù dì dì yíng xiāo	1
+目的地城市	mù di dì chéng shì	1
+目的地攻略	mù di dì gōng lüè	1
+目的地国家	mù di dì guó jiā	1
+目的地机场	mù di dì jī chǎng	1
+目的地酒吧	mù di dì jiǔ bā	1
+目的地旅游	mù di dì lǚ yóu	1
+目的地天气	mù di dì tiān qì	1
+目的地推荐	mù di dì tuī jiàn	1
+目的地信息	mù di dì xìn xī	1
+目的地选择	mù di dì xuǎn zé	1
+目的地营销	mù di dì yíng xiāo	1
 目的和动机	mù dì hé dòng jī	1
 目的和方法	mù dì hé fāng fǎ	1
 目的和目标	mù dì hé mù biāo	1
@@ -134185,6 +134092,8 @@ sort: by_weight
 拿着遥控器	ná zhe yáo kòng qì	1
 拿着一本书	ná zhe yì běn shū	1
 那真是太好	nà zhēn shì tài hǎo	1
+那正适合你	nà zhèng shì hé nǐ	2
+那正是和你	nà zhèng shì hé nǐ	1
 那智不二越	nà zhì bú èr yuè	1
 钠质火成岩	nà zhì huǒ chéng yán	1
 那只是因为	nà zhī shì yīn wèi	1
@@ -136552,8 +136461,6 @@ sort: by_weight
 你的后半生	nǐ de hòu bàn shēng	1
 你的坏脾气	nǐ de huài pí qi	1
 你的记忆力	nǐ de jì yì lì	2
-你的记忆里	nǐ de jì yì lǐ	1
-你的记忆力	nǐ de jì yì lì	1
 你的记忆里	nǐ de jì yì lǐ	1
 你的记忆中	nǐ de jì yì zhōng	1
 你的驾驶证	nǐ de jià shǐ zhèng	1
@@ -141435,6 +141342,7 @@ sort: by_weight
 帕特莫斯岛	pà tè mò sī dǎo	1
 帕特森方法	pà tè sēn fāng fǎ	1
 帕特森函数	pà tè sēn hán shù	1
+帕妥珠单抗	pà tuǒ zhū dān kàng	1
 帕维亚战役	pà wéi yà zhàn yì	1
 帕西尼氏瘤	pà xī ní shì liú	1
 爬行的蜗牛	pá xíng de wō niú	1
@@ -144051,7 +143959,7 @@ sort: by_weight
 平板运输车	píng bǎn yùn shū chē	1
 平板运输机	píng bǎn yùn shū jī	1
 凭本事吃饭	píng běn shì chī fàn	1
-屏蔽导线鉝	píng bì dǎo xiàn lì	1
+屏蔽导线𫟷	píng bì dǎo xiàn lì	1
 屏蔽寄存器	píng bì jì cún qì	1
 屏蔽朋友圈	píng bì péng you quān	1
 屏蔽双绞线	píng bì shuāng jiǎo xiàn	1
@@ -144760,7 +144668,7 @@ sort: by_weight
 平型关大战	píng xíng guān dà zhàn	1
 平型关战斗	píng xíng guān zhàn dòu	1
 平型关战役	píng xíng guān zhàn yì	1
-平行光线鉝	píng xíng guāng xiàn lì	1
+平行光线𫟷	píng xíng guāng xiàn lì	1
 平行滑行道	píng xíng huá xíng dào	1
 平行进口车	píng xíng jìn kǒu chē	1
 平行金属板	píng xíng jīn shǔ bǎn	1
@@ -147071,7 +146979,7 @@ sort: by_weight
 其他零售商	qí tā líng shòu shāng	1
 其他浏览器	qí tā liú lǎn qì	1
 其他慢性病	qí tā màn xìng bìng	1
-其他目的地	qí tā mù dì dì	1
+其他目的地	qí tā mù di dì	1
 其他年龄段	qí tā nián líng duàn	1
 其他农产品	qí tā nóng chǎn pǐn	1
 其他农用地	qí tā nóng yòng dì	1
@@ -148937,7 +148845,7 @@ sort: by_weight
 前往俄罗斯	qián wǎng é luó sī	1
 前往好莱坞	qián wǎng hǎo lái wù	1
 前往加拿大	qián wǎng jiā ná dà	1
-前往目的地	qián wǎng mù dì dì	1
+前往目的地	qián wǎng mù di dì	1
 千王群英会	qiān wáng qún yīng huì	1
 潜望式长焦	qián wàng shì cháng jiāo	1
 前王室成员	qián wáng shì chéng yuán	1
@@ -151561,7 +151469,7 @@ sort: by_weight
 青霉素钾盐	qīng méi sù jiǎ yán	1
 青霉素皮试	qīng méi sù pí shì	1
 青霉素中毒	qīng méi sù zhòng dú	1
-清濛工业区	qīng méng gōng yè qū	1
+清蒙工业区	qīng méng gōng yè qū	1
 清梦压星河	qīng mèng yā xīng hé	1
 情迷巴厘岛	qíng mí bā lí dǎo	1
 情迷彼得堡	qíng mí bǐ de bǎo	1
@@ -156213,7 +156121,7 @@ sort: by_weight
 热门候选人	rè mén hòu xuǎn rén	1
 热门话题榜	rè mén huà tí bǎng	1
 热门旅游地	rè mén lǚ yóu dì	1
-热门目的地	rè mén mù dì dì	1
+热门目的地	rè mén mù di dì	1
 热门排行榜	rè mén pái háng bǎng	1
 热门搜索词	rè mén sōu suǒ cí	1
 热门影视剧	rè mén yǐng shì jù	1
@@ -159847,7 +159755,7 @@ sort: by_weight
 润滑油质量	rùn huá yóu zhì liàng	1
 润滑脂润滑	rùn huá zhī rùn huá	1
 润肌皮肤膏	rùn jī pí fū gāo	1
-瞤即胸中痛	rún jí xiōng zhōng tòng	1
+𥆧即胸中痛	rún jí xiōng zhōng tòng	1
 润居健康家	rùn jū jiàn kāng jiā	1
 润清护理液	rùn qīng hù lǐ yè	1
 润润嗓子吧	rùn rùn sǎng zi ba	1
@@ -170949,7 +170857,6 @@ sort: by_weight
 市第二医院	shì dì èr yī yuàn	1
 市第二中学	shì dì èr zhōng xué	1
 史蒂芬酸铅	shǐ dì fēn suān qiān	2
-史蒂芬酸鉛	shǐ dì fēn suān qiān	1
 史帝芬宇宙	shǐ dì fēn yǔ zhòu	1
 史迪格里兹	shǐ dí gé lǐ zī	1
 湿地公园北	shī dì gōng yuán běi	1
@@ -173293,7 +173200,6 @@ sort: by_weight
 实木踢脚线	shí mù tī jiǎo xiàn	1
 拭目以待吧	shì mù yǐ dài ba	1
 实木浴室柜	shí mù yù shì guì	1
-虱目鱼水饺	shī mù yú shuǐ jiǎo	1
 是哪个地方	shì nǎ ge dì fāng	1
 是哪个意思	shì nǎ ge yì si	1
 是那一刻的	shì nà yí kè de	1
@@ -174413,6 +174319,7 @@ sort: by_weight
 时态数据库	shí tài shù jù kù	1
 施坦贝格群	shī tǎn bèi gé qún	1
 史坦菲尔德	shǐ tǎn fēi ěr dé	1
+石炭系上统	shí tàn jì shàng tǒng	1
 石炭纪鱼类	shí tàn jì yú lèi	1
 试探了一下	shì tàn le yí xià	1
 史坦尼斯号	shǐ tǎn ní sī hào	1
@@ -174421,7 +174328,6 @@ sort: by_weight
 石炭酸烧伤	shí tàn suān shāo shāng	1
 施坦威公司	shī tǎn wēi gōng sī	1
 史坦威公司	shǐ tǎn wēi gōng sī	1
-石炭系上统	shí tàn xì shàng tǒng	1
 试探性地问	shì tàn xìng dì wèn	1
 试探性进攻	shì tàn xìng jìn gōng	1
 食堂的阿姨	shí táng de ā yí	1
@@ -177616,7 +177522,7 @@ sort: by_weight
 手续费收入	shǒu xù fèi shōu rù	1
 手续费优惠	shǒu xù fèi yōu huì	1
 首选供应商	shǒu xuǎn gōng yìng shāng	1
-首选目的地	shǒu xuǎn mù dì dì	1
+首选目的地	shǒu xuǎn mù di dì	1
 首选萧亚轩	shǒu xuǎn xiāo yà xuān	1
 瘦削的身材	shòu xuē de shēn cái	1
 兽穴俱乐部	shòu xué jù lè bù	1
@@ -178574,7 +178480,7 @@ sort: by_weight
 输入计算机	shū rù jì suàn jī	1
 输入框测试	shū rù kuàng cè shì	1
 输入密码时	shū rù mì mǎ shí	1
-输入目的地	shū rù mù dì dì	1
+输入目的地	shū rù mù di dì	1
 输入袢内疝	shū rù pàn nèi shàn	1
 输入手机号	shū rù shǒu jī hào	1
 输入输出口	shū rù shū chū kǒu	1
@@ -179147,7 +179053,7 @@ sort: by_weight
 刷牙刷到吐	shuā yá shuā dào tǔ	1
 耍阴谋诡计	shuǎ yīn móu guǐ jì	1
 刷着朋友圈	shuā zhe péng you quān	1
-衰变曲线鉝	shuāi biàn qū xiàn lì	1
+衰变曲线𫟷	shuāi biàn qū xiàn lì	1
 帅不过三秒	shuài bú guò sān miǎo	1
 甩出几条街	shuǎi chū jǐ tiáo jiē	1
 帅出新高度	shuài chū xīn gāo dù	1
@@ -180986,7 +180892,6 @@ sort: by_weight
 顺德医院站	shùn dé yī yuàn zhàn	1
 舜帝庙遗址	shùn dì miào yí zhǐ	1
 顺丁烯二酐	shùn dīng xī èr gān	3
-順丁烯二酐	shùn dīng xī èr gān	1
 顺丁烯二腈	shùn dīng xī èr jīng	1
 顺丁烯二酸	shùn dīng xī èr suān	3
 顺反式壬烯	shùn fǎn shì rén xī	3
@@ -184223,7 +184128,6 @@ sort: by_weight
 所属派出所	suǒ shǔ pài chū suǒ	1
 所属子公司	suǒ shǔ zǐ gōng sī	1
 缩水甘油醚	suō shuǐ gān yóu mí	2
-縮水甘油醚	suō shuǐ gān yóu mí	1
 缩水甘油酸	suō shuǐ gān yóu suān	3
 缩水甘油酯	suō shuǐ gān yóu zhǐ	1
 所说的东西	suǒ shuō de dōng xi	1
@@ -184646,7 +184550,7 @@ sort: by_weight
 所有联系人	suǒ yǒu lián xì rén	1
 所有浏览器	suǒ yǒu liú lǎn qì	1
 所有美国人	suǒ yǒu měi guó rén	1
-所有目的地	suǒ yǒu mù dì dì	1
+所有目的地	suǒ yǒu mù di dì	1
 所有年龄段	suǒ yǒu nián líng duàn	1
 所有年轻人	suǒ yǒu nián qīng rén	1
 所有贫困户	suǒ yǒu pín kùn hù	1
@@ -187706,7 +187610,7 @@ sort: by_weight
 特性的指数	tè xìng de zhǐ shù	1
 特性方程式	tè xìng fāng chéng shì	1
 特性和优势	tè xìng hé yōu shì	1
-特性曲线鉝	tè xìng qū xiàn lì	1
+特性曲线𫟷	tè xìng qū xiàn lì	1
 特型驱逐舰	tè xíng qū zhú jiàn	1
 忒修夫斯基	tè xiū fū sī jī	1
 忒修斯悖论	tè xiū sī bèi lùn	1
@@ -192633,7 +192537,7 @@ sort: by_weight
 头上一把刀	tóu shàng yì bǎ dāo	1
 头上有犄角	tóu shàng yǒu jī jiǎo	1
 透射电镜术	tòu shè diàn jìng shù	1
-透射光线鉝	tòu shè guāng xiàn lì	1
+透射光线𫟷	tòu shè guāng xiàn lì	1
 投射生成元	tóu shè shēng chéng yuán	1
 投射性认同	tóu shè xìng rèn tóng	1
 投射有限群	tóu shè yǒu xiàn qún	1
@@ -192807,7 +192711,7 @@ sort: by_weight
 投资理财网	tóu zī lǐ cái wǎng	1
 投资利润率	tóu zī lì rùn lǜ	1
 投资门槛低	tóu zī mén kǎn dī	1
-投资目的地	tóu zī mù dì dì	1
+投资目的地	tóu zī mù di dì	1
 投资洽谈会	tóu zī qià tán huì	1
 投资人变更	tóu zī rén biàn gēng	1
 投资人代表	tóu zī rén dài biǎo	1
@@ -203033,6 +202937,7 @@ sort: by_weight
 我说得没错	wǒ shuō de méi cuò	1
 我说的是不	wǒ shuō de shì bù	1
 我说的是真	wǒ shuō de shì zhēn	1
+我说的着吗	wǒ shuō de zháo ma	1
 我说了不算	wǒ shuō le bú suàn	1
 我说了什么	wǒ shuō le shén me	1
 我说你不懂	wǒ shuō nǐ bù dǒng	1
@@ -205319,7 +205224,7 @@ sort: by_weight
 武林广场北	wǔ lín guǎng chǎng běi	1
 五淋化石丸	wǔ lín huà shí wán	1
 武林笼中对	wǔ lín lóng zhōng duì	1
-无鳞鳗鰕虎	wú lín mán xiā hǔ	1
+无鳞鳗𫚥虎	wú lín mán xiā hǔ	1
 武林群侠传	wǔ lín qún xiá zhuàn	1
 武林群英会	wǔ lín qún yīng huì	1
 武林圣火令	wǔ lín shèng huǒ lìng	1
@@ -208322,7 +208227,6 @@ sort: by_weight
 溪山清远图	xī shān qīng yuǎn tú	1
 溪山行旅图	xī shān xíng lǚ tú	1
 谿山行旅图	xī shān xíng lǚ tú	1
-系上安全带	xì shàng ān quán dài	1
 溪上玫瑰园	xī shàng méi gui yuán	1
 膝上型电脑	xī shàng xíng diàn nǎo	1
 牺牲的精神	xī shēng de jīng shén	1
@@ -208359,7 +208263,7 @@ sort: by_weight
 吸收雷达波	xī shōu léi dá bō	1
 吸收利用率	xī shōu lì yòng lǜ	1
 吸收能力强	xī shōu néng lì qiáng	1
-吸收谱线鉝	xī shōu pǔ xiàn lì	1
+吸收谱线𫟷	xī shōu pǔ xiàn lì	1
 吸收式冰箱	xī shōu shì bīng xiāng	1
 吸收湿度表	xī shōu shī dù biǎo	1
 吸收式制冷	xī shōu shì zhì lěng	1
@@ -209164,7 +209068,7 @@ sort: by_weight
 夏侯阳算经	xià hóu yáng suàn jīng	1
 吓唬小孩的	xià hu xiǎo hái de	1
 虾虎鱼亚目	xiā hǔ yú yà mù	1
-鰕虎鱼亚目	xiā hǔ yú yà mù	1
+𫚥虎鱼亚目	xiā hǔ yú yà mù	1
 夏花般灿烂	xià huā bān càn làn	1
 下花园北站	xià huā yuán běi zhàn	1
 吓坏小朋友	xià huài xiǎo péng you	1
@@ -212074,7 +211978,7 @@ sort: by_weight
 相关的培训	xiāng guān de péi xùn	1
 相关的设置	xiāng guān de shè zhì	1
 相关的数据	xiāng guān de shù jù	1
-相关的帖子	xiāng guān de tiě zǐ	1
+相关的帖子	xiāng guān de tiě zi	1
 相关的图片	xiāng guān de tú piàn	1
 相关的网站	xiāng guān de wǎng zhàn	1
 相关的文件	xiāng guān de wén jiàn	1
@@ -214451,7 +214355,6 @@ sort: by_weight
 消化系疾病	xiāo huà xì jí bìng	1
 消化吸收率	xiāo huà xī shōu lǜ	1
 硝化纤维素	xiāo huà xiān wéi sù	1
-硝化纖維素	xiāo huà xiān wéi sù	1
 小花小鲜肉	xiǎo huā xiǎo xiān ròu	1
 消化性溃疡	xiāo huà xìng kuì yáng	1
 消化液分泌	xiāo huà yè fēn mì	1
@@ -215991,7 +215894,7 @@ sort: by_weight
 消肿健脾汤	xiāo zhǒng jiàn pí tāng	1
 消肿九味散	xiāo zhǒng jiǔ wèi sàn	1
 小众旅行地	xiǎo zhòng lǚ xíng dì	1
-小众目的地	xiǎo zhòng mù dì dì	1
+小众目的地	xiǎo zhòng mù di dì	1
 消肿痛醋膏	xiāo zhǒng tòng cù gāo	1
 消肿橡胶膏	xiāo zhǒng xiàng jiāo gāo	1
 消肿痔疮片	xiāo zhǒng zhì chuāng piàn	1
@@ -222242,7 +222145,7 @@ sort: by_weight
 选择连衣裙	xuǎn zé lián yī qún	1
 选择另一半	xuǎn zé lìng yí bàn	1
 选择留下来	xuǎn zé liú xià lái	1
-选择目的地	xuǎn zé mù dì dì	1
+选择目的地	xuǎn zé mù di dì	1
 选择哪一款	xuǎn zé nǎ yì kuǎn	1
 选择哪一种	xuǎn zé nǎ yì zhǒng	1
 选择牛仔裤	xuǎn zé niú zǎi kù	1
@@ -223584,7 +223487,7 @@ sort: by_weight
 寻常百姓家	xún cháng bǎi xìng jiā	1
 寻常的日子	xún cháng de rì zi	1
 寻常多重点	xún cháng duō zhòng diǎn	1
-寻常光线鉝	xún cháng guāng xiàn lì	1
+寻常光线𫟷	xún cháng guāng xiàn lì	1
 寻常海绵纲	xún cháng hǎi mián gāng	1
 寻常老百姓	xún cháng lǎo bǎi xìng	1
 寻常人家的	xún cháng rén jiā de	1
@@ -225001,7 +224904,7 @@ sort: by_weight
 眼睑无浮肿	yǎn jiǎn wú fú zhǒng	1
 眼睑新生物	yǎn jiǎn xīn shēng wù	1
 烟碱性口炎	yān jiǎn xìng kǒu yán	1
-菸碱型受体	yān jiǎn xíng shòu tǐ	1
+烟碱型受体	yān jiǎn xíng shòu tǐ	1
 眼睑修补术	yǎn jiǎn xiū bǔ shù	1
 岩尖凿开术	yán jiān záo kāi shù	1
 眼睑整形术	yǎn jiǎn zhěng xíng shù	1
@@ -231129,7 +231032,7 @@ sort: by_weight
 以前的生活	yǐ qián de shēng huó	1
 以前的事情	yǐ qián de shì qíng	1
 以前的事实	yǐ qián de shì shí	1
-以前的帖子	yǐ qián de tiě zǐ	1
+以前的帖子	yǐ qián de tiě zi	1
 以前的同事	yǐ qián de tóng shì	1
 以前的同学	yǐ qián de tóng xué	1
 以前的味道	yǐ qián de wèi dào	1
@@ -231294,10 +231197,8 @@ sort: by_weight
 异氰酸丙酯	yì qíng suān bǐng zhǐ	3
 异氰酸丁酯	yì qíng suān dīng zhǐ	3
 异氰酸甲酯	yì qíng suān jiǎ zhǐ	3
-異氰酸甲酯	yì qíng suān jiǎ zhǐ	1
 异氰酸萘酯	yì qíng suān nài zhǐ	3
 异氰酸乙酯	yì qíng suān yǐ zhǐ	6
-異氰酸乙酯	yì qíng suān yǐ zhǐ	1
 疫情信息处	yì qíng xìn xī chù	1
 疫情信息科	yì qíng xìn xī kē	1
 疫情信息员	yì qíng xìn xī yuán	1
@@ -232131,11 +232032,8 @@ sort: by_weight
 乙酸性质表	yǐ suān xìng zhì biǎo	1
 乙酸异丙酯	yǐ suān yì bǐng zhǐ	6
 乙酸异丙脂	yǐ suān yì bǐng zhī	2
-乙酸異丙酯	yǐ suān yì bǐng zhǐ	1
 乙酸异丁酯	yǐ suān yì dīng zhǐ	3
-乙酸異丁酯	yǐ suān yì dīng zhǐ	1
 乙酸异戊酯	yǐ suān yì wù zhǐ	2
-乙酸異戊酯	yǐ suān yì wù zhǐ	1
 乙酸乙烯酯	yǐ suān yǐ xī zhǐ	2
 乙酸乙烯脂	yǐ suān yǐ xī zhī	2
 乙酸铀酰钠	yǐ suān yóu xiān nà	1
@@ -232473,7 +232371,6 @@ sort: by_weight
 已无计可施	yǐ wú jì kě shī	1
 义务监督员	yì wù jiān dū yuán	1
 异戊间二烯	yì wù jiān èr xī	2
-異戊間二烯	yì wù jiān èr xī	1
 义务讲解员	yì wù jiǎng jiě yuán	1
 义务教育段	yì wù jiào yù duàn	1
 义务教育法	yì wù jiào yù fǎ	1
@@ -234146,7 +234043,7 @@ sort: by_weight
 蚓激酶胶囊	yǐn jī méi jiāo náng	1
 银基商贸城	yín jī shāng mào chéng	1
 阴极射线管	yīn jí shè xiàn guǎn	2
-阴极射线鉝	yīn jí shè xiàn lì	1
+阴极射线𫟷	yīn jí shè xiàn lì	1
 因技术问题	yīn jì shù wèn tí	1
 因技术原因	yīn jì shù yuán yīn	1
 因机械故障	yīn jī xiè gù zhàng	1
@@ -237796,7 +237693,6 @@ sort: by_weight
 有马启太郎	yǒu mǎ qǐ tài láng	1
 有马温泉站	yǒu mǎ wēn quán zhàn	1
 油麦吊云杉	yóu mài diào yún shān	1
-优美的城市	yōu měi de chéng shì	1
 优美的动作	yōu měi de dòng zuò	1
 优美的风光	yōu měi de fēng guāng	1
 优美的风景	yōu měi de fēng jǐng	1
@@ -237832,6 +237728,7 @@ sort: by_weight
 优美的造型	yōu měi de zào xíng	1
 优美的自然	yōu měi de zì rán	1
 优美的姿态	yōu měi de zī tài	1
+优美的城市	yōu měi dì chéng shì	1
 由美回春素	yóu měi huí chūn sù	1
 又没人逼你	yòu méi rén bī nǐ	1
 又没人知道	yòu méi rén zhī dào	1
@@ -244491,7 +244388,7 @@ sort: by_weight
 再往前一点	zài wǎng qián yì diǎn	1
 在网上查找	zài wǎng shàng chá zhǎo	1
 在网上发布	zài wǎng shàng fā bù	1
-在网上发帖	zài wǎng shàng fā tiē	1
+在网上发帖	zài wǎng shàng fā tiě	1
 在网上公开	zài wǎng shàng gōng kāi	1
 在网上购买	zài wǎng shàng gòu mǎi	1
 在网上流传	zài wǎng shàng liú chuán	1
@@ -245909,7 +245806,7 @@ sort: by_weight
 炸鱼和薯条	zhá yú hé shǔ tiáo	1
 炸鱼薯条呀	zhá yú shǔ tiáo ya	1
 炸至金黄色	zhá zhì jīn huáng sè	1
-吒枳尼真天	zhā zhǐ ní zhēn tiān	1
+咤枳尼真天	zhà zhǐ ní zhēn tiān	1
 渣滓洞监狱	zhā zǐ dòng jiān yù	1
 窄边框屏幕	zhǎi biān kuàng píng mù	1
 窄边框设计	zhǎi biān kuàng shè jì	1
@@ -250242,7 +250139,7 @@ sort: by_weight
 政策与市场	zhèng cè yǔ shì chǎng	1
 政策制定者	zhèng cè zhì dìng zhě	1
 政策组合拳	zhèng cè zǔ hé quán	1
-正叉舌鰕虎	zhèng chā shé xiā hǔ	1
+正叉舌𫚥虎	zhèng chā shé xiā hǔ	1
 政产学研金	zhèng chǎn xué yán jīn	1
 政产学研用	zhèng chǎn xué yán yòng	1
 正常凹函数	zhèng cháng āo hán shù	1
@@ -250673,6 +250570,7 @@ sort: by_weight
 正极和负极	zhèng jí hé fù jí	1
 正积极推进	zhèng jī jí tuī jìn	1
 正畸矫治器	zhèng jī jiǎo zhì qì	1
+整机序列号	zhěng jī xù liè hào	1
 整机一体化	zhěng jī yì tǐ huà	1
 整机制造商	zhěng jī zhì zào shāng	1
 正加快建设	zhèng jiā kuài jiàn shè	1
@@ -252302,7 +252200,7 @@ sort: by_weight
 制定的目标	zhì dìng de mù biāo	1
 指定的区域	zhǐ dìng de qū yù	1
 指定的人员	zhǐ dìng de rén yuán	1
-置顶的帖子	zhì dǐng de tiě zǐ	1
+置顶的帖子	zhì dǐng de tiě zi	1
 指定的位置	zhǐ dìng de wèi zhì	1
 指定的文件	zhǐ dìng de wén jiàn	1
 指定负责人	zhǐ dìng fù zé rén	1
@@ -259029,7 +258927,7 @@ sort: by_weight
 主要零部件	zhǔ yào líng bù jiàn	1
 主要领导人	zhǔ yào lǐng dǎo rén	1
 主要论述了	zhǔ yào lùn shù le	1
-主要目的地	zhǔ yào mù dì dì	1
+主要目的地	zhǔ yào mù di dì	1
 主要目的是	zhǔ yào mù dì shì	1
 主要农产品	zhǔ yào nóng chǎn pǐn	1
 主要农作物	zhǔ yào nóng zuò wù	1
@@ -265028,7 +264926,7 @@ sort: by_weight
 最佳俱乐部	zuì jiā jù lè bù	1
 最佳李纯信	zuì jiā lǐ chún xìn	1
 最佳李顺新	zuì jiā lǐ shùn xīn	1
-最佳目的地	zuì jiā mù dì dì	1
+最佳目的地	zuì jiā mù di dì	1
 最佳男歌手	zuì jiā nán gē shǒu	1
 最佳男配角	zuì jiā nán pèi jué	1
 最佳男朋友	zuì jiā nán péng you	1
@@ -265401,7 +265299,7 @@ sort: by_weight
 最终解释权	zuì zhōng jiě shì quán	1
 最终决策者	zuì zhōng jué cè zhě	1
 最终落脚点	zuì zhōng luò jiǎo diǎn	1
-最终目的地	zuì zhōng mù dì dì	1
+最终目的地	zuì zhōng mù di dì	1
 最终消费者	zuì zhōng xiāo fèi zhě	1
 最终休止符	zuì zhōng xiū zhǐ fú	1
 最重要的点	zuì zhòng yào de diǎn	1
@@ -268374,7 +268272,6 @@ sort: by_weight
 办学指导思想	bàn xué zhǐ dǎo sī xiǎng	1
 斑岩铜矿模式	bān yán tóng kuàng mó shì	1
 半妖的夜叉姬	bàn yāo de yè chā jī	1
-斑叶唇柱苣苔	bān yè chún zhù jù tái	1
 半夜睡不着觉	bàn yè shuì bù zháo jiào	1
 板野友美单曲	bǎn yě yǒu měi dān qǔ	1
 半议会民主制	bàn yì huì mín zhǔ zhì	1
@@ -268697,15 +268594,9 @@ sort: by_weight
 宝雅电动汽车	bǎo yǎ diàn dòng qì chē	1
 宝雅科技集团	bǎo yǎ kē jì jí tuán	1
 宝杨码头专线	bǎo yáng mǎ tóu zhuān xiàn	1
-薄叶长柄报春	báo yè cháng bǐng bào chūn	1
-薄叶唇柱苣苔	báo yè chún zhù jù tái	1
-薄叶大理糙苏	báo yè dà lǐ cāo sū	1
 宝业集团股份	bǎo yè jí tuán gǔ fèn	1
-薄叶假柴龙树	báo yè jiǎ chái lóng shù	1
 宝业建设集团	bǎo yè jiàn shè jí tuán	1
-薄叶卷毛梾木	báo yè juǎn máo lái mù	1
 宝业幕墙装饰	bǎo yè mù qiáng zhuāng shì	1
-薄叶朱砂杜鹃	báo yè zhū shā dù juān	1
 保宜高速公路	bǎo yí gāo sù gōng lù	1
 豹一主战坦克	bào yì zhǔ zhàn tǎn kè	1
 宝音德力格尔	bǎo yīn dé lì gé ěr	1
@@ -273711,6 +273602,7 @@ sort: by_weight
 吃下去的食物	chī xià qù de shí wù	1
 赤藓酮糖磷酸	chì xiǎn tóng táng lín suān	1
 赤藓酮糖水合	chì xiǎn tóng táng shuǐ hé	3
+持献血优待证	chí xiàn xuè yōu dài zhèng	1
 齿小蠹二烯醇	chǐ xiǎo dù èr xī chún	1
 持械聚众斗殴	chí xiè jù zhòng dòu ōu	1
 吃辛辣的食物	chī xīn là de shí wù	1
@@ -275042,7 +274934,6 @@ sort: by_weight
 醋酸纤维素酯	cù suān xiān wéi sù zhǐ	1
 醋酸亚砷酸铜	cù suān yà shēn suān tóng	2
 醋酸异丙烯酯	cù suān yì bǐng xī zhǐ	2
-醋酸異丙烯酯	cù suān yì bǐng xī zhǐ	1
 醋酸珠氯噻吨	cù suān zhū lǜ sāi dūn	1
 促细胞分裂剂	cù xì bāo fēn liè jì	1
 粗纤维的蔬菜	cū xiān wéi de shū cài	1
@@ -275360,7 +275251,7 @@ sort: by_weight
 打火机的火焰	dǎ huǒ jī de huǒ yàn	1
 大火快速翻炒	dà huǒ kuài sù fān chǎo	1
 大火收汁即可	dà huǒ shōu zhī jí kě	1
-打击不法分子	dǎ jī bù fǎ fēn zǐ	1
+打击不法分子	dǎ jī bù fǎ fèn zǐ	1
 打基础的阶段	dǎ jī chǔ de jiē duàn	1
 打击电信诈骗	dǎ jī diàn xìn zhà piàn	1
 打击非法集资	dǎ jī fēi fǎ jí zī	1
@@ -275666,8 +275557,6 @@ sort: by_weight
 大秀性感身材	dà xiù xìng gǎn shēn cái	1
 大学生掏鸟案	dà xué shēng tāo niǎo àn	1
 打阳伞的女人	dǎ yáng sǎn de nǚ rén	1
-大叶东京鱼藤	dà yè dōng jīng yú téng	1
-大叶桃花心木	dà yè táo huā xīn mù	1
 大冶有色金属	dà yě yǒu sè jīn shǔ	1
 打一辈子光棍	dǎ yí bèi zi guāng gùn	1
 打一枪换一炮	dǎ yì qiāng huàn yí pào	1
@@ -276335,8 +276224,8 @@ sort: by_weight
 到处走走停停	dào chù zǒu zǒu tíng tíng	1
 刀刺在背传说	dāo cì zài bèi chuán shuō	1
 到村到户到人	dào cūn dào hù dào rén	1
-到达目的地后	dào dá mù dì dì hòu	1
-到达目的地时	dào dá mù dì dì shí	1
+到达目的地后	dào dá mù di dì hòu	1
+到达目的地时	dào dá mù di dì shí	1
 道达投资手记	dào dá tóu zī shǒu jì	1
 到达指定地点	dào dá zhǐ dìng dì diǎn	1
 到达指定位置	dào dá zhǐ dìng wèi zhì	1
@@ -276421,7 +276310,7 @@ sort: by_weight
 到了八十年代	dào le bā shí nián dài	1
 到了大年三十	dào le dà nián sān shí	1
 到了九十年代	dào le jiǔ shí nián dài	1
-到了目的地后	dào le mù dì dì hòu	1
+到了目的地后	dào le mù di dì hòu	1
 到了上个世纪	dào le shàng gè shì jì	1
 到了十字路口	dào le shí zì lù kǒu	1
 倒立伏地挺身	dào lì fú dì tǐng shēn	1
@@ -276741,7 +276630,7 @@ sort: by_weight
 低出生体重儿	dī chū shēng tǐ zhòng ér	1
 堤川车辆基地	dī chuān chē liàng jī dì	1
 地磁极性倒转	dì cí jí xìng dào zhuǎn	1
-抵达目的地后	dǐ dá mù dì dì hòu	1
+抵达目的地后	dǐ dá mù di dì hòu	1
 滴嗒危机一发	dī dā wēi jī yì fā	1
 碲代亚砷酸盐	dì dài yà shēn suān yán	1
 低胆固醇血症	dī dǎn gù chún xuè zhèng	1
@@ -277375,7 +277264,7 @@ sort: by_weight
 电磁气分析计	diàn cí qì fēn xī jì	3
 电磁式示波器	diàn cí shì shì bō qì	3
 碘代氨基丁酸	diǎn dài ān jī dīng suān	1
-点带叉舌鰕虎	diǎn dài chā shé xiā hǔ	1
+点带叉舌𫚥虎	diǎn dài chā shé xiā hǔ	1
 碘代类甲腺质	diǎn dài lèi jiǎ xiàn zhì	1
 颠倒的帕特玛	diān dǎo de pà tè mǎ	1
 颠倒是非黑白	diān dǎo shì fēi hēi bái	1
@@ -278474,7 +278363,6 @@ sort: by_weight
 读数之比减小	dú shù zhī bǐ jiǎn xiǎo	1
 读数之比增大	dú shù zhī bǐ zēng dà	1
 读硕士研究生	dú shuò shì yán jiū shēng	1
-毒素镰刀菌属	dú sù lián dāo jūn shǔ	3
 毒素中和试验	dú sù zhōng hé shì yàn	1
 独特的风景线	dú tè de fēng jǐng xiàn	1
 独特的设计感	dú tè de shè jì gǎn	1
@@ -278893,13 +278781,6 @@ sort: by_weight
 趸售物价指数	dǔn shòu wù jià zhǐ shù	1
 钝头扁平苔藓	dùn tóu biǎn píng tái xiǎn	1
 盾形毛肤石鳖	dùn xíng máo fū shí biē	1
-盾叶粗筒苣苔	dùn yè cū tǒng jù tái	1
-盾叶冠心宁片	dùn yè guān xīn níng piàn	1
-盾叶光叶苣苔	dùn yè guāng yè jù tái	1
-钝叶华贵黄耆	dùn yè huá guì huáng qí	1
-钝叶台湾杨桐	dùn yè tái wān yáng tóng	1
-钝叶小鼠尾藓	dùn yè xiǎo shǔ wěi xiǎn	1
-钝叶新木姜子	dùn yè xīn mù jiāng zǐ	1
 多阿二氏反应	duō ā èr shì fǎn yìng	1
 多巴胺单氧酶	duō bā àn dān yǎng méi	1
 多巴胺羟化酶	duō bā àn qiǎng huà méi	1
@@ -279246,9 +279127,6 @@ sort: by_weight
 额前叶挫裂伤	é qián yè cuò liè shāng	1
 鹅去氧胆酸片	é qù yǎng dǎn suān piàn	1
 鄂属的黎波里	è shǔ de lí bō lǐ	1
-莪术呋喃二烯	é shù fū nán èr xī	1
-莪术油葡萄糖	é shù yóu pú táo táng	1
-莪术油注射液	é shù yóu zhù shè yè	1
 恶书追放运动	è shū zhuī fàng yùn dòng	1
 腭撕裂缝合术	è sī liè féng hé shù	1
 厄他培南冻干	è tā péi nán dòng gān	1
@@ -279304,6 +279182,9 @@ sort: by_weight
 遏止通货膨胀	è zhǐ tōng huò péng zhàng	1
 遏制通货膨胀	è zhì tōng huò péng zhàng	1
 鄂州康复中心	è zhōu kāng fù zhōng xīn	1
+莪术呋喃二烯	é zhú fū nán èr xī	1
+莪术油葡萄糖	é zhú yóu pú táo táng	1
+莪术油注射液	é zhú yóu zhù shè yè	1
 恶作剧的孩子	è zuò jù de hái zi	1
 恩波酸丙米嗪	ēn bō suān bǐng mǐ qín	1
 恩丹西酮胶囊	ēn dān xī tóng jiāo náng	1
@@ -280203,7 +280084,6 @@ sort: by_weight
 二硝基二苯醚	èr xiāo jī èr běn mí	3
 二硝基酚钠盐	èr xiāo jī fēn nà yán	3
 二硝基邻甲酚	èr xiāo jī lín jiǎ fēn	3
-二硝基鄰甲酚	èr xiāo jī lín jiǎ fēn	1
 二硝基邻戊基	èr xiāo jī lín wù jī	1
 二硝基氯化苄	èr xiāo jī lǜ huà biàn	3
 二硝基萘酚钠	èr xiāo jī nài fēn nà	1
@@ -280339,7 +280219,6 @@ sort: by_weight
 二异硫氰基苯	èr yì liú qíng jī běn	1
 二乙哌啶二酮	èr yǐ pài dìng èr tóng	1
 二异氰酸甲苯	èr yì qíng suān jiǎ běn	2
-二異氰酸甲苯	èr yì qíng suān jiǎ běn	1
 二乙炔基联苯	èr yǐ quē jī lián běn	1
 二乙酸贝毒素	èr yǐ suān bèi dú sù	3
 二乙酸二乙酯	èr yǐ suān èr yǐ zhǐ	2
@@ -282538,7 +282417,7 @@ sort: by_weight
 复方阿胶补血	fù fāng ē jiāo bǔ xuè	1
 复方阿胶胶囊	fù fāng ē jiāo jiāo náng	1
 复方阿胶颗粒	fù fāng ē jiāo kē lì	1
-复方莪术油栓	fù fāng é shù yóu shuān	1
+复方莪术油栓	fù fāng é zhú yóu shuān	1
 复方儿茶胶囊	fù fāng ér chá jiāo náng	1
 复方二氧化钛	fù fāng èr yǎng huà tài	1
 复方法莫替丁	fù fāng fǎ mò tì dīng	1
@@ -287781,7 +287660,6 @@ sort: by_weight
 锅炉循环水泵	guō lú xún huán shuǐ bèng	2
 锅炉压力容器	guō lú yā lì róng qì	1
 过氯甲基硫醇	guò lǜ jiǎ jī liú chún	2
-過氯甲基硫醇	guò lǜ jiǎ jī liú chún	1
 过氯乙烯树脂	guò lǜ yǐ xī shù zhī	3
 过锰酸根离子	guò měng suān gēn lí zǐ	1
 过锰酸盐指数	guò měng suān yán zhǐ shù	1
@@ -288615,7 +288493,7 @@ sort: by_weight
 皓天财经集团	hào tiān cái jīng jí tuán	1
 昊天发展集团	hào tiān fā zhǎn jí tuán	1
 昊天金阙至尊	hào tiān jīn què zhì zūn	1
-昊天玉皇上帝	hào tiān yù huáng shàng dì	1
+昊天玉皇上帝	hào tiān yù huáng shang dì	1
 好听话的孩子	hǎo tīng huà de hái zi	1
 毫无抵抗之力	háo wú dǐ kàng zhī lì	1
 毫无共同之处	háo wú gòng tóng zhī chù	1
@@ -289376,7 +289254,7 @@ sort: by_weight
 横结肠造口术	héng jié cháng zào kǒu shù	1
 恒凯能源科技	héng kǎi néng yuán kē jì	1
 衡昆高速公路	héng kūn gāo sù gōng lù	1
-横列叉舌鰕虎	héng liè chā shé xiā hǔ	1
+横列叉舌𫚥虎	héng liè chā shé xiā hǔ	1
 恒流量控制阀	héng liú liàng kòng zhì fá	2
 恒茂国际都会	héng mào guó jì dōu huì	1
 衡南高速公路	héng nán gāo sù gōng lù	1
@@ -289446,7 +289324,7 @@ sort: by_weight
 宏程国际大厦	hóng chéng guó jì dà shà	1
 弘成教育集团	hóng chéng jiào yù jí tuán	1
 鸿池善右卫门	hóng chí shàn yòu wèi mén	1
-红虫纹底鰕鳉	hóng chóng wén dǐ xiā jiāng	1
+红虫纹底𫚥鳉	hóng chóng wén dǐ xiā jiāng	1
 宏创高科集团	hóng chuàng gāo kē jí tuán	1
 红唇直口非鲫	hóng chún zhí kǒu fēi jì	1
 宏村古建筑群	hóng cūn gǔ jiàn zhù qún	1
@@ -290764,7 +290642,6 @@ sort: by_weight
 环磷酰苷葡胺	huán lín xiān gān pú àn	1
 环流出口温度	huán liú chū kǒu wēn dù	1
 环六亚甲基胺	huán liù yà jiǎ jī àn	2
-環六亞甲基胺	huán liù yà jiǎ jī àn	1
 环轮宁注射液	huán lún níng zhù shè yè	1
 缓慢沉积剖面	huǎn màn chén jī pōu miàn	2
 环木香烯内酯	huán mù xiāng xī nèi zhǐ	1
@@ -291678,7 +291555,7 @@ sort: by_weight
 击败凯尔特人	jī bài kǎi ěr tè rén	1
 吉百利史威士	jí bǎi lì shǐ wēi shì	1
 几百年的历史	jǐ bǎi nián de lì shǐ	1
-賫百年之寿命	jī bǎi nián zhī shòu mìng	1
+赍百年之寿命	jī bǎi nián zhī shòu mìng	1
 极板型下井仪	jí bǎn xíng xià jǐng yí	2
 己榜国家公园	jǐ bǎng guó jiā gōng yuán	1
 既保暖又时尚	jì bǎo nuǎn yòu shí shàng	1
@@ -293171,7 +293048,6 @@ sort: by_weight
 甲基氧化吲哚	jiǎ jī yǎng huà yǐn duǒ	1
 甲基异丙基醚	jiǎ jī yì bǐng jī mí	3
 甲基异丙基酮	jiǎ jī yì bǐng jī tóng	2
-甲基異丙基酮	jiǎ jī yì bǐng jī tóng	1
 甲基异丁基醚	jiǎ jī yì dīng jī mí	1
 甲基异丁基酮	jiǎ jī yì dīng jī tóng	2
 甲基乙基苯酚	jiǎ jī yǐ jī běn fēn	3
@@ -298774,7 +298650,6 @@ sort: by_weight
 空荡荡的房间	kōng dàng dàng de fáng jiān	1
 空洞了的瞳孔	kōng dòng le de tóng kǒng	1
 空洞性肺结核	kōng dòng xìng fèi jié hé	1
-空洞性肺結核	kōng dòng xìng fèi jié hé	1
 空洞型肺结核	kōng dòng xíng fèi jié hé	1
 孔多尔科查湖	kǒng duō ěr kē chá hú	1
 孔多尔科塔山	kǒng duō ěr kē tǎ shān	1
@@ -300696,7 +300571,6 @@ sort: by_weight
 连续自动监测	lián xù zì dòng jiān cè	1
 怜循环反应器	lián xún huán fǎn yìng qì	3
 联异氰酸苯胺	lián yì qíng suān běn àn	2
-聯異氰酸苯胺	lián yì qíng suān běn àn	1
 连衣裙的搭配	lián yī qún de dā pèi	1
 连衣裙的款式	lián yī qún de kuǎn shì	1
 连衣裙的设计	lián yī qún de shè jì	1
@@ -301119,7 +300993,6 @@ sort: by_weight
 邻对位定位基	lín duì wèi dìng wèi jī	5
 邻二酚氧化酶	lín èr fēn yǎng huà méi	1
 邻二甲基联苯	lín èr jiǎ jī lián běn	2
-鄰二甲基聯苯	lín èr jiǎ jī lián běn	1
 邻二甲氧基苯	lín èr jiǎ yǎng jī běn	1
 邻二羟基苯类	lín èr qiǎng jī běn lèi	1
 邻二三氟甲苯	lín èr sān fú jiǎ běn	3
@@ -301693,7 +301566,6 @@ sort: by_weight
 六氯合铂酸氙	liù lǜ hé bó suān xiān	4
 六氯合铂酸盐	liù lǜ hé bó suān yán	1
 六氯环戊二烯	liù lǜ huán wù èr xī	3
-六氯環戊二烯	liù lǜ huán wù èr xī	1
 硫铝酸盐水泥	liú lǚ suān yán shuǐ ní	1
 六帽子思考法	liù mào zi sī kǎo fǎ	1
 琉美修好条约	liú měi xiū hǎo tiáo yuē	1
@@ -301796,7 +301668,6 @@ sort: by_weight
 硫酸邻苯二胺	liú suān lín běn èr àn	3
 硫酸邻甲苯胺	liú suān lín jiǎ běn àn	3
 硫酸六氨合镍	liú suān liù ān hé niè	1
-硫酸鉻水合物	liú suān luò shuǐ hé wù	1
 硫酸罗通定片	liú suān luó tōng dìng piàn	1
 硫酸氯吡格雷	liú suān lǜ bǐ gé léi	1
 硫酸铝钾鞣酸	liú suān lǚ jiǎ róu suān	1
@@ -302224,7 +302095,7 @@ sort: by_weight
 路上的朝圣者	lù shàng de cháo shèng zhě	1
 陆上丝绸之路	lù shàng sī chóu zhī lù	1
 陆上速度记录	lù shàng sù dù jì lù	1
-路氏阿科鰕虎	lù shì ā kē xiā hǔ	1
+路氏阿科𫚥虎	lù shì ā kē xiā hǔ	1
 鲁氏棒矫正术	lǔ shì bàng jiǎo zhèng shù	1
 路是人走出来	lù shì rén zǒu chū lái	1
 路是我家开的	lù shì wǒ jiā kāi de	1
@@ -302675,7 +302546,6 @@ sort: by_weight
 氯甲酸氯甲酯	lǜ jiǎ suān lǜ jiǎ zhǐ	1
 氯甲酸芴甲酯	lǜ jiǎ suān wù jiǎ zhǐ	3
 氯甲酸异丙酯	lǜ jiǎ suān yì bǐng zhǐ	3
-氯甲酸異丙酯	lǜ jiǎ suān yì bǐng zhǐ	1
 氯甲酸异丁酯	lǜ jiǎ suān yì dīng zhǐ	3
 氯甲酸正丙酯	lǜ jiǎ suān zhèng bǐng zhǐ	3
 氯甲酸正辛酯	lǜ jiǎ suān zhèng xīn zhǐ	3
@@ -302822,7 +302692,7 @@ sort: by_weight
 旅游景点门票	lǚ yóu jǐng diǎn mén piào	1
 旅游景点众多	lǚ yóu jǐng diǎn zhòng duō	1
 旅游景区景点	lǚ yóu jǐng qū jǐng diǎn	1
-旅游目的地国	lǚ yóu mù dì dì guó	1
+旅游目的地国	lǚ yóu mù di dì guó	1
 旅游事务专员	lǚ yóu shì wù zhuān yuán	1
 旅游星级饭店	lǚ yóu xīng jí fàn diàn	1
 旅游形象大使	lǚ yóu xíng xiàng dà shǐ	1
@@ -303183,7 +303053,7 @@ sort: by_weight
 瞒天过海之计	mán tiān guò hǎi zhī jì	1
 漫威漫画人物	màn wēi màn huà rén wù	1
 漫威午夜之子	màn wēi wǔ yè zhī zǐ	1
-漫无目的地走	màn wú mù dì dì zǒu	1
+漫无目的地走	màn wú mù di dì zǒu	1
 慢性阿米巴病	màn xìng ā mǐ bā bìng	1
 慢性扁桃体炎	màn xìng biǎn táo tǐ yán	1
 慢性病发作期	màn xìng bìng fā zuò qī	1
@@ -305917,7 +305787,7 @@ sort: by_weight
 涅波姆尼亚奇	niè bō mǔ ní yà qí	1
 颞部良性肿瘤	niè bù liáng xìng zhǒng liú	1
 聂风和步惊云	niè fēng hé bù jīng yún	1
-镍铬合金线鉝	niè gè hé jīn xiàn lì	1
+镍铬合金线𫟷	niè gè hé jīn xiàn lì	1
 颞骨良性肿瘤	niè gǔ liáng xìng zhǒng liú	1
 颞颌关节不正	niè hé guān jié bú zhèng	1
 颞颌关节强硬	niè hé guān jié qiáng yìng	1
@@ -309383,7 +309253,7 @@ sort: by_weight
 青少年和成人	qīng shào nián hé chéng rén	1
 青少年维权岗	qīng shào nián wéi quán gǎng	1
 青少年牙周炎	qīng shào nián yá zhōu yán	1
-情深深雨濛濛	qíng shēn shēn yǔ méng méng	1
+情深深雨蒙蒙	qíng shēn shēn yǔ méng méng	1
 情圣卡萨诺瓦	qíng shèng kǎ sà nuò wǎ	1
 情事变更原则	qíng shì biàn gēng yuán zé	1
 情势变更原则	qíng shì biàn gēng yuán zé	1
@@ -317207,7 +317077,7 @@ sort: by_weight
 拴菲辐射条件	shuān fēi fú shè tiáo jiàn	1
 栓子性脑软化	shuān zi xìng nǎo ruǎn huà	1
 双氨基固蓝盐	shuāng ān jī gù lán yán	3
-双斑叉舌鰕虎	shuāng bān chā shé xiā hǔ	1
+双斑叉舌𫚥虎	shuāng bān chā shé xiā hǔ	1
 双瓣膜置换术	shuāng bàn mó zhì huàn shù	1
 双边单出排气	shuāng biān dān chū pái qì	1
 双变换相互酌	shuāng biàn huàn xiāng hù zhuó	1
@@ -317435,7 +317305,7 @@ sort: by_weight
 双星有丝分裂	shuāng xīng yǒu sī fēn liè	1
 双星之阴阳师	shuāng xīng zhī yīn yáng shī	1
 双休伊直升机	shuāng xiū yī zhí shēng jī	1
-双须叉舌鰕虎	shuāng xū chā shé xiā hǔ	1
+双须叉舌𫚥虎	shuāng xū chā shé xiā hǔ	1
 双亚苄基丙酮	shuāng yà biàn jī bǐng tóng	1
 双眼矫正视力	shuāng yǎn jiǎo zhèng shì lì	1
 双眼视觉检查	shuāng yǎn shì jué jiǎn chá	1
@@ -317952,7 +317822,6 @@ sort: by_weight
 四渡赤水遗址	sì dù chì shuǐ yí zhǐ	1
 四渡赤水战役	sì dù chì shuǐ zhàn yì	1
 斯多德尔溶剂	sī duō dé ěr róng jì	2
-斯多德爾溶劑	sī duō dé ěr róng jì	1
 司法积极主义	sī fǎ jī jí zhǔ yì	1
 司法警察支队	sī fǎ jǐng chá zhī duì	1
 司法警官学校	sī fǎ jǐng guān xué xiào	1
@@ -318345,7 +318214,6 @@ sort: by_weight
 四月二十五日	sì yuè èr shí wǔ rì	1
 四月二十一日	sì yuè èr shí yī rì	1
 四月三日事件	sì yuè sān rì shì jiàn	1
-四月是你的谎	sì yuè shì nǐ de huǎng	1
 四诊心法要诀	sì zhěn xīn fǎ yào jué	1
 四肢动脉栓塞	sì zhī dòng mài shuān sè	1
 四肢供血不足	sì zhī gōng xuè bù zú	1
@@ -319037,7 +318905,7 @@ sort: by_weight
 泰定养生主论	tài dìng yǎng shēng zhǔ lùn	1
 态度和价值观	tài dù hé jià zhí guān	1
 态度极其恶劣	tài dù jí qí è liè	1
-台独顽固分子	tái dú wán gù fēn zǐ	1
+台独顽固分子	tái dú wán gù fèn zǐ	1
 太对我胃口了	tài duì wǒ wèi kǒu le	1
 太多不确定性	tài duō bú què dìng xìng	1
 太多专业术语	tài duō zhuān yè shù yǔ	1
@@ -319385,7 +319253,6 @@ sort: by_weight
 唐鸿胪井刻石	táng hóng lú jǐng kè shí	1
 糖化血红蛋白	táng huà xuè hóng dàn bái	1
 堂吉诃德家族	táng jí hē dé jiā zú	1
-唐吉诃德家族	táng jí hē dé jiā zú	1
 堂吉诃德精神	táng jí hē dé jīng shén	1
 羰基环戊羧酸	tāng jī huán wù suō suān	3
 唐击焉耆之战	táng jī yān qí zhī zhàn	1
@@ -321407,7 +321274,7 @@ sort: by_weight
 完工百分率法	wán gōng bǎi fēn lǜ fǎ	1
 万古长青对局	wàn gǔ cháng qīng duì jú	1
 腕骨良性肿瘤	wàn gǔ liáng xìng zhǒng liú	1
-顽固台独分子	wán gù tái dú fēn zǐ	1
+顽固台独分子	wán gù tái dú fèn zǐ	1
 腕关节固定术	wàn guān jié gù dìng shù	1
 腕关节截骨术	wàn guān jié jié gǔ shù	1
 腕关节镜检查	wàn guān jié jìng jiǎn chá	1
@@ -322983,7 +322850,7 @@ sort: by_weight
 戊巴比妥钠盐	wù bā bǐ tuǒ nà yán	3
 五百轰俱乐部	wǔ bǎi hōng jù lè bù	1
 五百人院成员	wǔ bǎi rén yuàn chéng yuán	1
-无斑叉舌鰕虎	wú bān chā shé xiā hǔ	1
+无斑叉舌𫚥虎	wú bān chā shé xiā hǔ	1
 无棒螺旋星系	wú bàng luó xuán xīng xì	1
 吴宝春麦方店	wú bǎo chūn mài fāng diàn	1
 无被害人犯罪	wú bèi hài rén fàn zuì	1
@@ -327183,7 +327050,7 @@ sort: by_weight
 心振荡而不怡	xīn zhèn dàng ér bù yí	1
 新真骨鱼亚群	xīn zhēn gǔ yú yà qún	1
 新制氢氧化铜	xīn zhì qīng yǎng huà tóng	1
-心中懊憹而热	xīn zhōng ào náo ér rè	1
+心中懊𢙐而热	xīn zhōng ào náo ér rè	1
 新中国的成立	xīn zhōng guó de chéng lì	1
 新中国的诞生	xīn zhōng guó de dàn shēng	1
 新中国的建立	xīn zhōng guó de jiàn lì	1
@@ -327381,7 +327248,7 @@ sort: by_weight
 刑事法律风险	xíng shì fǎ lǜ fēng xiǎn	1
 刑事法律援助	xíng shì fǎ lǜ yuán zhù	1
 刑事法律责任	xíng shì fǎ lǜ zé rèn	1
-刑事犯罪分子	xíng shì fàn zuì fēn zǐ	1
+刑事犯罪分子	xíng shì fàn zuì fèn zǐ	1
 刑事犯罪记录	xíng shì fàn zuì jì lù	1
 刑事附带民事	xíng shì fù dài mín shì	1
 行使股东权利	xíng shǐ gǔ dōng quán lì	1
@@ -328489,7 +328356,6 @@ sort: by_weight
 亚磷酸二乙酯	yà lín suān èr yǐ zhǐ	3
 亚磷酸三苯酯	yà lín suān sān běn zhǐ	3
 亚磷酸三甲酯	yà lín suān sān jiǎ zhǐ	5
-亞磷酸三甲酯	yà lín suān sān jiǎ zhǐ	1
 亚磷酸三乙酯	yà lín suān sān yǐ zhǐ	3
 亚磷酸水溶液	yà lín suān shuǐ róng yè	3
 亚硫酸铋琼脂	yà liú suān bì qióng zhī	3
@@ -330325,7 +330191,6 @@ sort: by_weight
 疑病性神经症	yí bìng xìng shén jīng zhèng	1
 异丙氧基丙胺	yì bǐng yǎng jī bǐng àn	3
 异丙氧基乙醇	yì bǐng yǎng jī yǐ chún	2
-異丙氧基乙醇	yì bǐng yǎng jī yǐ chún	1
 异丙氧乙基苯	yì bǐng yǎng yǐ jī běn	1
 异丙原磺酸钾	yì bǐng yuán huáng suān jiǎ	3
 疑病症综合征	yí bìng zhèng zōng hé zhēng	1
@@ -330847,7 +330712,6 @@ sort: by_weight
 遗迹性中耳炎	yí jì xìng zhōng ěr yán	1
 乙基溴化吡啶	yǐ jī xiù huà bǐ dìng	3
 乙基氧氮陆圜	yǐ jī yǎng dàn lù huán	2
-乙基氧氮陸圜	yǐ jī yǎng dàn lù huán	1
 乙基异丙基酮	yǐ jī yì bǐng jī tóng	1
 乙基乙磺酰胺	yǐ jī yǐ huáng xiān àn	3
 乙基乙酰苯胺	yǐ jī yǐ xiān běn àn	3
@@ -331214,9 +331078,7 @@ sort: by_weight
 异氰酸十八酯	yì qíng suān shí bā zhǐ	2
 异氰酸溴苯酯	yì qíng suān xiù běn zhǐ	3
 异氰酸正丙酯	yì qíng suān zhèng bǐng zhǐ	2
-異氰酸正丙酯	yì qíng suān zhèng bǐng zhǐ	1
 异氰酸正丁酯	yì qíng suān zhèng dīng zhǐ	2
-異氰酸正丁酯	yì qíng suān zhèng dīng zhǐ	1
 异氰酸正内酯	yì qíng suān zhèng nèi zhǐ	3
 疫情网络直报	yì qíng wǎng luò zhí bào	1
 疫情形势严峻	yì qíng xíng shì yán jùn	1
@@ -331757,7 +331619,6 @@ sort: by_weight
 医学专业词汇	yī xué zhuān yè cí huì	1
 医学专业人士	yī xué zhuān yè rén shì	1
 异亚丙基丙酮	yì yà bǐng jī bǐng tóng	2
-異亞丙基丙酮	yì yà bǐng jī bǐng tóng	1
 以压倒性优势	yǐ yā dǎo xìng yōu shì	1
 薏芽健脾凝胶	yì yá jiàn pí níng jiāo	1
 异亚硝基丙酮	yì yà xiāo jī bǐng tóng	3
@@ -341138,7 +340999,7 @@ sort: by_weight
 氨羟苯甲酸甲酯	ān qiǎng běn jiǎ suān jiǎ zhǐ	1
 安全才是第一位	ān quán cái shì dì yī wèi	1
 安全操作与维护	ān quán cāo zuò yǔ wéi hù	1
-安全到达目的地	ān quán dào dá mù dì dì	1
+安全到达目的地	ān quán dào dá mù di dì	1
 安全导航运算符	ān quán dǎo háng yùn suàn fú	1
 安全得不到保障	ān quán dé bú dào bǎo zhàng	1
 安全放在第一位	ān quán fàng zài dì yī wèi	1
@@ -342059,8 +341920,6 @@ sort: by_weight
 薄悻不来门半掩	báo xìng bù lái mén bàn yǎn	1
 鲍雅二氏上皮瘤	bào yǎ èr shì shàng pí liú	1
 报养刘之日短也	bào yǎng liú zhī rì duǎn yě	1
-薄叶密花艾纳香	báo yè mì huā ài nà xiāng	1
-薄叶叶穗香茶菜	báo yè yè suì xiāng chá cài	1
 薄有山花取次开	báo yǒu shān huā qǔ cì kāi	1
 报与桃花一处开	bào yǔ táo huā yí chù kāi	1
 宝藏岩历史聚落	bǎo zàng yán lì shǐ jù luò	1
@@ -342417,7 +342276,6 @@ sort: by_weight
 苯基对氨苯磺酸	běn jī duì ān běn huáng suān	1
 苯基马来酰亚胺	běn jī mǎ lái xiān yà àn	1
 苯基缩水甘油醚	běn jī suō shuǐ gān yóu mí	2
-苯基縮水甘油醚	běn jī suō shuǐ gān yóu mí	1
 苯甲酸苄酯搽剂	běn jiǎ suān biàn zhǐ chá jì	1
 苯甲酸苄酯凝胶	běn jiǎ suān biàn zhǐ níng jiāo	1
 苯甲酸苄酯乳膏	běn jiǎ suān biàn zhǐ rǔ gāo	1
@@ -344194,6 +344052,7 @@ sort: by_weight
 草醯乙酸脱羧酶	cǎo xī yǐ suān tuō suō méi	1
 草酰氨基丙氨酸	cǎo xiān ān jī bǐng ān suān	1
 草酰二氨基丙酸	cǎo xiān èr ān jī bǐng suān	1
+草摇叶响知鹿过	cǎo yáo yè xiǎng zhī lù guò	1
 操余弧兮反沦降	cāo yú hú xī fǎn lún jiàng	1
 曹禺戏剧文学奖	cáo yú xì jù wén xué jiǎng	1
 草原上的小木屋	cǎo yuán shàng de xiǎo mù wū	1
@@ -345222,7 +345081,7 @@ sort: by_weight
 处处有路通长安	chù chù yǒu lù tōng cháng ān	1
 储存危险化学品	chǔ cún wēi xiǎn huà xué pǐn	1
 楚尔盖分枝杆菌	chǔ ěr gài fēn zhī gǎn jūn	1
-出发地和目的地	chū fā dì hé mù dì dì	1
+出发地和目的地	chū fā dì hé mù di dì	1
 出发点和落脚点	chū fā diǎn hé luò jiǎo diǎn	1
 厨房油烟净化器	chú fáng yóu yān jìng huà qì	1
 楚国方城以为城	chǔ guó fāng chéng yǐ wéi chéng	1
@@ -347964,7 +347823,6 @@ sort: by_weight
 对待自己的孩子	duì dài zì jǐ de hái zi	1
 对地基基础工程	duì dì jī jī chǔ gōng chéng	1
 对第三丁基甲苯	duì dì sān dīng jī jiǎ běn	2
-對第三丁基甲苯	duì dì sān dīng jī jiǎ běn	1
 对第三人的责任	duì dì sān rén de zé rèn	1
 对碘苯基化合物	duì diǎn běn jī huà hé wù	1
 对二侧锥六角柱	duì èr cè zhuī liù jiǎo zhù	1
@@ -348060,8 +347918,6 @@ sort: by_weight
 钝头性扁平苔藓	dùn tóu xìng biǎn píng tái xiǎn	1
 敦威治恐怖事件	dūn wēi zhì kǒng bù shì jiàn	1
 顿悟入道要门论	dùn wù rù dào yào mén lùn	1
-钝叶桔红悬钩子	dùn yè jú hóng xuán gōu zi	1
-钝叶云南碎米荠	dùn yè yún nán suì mǐ jì	1
 盾之勇者成名录	dùn zhī yǒng zhě chéng míng lù	1
 多巴胺单加氧酶	duō bā àn dān jiā yǎng méi	1
 多巴胺能神经元	duō bā àn néng shén jīng yuán	1
@@ -348455,7 +348311,6 @@ sort: by_weight
 二氯异氰尿酸钠	èr lǜ yì qíng niào suān nà	1
 二氯异氰脲酸钠	èr lǜ yì qíng niào suān nà	1
 二氯异三聚氰酸	èr lǜ yì sān jù qíng suān	2
-二氯異三聚氰酸	èr lǜ yì sān jù qíng suān	1
 二氯乙氧基氧钒	èr lǜ yǐ yǎng jī yǎng fán	1
 而命以仆妾之役	ér mìng yǐ pū qiè zhī yì	1
 耳膜激光穿孔术	ěr mó jī guāng chuān kǒng shù	1
@@ -348503,20 +348358,16 @@ sort: by_weight
 二羟十八烷二酸	èr qiǎng shí bā wán èr suān	1
 二羟戊基尿嘧啶	èr qiǎng wù jī niào mì dìng	1
 二羟乙基甘氨酸	èr qiǎng yǐ jī gān ān suān	1
-二羟乙基基氨酸	èr qiǎng yǐ jī jī ān suān	1
 二氢吡啶加氧酶	èr qīng bǐ dìng jiā yǎng méi	1
 而轻伯夷之义者	ér qīng bó yí zhī yì zhě	1
 二氢氮脱氧胸苷	èr qīng dàn tuō yǎng xiōng gān	1
-二氢焦蓬莪术酮	èr qīng jiāo péng é shù tóng	1
+二氢焦蓬莪术酮	èr qīng jiāo péng é zhú tóng	1
 二氢喹吖啶颜料	èr qīng kuí ā dìng yán liào	1
-二氢氯化六氢啶	èr qīng lǜ huà liù qīng dìng	1
-二氫氯化六氫啶	èr qīng lǜ huà liù qīng dìng	1
 二氢猕猴桃内酯	èr qīng mí hóu táo nèi zhǐ	1
 二巯丙醇注射液	èr qiú bǐng chún zhù shè yè	1
 二巯丁二酸胶囊	èr qiú dīng èr suān jiāo náng	1
 二巯基丙磺酸钠	èr qiú jī bǐng huáng suān nà	1
 二去甲蝙蝠葛碱	èr qù jiǎ biān fú gé jiǎn	1
-耳曲霉病香港耳	ěr qū méi bìng xiāng gǎng ěr	1
 二人之间的感情	èr rén zhī jiān de gǎn qíng	1
 二人之间的关系	èr rén zhī jiān de guān xì	1
 而汝以辰时气绝	ér rǔ yǐ chén shí qì jué	1
@@ -348559,7 +348410,6 @@ sort: by_weight
 二十五味儿茶丸	èr shí wǔ wèi ér chá wán	1
 二十五味肺病散	èr shí wǔ wèi fèi bìng sàn	1
 二十五味肺病丸	èr shí wǔ wèi fèi bìng wán	1
-二十五味肺角丸	èr shí wǔ wèi fèi jiǎo wán	1
 二十五味鬼臼丸	èr shí wǔ wèi guǐ jiù wán	1
 二十五味狐肺散	èr shí wǔ wèi hú fèi sàn	1
 二十五味鹿角丸	èr shí wǔ wèi lù jiǎo wán	1
@@ -352205,13 +352055,6 @@ sort: by_weight
 工行牡丹卡中心	gōng háng mǔ dān kǎ zhōng xīn	1
 工行票据营业部	gōng háng piào jù yíng yè bù	1
 工行西大街支行	gōng háng xī dà jiē zhī háng	1
-共和党全国大会	gòng hé dǎng quán guó dà huì	1
-共和国选择了你	gòng hé guó xuǎn zé le nǐ	1
-共和历八年宪法	gòng hé lì bā nián xiàn fǎ	1
-共和十二年宪法	gòng hé shí èr nián xiàn fǎ	1
-共和新路大宁路	gòng hé xīn lù dà níng lù	1
-共和新路派出所	gòng hé xīn lù pài chū suǒ	1
-共和新路中兴路	gòng hé xīn lù zhōng xīng lù	1
 贡湖湾湿地公园	gòng hú wān shī dì gōng yuán	1
 工会委员会委员	gōng huì wěi yuán huì wěi yuán	1
 供给侧和需求侧	gōng jǐ cè hé xū qiú cè	1
@@ -352295,15 +352138,6 @@ sort: by_weight
 巩膜异物取出术	gǒng mó yì wù qǔ chū shù	1
 功能磁共振成像	gōng néng cí gòng zhèn chéng xiàng	1
 功能紊乱综合征	gōng néng wěn luàn zōng hé zhēng	1
-功能性磁振造影	gōng néng xìng cí zhèn zào yǐng	1
-功能性颈清扫术	gōng néng xìng jǐng qīng sǎo shù	1
-功能性神经外科	gōng néng xìng shén jīng wài kē	1
-功能性吞咽困难	gōng néng xìng tūn yàn kùn nan	1
-功能性消化不良	gōng néng xìng xiāo huà bù liáng	1
-功能性消化疾患	gōng néng xìng xiāo huà jí huàn	1
-功能性心脏杂音	gōng néng xìng xīn zàng zá yīn	1
-功能性异染色质	gōng néng xìng yì rǎn sè zhì	1
-功能性子宫出血	gōng néng xìng zi gōng chū xiě	1
 功能装备矫形器	gōng néng zhuāng bèi jiǎo xíng qì	1
 工频试验变压器	gōng pín shì yàn biàn yā qì	1
 公平竞争的环境	gōng píng jìng zhēng de huán jìng	1
@@ -353160,7 +352994,6 @@ sort: by_weight
 过氧苯甲酰乳膏	guò yǎng běn jiǎ xiān rǔ gāo	1
 过氧化二苯甲酸	guò yǎng huà èr běn jiǎ suān	2
 过氧化二苯甲醯	guò yǎng huà èr běn jiǎ xī	2
-過氧化二苯甲醯	guò yǎng huà èr běn jiǎ xī	1
 过氧化二苯甲酰	guò yǎng huà èr běn jiǎ xiān	2
 过氧化二异丙苯	guò yǎng huà èr yì bǐng běn	2
 过氧化麦角固醇	guò yǎng huà mài jiǎo gù chún	1
@@ -353770,6 +353603,7 @@ sort: by_weight
 黄芩滑石猪茯苓	huáng qín huá shí zhū fú líng	1
 黄芩芍药合自良	huáng qín sháo yào hé zì liáng	1
 黄热减毒活疫苗	huáng rè jiǎn dú huó yì miáo	1
+黄山归来不看岳	huáng shān guī lái bú kàn yuè	1
 黄杉素单加氧酶	huáng shān sù dān jiā yǎng méi	1
 磺酸氨氯地平片	huáng suān ān lǜ dì píng piàn	1
 黄藤素片薄膜衣	huáng téng sù piàn báo mó yī	1
@@ -354163,7 +353997,7 @@ sort: by_weight
 急性子宫旁脓肿	jí xìng zi gōng páng nóng zhǒng	1
 急性左心室衰竭	jí xìng zuǒ xīn shì shuāi jié	1
 继续前行的力量	jì xù qián xíng de lì liàng	1
-悸眩瞤惕急煎尝	jì xuàn rún tì jí jiān cháng	1
+悸眩𥆧惕急煎尝	jì xuàn rún tì jí jiān cháng	1
 记忆容量有限论	jì yì róng liàng yǒu xiàn lùn	1
 基因工程干扰素	jī yīn gōng chéng gān rǎo sù	1
 基因工程链激酶	jī yīn gōng chéng liàn jī méi	1
@@ -354266,7 +354100,6 @@ sort: by_weight
 甲磺酸托烷司琼	jiǎ huáng suān tuō wán sī qióng	1
 甲磺酸溴隐亭片	jiǎ huáng suān xiù yǐn tíng piàn	1
 甲磺酸伊马替尼	jiǎ huáng suān yī mǎ tì ní	1
-甲磺酸左氧氟沙	jiǎ huáng suān zuǒ yǎng fú shā	1
 甲基氨基酮戊酸	jiǎ jī ān jī tóng wù suān	1
 甲基巴豆酰辅酶	jiǎ jī bā dòu xiān fǔ méi	1
 甲基苯丙胺片剂	jiǎ jī běn bǐng àn piàn jì	1
@@ -354284,9 +354117,7 @@ sort: by_weight
 甲基丙烯酸树脂	jiǎ jī bǐng xī suān shù zhī	1
 甲基丙烯酸乙酯	jiǎ jī bǐng xī suān yǐ zhǐ	8
 甲基大果咖啡碱	jiǎ jī dà guǒ kā fēi jiǎn	1
-甲基第三丁基醚	jiǎ jī dì sān dīng jī mí	1
 甲基豆甾二烯醇	jiǎ jī dòu zāi èr xī chún	1
-甲基对位酷氨酸	jiǎ jī duì wèi kù ān suān	1
 甲基对位酪氨酸	jiǎ jī duì wèi lào ān suān	1
 甲基二羟苯乙胺	jiǎ jī èr qiǎng běn yǐ àn	1
 甲基二氢吗啡酮	jiǎ jī èr qīng mǎ fēi tóng	1
@@ -354301,9 +354132,7 @@ sort: by_weight
 甲基硫代芬太尼	jiǎ jī liú dài fēn tài ní	1
 甲基硫核糖激酶	jiǎ jī liú hé táng jī méi	1
 甲基硫氧嘧啶片	jiǎ jī liú yǎng mì dìng piàn	1
-甲基螺旋马来酸	jiǎ jī luó xuán mǎ lái suān	1
 甲基氯苯氧乙酸	jiǎ jī lǜ běn yǎng yǐ suān	1
-甲基麻贵碱颗粒	jiǎ jī má guì jiǎn kē lì	1
 甲基麻黄碱颗粒	jiǎ jī má huáng jiǎn kē lì	1
 甲基马栗树皮素	jiǎ jī mǎ lì shù pí sù	1
 甲基麦角林乙腈	jiǎ jī mài jiǎo lín yǐ jīng	1
@@ -354314,10 +354143,8 @@ sort: by_weight
 甲基培尼皮质醇	jiǎ jī péi ní pí zhì chún	1
 甲基脯氨酸甲酯	jiǎ jī pú ān suān jiǎ zhǐ	1
 甲基羟基脯氨酸	jiǎ jī qiǎng jī pú ān suān	1
-甲基羟基重豆素	jiǎ jī qiǎng jī zhòng dòu sù	1
 甲基散花巴豆碱	jiǎ jī sàn huā bā dòu jiǎn	1
 甲基三烯高诺酮	jiǎ jī sān xī gāo nuò tóng	1
-甲基三烯炔诺亭	jiǎ jī sān xī quē nuò tíng	1
 甲基三烯炔诺酮	jiǎ jī sān xī quē nuò tóng	1
 甲基鼠李柠檬素	jiǎ jī shǔ lǐ níng méng sù	1
 甲基四氢大麻酚	jiǎ jī sì qīng dà má fēn	1
@@ -354335,10 +354162,8 @@ sort: by_weight
 甲基烯丙基硫醚	jiǎ jī xī bǐng jī liú mí	1
 甲基烯丙基硒醚	jiǎ jī xī bǐng jī xī mí	1
 甲基腺苷核苷酶	jiǎ jī xiàn gān hé gān méi	1
-甲基硝基亚硝基	jiǎ jī xiāo jī yà xiāo jī	1
 甲基烟酸内铵盐	jiǎ jī yān suān nèi ǎn yán	1
 甲基杨梅树皮素	jiǎ jī yáng méi shù pí sù	1
-甲基杨酶树皮素	jiǎ jī yáng méi shù pí sù	1
 甲基氧杂环丁烷	jiǎ jī yǎng zá huán dīng wán	1
 甲基异丙基苯酚	jiǎ jī yì bǐng jī běn fēn	1
 甲基异丙基甲酮	jiǎ jī yì bǐng jī jiǎ tóng	2
@@ -355452,6 +355277,7 @@ sort: by_weight
 咖啡牛奶色素斑	kā fēi niú nǎi sè sù bān	1
 咖啡酸二加氧酶	kā fēi suān èr jiā yǎng méi	1
 咖啡因意外中毒	kā fēi yīn yì wài zhòng dú	1
+卡夫卡的变形记	kǎ fū kǎ de biàn xíng jì	1
 卡吉二氏血糖管	kǎ jí èr shì xuè táng guǎn	1
 卡介菌多糖核酸	kǎ jiè jūn duō táng hé suān	1
 卡克二氏综合征	kǎ kè èr shì zōng hé zhēng	1
@@ -358309,7 +358135,7 @@ sort: by_weight
 七七卢沟桥事件	qī qī lú gōu qiáo shì jiàn	1
 其人疾行则喘喝	qí rén jí xíng zé chuǎn hē	1
 其人啬啬恶寒也	qí rén sè sè wù hán yě	1
-其人振振身瞤剧	qí rén zhèn zhèn shēn rún jù	1
+其人振振身𥆧剧	qí rén zhèn zhèn shēn rún jù	1
 脐茸卵黄管存留	qí róng luǎn huáng guǎn cún liú	1
 芪蓉润肠口服液	qí róng rùn cháng kǒu fú yè	1
 杞蓉养血口服液	qǐ róng yǎng xuè kǒu fú yè	1
@@ -359082,7 +358908,7 @@ sort: by_weight
 热论篇第三十一	rè lùn piān dì sān shí yī	1
 热门的旅游景点	rè mén de lǚ yóu jǐng diǎn	1
 热门关键词搜索	rè mén guān jiàn cí sōu suǒ	1
-热门旅游目的地	rè mén lǚ yóu mù dì dì	1
+热门旅游目的地	rè mén lǚ yóu mù di dì	1
 热门搜索关键词	rè mén sōu suǒ guān jiàn cí	1
 热门搜索关键字	rè mén sōu suǒ guān jiàn zì	1
 热门乡村单曲榜	rè mén xiāng cūn dān qǔ bǎng	1
@@ -359707,7 +359533,6 @@ sort: by_weight
 三氯合铅酸甲铵	sān lǜ hé qiān suān jiǎ ǎn	1
 三氯亚硝基甲烷	sān lǜ yà xiāo jī jiǎ wán	1
 三氯异三聚氰酸	sān lǜ yì sān jù qíng suān	2
-三氯異三聚氰酸	sān lǜ yì sān jù qíng suān	1
 三明治陶瓷内衬	sān míng zhì táo cí nèi chèn	1
 三七参蜂口服液	sān qī cān fēng kǒu fú yè	1
 三七冠心宁合剂	sān qī guān xīn níng hé jì	1
@@ -359817,6 +359642,7 @@ sort: by_weight
 上焦手太阴肺经	shàng jiāo shǒu tài yīn fèi jīng	1
 伤口裂开缝合术	shāng kǒu liè kāi féng hé shù	1
 伤口去除腐肉术	shāng kǒu qù chú fǔ ròu shù	1
+上梁不正下梁歪	shàng liáng bú zhèng xià liáng wāi	1
 上实下虚痰嗽喘	shàng shí xià xū tán sòu chuǎn	1
 上下颌前突畸形	shàng xià hé qián tū jī xíng	1
 上下牙排列不齐	shàng xià yá pái liè bù qí	1
@@ -360747,6 +360573,7 @@ sort: by_weight
 四元线性方程组	sì yuán xiàn xìng fāng chéng zǔ	1
 四正丁基氯化铵	sì zhèng dīng jī lǜ huà ǎn	1
 四肢为诸阳之本	sì zhī wéi zhū yáng zhī běn	1
+松风一起知虎来	sōng fēng yì qǐ zhī hǔ lái	1
 宋元数学四大家	sòng yuán shù xué sì dà jiā	1
 速发相哮喘反应	sù fā xiāng xiào chuǎn fǎn yìng	1
 速发型超敏反应	sù fà xíng chāo mǐn fǎn yìng	1
@@ -362741,7 +362568,6 @@ sort: by_weight
 压抑自己的情绪	yā yì zì jǐ de qíng xù	1
 牙龈保护剂塞治	yá yín bǎo hù jì sāi zhì	1
 牙龈病损切除术	yá yín bìng sǔn qiē chú shù	1
-牙龈卟啉单胞菌	yá yín bǔ lín dān bāo jūn	1
 牙龈肿块切除术	yá yín zhǒng kuài qiē chú shù	1
 牙龈肿瘤切除术	yá yín zhǒng liú qiē chú shù	1
 牙釉质发生不全	yá yòu zhì fā shēng bù quán	1
@@ -363399,7 +363225,6 @@ sort: by_weight
 一点微酸已著枝	yì diǎn wēi suān yǐ zhù zhī	1
 以钉钉子的精神	yǐ dìng dīng zi de jīng shén	1
 异丁基异氰酸盐	yì dīng jī yì qíng suān yán	2
-異丁基異氰酸鹽	yì dīng jī yì qíng suān yán	1
 异丁司特缓释片	yì dīng sī tè huǎn shì piàn	1
 异丁烷正丁烷比	yì dīng wán zhèng dīng wán bǐ	2
 异丁香油酚甲醚	yì dīng xiāng yóu fēn jiǎ mí	1
@@ -365348,7 +365173,6 @@ sort: by_weight
 别往自己脸上贴金	bié wǎng zì jǐ liǎn shàng tiē jīn	1
 兵来将挡水来土掩	bīng lái jiàng dǎng shuǐ lái tǔ yǎn	1
 丙烯基缩水甘油醚	bǐng xī jī suō shuǐ gān yóu mí	2
-丙烯基縮水甘油醚	bǐng xī jī suō shuǐ gān yóu mí	1
 丙烯腈苯乙烯树脂	bǐng xī jīng běn yǐ xī shù zhī	2
 丙烯酸酯类聚合物	bǐng xī suān zhǐ lèi jù hé wù	5
 玻色爱因斯坦统计	bō sè ài yīn sī tǎn tǒng jì	1
@@ -365434,11 +365258,8 @@ sort: by_weight
 二特丁基过氧化物	èr tè dīng jī guò yǎng huà wù	1
 耳听为虚眼见为实	ěr tīng wéi xū yǎn jiàn wéi shí	1
 二氧化环己烯乙烯	èr yǎng huà huán jǐ xī yǐ xī	2
-二氧化環己烯乙烯	èr yǎng huà huán jǐ xī yǐ xī	1
 二异氰酸二苯甲烷	èr yì qíng suān èr běn jiǎ wán	2
-二異氰酸二苯甲烷	èr yì qíng suān èr běn jiǎ wán	1
 二异氰酸异佛尔酮	èr yì qíng suān yì fó ěr tóng	2
-二異氰酸異佛爾酮	èr yì qíng suān yì fó ěr tóng	1
 发矫诏诸镇应曹公	fā jiǎo zhào zhū zhèn yīng cáo gōng	1
 法网恢恢疏而不漏	fǎ wǎng huī huī shū ér bú lòu	1
 范德格拉夫起电机	fàn dé gé lā fū qǐ diàn jī	3
@@ -365515,7 +365336,6 @@ sort: by_weight
 甲基苯乙烯共聚物	jiǎ jī běn yǐ xī gòng jù wù	2
 甲基丙烯酸月桂酯	jiǎ jī bǐng xī suān yuè guì zhǐ	3
 甲基第三级丁基醇	jiǎ jī dì sān jí dīng jī chún	2
-甲基第三級丁基醇	jiǎ jī dì sān jí dīng jī chún	1
 甲基三乙氧基硅烷	jiǎ jī sān yǐ yǎng jī guī wán	2
 嫁鸡随鸡嫁狗随狗	jià jī suí jī jià gǒu suí gǒu	1
 家家有本难念的经	jiā jiā yǒu běn nán niàn de jīng	1
@@ -365772,7 +365592,6 @@ sort: by_weight
 一苯基四氟代膦烷	yī běn jī sì fú dài lìn wán	2
 以彼之道还治彼身	yǐ bǐ zhī dào huán zhì bǐ shēn	1
 异丙基缩水甘油醚	yì bǐng jī suō shuǐ gān yóu mí	2
-異丙基縮水甘油醚	yì bǐng jī suō shuǐ gān yóu mí	1
 一波未平一波又起	yì bō wèi píng yì bō yòu qǐ	1
 以德报德以直报怨	yǐ dé bào dé yǐ zhí bào yuàn	1
 议而不决决而不行	yì ér bù jué jué ér bù xíng	1
