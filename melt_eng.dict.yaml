@@ -1,6 +1,6 @@
 ---
 name: melt_eng         # 注意name和文件名一致
-version: "2024.02.11"
+version: "2026.02.03"
 sort: by_weight
 use_preset_vocabulary: true
 # 此处为 输入法所用到的词库，既补充拓展词库的地方

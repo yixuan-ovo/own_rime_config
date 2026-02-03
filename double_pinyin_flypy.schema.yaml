@@ -9,7 +9,7 @@
 schema:
   schema_id: double_pinyin_flypy
   name: "小鹤双拼-月七改"
-  version: "24.10.02"
+  version: "26.02.03"
   author:
     - Mintimate
   description: |
@@ -26,10 +26,10 @@ schema:
 
 switches:
   - name: ascii_punct
-    states: [ "。，", "．，" ]
+    states: [ "🀄", "🔤" ]
     reset: 1
   - name: emoji_suggestion
-    states: [ "💀","🥰"]
+    states: [ "🚫", "🧩"]
     reset: 1
   - name: full_shape
     states: [ 半角, 全角 ]
@@ -38,7 +38,7 @@ switches:
     states: [ 调关, 调起 ]
     reset: 0
   - name: chaifen        # 拆字滤镜
-    states: [ 💔, 🖤 ]     # 快捷键 「Control+Shift+C」
+    states: [ "🚫", "✂️" ]     # 快捷键 「Control+Shift+C」
     reset: 0
   - name: transcription
     states: [ 简体 , 繁体 ]

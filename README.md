@@ -47,7 +47,6 @@
 |default.custom.yaml|全局配置覆写|目前仅记录激活了什么输入法|
 |weasel.yaml|Weasel 前端配置|Windows 小狼毫样式、配色、布局等设置|
 |weasel.custom.yaml|Weasel 配置覆写|自定义前端设置|
-|squirrel.yaml|Squirrel 前端配置|macOS 鼠须管样式配置（兜底文件）|
 
 ## 输入方案文件
 
