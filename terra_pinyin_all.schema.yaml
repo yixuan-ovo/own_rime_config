@@ -75,6 +75,7 @@ engine:
     - simplifier@emoji_suggestion         # Emoji OpenCC
     - simplifier@transcription_cc         # 繁体&简体 OpenCC
     - lua_filter@*reduce_english_filter    # 降低部分英语单词在候选项的位置
+    - lua_filter@*is_in_user_dict          # 用户词典的词加上一个*
     - uniquifier                          # 去重
 
 
@@ -94,9 +95,6 @@ emoji_suggestion:
 
  # 最大输入长度
 codeLengthLimit_processor: 28
-
-# 中国农历配置
-chineseLunarCalendar_translator: nl
 
 # Lua 配置: 日期、时间、星期、ISO 8601、时间戳、月份的触发关键字（rime-ice 风格）
 date_translator:
@@ -155,7 +153,7 @@ reduce_english_filter:
     pac, paid, pail, pain, pair, pak, pal, pam, pans, pant, pap, par, pat, paw, pax, pens, pic, pier, pies, pins, pint, pit, pix, pod, pop, pos, pot, pour, pow, pub,
     rand, rant, rent, rep, res, ret, rex, rib, rid, rig, rim, rub, rug, rum, runc, runs,
     sac, sail, sal, sam, sans, sap, saw, sax, sew, sham, shaw, shin, sig, sin, sip, sis, suit, sung, suns, sup, sur, sus,
-    tad, tail, taj, tar, tax, tec, ted, tel, ter, tex, tic, tied, tier, ties, tim, tin, tit, tour, tout, tum, me, 
+  tad, tail, taj, tar, tax, tec, ted, tel, ter, tex, tic, tied, tier, ties, tim, tin, tit, tour, tout, tum, me,
     wag, wand, womens, wap, wax, weir, won,
     yan, yen]
 
@@ -381,7 +379,7 @@ punctuator:
       "~": "~"
       "@": "@"
       "=": "="
-      "/": ["/", "÷",]
+      "/": ["/", "÷"]
       '\': "、"
       "_" : "──"
       "'": {pair: ["「", "」"]}
@@ -399,7 +397,7 @@ recognizer:
     unicode: "^U[0-9A-Fa-f]+$"          # Unicode 字符输入，如 U62fc 得到「拼」
     radical_lookup: "Uu[a-z]*'?$"
     rmb: "^R[0-9]+[.]?[0-9]*"        # 响应 lua_translator@number_translator 脚本将自动获取第 2 个字符作为触发前缀
-    expression: "^=.*$"              # 响应 lua_translator@expression_translator 脚本将自动获取第 2 个字符作为触发前缀
+    expression: "^=.*$"              # 响应 lua_translator@mint_calculator_translator 脚本将自动获取第 2 个字符作为触发前缀
     gregorian_to_lunar: "^N[0-9]{1,8}"  # 响应 lua_translator@Chinese_lunar_calendar 公历转农历，输入 N20240115 得到「二〇二四年腊月初五」，脚本将自动获取第 2 个字符作为触发前缀
     uppercase: ""  # 覆写默认的 uppercase 使其可以在输入大写后，输入数字
 

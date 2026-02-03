@@ -19,7 +19,7 @@ import_tables:
   # 联想类
   - dicts/dicts_LMDG/lianxiang                             # 五字及以上长词联想（靠后）
 
-  # - dicts/tencent                # ✅ 腾讯词向量扩展（已去重，位置靠后）
+  - dicts/tencent                # ✅ 腾讯词向量扩展（已去重，位置靠后）
   - dicts/other_kaomoji          # 颜文字表情（按`VV`呼出)
   
   # 文化类
