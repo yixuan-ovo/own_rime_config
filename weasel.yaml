@@ -50,7 +50,7 @@ app_options:
  
 
 # [global settings]
-show_notifications: true                    # 是否显示状态变化的通知：true；false；option_list（方案内的开头 option）
+show_notifications: false                  # 关闭状态通知，避免微信等窗口卡顿（如需可改 true，或把 time 改短如 500）
 show_notifications_time: 2000              # 通知显示的时间，单位 ms
 global_ascii: false                        # 切换为 ascii 模式时，是否影响所有窗口：true；false
 # [End of <global settings>]
