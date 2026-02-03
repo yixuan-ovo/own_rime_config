@@ -50,7 +50,7 @@ app_options:
  
 
 # [global settings]
-show_notifications: false                   # 是否显示状态变化的通知：true；false；option_list（方案内的开头 option）
+show_notifications: true                    # 是否显示状态变化的通知：true；false；option_list（方案内的开头 option）
 show_notifications_time: 2000              # 通知显示的时间，单位 ms
 global_ascii: false                        # 切换为 ascii 模式时，是否影响所有窗口：true；false
 # [End of <global settings>]
@@ -66,7 +66,8 @@ style:
   # 详细设定请参考 <https://github.com/rime/weasel/wiki/字體設定>
   font_face: "Segoe UI Emoji:30:39, Segoe UI Emoji:23:23, Segoe UI Emoji:2a:2a, Segoe UI Emoji:fe0f:fe0f, Segoe UI Emoji:20e3:20e3, 微软雅黑, SF Pro, Segoe UI Emoji, Noto Color Emoji"
   label_font_face: "微软雅黑"       # 标签字体
-  comment_font_face: "JetBrains Mono"     # 注释字体
+  comment_font_face: "微软雅黑"     # 注释字体
+  # comment_font_face: "JetBrains Mono"     # 注释字体
   font_point: 11                           # 全局字体字号
   label_font_point: 12                     # 标签字体字号，不设定 fallback 到 font_point
   comment_font_point: 9                   # 注释字体字号，不设定 fallback 到 font_point
@@ -85,7 +86,7 @@ style:
   
   label_format: "%s"                       # 标签字符：例如 %s. 效果为 1. 2. 3. ....
   mark_text: "-"                           # 标记字符，显示在选中的候选标签前，需要在配色方案中指定颜色；如该项为空字符串 "" 而配色方案中 hilited_mark_color 非透明色，则显示 Windows 11 输入法风格标记
-  ascii_tip_follow_cursor: false           # 切换 ASCII 模式时，提示跟随鼠标，而非输入光标
+  ascii_tip_follow_cursor: true            # 切换 ASCII 模式时，提示跟随鼠标，而非输入光标
   enhanced_position: true                  # 无法定位候选框时，在窗口左上角显示候选框：true；false
   display_tray_icon: false                 # 托盘显示独立于语言栏的额外图标：true；false
   antialias_mode: default                  # 次像素反锯齿设定：default；force_dword；cleartype；grayscale；aliased

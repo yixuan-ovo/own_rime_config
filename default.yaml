@@ -1,7 +1,6 @@
 # Rime default settings
 # encoding: utf-8
 
-# 注意⚠️: 因为薄荷想要兼容 https://github.com/yanhuacuo/rimetool ，所以方案内有 default.yaml 配置的冗余
 # 如果修改 page_size、key_binder 等内容，请不要使用 default.custom.yaml ，直接修改方案配置
 # 参考: https://www.mintimate.cc/zh/guide/configurationOverride.html
 
@@ -12,11 +11,11 @@ config_version: "24.03.24"
 ## 九宫格依赖于 rime_mint ，如果需要使用其他方案（比如: 小鹤双拼的 九宫格），可以使用 custom 文件覆写
 schema_list:
   - schema: double_pinyin_flypy  # 小鹤双拼
-  - schema: terra_pinyin_all  # 地平线拼音
+  - schema: terra_pinyin_all  # 地球拼音
 
 switcher:
   # 切换方案时显示的标题
-  caption: (ytq~)
+  caption: (Ccent_77)
   # 切换方案的快捷键
   hotkeys:
     - Control+grave
