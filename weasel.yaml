@@ -65,8 +65,8 @@ style:
   # 格式：字体1:起始码位:结束码位:字重:字形,字体2……，字体会依次 fallback
   # 详细设定请参考 <https://github.com/rime/weasel/wiki/字體設定>
   font_face: "Segoe UI Emoji:30:39, Segoe UI Emoji:23:23, Segoe UI Emoji:2a:2a, Segoe UI Emoji:fe0f:fe0f, Segoe UI Emoji:20e3:20e3, 微软雅黑, SF Pro, Segoe UI Emoji, Noto Color Emoji"
-  # label_font_face: "微软雅黑"       # 标签字体
-  # comment_font_face: "JetBrains Mono"     # 注释字体
+  label_font_face: "JetBrains Mono"       # 标签字体
+  comment_font_face: "JetBrains Mono"     # 注释字体
   font_point: 11                           # 全局字体字号
   label_font_point: 12                     # 标签字体字号，不设定 fallback 到 font_point
   comment_font_point: 9                   # 注释字体字号，不设定 fallback 到 font_point
@@ -77,7 +77,7 @@ style:
   fullscreen: false                        # 候选窗口全屏显示：true；false
   vertical_text: false                     # 竖排文本：true；false
   # text_orientation: horizontal           # 文本排列方向，效果和 `vertical_text` 相同：horizontal；vertical
-  candidate_list_layout: stacked           # stacked | linear  候选项排列方向（小狼毫可能没有这个参数；如果需要修改为水平布局，可以在custom文件内修改horizontal为true）
+  candidate_list_layout: linear           # stacked | linear  候选项排列方向（小狼毫可能没有这个参数；如果需要修改为水平布局，可以在custom文件内修改horizontal为true）
   horizontal: true                        # 候选项水平排列（在custom内和candidate_list_layout的linear效果一样）
   vertical_text_left_to_right: false       # 竖排方向是否从左到右：true；false
   vertical_text_with_wrap: false           # 文本竖排模式下，自动换行：true；false
