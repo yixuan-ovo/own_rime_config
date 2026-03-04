@@ -446,7 +446,7 @@ sort: by_weight
 爱快罗蜜欧	ài kuài luó mì ōu	1
 爱拉托逊纪	ài lā tuō xùn jì	1
 爱来的刚好	ài lái de gāng hǎo	1
-爱唠叨的鸟	ài láo dāo de niǎo	1
+爱唠叨的鸟	ài láo dao de niǎo	1
 爱了就爱了	ài le jiù ài le	1
 埃勒曼炸弹	āi lè màn zhà dàn	1
 挨了一巴掌	āi le yì bā zhǎng	1
@@ -14269,6 +14269,7 @@ sort: by_weight
 不加以控制	bù jiā yǐ kòng zhì	1
 布加症候群	bù jiā zhèng hòu qún	1
 布加综合征	bù jiā zōng hé zhēng	1
+布加综合征	bù jiā zōng hé zhēng	1
 不见不散哦	bú jiàn bú sàn ó	1
 不见不散哟	bú jiàn bú sàn yō	1
 不见的客人	bú jiàn de kè rén	1
@@ -24693,6 +24694,7 @@ sort: by_weight
 吃得也不多	chī de yě bù duō	1
 吃得有品位	chī de yǒu pǐn wèi	1
 吃得怎么样	chī de zěn me yàng	1
+吃的这么光	chī de zhè me guāng	1
 吃点东西吧	chī diǎn dōng xi ba	1
 吃点儿好的	chī diǎn ér hǎo de	1
 吃点感冒药	chī diǎn gǎn mào yào	1
@@ -44467,7 +44469,7 @@ sort: by_weight
 短信提示音	duǎn xìn tí shì yīn	1
 短信息服务	duǎn xìn xī fú wù	1
 短信验证码	duǎn xìn yàn zhèng mǎ	1
-短信一月追	duǎn xìn yí yuè zhuī	1
+短信一月追	duǎn xìn yī yuè zhuī	1
 短袖连衣裙	duǎn xiù lián yī qún	1
 短袖针织衫	duǎn xiù zhēn zhī shān	1
 短序唇苣苔	duǎn xù chún jù tái	1
@@ -50504,6 +50506,7 @@ sort: by_weight
 反卫星试验	fǎn wèi xīng shì yàn	1
 反卫星卫星	fǎn wèi xīng wèi xīng	1
 反卫星武器	fǎn wèi xīng wǔ qì	1
+范围这么广	fàn wéi zhè me guǎng	1
 范文澜故居	fàn wén lán gù jū	1
 反温室效应	fǎn wēn shì xiào yìng	1
 梵文文化圈	fàn wén wén huà quān	1
@@ -53407,7 +53410,7 @@ sort: by_weight
 非稳态电路	fēi wěn tài diàn lù	1
 肥沃的土地	féi wò de tǔ dì	1
 肥沃的土壤	féi wò de tǔ rǎng	1
-匪我求童蒙	fěi wǒ qiú tóng méng	1
+匪我求童蒙	fēi wǒ qiú tóng méng	1
 飞舞的蝴蝶	fēi wǔ de hú dié	1
 废物的排出	fèi wù de pái chū	1
 废物的排泄	fèi wù de pái xiè	1
@@ -57258,7 +57261,7 @@ sort: by_weight
 父母的角色	fù mǔ de jué sè	1
 父母的肯定	fù mǔ de kěn dìng	1
 父母的控制	fù mǔ de kòng zhì	1
-父母的唠叨	fù mǔ de láo dāo	1
+父母的唠叨	fù mǔ de láo dao	1
 父母的离婚	fù mǔ de lí hūn	1
 父母的理解	fù mǔ de lǐ jiě	1
 父母的离异	fù mǔ de lí yì	1
@@ -70157,7 +70160,7 @@ sort: by_weight
 管理计算机	guǎn lǐ jì suàn jī	1
 管理及运营	guǎn lǐ jí yùn yíng	1
 管理驾驶舱	guǎn lǐ jià shǐ cāng	1
-管理加载项	guǎn lǐ jiā zǎi xiàng	1
+管理加载项	guǎn lǐ jiā zài xiàng	1
 管理经济学	guǎn lǐ jīng jì xué	1
 管理精细化	guǎn lǐ jīng xì huà	1
 管理局局长	guǎn lǐ jú jú zhǎng	1
@@ -100695,7 +100698,7 @@ sort: by_weight
 今年要结婚	jīn nián yào jié hūn	1
 今年一季度	jīn nián yí jì dù	1
 今年以来的	jīn nián yǐ lái de	1
-今年一月份	jīn nián yí yuè fèn	1
+今年一月份	jīn nián yī yuè fèn	1
 今年元宵节	jīn nián yuán xiāo jié	1
 今年中秋节	jīn nián zhōng qiū jié	1
 今年总决赛	jīn nián zǒng jué sài	1
@@ -104746,6 +104749,7 @@ sort: by_weight
 就不接电话	jiù bù jiē diàn huà	1
 旧布科莱班	jiù bù kē lái bān	1
 就不咳嗽了	jiù bù ké sòu le	1
+就不可以吧	jiù bù kě yǐ ba	1
 就不理我了	jiù bù lǐ wǒ le	1
 就不能成为	jiù bù néng chéng wéi	1
 就不上学了	jiù bú shàng xué le	1
@@ -115827,8 +115831,8 @@ sort: by_weight
 老大方程式	lǎo dà fāng chéng shì	1
 老大如是说	lǎo dà rú shì shuō	1
 酪蛋白酸钠	lào dàn bái suān nà	4
-唠叨个不停	láo dāo gè bù tíng	1
-唠叨个没完	láo dāo gè méi wán	1
+唠叨个不停	láo dao gè bù tíng	1
+唠叨个没完	láo dao gè méi wán	1
 劳德代尔堡	láo dé dài ěr bǎo	1
 铹的同位素	láo de tóng wèi sù	1
 铑的同位素	lǎo de tóng wèi sù	1
@@ -116711,7 +116715,7 @@ sort: by_weight
 累驾基暗飞	lèi jià jī àn fēi	1
 累加寄存器	lěi jiā jì cún qì	1
 类甲基化酶	lèi jiǎ jī huà méi	1
-类加载机制	lèi jiā zǎi jī zhì	1
+类加载机制	lèi jiā zài jī zhì	1
 肋间臂神经	lèi jiān bì shén jīng	1
 肋间后动脉	lèi jiān hòu dòng mài	1
 肋间后静脉	lèi jiān hòu jìng mài	1
@@ -125655,7 +125659,7 @@ sort: by_weight
 妈妈的教育	mā ma de jiào yù	1
 妈妈的角色	mā ma de jué sè	1
 妈妈的口红	mā ma de kǒu hóng	1
-妈妈的唠叨	mā ma de láo dāo	1
+妈妈的唠叨	mā ma de láo dao	1
 妈妈的礼物	mā ma de lǐ wù	1
 妈妈的妈妈	mā ma de mā ma	1
 妈妈的名字	mā ma de míng zì	1
@@ -133256,7 +133260,7 @@ sort: by_weight
 母亲的教育	mǔ qīn de jiào yù	1
 母亲的角色	mǔ qīn de jué sè	1
 母亲的抉择	mǔ qīn de jué zé	1
-母亲的唠叨	mǔ qīn de láo dāo	1
+母亲的唠叨	mǔ qīn de láo dao	1
 母亲的离世	mǔ qīn de lí shì	1
 母亲的礼物	mǔ qīn de lǐ wù	1
 母亲的梦想	mǔ qīn de mèng xiǎng	1
@@ -140065,7 +140069,7 @@ sort: by_weight
 努力和实力	nǔ lì hé shí lì	1
 努力和天赋	nǔ lì hé tiān fù	1
 努力和牺牲	nǔ lì hé xī shēng	1
-努力加载中	nǔ lì jiā zǎi zhōng	1
+努力加载中	nǔ lì jiā zài zhōng	1
 努力了很久	nǔ lì le hěn jiǔ	1
 努力去改变	nǔ lì qù gǎi biàn	1
 努力去实现	nǔ lì qù shí xiàn	1
@@ -140432,7 +140436,7 @@ sort: by_weight
 女人的精致	nǚ rén de jīng zhì	1
 女人的觉醒	nǚ rén de jué xǐng	1
 女人的抉择	nǚ rén de jué zé	1
-女人的唠叨	nǚ rén de láo dāo	1
+女人的唠叨	nǚ rén de láo dao	1
 女人的力量	nǚ rén de lì liàng	1
 女人的美丽	nǚ rén de měi lì	1
 女人的魅力	nǚ rén de mèi lì	1
@@ -145931,7 +145935,7 @@ sort: by_weight
 启动和调控	qǐ dòng hé tiáo kòng	1
 启动和停止	qǐ dòng hé tíng zhǐ	1
 启动继电器	qǐ dòng jì diàn qì	1
-启动加载器	qǐ dòng jiā zǎi qì	1
+启动加载器	qǐ dòng jiā zài qì	1
 起动九龙东	qǐ dòng jiǔ lóng dōng	1
 气动力加热	qì dòng lì jiā rè	1
 其动力系统	qí dòng lì xì tǒng	1
@@ -178241,6 +178245,7 @@ sort: by_weight
 书里的内容	shū lǐ de nèi róng	1
 树立风向标	shù lì fēng xiàng biāo	1
 树立好榜样	shù lì hǎo bǎng yàng	1
+树立和践行	shù lì hé jiàn xíng	1
 数理化学习	shù lǐ huà xué xí	1
 数理金融学	shù lǐ jīn róng xué	1
 数理经济学	shù lǐ jīng jì xué	1
@@ -197566,7 +197571,7 @@ sort: by_weight
 胃架扩散型	wèi jià kuò sàn xíng	1
 维甲酸乳膏	wéi jiǎ suān rǔ gāo	1
 维甲酸维酯	wéi jiǎ suān wéi zhǐ	3
-为家乡点赞	wèi jiā xiāng diǎn zàn	1
+为家乡点赞	wéi jiā xiāng diǎn zàn	1
 违建拆除后	wéi jiàn chāi chú hòu	1
 违建当事人	wéi jiàn dāng shì rén	1
 韦坚斯基区	wéi jiān sī jī qū	1
@@ -210123,6 +210128,7 @@ sort: by_weight
 闲得没事干	xián de méi shì gàn	1
 闲得没事做	xián de méi shì zuò	1
 氙的同位素	xiān de tóng wèi sù	1
+显得我小气	xiǎn de wǒ xiǎo qì	1
 显得有点小	xiǎn de yǒu diǎn xiǎo	1
 县第二小学	xiàn dì èr xiǎo xué	1
 县第二中学	xiàn dì èr zhōng xué	1
@@ -227893,7 +227899,7 @@ sort: by_weight
 页面关键词	yè miàn guān jiàn cí	1
 页面关注度	yè miàn guān zhù dù	1
 叶面积指数	yè miàn jī zhǐ shù	1
-页面加载中	yè miàn jiā zǎi zhōng	1
+页面加载中	yè miàn jiā zài zhōng	1
 液面监测器	yè miàn jiān cè qì	1
 页面间传值	yè miàn jiān chuán zhí	1
 页面静态化	yè miàn jìng tài huà	1
@@ -233169,28 +233175,28 @@ sort: by_weight
 医院综合楼	yī yuàn zōng hé lóu	1
 医院做产检	yī yuàn zuò chǎn jiǎn	1
 医院做手术	yī yuàn zuò shǒu shù	1
-一月二十号	yí yuè èr shí hào	1
-一月二十日	yí yuè èr shí rì	1
-一月二十一	yí yuè èr shí yī	1
-一月廿八日	yí yuè niàn bā rì	1
-一月廿九日	yí yuè niàn jiǔ rì	1
-一月廿六日	yí yuè niàn liù rì	1
-一月廿七日	yí yuè niàn qī rì	1
-一月廿三日	yí yuè niàn sān rì	1
-一月廿四日	yí yuè niàn sì rì	1
-一月廿五日	yí yuè niàn wǔ rì	1
-一月廿一日	yí yuè niàn yī rì	1
+一月二十号	yī yuè èr shí hào	1
+一月二十日	yī yuè èr shí rì	1
+一月二十一	yī yuè èr shí yī	1
+一月廿八日	yī yuè niàn bā rì	1
+一月廿九日	yī yuè niàn jiǔ rì	1
+一月廿六日	yī yuè niàn liù rì	1
+一月廿七日	yī yuè niàn qī rì	1
+一月廿三日	yī yuè niàn sān rì	1
+一月廿四日	yī yuè niàn sì rì	1
+一月廿五日	yī yuè niàn wǔ rì	1
+一月廿一日	yī yuè niàn yī rì	1
 壹月叁拾日	yī yuè sān shí rì	1
-一月三十日	yí yuè sān shí rì	1
+一月三十日	yī yuè sān shí rì	1
 壹月拾捌日	yī yuè shí bā rì	1
-一月十八日	yí yuè shí bā rì	1
-一月十二日	yí yuè shí èr rì	1
-一月十九日	yí yuè shí jiǔ rì	1
-一月十六日	yí yuè shí liù rì	1
-一月十三日	yí yuè shí sān rì	1
-一月十五日	yí yuè shí wǔ rì	1
+一月十八日	yī yuè shí bā rì	1
+一月十二日	yī yuè shí èr rì	1
+一月十九日	yī yuè shí jiǔ rì	1
+一月十六日	yī yuè shí liù rì	1
+一月十三日	yī yuè shí sān rì	1
+一月十五日	yī yuè shí wǔ rì	1
 壹月拾壹日	yī yuè shí yī rì	1
-一月十一日	yí yuè shí yī rì	1
+一月十一日	yī yuè shí yī rì	1
 以月为单位	yǐ yuè wéi dān wèi	1
 以月一日发	yǐ yuè yī rì fā	1
 一月一主题	yī yuè yì zhǔ tí	1
@@ -251383,7 +251389,7 @@ sort: by_weight
 正在缓冲中	zhèng zài huǎn chōng zhōng	1
 正在恢复中	zhèng zài huī fù zhōng	1
 正在计划中	zhèng zài jì huà zhōng	1
-正在加载中	zhèng zài jiā zǎi zhōng	1
+正在加载中	zhèng zài jiā zài zhōng	1
 正在建设中	zhèng zài jiàn shè zhōng	1
 正在交往中	zhèng zài jiāo wǎng zhōng	1
 正在进行时	zhèng zài jìn xíng shí	1
@@ -270258,7 +270264,7 @@ sort: by_weight
 并非无缘无故	bìng fēi wú yuán wú gù	1
 并非遥不可及	bìng fēi yáo bù kě jí	1
 并非一蹴而就	bìng fēi yí cù ér jiù	1
-并非一帆风顺	bìng fēi yì fán fēng shùn	1
+并非一帆风顺	bìng fēi yì fān fēng shùn	1
 并非一件易事	bìng fēi yí jiàn yì shì	1
 并非一朝一夕	bìng fēi yì zhāo yì xī	1
 丙酚替诺福韦	bǐng fēn tì nuò fú wéi	1
@@ -270572,7 +270578,6 @@ sort: by_weight
 波兹曼熵公式	bō zī màn shāng gōng shì	1
 脖子上的项链	bó zi shàng de xiàng liàn	1
 铂族元素矿床	bó zú yuán sù kuàng chuáng	1
-布-加综合征	bù - jiā zōng hé zhēng	1
 不爱就别伤害	bú ài jiù bié shāng hài	1
 不爱我就拉倒	bú ài wǒ jiù lā dǎo	1
 不按常规出牌	bú àn cháng guī chū pái	1
@@ -270873,7 +270878,7 @@ sort: by_weight
 不会显得突兀	bú huì xiǎn de tū wù	1
 不会显得臃肿	bú huì xiǎn de yōng zhǒng	1
 不会喧宾夺主	bú huì xuān bīn duó zhǔ	1
-不会一帆风顺	bú huì yì fán fēng shùn	1
+不会一帆风顺	bú huì yì fān fēng shùn	1
 不会造成伤害	bú huì zào chéng shāng hài	1
 不会坐视不管	bú huì zuò shì bù guǎn	1
 不会坐视不理	bú huì zuò shì bù lǐ	1
@@ -276057,6 +276062,7 @@ sort: by_weight
 单眼运动视差	dān yǎn yùn dòng shì chà	1
 丹阳号驱逐舰	dān yáng hào qū zhú jiàn	1
 氮氧化物排放	dàn yǎng huà wù pái fàng	1
+氮氧混合通气	dàn yǎng hùn hé tōng qì	1
 氮氧加速系统	dàn yǎng jiā sù xì tǒng	1
 单页生日祝福	dān yè shēng rì zhù fú	1
 氮异丙基苯胺	dàn yì bǐng jī běn àn	3
@@ -283488,6 +283494,7 @@ sort: by_weight
 腹主动脉狭窄	fù zhǔ dòng mài xiá zhǎi	1
 腹主动脉硬化	fù zhǔ dòng mài yìng huà	1
 腹主动脉造影	fù zhǔ dòng mài zào yǐng	1
+辅助控制通气	fǔ zhù kòng zhì tōng qì	1
 副助理国务卿	fù zhù lǐ guó wù qīng	1
 辅助淋巴细胞	fǔ zhù lín bā xì bāo	1
 辅助临床检查	fǔ zhù lín chuáng jiǎn chá	1
@@ -289680,6 +289687,7 @@ sort: by_weight
 后穹窿切开术	hòu qióng lóng qiē kāi shù	1
 候任行政长官	hòu rèn xíng zhèng zhǎng guān	1
 候任主任委员	hòu rèn zhǔ rèn wěi yuán	1
+厚乳丝滑拿铁	hòu rǔ sī huá ná tiě	1
 喉软骨软化病	hóu ruǎn gǔ ruǎn huà bìng	1
 喉上皮角化症	hóu shàng pí jiǎo huà zhèng	1
 喉上神经麻痹	hóu shàng shén jīng má bì	1
@@ -293156,6 +293164,7 @@ sort: by_weight
 架空输电线路	jià kōng shū diàn xiàn lù	1
 加快高速公路	jiā kuài gāo sù gōng lù	1
 加拉巴哥群岛	jiā lā bā gē qún dǎo	1
+加拉帕戈斯化	jiā lā pà gē sī huà	1
 加勒比海鸟类	jiā lè bǐ hǎi niǎo lèi	1
 加勒比海群岛	jiā lè bǐ hǎi qún dǎo	1
 加勒比海洋流	jiā lè bǐ hǎi yáng liú	1
@@ -303494,7 +303503,7 @@ sort: by_weight
 梅捏劳斯定理	méi niē láo sī dìng lǐ	1
 梅涅劳斯定理	méi niè láo sī dìng lǐ	1
 美浓国诸旧记	měi nóng guó zhū jiù jì	1
-美女们的唠叨	měi nǚ men de láo dāo	1
+美女们的唠叨	měi nǚ men de láo dao	1
 美女明星程宁	měi nǚ míng xīng chéng níng	1
 梅平高速公路	méi píng gāo sù gōng lù	1
 美扑伪麻胶囊	měi pū wěi má jiāo náng	1
@@ -315763,7 +315772,6 @@ sort: by_weight
 实施强制许可	shí shī qiáng zhì xǔ kě	1
 实施敲诈勒索	shí shī qiāo zhà lè suǒ	1
 实施清洁生产	shí shī qīng jié shēng chǎn	1
-实事求是原则	shí shì qiú shì yuán zé	1
 是失去的开始	shì shī qù de kāi shǐ	1
 实时取景功能	shí shí qǔ jǐng gōng néng	1
 实时取景模式	shí shí qǔ jǐng mó shì	1
@@ -316111,7 +316119,7 @@ sort: by_weight
 失业社会保险	shī yè shè huì bǎo xiǎn	1
 事业顺风顺水	shì yè shùn fēng shùn shuǐ	1
 事业顺顺利利	shì yè shùn shùn lì lì	1
-事业一帆风顺	shì yè yì fán fēng shùn	1
+事业一帆风顺	shì yè yì fān fēng shùn	1
 事业一落千丈	shì yè yí luò qiān zhàng	1
 实业有限公司	shí yè yǒu xiàn gōng sī	1
 失业预警机制	shī yè yù jǐng jī zhì	1
@@ -327146,6 +327154,7 @@ sort: by_weight
 形而上学性质	xíng ér shàng xué xìng zhì	1
 刑法第一百条	xíng fǎ dì yī bǎi tiáo	1
 醒发好的面团	xǐng fā hǎo de miàn tuán	1
+刑罚清而民服	xíng fá qīng ér mín fú	1
 刑罚执行监督	xíng fá zhí xíng jiān dū	1
 刑罚执行完毕	xíng fá zhí xíng wán bì	1
 型反潜护卫舰	xíng fǎn qián hù wèi jiàn	1
@@ -328358,6 +328367,7 @@ sort: by_weight
 压力可想而知	yā lì kě xiǎng ér zhī	1
 压力控制通气	yā lì kòng zhì tōng qì	1
 雅力留学专家	yǎ lì liú xué zhuān jiā	1
+压力容积波形	yā lì róng jī bō xíng	1
 压力容积波形	yā lì róng jī bō xíng	1
 亚历山大地岛	yà lì shān dà dì dǎo	1
 亚历山大东征	yà lì shān dà dōng zhēng	1
@@ -331764,23 +331774,23 @@ sort: by_weight
 亿元以上企业	yì yuán yǐ shàng qǐ yè	1
 沂源猿人遗址	yí yuán yuán rén yí zhǐ	1
 一元运算符号	yì yuán yùn suàn fú hào	1
-一月二十八日	yí yuè èr shí bā rì	1
-一月二十二日	yí yuè èr shí èr rì	1
+一月二十八日	yī yuè èr shí bā rì	1
+一月二十二日	yī yuè èr shí èr rì	1
 壹月贰拾贰日	yī yuè èr shí èr rì	1
-一月二十九日	yí yuè èr shí jiǔ rì	1
+一月二十九日	yī yuè èr shí jiǔ rì	1
 壹月贰拾玖日	yī yuè èr shí jiǔ rì	1
-一月二十六日	yí yuè èr shí liù rì	1
+一月二十六日	yī yuè èr shí liù rì	1
 壹月贰拾陆日	yī yuè èr shí liù rì	1
-一月二十七日	yí yuè èr shí qī rì	1
+一月二十七日	yī yuè èr shí qī rì	1
 壹月贰拾柒日	yī yuè èr shí qī rì	1
 壹月贰拾叁日	yī yuè èr shí sān rì	1
-一月二十三日	yí yuè èr shí sān rì	1
-一月二十四号	yí yuè èr shí sì hào	1
+一月二十三日	yī yuè èr shí sān rì	1
+一月二十四号	yī yuè èr shí sì hào	1
 壹月贰拾肆日	yī yuè èr shí sì rì	1
-一月二十四日	yí yuè èr shí sì rì	1
-一月二十五日	yí yuè èr shí wǔ rì	1
+一月二十四日	yī yuè èr shí sì rì	1
+一月二十五日	yī yuè èr shí wǔ rì	1
 壹月贰拾伍日	yī yuè èr shí wǔ rì	1
-一月二十一日	yí yuè èr shí yī rì	1
+一月二十一日	yī yuè èr shí yī rì	1
 壹月叁拾壹日	yī yuè sān shí yī rì	1
 以怎样的方式	yǐ zěn yàng de fāng shì	1
 遗赠扶养协议	yí zèng fú yǎng xié yì	1
@@ -346203,7 +346213,6 @@ sort: by_weight
 带状疱疹性睑炎	dài zhuàng pào zhěn xìng jiǎn yán	1
 带状疱疹性眼炎	dài zhuàng pào zhěn xìng yǎn yán	1
 带状岩性油气藏	dài zhuàng yán xìng yóu qì cáng	1
-氮-氧混合通气	dàn - yǎng hùn hé tōng qì	1
 蛋白淀粉样变性	dàn bái diàn fěn yàng biàn xìng	1
 蛋白丢失性肠病	dàn bái diū shī xìng cháng bìng	1
 蛋白胨性荨麻疹	dàn bái dòng xìng xún má zhěn	1
@@ -346370,7 +346379,6 @@ sort: by_weight
 胆囊占位性病变	dǎn náng zhàn wèi xìng bìng biàn	1
 丹尼摩二氏皱襞	dān ní mó èr shì zhòu bì	1
 单宁骨胶原基质	dān níng gǔ jiāo yuán jī zhì	1
-氮浓度Ⅲ相斜率	dàn nóng dù Ⅲ xiāng xié lǜ	1
 淡浓神会风前影	dàn nóng shén huì fēng qián yǐng	1
 丹努什弹道导弹	dān nǔ shí dàn dào dǎo dàn	1
 单排炮眼爆破法	dān pái pào yǎn bào pò fǎ	1
@@ -350827,7 +350835,6 @@ sort: by_weight
 负重一万斤长大	fù zhòng yí wàn jīn zhǎng dà	1
 抚州东外环高速	fǔ zhōu dōng wài huán gāo sù	1
 抚州玉隆万寿宫	fǔ zhōu yù lóng wàn shòu gōng	1
-辅助-控制通气	fǔ zhù - kòng zhì tōng qì	1
 腹主动脉成形术	fù zhǔ dòng mài chéng xíng shù	1
 腹主动脉动脉瘤	fù zhǔ dòng mài dòng mài liú	1
 腹主动脉空肠瘘	fù zhǔ dòng mài kōng cháng lòu	1
@@ -356385,7 +356392,6 @@ sort: by_weight
 六甲基二硅氧烷	liù jiǎ jī èr guī yǎng wán	2
 六甲基二矽氮烷	liù jiǎ jī èr xī dàn wán	1
 六甲蜜胺肠溶片	liù jiǎ mì àn cháng róng piàn	1
-流量-容积曲线	liú liàng - róng jī qū xiàn	1
 流量流容积波形	liú liàng liú róng jī bō xíng	1
 硫柳汞甲醛原液	liú liǔ gǒng jiǎ quán yuán yè	1
 流脑多糖体疫苗	liú nǎo duō táng tǐ yì miáo	1
@@ -361536,7 +361542,6 @@ sort: by_weight
 下了很大的决心	xià le hěn dà de jué xīn	1
 下了一整夜的雨	xià le yì zhěng yè de yǔ	1
 下泪小点切开术	xià lèi xiǎo diǎn qiē kāi shù	1
-下利肺（腹）痛	xià lì fèi （ fù ） tòng	1
 夏隆胸甲的碎片	xià lóng xiōng jiǎ de suì piàn	1
 瞎猫碰上死耗子	xiā māo pèng shàng sǐ hào zi	1
 瞎猫遇见死耗子	xiā māo yù jiàn sǐ hào zi	1
@@ -362562,7 +362567,6 @@ sort: by_weight
 牙科助手椅旁凳	yá kē zhù shǒu yǐ páng dèng	1
 牙科综合治疗机	yá kē zōng hé zhì liáo jī	1
 牙科综合治疗台	yá kē zōng hé zhì liáo tái	1
-压力-容积波形	yā lì - róng jī bō xíng	1
 压力感受器反射	yā lì gǎn shòu qì fǎn shè	1
 压力感受性反射	yā lì gǎn shòu xìng fǎn shè	1
 压力连接管长管	yā lì lián jiē guǎn cháng guǎn	1
