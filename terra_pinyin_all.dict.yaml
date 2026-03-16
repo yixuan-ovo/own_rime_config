@@ -16,6 +16,7 @@ import_tables:
   - dicts/dicts_LMDG/jichu                                 # 常用词，主干词库
   # 优化类
   - dicts/dicts_LMDG/duoyin                                # 多音字兼容优化
+  - dicts/dicts_LMDG/mixed
   # 联想类
   - dicts/dicts_LMDG/lianxiang                             # 五字及以上长词联想（靠后）
 
@@ -28,8 +29,6 @@ import_tables:
   - dicts/dicts_LMDG/renming                               # 人名词库（专有名词，靠后）
   - dicts/dicts_LMDG/diming                                # 地名/行政区划（专有名词，靠后）
   # 专业领域词库（靠后）
-  - dicts/dicts_LMDG/shengwu                               # 生物学词汇（专业领域，靠后）
-  - dicts/dicts_LMDG/shuxue                                # 数学词库（专业领域，靠后）
   - dicts/dicts_LMDG/wuzhong                               # 物种词库（专业领域，靠后）
   - dicts/dicts_LMDG/dikuang                               # 地质矿物词库（专业领域，靠后）
   - dicts/dicts_LMDG/wu-hua-sheng-yi-yao                   # 物化生医药词库（专业领域，靠后）
