@@ -41,6 +41,11 @@ speller:
     # __include: algebra_flypy          # 小鹤双拼
 
 
+filters:
+  - lua_filter@*cn_en_spacer   # 中英混输自动空格
+  - lua_filter@*en_spacer      # 英文词条自动空格
+  - uniquifier
+
 translator:
   dictionary: radical_pinyin
   enable_user_dict: false
