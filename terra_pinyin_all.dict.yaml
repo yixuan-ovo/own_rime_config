@@ -54,7 +54,6 @@ import_tables:
   
   # 文化类词库
   - dicts/cn_dicts_cell/music              # 音乐（文化类）
-  - dicts/cn_dicts_cell/literature         # 文学（文化类）
   - dicts/cn_dicts_cell/history            # 历史（文化类）
   
   # 地理和专有名词（靠后）
