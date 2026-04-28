@@ -23,6 +23,7 @@ schema:
   dependencies:
     - radical_pinyin_flypy    # 参考 https://github.com/mirtlecn/rime-radical-pinyin
     - melt_eng          # 英文方案
+    - rime_frost_aux  # single-char aux lookup
 
 switches:
   - name: ascii_punct
@@ -69,7 +70,7 @@ engine:
     - lua_translator@*date_translator                    # 时间、日期、星期、月份（rime-ice 风格，触发关键字：rq, sj, xq, dt, ts, yf）
     - lua_translator@*uuid                               # UUID
     - lua_translator@*number_translator                  # 金额大小写
-    - lua_translator@*chineseLunarCalendar_translator    # 农历（触发关键字：nl，公历转农历：N20240115）
+    - lua_translator@*lunar                              # 农历（触发关键字：lunar，公历转农历：N20240115）
     - lua_translator@*mint_calculator_translator         # 计算器（lua 动态表达式）
     - table_translator@melt_eng                          # 英文输入（作为子翻译器，优先级需要比原生的低）
     - table_translator@cn_en                             # 中英混合词汇
@@ -87,6 +88,7 @@ engine:
     - simplifier@transcription_cc
     - simplifier@chaifen_cc                   # 鹤形拆字辅助滤镜
     - lua_filter@*auxCode_filter@flypy_full   # 小鹤双拼辅码(音形)
+    - lua_filter@*aux_lookup_filter           # 辅码快速过滤
     - lua_filter@*cn_en_spacer                 # 中英混输自动空格
     - lua_filter@*reduce_english_filter       # 降低部分英语单词在候选项的位置
     - lua_filter@*en_spacer                   # 英文词条自动空格（倒数第二个位置）
@@ -135,6 +137,10 @@ axu_code:
   # none:     始终不展示辅码
   show_aux_notice: "trigger"
 
+# Lua 配置：辅码快速过滤
+frost_aux_filter:
+  trigger_key: "`"  # 辅码过滤触发键
+
 
 # Lua 配置: 降低部分英语单词在候选项的位置。
 # 详细介绍 https://dvel.me/posts/make-rime-en-better/#短单词置顶的问题
@@ -178,8 +184,9 @@ date_translator:
   timestamp: ts  # 时间戳： 1669716794
   month: yf      # 月份： January / Jan
 
-# Lua 配置：农历的触发关键字
-chineseLunarCalendar_translator: nl  # 农历：输入 nl 获取当前日期农历，输入 N20240115 公历转农历
+# Lua 配置：农历的触发关键字和模板
+lunar: lunar  # 农历：输入 lunar 获取当前日期农历，输入 N20240115 公历转农历
+lunar_template: "{干支年}{生肖}年{俗称农历月}{农历日}"  # 可用字段：{干支年} {农历月} {农历日} {生肖} {俗称农历月} {简记农历日} {星期} {节气}
 
 # Lua 配置: 生成 UUID 的触发关键字
 uuid: uuid

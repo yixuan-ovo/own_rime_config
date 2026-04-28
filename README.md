@@ -13,7 +13,7 @@
    - `long_word_filter.lua` - 长词优先（提升「西安」「提案」等词汇的优先级）
    - `v_filter.lua` - v 模式符号优先
    - `date_translator.lua` - 日期时间输入（rime-ice 风格，触发关键字：`rq`, `sj`, `xq`, `dt`, `ts`）
-   - `chineseLunarCalendar_translator.lua` - 农历输入（触发关键字：`nl`，公历转农历：`N20240115`）
+   - `lunar.lua` + `lunar.db` - 农历输入（触发关键字：`lunar`，公历转农历：`N20240115`，支持自定义输出格式）
 
 2. **符号输入系统升级**
    - 整合了 rime-ice 的 v 模式符号系统
@@ -79,7 +79,7 @@
 |lua/long_word_filter.lua|长词优先|提升「西安」「提案」等长词优先级|
 |lua/v_filter.lua|v 模式符号优先|优化 v 模式符号输入体验|
 |lua/date_translator.lua|日期时间翻译器|rime-ice 风格，触发：`rq`(日期)、`sj`(时间)、`xq`(星期)、`dt`(ISO 8601)、`ts`(时间戳)、`yf`(月份)|
-|lua/chineseLunarCalendar_translator.lua|农历翻译器|输入 `nl` 获取当前日期农历，输入 `N20240115` 公历转农历|
+|lua/lunar.lua|农历翻译器|输入 `lunar` 获取当前日期农历，输入 `N20240115` 公历转农历，支持星期和节气显示|
 |lua/number_translator.lua|数字金额翻译器|输入 `R1234.56` 转换为中文大写金额|
 |lua/mint_calculator_translator.lua|计算器|输入 `=1+2*3` 进行计算|
 |lua/corrector.lua|错音错字提示|自动纠正常见错音错字|
@@ -140,7 +140,7 @@
 7. 方案名称统一改为"月七改"（ytq）
 
 ## 功能增强（整合 rime-ice）
-8. 补充 Lua 脚本：unicode、uuid、pin_cand_filter、long_word_filter、v_filter、date_translator、chineseLunarCalendar_translator
+8. 补充 Lua 脚本：unicode、uuid、pin_cand_filter、long_word_filter、v_filter、date_translator、lunar
 9. 升级符号输入系统：整合 v 模式符号，支持 `/` 和 `v` 两种模式
 10. 优化配置文件：default.yaml 和 weasel.yaml，添加更多实用配置
 11. 增强方案文件：为两个方案添加 rime-ice 的功能（Unicode、UUID、置顶候选项、长词优先等）
