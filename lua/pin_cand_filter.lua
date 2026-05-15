@@ -12,7 +12,7 @@ cand.preedit 是经过 translator/preedit_format 转换后的编码
 格式：编码<Tab>字词1<Space>字词2……
 按照 YAML 语法，加不加引号都行，也可以这么写 pin_cand_filter: [l	了, 'de	的', "ni hao	你好"]
 
-示例：（文件末尾有常见编码可供直接复制参考）
+示例：
 - 'le	了'       # 输入 le 时，置顶「了」
 - 'ta	他 她 它'  # 可以置顶多个字，按顺序排列
 - 'l	了 啦'    # 支持单编码，输入 l 时，置顶「了、啦」
@@ -28,7 +28,7 @@ cand.preedit 是经过 translator/preedit_format 转换后的编码
 ### 空格的作用：
 - nihao	你好
 无空格，生成原样；
-生成 nihao，只有输入完整的 nihao 时首位才是「你好」，但输入 nih 时首位可能是「你会 你还」等其他词语。
+生成 nihao，输入 nihao 时首位是「你好」，但输入 nih 时首位可能是「你会 你还」等其他词语。
 
 - ni hao	你好
 包含空格，额外生成最后一个空格后的拼音的首字母简码；
@@ -151,6 +151,11 @@ function M.init(env)
 end
 
 function M.func(input, env)
+    if not env.engine.context:get_option("pin_cand") then
+        for cand in input:iter() do yield(cand) end
+        return
+    end
+
     -- 当前输入框的 preedit，未经过方案 translator/preedit_format 转换
     -- 输入 nihaoshij 则为 nihaoshij，选择了「你好」后变成 你好shij
     local full_preedit = env.engine.context:get_preedit().text
@@ -236,4 +241,3 @@ function M.func(input, env)
 end
 
 return M
-
