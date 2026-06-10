@@ -17,14 +17,14 @@ function M.func(input, env)
   for cand in input:iter() do
     local comment = cand.comment or ""
 
-    -- ✅ 用户词典中，追加 👾
-    if cand.type == "user_phrase" and not comment:find("👾") then
-      comment = comment .. "👾"
+    -- ✅ 用户词典中，追加 🍃
+    if cand.type == "user_phrase" and not comment:find("🍃") then
+      comment = comment .. "🍃"
     end
 
-    -- ✅ 整句联想，追加 💤
-    if cand.type == "sentence" and not comment:find("💤") then
-      comment = comment .. "💤"
+    -- ✅ 整句联想，追加 🍡
+    if cand.type == "sentence" and not comment:find("🍡") then
+      comment = comment .. "🍡"
     end
 
     cand.comment = comment
