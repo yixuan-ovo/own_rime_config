@@ -49,6 +49,7 @@ engine:
   segmentors:
     - ascii_segmentor
     - matcher
+    - affix_segmentor@radical_reverse_lookup
     - abc_segmentor
     - punct_segmentor
     - fallback_segmentor
@@ -75,6 +76,7 @@ engine:
     - lua_filter@*long_word_filter           # 长词优先（顺序要求：长词优先 > Emoji）
     - simplifier@emoji_suggestion         # Emoji OpenCC
     - simplifier@transcription_cc         # 繁体&简体 OpenCC
+    - simplifier@chaifen_cc               # 拆字辅助滤镜
     - lua_filter@*cn_en_spacer             # 中英混输自动空格
     - lua_filter@*reduce_english_filter    # 降低部分英语单词在候选项的位置
     - lua_filter@*aux_lookup_filter           # 辅码快速过滤
@@ -96,6 +98,19 @@ emoji_suggestion:
   option_name: emoji_suggestion
   tips: all
   inherit_comment: false
+
+# 拆字辅助滤镜
+chaifen_cc:
+  opencc_config: fly_Chaifen.json
+  option_name: chaifen
+  show_in_comment: true
+  inherit_comment: true
+  comment_format:
+    - "xform/&nbsp;/ /"
+  tags:
+    - abc
+    - reverse_lookup
+  tips: char
 
  # 最大输入长度
 codeLengthLimit_processor: 28
@@ -312,7 +327,7 @@ custom_phrase:
   db_class: stabledb
   enable_completion: false
   enable_sentence: false
-  initial_quality: 1
+  initial_quality: 99
 
 melt_eng:
   dictionary: melt_eng           # 英文词典
@@ -405,7 +420,7 @@ recognizer:
     url: "^[a-z]+[.].+$"
     punct: "^[/v]([0-9]0?|[a-zA-Z]+)$"  # 支持 / 和 v 两种模式的符号输入
     unicode: "^U[0-9A-Fa-f]+$"          # Unicode 字符输入，如 U62fc 得到「拼」
-    radical_lookup: "u[a-z]*'?$"
+    radical_lookup: "^u[a-z]+'?$"
     rmb: "^R[0-9]+[.]?[0-9]*"        # 响应 lua_translator@number_translator 脚本将自动获取第 2 个字符作为触发前缀
     expression: "^=.*$"              # 响应 lua_translator@mint_calculator_translator 脚本将自动获取第 2 个字符作为触发前缀
     gregorian_to_lunar: "^N[0-9]{1,8}"  # 响应 lua_translator@Chinese_lunar_calendar 公历转农历，输入 N20240115 得到「二〇二四年腊月初五」，脚本将自动获取第 2 个字符作为触发前缀
