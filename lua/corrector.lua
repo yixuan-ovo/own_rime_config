@@ -1,19 +1,6 @@
---[[
-	错音错字提示。
-	示例：「给予」的正确读音是 ji yu，当用户输入 gei yu 时，在候选项的 comment 显示正确读音
-	示例：「按耐」的正确写法是「按捺」，当用户输入「按耐」时，在候选项的 comment 显示正确写法
-
-	关闭此 Lua 时，同时需要关闭 translator/spelling_hints，否则 comment 里都是拼音
-
-	为了让这个 Lua 同时适配全拼与双拼，使用 `spelling_hints` 生成的 comment（全拼拼音）作为通用的判断条件。
-	感谢大佬@[Shewer Lu](https://github.com/shewer)提供的思路。
-	
-	容错词在 cn_dicts/corrections.dict.yaml 中，有新增建议可以提个 issue
---]]
-
 local M = {}
 
-local corrections_file = "/cn_dicts/corrections.dict.yaml"
+local corrections_file = "/dicts/dicts_LMDG/cuoyin.dict.yaml"
 
 local function load_corrections()
     local corrections = {}
@@ -54,7 +41,7 @@ end
 function M.func(input, env)
     for cand in input:iter() do
         -- cand.comment 是目前输入的词汇的完整拼音
-        local pinyin = cand.comment:match("^［(.-)］$")
+        local pinyin = cand.comment:match("^［(.-)］$") or cand.comment
         if pinyin and #pinyin > 0 then
             local correction_pinyin = pinyin
             if env.delimiter then
