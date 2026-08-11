@@ -66,6 +66,7 @@ engine:
     - fallback_segmentor                                 # 标识其他为标识段落
   translators:
     - punct_translator                                   # ※ 转换标点符号
+    - table_translator@frost_aux                        # 白霜单字辅码：拼音后输入 ` + 1~2 位墨奇辅码
     - script_translator
     - lua_translator@*date_translator                    # 时间、日期、星期、月份（rime-ice 风格，触发关键字：rq, sj, xq, dt, ts, yf）
     - lua_translator@*uuid                               # UUID
@@ -125,6 +126,11 @@ chaifen_cc:
 
  # 最大输入长度
 codeLengthLimit_processor: 28
+
+# Lua 配置：错音错字提示
+corrector:
+  dictionary: dicts/dicts_LMDG/cuoyin.dict.yaml
+  style: "{comment}"
 
 
 # 小鹤音形配置
@@ -252,6 +258,15 @@ translator:
   initial_quality: 1.2
   enable_user_dict: true         # 开启用户词典，根据用户输入调频（默认开启，此处再次声明）
 
+# 白霜单字辅码翻译器；与 aux_lookup_filter 的词组/整句筛选互补
+frost_aux:
+  dictionary: rime_frost_aux
+  enable_sentence: false
+  enable_completion: false
+  enable_user_dict: false
+  initial_quality: 1000
+  spelling_hints: 0
+
 melt_eng:
   dictionary: melt_eng           # 英文词典
   enable_sentence: false         # 关闭自动造句
@@ -273,10 +288,10 @@ cn_en:
 # 拼写设定
 speller:
   # 如果不想让什么标点直接上屏，可以加在 alphabet，或者编辑标点符号为两个及以上的映射
-  alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA;
+  alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA;`
   # initials 定义仅作为始码的按键，排除 ; 让单个的 ; 可以直接上屏
   initials: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA
-  delimiter: " `"  # 第一位<空格>是拼音之间的分隔符；第二位<'>表示可以手动输入单引号来分割拼音。
+  delimiter: " '"  # 第一位<空格>是拼音之间的分隔符；第二位<'>表示可以手动输入单引号来分割拼音。
   algebra:
     - xlit/āáǎàōóǒòēéěèīíǐìūúǔùǖǘǚǜü/aaaaooooeeeeiiiiuuuuvvvvv/  # 万象词库 Start
     - xform/^ng$/eng/

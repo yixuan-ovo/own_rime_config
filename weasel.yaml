@@ -355,8 +355,8 @@ preset_color_schemes:
     hilited_candidate_back_color: 0xE1B9B9
     hilited_label_color: 0x9B1C1C
     # inline_preedit: false 时翻页箭头颜色，不设置则不显示箭头
-    nextpage_color: 0x3A3F4B				# inline_preedit: false 翻页箭头颜色：下一页；不设置则不显示箭头
-    prevpage_color: 0xB56A6F				# inline_preedit: false 翻页箭头颜色：上一页；不设置则不显示箭头
+    nextpage_color: 0x3A3F4B    # inline_preedit: false 翻页箭头颜色：下一页；不设置则不显示箭头
+    prevpage_color: 0xB56A6F    # inline_preedit: false 翻页箭头颜色：上一页；不设置则不显示箭头
     
   yixuan5:
     name: 月五/ytq
@@ -376,8 +376,8 @@ preset_color_schemes:
     hilited_candidate_back_color: 0xC6D8CE
     hilited_label_color: 0x3F6F5F
     # inline_preedit: false 时翻页箭头颜色，不设置则不显示箭头
-    nextpage_color: 0x4A5568			# inline_preedit: false 翻页箭头颜色：下一页；不设置则不显示箭头
-    prevpage_color: 0x7A8FA3			# inline_preedit: false 翻页箭头颜色：上一页；不设置则不显示箭头
+    nextpage_color: 0x4A5568    # inline_preedit: false 翻页箭头颜色：下一页；不设置则不显示箭头
+    prevpage_color: 0x7A8FA3    # inline_preedit: false 翻页箭头颜色：上一页；不设置则不显示箭头
     
   yixuan6:
     name: 月六/ytq
@@ -397,8 +397,8 @@ preset_color_schemes:
     hilited_candidate_back_color: 0xD8B1A8
     hilited_label_color: 0x7B2A2A
     # inline_preedit: false 时翻页箭头颜色，不设置则不显示箭头
-    nextpage_color: 0x5C5C5C			# inline_preedit: false 翻页箭头颜色：下一页；不设置则不显示箭头
-    prevpage_color: 0x9A6A6A			# inline_preedit: false 翻页箭头颜色：上一页；不设置则不显示箭头
+    nextpage_color: 0x5C5C5C    # inline_preedit: false 翻页箭头颜色：下一页；不设置则不显示箭头
+    prevpage_color: 0x9A6A6A    # inline_preedit: false 翻页箭头颜色：上一页；不设置则不显示箭头
 
   flypy:
     # description: |
