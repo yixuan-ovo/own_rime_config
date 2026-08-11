@@ -1,13 +1,25 @@
 -- 日期时间，可在方案中配置触发关键字。
 
--- 让日期时间候选项出现在第 1 个位置
+local convert_num = require("convert_ar_num_to_zh").convert
+local convert_digits = require("convert_ar_num_to_zh").digits
+
+-- 让日期时间候选项出现在前列
 local function yield_cand(seg, text)
     local cand = Candidate('', seg.start, seg._end, text, '')
-    cand.quality = 5    -- 默认出现在第一个
+    cand.quality = 100
     yield(cand)
 end
 
 local M = {}
+
+local month_names_short = {
+    "Jan", "Feb", "Mar", "Apr", "May", "Jun",
+    "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"
+}
+local month_names_long = {
+    "January", "February", "March", "April", "May", "June",
+    "July", "August", "September", "October", "November", "December"
+}
 
 function M.init(env)
     local config = env.engine.schema.config
@@ -18,6 +30,8 @@ function M.init(env)
     M.datetime = config:get_string(env.name_space .. '/datetime') or 'dt'
     M.timestamp = config:get_string(env.name_space .. '/timestamp') or 'ts'
     M.month = config:get_string(env.name_space .. '/month') or 'yf'
+    M.date_zh = config:get_string(env.name_space .. '/datezh') or 'rqzh'
+    M.date_en = config:get_string(env.name_space .. '/dateen') or 'rqen'
 end
 
 function M.func(input, seg, env)
@@ -30,25 +44,33 @@ function M.func(input, seg, env)
         yield_cand(seg, os.date('%Y%m%d', current_time))
         yield_cand(seg, os.date('%Y年%m月%d日', current_time):gsub('年0', '年'):gsub('月0','月'))
         yield_cand(seg, os.date('%m-%d-%Y', current_time))
-        -- 中文大写日期
-        local chinese_num = {
-            ["1"]="一", ["2"]="二", ["3"]="三", ["4"]="四", ["5"]="五",
-            ["6"]="六", ["7"]="七", ["8"]="八", ["9"]="九", ["0"]="〇"
-        }
-        local chinese_month = {"一月", "二月", "三月", "四月", "五月", "六月", "七月", "八月", "九月", "十月", "十一月", "十二月"}
-        local date_y_chinese = os.date("%Y", current_time):gsub("%d", chinese_num) .. "年"
-        local date_m_chinese = chinese_month[tonumber(os.date("%m", current_time))]
-        local date_d_chinese = tostring(tonumber(os.date("%d", current_time))):gsub("%d", chinese_num) .. "日"
-        if tonumber(os.date("%d", current_time)) > 9 then
-            date_d_chinese = string.sub(date_d_chinese, 1, 3) .. "十" .. string.sub(date_d_chinese, 4)
-        end
-        yield_cand(seg, date_y_chinese .. date_m_chinese .. date_d_chinese)
+        yield_cand(seg, string.format(
+            '%s年%s月%s日',
+            convert_digits(tonumber(os.date('%Y', current_time)), true),
+            convert_num(tonumber(os.date('%m', current_time))),
+            convert_num(tonumber(os.date('%d', current_time)))
+        ))
 
     -- 时间
     elseif (input == M.time) then
         local current_time = os.time()
+        local hour = tonumber(os.date('%H', current_time))
+        local period_name
+        if hour >= 5 and hour < 11 then
+            period_name = '早上'
+        elseif hour >= 11 and hour < 13 then
+            period_name = '中午'
+        elseif hour >= 13 and hour < 18 then
+            period_name = '下午'
+        elseif hour >= 18 and hour < 24 then
+            period_name = '晚上'
+        else
+            period_name = '凌晨'
+        end
         yield_cand(seg, os.date('%H:%M', current_time))
         yield_cand(seg, os.date('%H:%M:%S', current_time))
+        yield_cand(seg, period_name .. ' ' .. os.date('%I:%M', current_time))
+        yield_cand(seg, os.date('%I:%M %p', current_time))
         yield_cand(seg, os.date('%Y%m%d%H%M%S', current_time))
         yield_cand(seg, os.date('%H点%M分%S秒', current_time))
 
@@ -64,10 +86,17 @@ function M.func(input, seg, env)
         yield_cand(seg, os.date('%a', current_time))
         yield_cand(seg, os.date('%W', current_time))
 
-    -- ISO 8601/RFC 3339 的时间格式 （固定东八区）（示例 2022-01-07T20:42:51+08:00）
+    -- ISO 8601/RFC 3339 的时间格式
     elseif (input == M.datetime) then
         local current_time = os.time()
-        yield_cand(seg, os.date('%Y-%m-%dT%H:%M:%S+08:00', current_time))
+        local timezone = os.date('%z', current_time)
+        if not timezone or not timezone:match('^[+-]%d%d%d%d$') then
+            timezone = '+0800'
+        end
+        local iso_timezone = (timezone == '+0000' or timezone == '-0000')
+            and 'Z'
+            or timezone:gsub('(%d%d)$', ':%1')
+        yield_cand(seg, os.date('%Y-%m-%dT%H:%M:%S', current_time) .. iso_timezone)
         yield_cand(seg, os.date('%Y-%m-%d %H:%M:%S', current_time))
         yield_cand(seg, os.date('%Y%m%d%H%M%S', current_time))
 
@@ -81,6 +110,26 @@ function M.func(input, seg, env)
         local current_time = os.time()
         yield_cand(seg, os.date('%B', current_time))
         yield_cand(seg, os.date('%b', current_time))
+
+    -- 中文日期
+    elseif (input == M.date_zh) then
+        local current_time = os.time()
+        local year = tonumber(os.date('%Y', current_time))
+        local month = convert_num(tonumber(os.date('%m', current_time)))
+        local day = convert_num(tonumber(os.date('%d', current_time)))
+        yield_cand(seg, string.format('%s年%s月%s日', convert_digits(year, true), month, day))
+        yield_cand(seg, string.format('%s年%s月%s日', convert_digits(year, false), month, day))
+        yield_cand(seg, os.date('%Y年%m月%d日', current_time):gsub('年0', '年'):gsub('月0', '月'))
+
+    -- 英文日期
+    elseif (input == M.date_en) then
+        local current_time = os.time()
+        local day = tonumber(os.date('%d', current_time))
+        local month = tonumber(os.date('%m', current_time))
+        local year = os.date('%Y', current_time)
+        yield_cand(seg, string.format('%d %s %s', day, month_names_long[month], year))
+        yield_cand(seg, string.format('%s %d, %s', month_names_long[month], day, year))
+        yield_cand(seg, string.format('%d %s %s', day, month_names_short[month], year))
     end
 
     -- -- 显示内存

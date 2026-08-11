@@ -1,0 +1,234 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# Generated from https://github.com/iDvel/rime-ice/blob/main/lua/corrector.lua
+# Run scripts/update_rime_ice_corrections.py to refresh this file.
+# Columns: candidate, mistyped reading, weight, correction comment.
+---
+name: corrections_rime_ice
+version: "2026.08.02"
+sort: by_weight
+...
+主角	zhu jiao	0	zhǔ jué
+角色	jiao se	0	jué sè
+吃比萨	chi pi sa	0	chī bǐ sà
+比萨饼	pi sa bing	0	bǐ sà bǐng
+说服	shui fu	0	shuō fú
+道行	dao hang	0	dào heng
+模样	mo yang	0	mú yàng
+有模有样	you mo you yang	0	yǒu mú yǒu yàng
+一模一样	yi mo yi yang	0	yī mú yī yàng
+装模作样	zhuang mo zuo yang	0	zhuāng mú zuò yàng
+人模狗样	ren mo gou yang	0	rén mú gǒu yàng
+模板	mo ban	0	mú bǎn
+阿弥陀佛	a mi tuo fo	0	ē mí tuó fó
+南无阿弥陀佛	na mo a mi tuo fo	0	nā mó ē mí tuó fó
+南无阿弥陀佛	nan wu a mi tuo fo	0	nā mó ē mí tuó fó
+南无阿弥陀佛	nan wu e mi tuo fo	0	nā mó ē mí tuó fó
+刹帝利	sha di li	0	chà dì lì
+给予	gei yu	0	jǐ yǔ
+槟榔	bin lang	0	bīng láng
+张柏芝	zhang bai zhi	0	zhāng bó zhī
+藤蔓	teng man	0	téng wàn
+弄堂	nong tang	0	lòng táng
+心宽体胖	xin kuan ti pang	0	xīn kuān tǐ pán
+埋怨	mai yuan	0	mán yuàn
+木讷	mu na	0	mù nè
+龟裂	gui lie	0	jūn liè
+独乐乐	du le le	0	dú yuè lè
+众乐乐	zhong le le	0	zhòng yuè lè
+荨麻	xun ma	0	qián má
+荨麻疹	qian ma zhen	0	xún má zhěn
+模具	mo ju	0	mú jù
+贾平凹	jia ping ao	0	jiǎ píng wā
+雪佛兰	xue fo lan	0	xuě fú lán
+强劲	qiang jin	0	qiáng jìng
+胴体	tong ti	0	dòng tǐ
+力能扛鼎	li neng kang ding	0	lì néng gāng dǐng
+鸭绿江	ya lv jiang	0	yā lù jiāng
+大腹便便	da fu bian bian	0	dà fù pián pián
+卡脖子	ka bo zi	0	qiǎ bó zi
+吱声	zhi sheng	0	zī shēng
+掺和	chan he	0	chān huo
+掺和	can huo	0	chān huo
+掺和	can he	0	chān huo
+螺蛳粉	luo shi fen	0	luó sī fěn
+调换	tiao huan	0	diào huàn
+太行山	tai xing shan	0	tài háng shān
+歇斯底里	jie si di li	0	xiē sī dǐ lǐ
+发酵	fa xiao	0	fā jiào
+酵母菌	xiao mu jun	0	jiào mǔ jūn
+酵母	xiao mu	0	jiào mǔ
+殷红	yin hong	0	yān hóng
+暖和	nuan he	0	nuǎn huo
+模棱两可	mo ling liang ke	0	mó léng liǎng kě
+鄱阳湖	bo yang hu	0	鄱(pó)阳湖
+脖颈	bo jing	0	bó gěng
+脖颈儿	bo jing er	0	bó gěng er
+牛皮癣	niu pi xian	0	niú pí xuǎn
+花斑癣	hua ban xian	0	huā bān xuǎn
+体癣	ti xian	0	tǐ xuǎn
+股癣	gu xian	0	gǔ xuǎn
+脚癣	jiao xian	0	jiǎo xuǎn
+足癣	zu xian	0	zú xuǎn
+结扎	jie zha	0	jié zā
+海参崴	hai shen wei	0	hǎi shēn wǎi
+厚朴	hou pu	0	hòu pò 
+大宛马	da wan ma	0	dà yuān mǎ
+龇牙	ci ya	0	zī yá
+龇着牙	ci zhe ya	0	zī zhe yá
+龇牙咧嘴	ci ya lie zui	0	zī yá liě zuǐ
+头皮屑	tou pi xue	0	tóu pí xiè
+六安市	liu an shi	0	lù ān shì
+六安县	liu an xian	0	lù ān xiàn
+安徽省六安市	an hui sheng liu an shi	0	ān huī shěng lù ān shì
+安徽六安市	an hui liu an shi	0	ān huī lù ān shì
+南京六合	nan jing liu he	0	nán jīng lù hé
+南京六合区	nan jing shi liu he	0	nán jīng lù hé qū
+南京市六合区	nan jing shi liu he qu	0	nán jīng shì lù hé qū
+偌大	nuo da	0	偌(ruò)大
+饮鸩止渴	yin jiu zhi ke	0	饮鸩(zhèn)止渴
+饮鸩解渴	yin jiu jie ke	0	饮鸩(zhèn)解渴
+宫商角徵羽	gong shang jiao zhi yu	0	宫商角(jué)徵羽
+氙气灯	shan qi deng	0	氙(xiān)气灯
+氙气大灯	shan qi da deng	0	氙(xiān)气大灯
+氙气手电筒	shan qi shou dian tong	0	氙(xiān)气手电筒
+应该	yin gai	0	应(yīng)该
+粘贴	nian tie	0	粘(zhān)贴
+粘一粘	nian yi nian	0	粘(zhān)
+吐蕃	tu fan	0	吐蕃(bō)
+吐谷浑	tu gu hun	0	吐谷(yù)浑
+高句丽	gao ju li	0	高句(gōu)丽
+角斗士	jiao dou shi	0	角(jué)斗士
+缩砂密	suo sha mi	0	缩(sù)砂密
+迫击炮	po ji pao	0	迫(pǎi)击炮
+封禅	feng chan	0	fēng shàn
+芫荽	yuan sui	0	yán suī
+榅桲	wen bo	0	wēn po
+荸荠	bi ji	0	bí qi
+柔荑	rou yi	0	róu tí
+柔荑花序	rou yi hua xu	0	柔荑(tí)花序
+手如柔荑	shou ru rou yi	0	手如柔荑(tí)
+温庭筠	wen ting jun	0	温庭筠(yún)
+朱祐樘	zhu you tang	0	朱祐樘(chēng)
+关卡	guan ka	0	guān qiǎ
+三昧真火	san wei zhen huo	0	三昧(mèi)真火
+青𬞟之末	qing ping zhi mo	0	青𬞟(pín)之末
+起于青𬞟之末	qi yu qing ping zhi mo	0	起于青𬞟(pín)之末
+风起于青𬞟之末	feng qi yu qing ping zhi mo	0	风起于青𬞟(pín)之末
+优惠券	you hui juan	0	优惠券(quàn)
+拱券	gong quan	0	gǒng xuàn
+哺乳	pu ru	0	bǔ rǔ
+脑卒中	nao zu zhong	0	nǎo cù zhòng
+阈值	fa zhi	0	yù zhí
+潟湖	xie hu	0	xì hú
+果脯	guo pu	0	guǒ fǔ
+肉脯	rou pu	0	ròu fǔ
+饸饹	huo luo	0	hé le
+脯氨酸	pu an suan	0	脯(fǔ)氨酸
+酪氨酸	luo an suan	0	酪(lào)氨酸
+没食子	mei shi zi	0	没(mò)食子
+裳凤蝶	shang feng die	0	裳(cháng)凤蝶
+白𬶨豚	bai qi tun	0	bái jì tún
+桡骨	nao gu	0	ráo gǔ
+百折不挠	bai zhe bu rao	0	百折不挠(náo)
+椎心泣血	zhui xin qi xie	0	椎(chuí)心泣血
+椎心泣血	zhui xin qi xue	0	椎(chuí)心泣血
+挟持	xia chi	0	挟(xié)持
+亳州	hao zhou	0	亳(bó)州
+牛丼	niu jing	0	牛丼(dǎn)
+牛丼饭	niu jing fan	0	牛丼(dǎn)饭
+安瓿	an pou	0	安瓿(bù)
+安瓿瓶	an pou ping	0	安瓿(bù)瓶
+解剖	jie pao	0	jiě pōu
+剖分	pao fen	0	pōu fēn
+剖腹产	pao fu chan	0	剖(pōu)腹产
+剖宫产	pao gong chan	0	剖(pōu)宫产
+金匮	jin kui	0	金匮(guì)
+清平乐	qing ping le	0	清平乐(yuè)
+踏莎行	ta sha xing	0	踏莎(suō)行
+莎草	sha cao	0	suō cǎo
+杉木	shan mu	0	shā mù
+苣荬菜	ju mai cai	0	qǔ mǎi cài
+李悝	li li	0	lǐ kuī
+跬步	gui bu	0	kuǐ bù
+道在屎溺	dao zai shi ni	0	道在屎溺(niào)
+暴殄天物	bao lian tian wu	0	暴殄(tiǎn)天物
+以己度人	yi ji du ren	0	以己度(duó)人
+一语成谶	yi yu cheng zhen	0	一语成谶(chèn)
+甑糕	jing gao	0	甑(zèng)糕
+着想	zhao xiang	0	着(zhuó)想
+胳肢窝	ge zhi wo	0	胳(gā)肢窝
+潏河	yu he	0	潏(jué)河
+校正	xiao zheng	0	校(jiào)正
+校对	xiao dui	0	校(jiào)对
+结束	jie su	0	结束(shù)
+自怨自艾	zi yuan zi ai	0	自怨自艾(yì)
+呱呱坠地	gua gua zhui di	0	呱(gū)呱坠地
+拗口	niu kou	0	拗(ào)口
+蚌埠	bang bu	0	蚌(bèng)埠
+秘鲁	mi lu	0	秘(bì)鲁
+炽热	zhi re	0	炽(chì)热
+裨益	pi yi	0	裨(bì)益
+刚愎自用	gang fu zi yong	0	刚愎(bì)自用
+一叶扁舟	yi ye bian zhou	0	一叶扁(piān)舟
+博闻强识	bo wen qiang shi	0	博闻强识(zhì)
+贲临	ben lin	0	贲(bì)临
+倾轧	qing zha	0	倾轧(yà)
+妊娠	ren chen	0	妊娠(shēn)
+莘莘学子	xin xin xue zi	0	莘(shēn)莘学子
+拓本	tuo ben	0	拓(tà)本
+唾手可得	chui shou ke de	0	唾(tuò)手可得
+吸吮	xi yun	0	吸吮(shǔn)
+心广体胖	xin guang ti pang	0	心广体胖(pán)
+星宿	xing su	0	星宿(xiù)
+赝品	ying pin	0	赝(yàn)品
+一曝十寒	yi bao shi han	0	一曝(pù)十寒
+粗犷	cu kuang	0	粗犷(guǎng)
+巷道	xiang dao	0	巷(hàng)道
+恫吓	tong xia	0	dòng hè
+诡谲	gui ju	0	诡谲(jué)
+游说	you shuo	0	游说(shuì)
+阴霾	yin li	0	阴霾(mái)
+噱头	ju tou	0	噱(xué)头
+商贾	shang jia	0	商贾(gǔ)
+剽悍	biao han	0	剽(piāo)悍
+淙淙	zong zong	0	淙(cóng)淙
+整饬	zheng shang	0	整饬(chì)
+捯饬	dao shang	0	捯饬(chì)
+谬论	miao lun	0	谬(miù)论
+面面相觑	mian mian xiang xu	0	面面相觑(qù)
+恪守	ge shou	0	恪(kè)守
+角逐	jiao zhu	0	角(jué)逐
+蛤蜊	ga li	0	蛤(gé)蜊
+饿殍	e fu	0	饿殍(piǎo)
+堤岸	ti an	0	堤(dī)岸
+粗糙	cu zao	0	粗糙(cāo)
+肄业	si ye	0	肄(yì)业
+瞠目结舌	tang mu jie she	0	瞠(chēng)目结舌
+谄媚	xian mei	0	谄(chǎn)媚
+不啻	bu di	0	不啻(chì)
+鞭挞	bian da	0	鞭挞(tà)
+鞭笞	bian tai	0	鞭笞(chī)
+附骨之疽	fu gu zhi qu	0	附骨之疽(jū)
+扑街	pu jie	0	仆街
+扑街	pu gai	0	仆街
+扑街仔	pu jie zai	0	仆街仔
+扑街仔	pu gai zai	0	仆街仔
+曾今	ceng jin	0	曾经
+按耐	an nai	0	按捺(nà)
+按耐不住	an nai bu zhu	0	按捺(nà)不住
+别介	bie jie	0	别价(jie)
+甭介	beng jie	0	甭价(jie)
+血脉喷张	xue mai pen zhang	0	血脉贲(bēn)张 | 血脉偾(fèn)张
+契科夫	qi ke fu	0	契诃(hē)夫
+找茬	zhao cha	0	找碴
+找茬儿	zhao cha er	0	找碴儿
+大家来找茬	da jia lai zhao cha	0	大家来找碴
+大家来找茬儿	da jia lai zhao cha er	0	大家来找碴儿
+凑活	cou huo	0	凑合(he)
+钜惠	ju hui	0	巨惠
+魔蝎座	mo xie zuo	0	摩羯(jié)座
+披萨	pi sa	0	比(bǐ)萨
+梗犬	geng quan	0	㹴犬
+油麦菜	you mai cai	0	莜麦菜

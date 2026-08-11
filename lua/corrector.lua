@@ -8,13 +8,14 @@
 	为了让这个 Lua 同时适配全拼与双拼，使用 `spelling_hints` 生成的 comment（全拼拼音）作为通用的判断条件。
 	感谢大佬@[Shewer Lu](https://github.com/shewer)提供的思路。
 
-	容错词使用 dicts/dicts_LMDG/cuoyin.dict.yaml。
-	可通过方案中的 corrector/dictionary 覆写词库路径。
+	容错词默认同时使用 LMDG 与 rime-ice 两份 YAML。
+	可通过方案中的 corrector/dictionary 和 corrector/extra_dictionary 覆写路径。
 --]]
 
 local M = {}
 
 local default_corrections_file = "dicts/dicts_LMDG/cuoyin.dict.yaml"
+local default_extra_corrections_file = "dicts/corrections_rime_ice.dict.yaml"
 
 local function normalize_path(path)
     path = path:gsub("\\", "/")
@@ -32,8 +33,7 @@ local function open_resource(relative_path)
     return file
 end
 
-local function load_corrections(corrections_file)
-    local corrections = {}
+local function load_corrections(corrections, corrections_file)
     local file = open_resource(normalize_path(corrections_file))
     if not file then
         return corrections
@@ -69,7 +69,13 @@ function M.init(env)
         or '{comment}'
     local corrections_file = config:get_string(env.name_space .. '/dictionary')
         or default_corrections_file
-    M.corrections = load_corrections(corrections_file)
+    local extra_corrections_file = config:get_string(env.name_space .. '/extra_dictionary')
+        or default_extra_corrections_file
+    M.corrections = {}
+    load_corrections(M.corrections, corrections_file)
+    if extra_corrections_file ~= corrections_file then
+        load_corrections(M.corrections, extra_corrections_file)
+    end
 end
 
 function M.func(input, env)

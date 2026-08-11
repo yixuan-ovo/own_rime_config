@@ -7,7 +7,7 @@
 以下上游项目使用 GNU GPL v3，其衍生配置和脚本按相应 GPL 条款分发：
 
 - [Mintimate/oh-my-rime](https://github.com/Mintimate/oh-my-rime)：本项目的初始配置骨架、薄荷方案、英文子方案和部分 Lua 功能。
-- [iDvel/rime-ice](https://github.com/iDvel/rime-ice)：英文词库、腾讯扩展词库、Emoji/OpenCC 数据、符号和多项 Lua 功能。上游标注为 `GPL-3.0-only`。
+- [iDvel/rime-ice](https://github.com/iDvel/rime-ice)：英文词库、补充纠错数据、Emoji/OpenCC 数据、符号和多项 Lua 功能。上游标注为 `GPL-3.0-only`。
 - [gaboolic/rime-frost](https://github.com/gaboolic/rime-frost)：`dicts/cn_dicts_cell/`、`rime_frost_aux.*`、`lua/aux_lookup_filter.lua` 和墨奇辅助码相关资料。
 - [mirtlecn/rime-radical-pinyin](https://github.com/mirtlecn/rime-radical-pinyin)：部件拆字方案和字典。当前上游仓库标注为 GPL-3.0；本仓库中带有更具体历史许可声明的文件继续遵循其文件头声明。
 
@@ -28,7 +28,7 @@ GPL v3 官方全文：<https://www.gnu.org/licenses/gpl-3.0.html>
 
 - `radical_pinyin_flypy.schema.yaml` 等历史副本的文件头标注为 CC BY-SA 4.0；这些更具体的文件级声明优先适用于对应副本。
 - `lua/log.lua`、`lua/select_character.lua`、`lua/unicode.lua`、`lua/auxCode_filter.lua` 等文件包含各自作者、来源或许可说明，使用时应继续保留。
-- `dicts/tencent.dict.yaml` 的原始数据来源和整理者记录在文件头中；除本仓库许可外，还应遵守原始数据提供方适用的使用条款。
+- `dicts/corrections_rime_ice.dict.yaml` 由 `scripts/update_rime_ice_corrections.py` 从 rime-ice 的 `lua/corrector.lua` 机械生成，更新时应继续保留来源和 GPL-3.0-only 声明。
 
 ## 未随仓库分发的模型
 

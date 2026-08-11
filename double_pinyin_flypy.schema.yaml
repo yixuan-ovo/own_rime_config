@@ -130,6 +130,7 @@ codeLengthLimit_processor: 28
 # Lua 配置：错音错字提示
 corrector:
   dictionary: dicts/dicts_LMDG/cuoyin.dict.yaml
+  extra_dictionary: dicts/corrections_rime_ice.dict.yaml
   style: "{comment}"
 
 
@@ -181,7 +182,7 @@ reduce_english_filter:
   wag, wand, womens, wap, wax, weir, won,
   yan, yen]
   
-# Lua 配置: 日期、时间、星期、ISO 8601、时间戳、月份的触发关键字（rime-ice 风格）
+# Lua 配置: 日期、时间、星期、ISO 8601、时间戳、月份及中英文日期的触发关键字
 date_translator:
   date: rq       # 日期： 2022-11-29
   time: sj       # 时间： 18:13
@@ -189,6 +190,8 @@ date_translator:
   datetime: dt   # ISO 8601： 2022-11-29T18:13:11+08:00
   timestamp: ts  # 时间戳： 1669716794
   month: yf      # 月份： January / Jan
+  datezh: rqzh   # 中文日期： 二〇二六年八月十一日
+  dateen: rqen   # 英文日期： 11 August 2026
 
 # Lua 配置：农历的触发关键字和模板
 lunar: lunar  # 农历：输入 lunar 获取当前日期农历，输入 N20240115 公历转农历

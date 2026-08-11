@@ -2,9 +2,13 @@ patch:
   # 语言模型
   "grammar/language": wanxiang-lts-zh-hans
   "grammar/collocation_max_length": 6
-  "grammar/collocation_min_length": 2
+  "grammar/collocation_min_length": 3
+  "grammar/collocation_penalty": -14
+  "grammar/non_collocation_penalty": -6
+  "grammar/weak_collocation_penalty": -100
+  "grammar/rear_penalty": -20
 
   # translator 内加载
-  "translator/contextual_suggestions": true
+  "translator/contextual_suggestions": false
   "translator/max_homophones": 8
   "translator/max_homographs": 8

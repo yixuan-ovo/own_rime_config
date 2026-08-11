@@ -8,19 +8,15 @@ use_preset_vocabulary: false
 import_tables:
   - dicts/custom_simple          # 自定义
 
-  # 本地词库（按重要性排列）
-  # 纠错类（最优先）
-  - dicts/dicts_LMDG/cuoyin                                # 错音错字对照表（最优先，用于纠错）
-  # 基础保障类
+  # 核心词库（候选主要按权重排序，此处顺序用于组织和同权重兜底）
   - dicts/dicts_LMDG/zi                                    # 单字基础保障
   - dicts/dicts_LMDG/jichu                                 # 常用词，主干词库
-  # 优化类
   - dicts/dicts_LMDG/duoyin                                # 多音字兼容优化
   - dicts/dicts_LMDG/mixed
-  # 联想类
+  - dicts/dicts_LMDG/cuoyin                                # LMDG 错音错字候选与提示
+  - dicts/corrections_rime_ice                             # rime-ice 补充纠错候选与提示
   - dicts/dicts_LMDG/lianxiang                             # 五字及以上长词联想（靠后）
 
-  - dicts/tencent                # ✅ 腾讯词向量扩展（已去重，位置靠后）
   - dicts/other_kaomoji          # 颜文字表情（按`VV`呼出)
   
   # 文化类
@@ -29,9 +25,11 @@ import_tables:
   - dicts/dicts_LMDG/renming                               # 人名词库（专有名词，靠后）
   - dicts/dicts_LMDG/diming                                # 地名/行政区划（专有名词，靠后）
   # 专业领域词库（靠后）
+  - dicts/dicts_LMDG/huaxue                                # 化学词库
+  - dicts/dicts_LMDG/yaopin                                # 药品词库
+  - dicts/dicts_LMDG/yixue                                 # 医学词库
   - dicts/dicts_LMDG/wuzhong                               # 物种词库（专业领域，靠后）
   - dicts/dicts_LMDG/dikuang                               # 地质矿物词库（专业领域，靠后）
-  - dicts/dicts_LMDG/wu-hua-sheng-yi-yao                   # 物化生医药词库（专业领域，靠后）
 
   # 细胞词库（按使用频率和重要性排列）
   # 日常常用词库（优先）

@@ -7,7 +7,7 @@
 |oh-my-rime / 薄荷输入法|小鹤双拼、地球拼音、英文子方案、基础配置与 Weasel 界面骨架|
 |RIME-LMDG / 万象|带声调中文词库、词频、语法模型和带调预编辑|
 |rime-frost / 白霜拼音|细胞词库、白霜单字辅码和句中任意位置辅助码|
-|rime-ice / 雾凇拼音|英文与腾讯扩展词库、Emoji、符号以及多项 Lua 工具|
+|rime-ice / 雾凇拼音|英文词库、补充纠错数据、Emoji、符号以及多项 Lua 工具|
 
 ## 整合的功能
 
@@ -19,7 +19,7 @@
    - `pin_cand_filter.lua` - 置顶候选项
    - `long_word_filter.lua` - 长词优先（提升「西安」「提案」等词汇的优先级）
    - `v_filter.lua` - v 模式符号优先
-   - `date_translator.lua` - 日期时间输入（rime-ice 风格，触发关键字：`rq`, `sj`, `xq`, `dt`, `ts`）
+   - `date_translator.lua` - 日期时间输入（触发关键字：`rq`, `sj`, `xq`, `dt`, `ts`, `yf`, `rqzh`, `rqen`）
    - `lunar.lua` + `lunar.db` - 农历输入（触发关键字：`lunar`，公历转农历：`N20240115`，支持自定义输出格式）
 
 2. **符号输入系统升级**
@@ -89,11 +89,11 @@
 |lua/pin_cand_filter.lua|置顶候选项|自定义候选项置顶规则，提升常用词优先级|
 |lua/long_word_filter.lua|长词优先|提升「西安」「提案」等长词优先级|
 |lua/v_filter.lua|v 模式符号优先|优化 v 模式符号输入体验|
-|lua/date_translator.lua|日期时间翻译器|rime-ice 风格，触发：`rq`(日期)、`sj`(时间)、`xq`(星期)、`dt`(ISO 8601)、`ts`(时间戳)、`yf`(月份)|
+|lua/date_translator.lua|日期时间翻译器|触发：`rq`(日期)、`sj`(时间)、`xq`(星期)、`dt`(ISO 8601)、`ts`(时间戳)、`yf`(月份)、`rqzh`(中文日期)、`rqen`(英文日期)|
 |lua/lunar.lua|农历翻译器|输入 `lunar` 获取当前日期农历，输入 `N20240115` 公历转农历，支持星期和节气显示|
 |lua/number_translator.lua|数字金额翻译器|输入 `R1234.56` 转换为中文大写金额|
 |lua/mint_calculator_translator.lua|计算器|输入 `=1+2*3` 进行计算|
-|lua/corrector.lua|错音错字提示|读取 `dicts/dicts_LMDG/cuoyin.dict.yaml`，显示正确读音或写法|
+|lua/corrector.lua|错音错字提示|同时读取 LMDG 与 rime-ice 两份纠错 YAML，显示正确读音或写法|
 |lua/super_preedit.lua|全拼音调显示|实时显示带声调的全拼拼音|
 |lua/autocap_filter.lua|英文自动大写|自动识别需要大写的英文单词|
 |lua/reduce_english_filter.lua|降低英文优先级|降低部分英文单词在候选项的位置|
@@ -142,8 +142,8 @@
 
 ## 词库相关
 1. `rime_mint.dict.yaml` 修改词库，采用雾凇 `en_dicts`、白霜 `cn_dicts_cell`、万象模型和 `dicts_LMDG`
-2. 优化词库加载顺序，按重要性分类排列（纠错类 > 基础保障类 > 优化类 > 联想类 > 文化类 > 专有名词类 > 专业领域类）
-3. 去重腾讯字库并导入（位置靠后，用于扩展联想）
+2. 按来源与用途整理词库引用；候选主要按词条权重排序，引用顺序用于组织和同权重兜底
+3. 删除与 LMDG、细胞词库高度重合的腾讯词库，减少部署体积和重复候选
 
 ## 输入方案相关
 4. 删除不需要的输入法，只保留小鹤双拼-月七改和地球拼音-月七改
@@ -247,7 +247,7 @@ dicts/
 ├── custom_simple.dict.yaml          # 自定义词库（用户自行维护，不会被覆盖）
 │
 ├── dicts_LMDG/                      # 万象词库目录（RIME-LMDG）
-│   ├── cuoyin.dict.yaml            # 错音错字对照表（最优先，用于纠错）
+│   ├── cuoyin.dict.yaml            # LMDG 错音错字对照表
 │   ├── zi.dict.yaml                # 单字基础保障
 │   ├── jichu.dict.yaml             # 常用词，主干词库
 │   ├── duoyin.dict.yaml            # 多音字兼容优化
@@ -256,9 +256,11 @@ dicts/
 │   ├── shici.dict.yaml             # 诗词/成语/典故类
 │   ├── renming.dict.yaml           # 人名词库（专有名词）
 │   ├── diming.dict.yaml            # 地名/行政区划（专有名词）
+│   ├── huaxue.dict.yaml            # 化学词库
+│   ├── yaopin.dict.yaml            # 药品词库
+│   ├── yixue.dict.yaml             # 医学词库
 │   ├── wuzhong.dict.yaml           # 物种词库（专业领域）
-│   ├── dikuang.dict.yaml           # 地质矿物词库（专业领域）
-│   └── wu-hua-sheng-yi-yao.dict.yaml  # 物化生医药词库（专业领域）
+│   └── dikuang.dict.yaml           # 地质矿物词库（本项目保留）
 │
 ├── cn_dicts_cell/                   # 细胞词库（细分类词库）
 │   ├── food.dict.yaml              # 食品（日常高频）
@@ -291,26 +293,26 @@ dicts/
 │   ├── cn_en_flypy.txt             # 中英混输（小鹤双拼风格）映射表
 │   └── cn_en.txt                   # 中英混输（全拼风格）映射表
 │
-├── tencent.dict.yaml                # 腾讯词向量扩展（已去重，位置靠后）
+├── corrections_rime_ice.dict.yaml   # 从 rime-ice 纠错规则生成的补充词库
 └── other_kaomoji.dict.yaml         # 颜文字表情词库（Kaomoji，按 `VV` 呼出）
 ```
 
 ### 词库更新说明
 
-1. **万象词库更新**：可以下载万象仓库 `dicts/dicts_LMDG` 内的文件，除了 `custom_simple.dict.yaml` 外，其他文件都可以覆盖替换。
+1. **万象词库更新**：同步 RIME-LMDG 中本项目已经引用的同名文件；`custom_simple.dict.yaml` 和本项目保留的 `dikuang.dict.yaml` 不应被覆盖或删除。
 
 2. **自定义词库**：`dicts/custom_simple.dict.yaml` 是用户自定义词库，不会被自动更新覆盖，可以在此文件中添加个人常用词汇。
 
-3. **词库优先级**：词库的加载顺序影响候选项的优先级，在 `rime_mint.dict.yaml` 中，越靠前的词库优先级越高。
+3. **词库优先级**：`sort: by_weight` 时候选主要按词条权重排序；引用顺序主要影响同权重候选和重复定义的兜底顺序，并不等同于全局优先级。
 
 4. **词库分类说明**：
-   - **纠错类**：`cuoyin` - 最优先，用于自动纠错
+   - **纠错类**：`cuoyin`、`corrections_rime_ice` - 生成错音候选并显示纠错提示
    - **基础保障类**：`zi`、`jichu` - 单字和常用词，保证基本输入需求
    - **优化类**：`duoyin` - 多音字兼容，提升输入准确率
    - **联想类**：`lianxiang` - 长词联想，提升输入效率
    - **文化类**：`shici` - 诗词成语，丰富表达
    - **专有名词类**：`renming`、`diming` - 人名地名，靠后加载
-   - **专业领域类**：各类专业词汇，按需加载
+   - **专业领域类**：`huaxue`、`yaopin`、`yixue`、`wuzhong`、`dikuang` 等
 
 如果想自己扩展词库，可以在输入法的字典配置文件内进行导入，比如字典配置文件[rime_mint.dict.yaml](rime_mint.dict.yaml)内：
 
@@ -318,19 +320,15 @@ dicts/
 import_tables:
   - dicts/custom_simple          # 自定义
 
-  # 本地词库（按重要性排列）
-  # 纠错类（最优先）
-  - dicts/dicts_LMDG/cuoyin                                # 错音错字对照表（最优先，用于纠错）
-  # 基础保障类
+  # 核心词库
   - dicts/dicts_LMDG/zi                                    # 单字基础保障
   - dicts/dicts_LMDG/jichu                                 # 常用词，主干词库
-  # 优化类
   - dicts/dicts_LMDG/duoyin                                # 多音字兼容优化
   - dicts/dicts_LMDG/mixed                                 # 中英、数字等混合词条
-  # 联想类
+  - dicts/dicts_LMDG/cuoyin                                # LMDG 纠错
+  - dicts/corrections_rime_ice                             # rime-ice 补充纠错
   - dicts/dicts_LMDG/lianxiang                             # 五字及以上长词联想（靠后）
 
-  - dicts/tencent                # ✅ 腾讯词向量扩展（已去重，位置靠后）
   - dicts/other_kaomoji          # 颜文字表情（按`VV`呼出)
   
   # 文化类
@@ -339,9 +337,11 @@ import_tables:
   - dicts/dicts_LMDG/renming                               # 人名词库（专有名词，靠后）
   - dicts/dicts_LMDG/diming                                # 地名/行政区划（专有名词，靠后）
   # 专业领域词库（靠后）
+  - dicts/dicts_LMDG/huaxue                                # 化学词库
+  - dicts/dicts_LMDG/yaopin                                # 药品词库
+  - dicts/dicts_LMDG/yixue                                 # 医学词库
   - dicts/dicts_LMDG/wuzhong                               # 物种词库（专业领域，靠后）
   - dicts/dicts_LMDG/dikuang                               # 地质矿物词库（专业领域，靠后）
-  - dicts/dicts_LMDG/wu-hua-sheng-yi-yao                   # 物化生医药词库（专业领域，靠后）
 
   # 细胞词库（按使用频率和重要性排列）
   # 日常常用词库（优先）
