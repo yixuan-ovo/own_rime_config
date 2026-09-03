@@ -8057,6 +8057,7 @@ sort: by_weight
 隊	duì	430
 対	duì	409
 镦	duī	370
+㨃	duǐ	361
 頧	duǐ	351
 兌	duì	271
 鐜	duī	216
@@ -8075,7 +8076,6 @@ sort: by_weight
 痽	duī	23
 譵	duì	23
 濧	duì	23
-㨃	duǐ	1
 瀩	duì	1
 㳔	duì	1
 譈	duì	1
@@ -17316,8 +17316,8 @@ sort: by_weight
 麖	jīng	278
 䴖	jīng	272
 經	jīng	267
+靓	jìng	266
 経	jīng	262
-靜	jìng	256
 淨	jìng	248
 驚	jīng	246
 鏡	jìng	226
@@ -17327,8 +17327,8 @@ sort: by_weight
 瀞	jìng	185
 逕	jìng	170
 浄	jìng	169
-靓	jìng	166
 徑	jìng	160
+靜	jìng	156
 頸	jǐng	141
 凈	jìng	132
 璄	jǐng	126
@@ -23955,6 +23955,7 @@ sort: by_weight
 釯	máng	38
 哤	máng	38
 蛖	máng	23
+𬲹	māng	3
 硥	mǎng	1
 浝	máng	1
 𩷶	máng	1
@@ -28571,6 +28572,7 @@ sort: by_weight
 器	qì	19132
 齐	qí	11441
 起	qǐ	10868
+骑	qí	9749
 祁	qí	1946
 期	qī	933
 戚	qī	926
@@ -28580,7 +28582,6 @@ sort: by_weight
 启	qǐ	811
 弃	qì	799
 旗	qí	767
-骑	qí	749
 棋	qí	746
 欺	qī	727
 歧	qí	645
@@ -33629,11 +33630,11 @@ sort: by_weight
 綬	shòu	164
 涭	shòu	160
 垨	shǒu	159
+扌	shǒu	7
 㥅	shòu	1
 𠈅	shōu	1
 𣒻	shòu	1
 嘼	shòu	1
-扌	shǒu	1
 敊	shōu	1
 醻	shòu	1
 龵	shǒu	1
@@ -37735,6 +37736,9 @@ sort: by_weight
 微	wēi	9971
 维	wéi	5132
 围	wéi	4875
+尾	wěi	4776
+胃	wèi	3765
+喂	wèi	2719
 威	wēi	938
 危	wēi	924
 谓	wèi	911
@@ -37742,13 +37746,10 @@ sort: by_weight
 委	wěi	864
 卫	wèi	820
 违	wéi	779
-尾	wěi	776
 伟	wěi	775
-胃	wèi	765
 伪	wěi	764
 魏	wèi	754
 慰	wèi	754
-喂	wèi	719
 薇	wēi	709
 畏	wèi	690
 纬	wěi	682
@@ -40280,11 +40281,11 @@ sort: by_weight
 𪂼	xiāng	1
 𣚺	xiàng	1
 小	xiǎo	305330
-效	xiào	3542
+笑	xiào	39452
+效	xiào	13542
 消	xiāo	3305
 校	xiào	3238
 销	xiāo	2582
-笑	xiào	2452
 晓	xiǎo	781
 肖	xiào	741
 孝	xiào	703
@@ -41025,6 +41026,7 @@ sort: by_weight
 𬒘	xìn	1
 行	xíng	92900
 性	xìng	91042
+姓	xìng	55964
 型	xíng	46384
 星	xīng	8167
 形	xíng	8116
@@ -41033,7 +41035,6 @@ sort: by_weight
 兴	xìng	1069
 醒	xǐng	1015
 刑	xíng	985
-姓	xìng	964
 杏	xìng	823
 腥	xīng	771
 省	xǐng	600
@@ -43003,6 +43004,8 @@ sort: by_weight
 咉	yāng	33
 玚	yáng	29
 详	yáng	25
+䱀	yāng	4
+𫚐	yāng	3
 懩	yǎng	1
 雵	yāng	1
 慃	yǎng	1
@@ -43050,7 +43053,6 @@ sort: by_weight
 䬺	yàng	1
 䭐	yàng	1
 䭥	yàng	1
-䱀	yāng	1
 䵮	yàng	1
 𠍵	yàng	1
 𠢴	yǎng	1
@@ -43501,6 +43503,7 @@ sort: by_weight
 鎁	yé	23
 瞸	yè	23
 驜	yè	23
+𬲼	yè	3
 曗	yè	1
 漜	yě	1
 枽	yè	1
@@ -43746,6 +43749,7 @@ sort: by_weight
 疙	yì	28
 匜	yí	22
 椅	yī	21
+異	yì	17
 螠	yì	16
 燚	yì	1
 镱	yì	1
@@ -43793,7 +43797,6 @@ sort: by_weight
 駅	yì	1
 譯	yì	1
 藝	yì	1
-異	yì	1
 鮨	yì	1
 遺	yí	1
 憶	yì	1
@@ -46266,6 +46269,7 @@ sort: by_weight
 园	yuán	3489
 愿	yuàn	3314
 圆	yuán	1188
+媛	yuán	1120
 援	yuán	747
 怨	yuàn	742
 苑	yuàn	729
@@ -46323,7 +46327,6 @@ sort: by_weight
 轅	yuán	133
 鋺	yuǎn	133
 圜	yuán	124
-媛	yuán	120
 猨	yuán	115
 囦	yuān	111
 謜	yuán	106
@@ -48623,6 +48626,7 @@ sort: by_weight
 指	zhǐ	11860
 之	zhī	11267
 直	zhí	10721
+纸	zhǐ	5896
 质	zhì	4100
 制	zhì	3895
 至	zhì	3700
@@ -48635,7 +48639,6 @@ sort: by_weight
 志	zhì	1305
 织	zhī	902
 执	zhí	901
-纸	zhǐ	896
 植	zhí	847
 址	zhǐ	744
 脂	zhī	728

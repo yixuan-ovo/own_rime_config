@@ -6,7 +6,7 @@
 # Columns: candidate, mistyped reading, weight, correction comment.
 ---
 name: corrections_rime_ice
-version: "2026.08.02"
+version: "2026.09.03"
 sort: by_weight
 ...
 主角	zhu jiao	0	zhǔ jué
@@ -96,6 +96,10 @@ sort: by_weight
 应该	yin gai	0	应(yīng)该
 粘贴	nian tie	0	粘(zhān)贴
 粘一粘	nian yi nian	0	粘(zhān)
+神荼	shen tu	0	神荼(shū)
+郁垒	yu lei	0	郁垒(lǜ)
+神荼郁垒	shen tu yu lei	0	神荼(shū)郁垒(lǜ)
+郁垒神荼	yu lei shen tu	0	郁垒(lǜ)神荼(shū)
 吐蕃	tu fan	0	吐蕃(bō)
 吐谷浑	tu gu hun	0	吐谷(yù)浑
 高句丽	gao ju li	0	高句(gōu)丽
