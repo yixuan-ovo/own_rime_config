@@ -9,6 +9,11 @@
 |rime-frost / 白霜拼音|细胞词库、白霜单字辅码和句中任意位置辅助码|
 |rime-ice / 雾凇拼音|英文词库、补充纠错数据、Emoji、符号以及多项 Lua 工具|
 
+## 上游维护记录
+
+- [2026-09-03：上游对比、更新与部署验证](docs/upstream-updates/2026-09-03.md)：更新现有 LMDG、白霜细胞词库、雾凇英文/纠错/Emoji；适配薄荷的注释修复。保留小鹤双拼习惯、语法模型、词库引用顺序和个人配置。
+- 更新按文件来源选择性同步，不把任意一个上游整套覆盖到本项目。模型及实际用户目录中的 `*.userdb`、`sync/` 不属于词库更新内容。
+
 ## 整合的功能
 
 ### 从 rime-ice 整合的功能
@@ -165,6 +170,7 @@
 16. 优化快捷键配置，支持更多便捷操作
 
 # 3. 可忽略的部署提示
+
 ![](ihjmerr.png)
 
 ```
@@ -175,6 +181,10 @@ optional resource not loaded: symbols.custom
 不影响输入法功能，可以忽略，或者添加空的 `symbols.custom.yaml` 来去除提示。
 
 例如：`patch: {}`。`terra_pinyin_all.custom.yaml` 已经存在，不再属于这一问题。
+
+雾凇 `en_ext` 与 `en` 保留了一些有意重叠的英文词条和权重，完整重编译英文词库时可能出现 `duplicate word definition`。上游明确允许这种重叠，不必为消除提示删词；英文引用仍保持 `en_ext` 在前、`en` 在后。
+
+`Encode failure` 则不能一概忽略。英文主词库的 `use_preset_vocabulary` 应为 `false`，避免把中文预设词汇送进英文编码器。2026-09-03 已修复该旧配置，并消除了拆字方案自引用引起的循环依赖提示。
 
 ---
 
@@ -313,6 +323,22 @@ dicts/
    - **文化类**：`shici` - 诗词成语，丰富表达
    - **专有名词类**：`renming`、`diming` - 人名地名，靠后加载
    - **专业领域类**：`huaxue`、`yaopin`、`yixue`、`wuzhong`、`dikuang` 等
+
+### 补充纠错的维护
+
+`dicts/corrections_rime_ice.dict.yaml` 是生成文件，不手工维护。先更新 LMDG 的 `cuoyin.dict.yaml`，再从固定版本的雾凇 `lua/corrector.lua` 重新生成：
+
+```powershell
+python scripts/update_rime_ice_corrections.py `
+  --source C:/path/to/rime-ice/lua/corrector.lua `
+  --output dicts/corrections_rime_ice.dict.yaml `
+  --exclude dicts/dicts_LMDG/cuoyin.dict.yaml `
+  --version 2026.09.03
+```
+
+`--version` 填本次同步日期，并在维护记录中保存上游 commit。生成器排除与 LMDG **文字和编码完全相同**的规则；带调和无调编码仍可能并存，这是候选入口兼容，不是提示引擎重复执行。
+
+两份纠错 YAML 仍同时导入主词库、同时被 `corrector.lua` 读取。提示匹配兼容声调和分隔符，且只处理主拼音候选。两个主方案都先运行 `super_preedit`，再运行 `corrector`，不要调换顺序：前者使用原始拼音生成预编辑，后者显示纠错、隐藏普通拼音注释，并保留 Unicode 等功能的说明。
 
 如果想自己扩展词库，可以在输入法的字典配置文件内进行导入，比如字典配置文件[rime_mint.dict.yaml](rime_mint.dict.yaml)内：
 
