@@ -2,7 +2,7 @@
 name: melt_eng         # 注意name和文件名一致
 version: "2026.02.03"
 sort: by_weight
-use_preset_vocabulary: true
+use_preset_vocabulary: false  # 英文词库不加载中文 essay，避免无编码词条的 Encode failure
 # 此处为 输入法所用到的词库，既补充拓展词库的地方
 import_tables:
   - dicts/en_dicts/en_ext   # 雾凇拼音-英文扩展
