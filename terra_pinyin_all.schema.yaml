@@ -69,8 +69,8 @@ engine:
     - script_translator
     - lua_translator@*force_gc                           # 暴力GC，尝试解决小狼毫长期使用的卡顿
   filters:
-    - lua_filter@*corrector               # 错音错字提示
-    - lua_filter@*super_preedit                  # 输入码显示全拼并带上音调
+    - lua_filter@*super_preedit        # 先使用原始拼音注释生成带调预编辑
+    - lua_filter@*corrector            # 再显示纠错/隐藏拼音注释，保留其他翻译器注释
     - lua_filter@*autocap_filter           # 英文自动大写
     - lua_filter@*v_filter                    # v 模式 symbols 优先（顺序要求：v_filter > Emoji）
     - lua_filter@*pin_cand_filter             # 置顶候选项（顺序要求：置顶候选项 > Emoji > 简繁切换）
@@ -274,7 +274,8 @@ speller:
 translator:
   dictionary: terra_pinyin_all
   initial_quality: 1.2
-  spelling_hints: 3  # ～字以內候選標註完整帶調拼音
+  spelling_hints: 8  # 与小鹤一致，支持长词纠错及带调预编辑
+  always_show_comments: true  # 拼音注释先供 Lua 使用，再由 corrector 决定是否显示
   preedit_format:
     - xform/([nl])v/$1ü/
     - xform/([nl])ue/$1üe/

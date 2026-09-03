@@ -3,6 +3,8 @@
 -- @modify: Mintimate
 -- 修改内容: ① 兼容纠错
 
+local pinyin_types = { phrase = true, sentence = true, user_phrase = true }
+
 local function modify_preedit_filter(input, env)
     local config = env.engine.schema.config
     local delimiter = config:get_string('speller/delimiter') or " '"
@@ -39,10 +41,15 @@ local function modify_preedit_filter(input, env)
             goto continue
         end
 
-        -- 如果 tone_display 关闭，不显示任何编码和拼音，只显示纯候选项汉字
+        -- 非主翻译器的注释不是拼音，不能用日期/Unicode 说明改写预编辑。
+        if not pinyin_types[cand.type] then
+            yield(cand)
+            goto continue
+        end
+
+        -- 仅控制预编辑；注释由后续 corrector 处理，避免擦掉纠错提示。
         if not is_tone_display then
             genuine_cand.preedit = ""
-            genuine_cand.comment = ""
             yield(genuine_cand)
             goto continue
         end

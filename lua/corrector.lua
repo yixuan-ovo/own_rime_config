@@ -17,6 +17,34 @@ local M = {}
 local default_corrections_file = "dicts/dicts_LMDG/cuoyin.dict.yaml"
 local default_extra_corrections_file = "dicts/corrections_rime_ice.dict.yaml"
 
+-- 借鉴 oh-my-rime 8e7ea62：统一带调/无调拼音及分隔符，但仍按候选文字匹配。
+local tone_map = {
+    ["ā"] = "a", ["á"] = "a", ["ǎ"] = "a", ["à"] = "a",
+    ["ō"] = "o", ["ó"] = "o", ["ǒ"] = "o", ["ò"] = "o",
+    ["ē"] = "e", ["é"] = "e", ["ě"] = "e", ["è"] = "e",
+    ["ī"] = "i", ["í"] = "i", ["ǐ"] = "i", ["ì"] = "i",
+    ["ū"] = "u", ["ú"] = "u", ["ǔ"] = "u", ["ù"] = "u",
+    ["ǖ"] = "v", ["ǘ"] = "v", ["ǚ"] = "v", ["ǜ"] = "v", ["ü"] = "v",
+    ["ń"] = "n", ["ň"] = "n", ["ǹ"] = "n", ["ḿ"] = "m",
+}
+
+local function compact_code(code)
+    return (code:gsub(utf8.charpattern, function(char)
+        return tone_map[char] or char
+    end):gsub("[ '`1-5]", ""))
+end
+
+local pinyin_types = { phrase = true, sentence = true, user_phrase = true }
+
+local function append_correction(corrections, code, item)
+    local items = corrections[code]
+    if items then
+        items[#items + 1] = item
+    else
+        corrections[code] = { item }
+    end
+end
+
 local function normalize_path(path)
     path = path:gsub("\\", "/")
     if path:sub(1, 1) ~= "/" then
@@ -33,7 +61,7 @@ local function open_resource(relative_path)
     return file
 end
 
-local function load_corrections(corrections, corrections_file)
+local function load_corrections(corrections, compact_corrections, corrections_file)
     local file = open_resource(normalize_path(corrections_file))
     if not file then
         return corrections
@@ -42,13 +70,9 @@ local function load_corrections(corrections, corrections_file)
     for line in file:lines() do
         local text, code, comment = line:match("^([^\t#][^\t]*)\t([^\t]+)\t[^\t]*\t(.+)$")
         if text and code and comment then
-            local items = corrections[code]
             local item = { text = text, comment = comment }
-            if items then
-                items[#items + 1] = item
-            else
-                corrections[code] = { item }
-            end
+            append_correction(corrections, code, item)
+            append_correction(compact_corrections, compact_code(code), item)
         end
     end
 
@@ -64,48 +88,53 @@ function M.init(env)
     if delimiter and #delimiter > 0 and delimiter:sub(1,1) ~= ' ' then
         env.delimiter = delimiter:sub(1,1)
     end
-    M.style = config:get_string(env.name_space .. '/style')
+    env.style = config:get_string(env.name_space .. '/style')
         or config:get_string(env.name_space)
         or '{comment}'
     local corrections_file = config:get_string(env.name_space .. '/dictionary')
         or default_corrections_file
     local extra_corrections_file = config:get_string(env.name_space .. '/extra_dictionary')
         or default_extra_corrections_file
-    M.corrections = {}
-    load_corrections(M.corrections, corrections_file)
+    env.corrections = {}
+    env.compact_corrections = {}
+    load_corrections(env.corrections, env.compact_corrections, corrections_file)
     if extra_corrections_file ~= corrections_file then
-        load_corrections(M.corrections, extra_corrections_file)
+        load_corrections(env.corrections, env.compact_corrections, extra_corrections_file)
+    end
+end
+
+local function find_comment(corrections, text)
+    for i = #(corrections or {}), 1, -1 do
+        if corrections[i].text == text then
+            return corrections[i].comment
+        end
     end
 end
 
 function M.func(input, env)
     for cand in input:iter() do
-        -- cand.comment 是目前输入的词汇的完整拼音
-        local pinyin = cand.comment:match("^［(.-)］$") or cand.comment
-        if pinyin and #pinyin > 0 then
+        -- 日期、Unicode、反查、英文等翻译器的注释不是 spelling_hints。
+        if pinyin_types[cand.type] then
+            local genuine = cand:get_genuine()
+            local pinyin = cand.comment or ""
+            pinyin = pinyin:match("^［(.-)］$") or pinyin
             local correction_pinyin = pinyin
             if env.delimiter then
-                correction_pinyin = correction_pinyin:gsub(env.delimiter,' ')
+                correction_pinyin = correction_pinyin:gsub(env.delimiter, ' ')
             end
-            local corrections = M.corrections[correction_pinyin]
-            local correction_comment
-            if corrections then
-                for i = #corrections, 1, -1 do
-                    local c = corrections[i]
-                    if cand.text == c.text then
-                        correction_comment = c.comment
-                        break
-                    end
-                end
+            local correction_comment = find_comment(env.corrections[correction_pinyin], cand.text)
+                or find_comment(env.compact_corrections[compact_code(correction_pinyin)], cand.text)
+            -- 全拼注释可能被 Rime 隐藏；预编辑已由 super_preedit 转为拼音。
+            if not correction_comment then
+                correction_comment = find_comment(
+                    env.compact_corrections[compact_code(genuine.preedit or "")], cand.text)
             end
             if correction_comment then
-                cand:get_genuine().comment = string.gsub(M.style, "{comment}", correction_comment)
+                genuine.comment = env.style:gsub("{comment}", function() return correction_comment end)
+            elseif env.keep_comment then
+                genuine.comment = env.style:gsub("{comment}", function() return pinyin end)
             else
-                if env.keep_comment then
-                    cand:get_genuine().comment = string.gsub(M.style, "{comment}", pinyin)
-                else
-                    cand:get_genuine().comment = ""
-                end
+                genuine.comment = ""
             end
         end
         yield(cand)

@@ -79,8 +79,8 @@ engine:
     - lua_translator@*unicode                           # Unicode 字符输入，如 U62fc 得到「拼」
     - lua_translator@*force_gc                           # 暴力GC，尝试解决小狼毫长期使用的卡顿
   filters:
-    - lua_filter@*corrector            # 错音错字提示
-    - lua_filter@*super_preedit               # 输入码显示全拼并带上音调
+    - lua_filter@*super_preedit        # 先使用原始拼音注释生成带调预编辑
+    - lua_filter@*corrector            # 再显示纠错/隐藏拼音注释，保留其他翻译器注释
     - lua_filter@*autocap_filter              # 英文自动大写
     - lua_filter@*v_filter                    # v 模式 symbols 优先（顺序要求：v_filter > Emoji）
     - lua_filter@*pin_cand_filter             # 置顶候选项（顺序要求：置顶候选项 > Emoji > 简繁切换）
